@@ -1,0 +1,8 @@
+# dependecies
+/node_modules
+
+# typescript
+*.tsbuildinfo
+
+# marketplace config validator
+/tools/marketplace-config-validator/schema.*
