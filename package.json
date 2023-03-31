@@ -3,6 +3,10 @@
 	"version": "1.0.0",
 	"private": false,
 	"license": "MIT",
+	"engines": {
+		"node": "18",
+		"npm": "8"
+	},
 	"devDependencies": {
 		"eslint": "^8.37.0",
 		"eslint-plugin-jsonc": "^2.7.0",
