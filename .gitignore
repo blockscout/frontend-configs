@@ -1,8 +1,7 @@
 # dependecies
 /node_modules
 
-# typescript
+# artifacts
 *.tsbuildinfo
-
-# marketplace config validator
+.eslintcache
 /tools/marketplace-config-validator/schema.*
