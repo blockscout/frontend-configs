@@ -1,0 +1,7 @@
+# dependecies
+/node_modules
+
+# artifacts
+*.tsbuildinfo
+.eslintcache
+/tools/marketplace-config-validator/schema.*

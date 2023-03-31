@@ -1,0 +1,5 @@
+# dependecies
+/node_modules
+
+# artifacts
+/tools/marketplace-config-validator/schema.*

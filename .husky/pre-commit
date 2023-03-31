@@ -1,0 +1,12 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+# lint js/ts files + format with prettier
+echo 🧿 Running file linter and formatter...
+npx lint-staged --concurrent false
+
+# validate configs
+echo 🧿 Running marketplace config validator...
+./tools/marketplace-config-validator/script.sh
+
+echo ✅ All pre-commit jobs are done
