@@ -6,9 +6,18 @@
 	"devDependencies": {
 		"eslint": "^8.37.0",
 		"eslint-plugin-jsonc": "^2.7.0",
+		"husky": "^8.0.3",
+		"lint-staged": "^13.2.0",
 		"prettier": "2.8.7",
 		"ts-to-zod": "^3.0.0",
 		"typescript": "^5.0.3",
 		"zod": "^3.21.4"
+	},
+	"scripts": {
+		"prepare": "husky install"
+	},
+	"lint-staged": {
+		"*.{js,ts}": "eslint --cache --fix",
+		"*.{js,ts,json}": "prettier --write"
 	}
 }
