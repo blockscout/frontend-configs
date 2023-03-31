@@ -1,13 +1,14 @@
 {
-  "name": "blockscout_frontend-configs",
-  "version": "1.0.0",
-  "private": false,
-  "license": "MIT",
-  "devDependencies": {
-    "eslint": "^8.37.0",
-    "eslint-plugin-jsonc": "^2.7.0",
-    "ts-to-zod": "^3.0.0",
-    "typescript": "^5.0.3",
-    "zod": "^3.21.4"
-  }
+	"name": "blockscout_frontend-configs",
+	"version": "1.0.0",
+	"private": false,
+	"license": "MIT",
+	"devDependencies": {
+		"eslint": "^8.37.0",
+		"eslint-plugin-jsonc": "^2.7.0",
+		"prettier": "2.8.7",
+		"ts-to-zod": "^3.0.0",
+		"typescript": "^5.0.3",
+		"zod": "^3.21.4"
+	}
 }
