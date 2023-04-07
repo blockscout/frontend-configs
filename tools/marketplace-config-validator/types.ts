@@ -1,16 +1,14 @@
 export type MarketplaceCategoriesIds =
-	| 'all'
-	| 'favorites'
+	| 'infra & dev tooling'
 	| 'defi'
-	| 'exchanges'
-	| 'finance'
-	| 'games'
-	| 'marketplaces'
+	| 'data'
+	| 'bridge'
 	| 'nft'
-	| 'security'
-	| 'social'
-	| 'tools'
-	| 'yieldFarming'
+	| 'payments'
+	| 'faucet'
+	| 'dao'
+	| 'games'
+	| 'wallet'
 
 export type MarketplaceCategory = { id: MarketplaceCategoriesIds; name: string }
 
