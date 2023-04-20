@@ -4,5 +4,10 @@ module.exports = {
 		browser: true,
 		node: true,
 	},
-	extends: ['eslint:recommended', 'plugin:jsonc/recommended-with-json'],
+	extends: [
+		'eslint:recommended',
+		'plugin:jsonc/recommended-with-json',
+		'plugin:@typescript-eslint/eslint-recommended',
+		'plugin:@typescript-eslint/recommended',
+	],
 }
