@@ -1,7 +1,7 @@
 const { appItemOverviewSchema } = require('./schema.js')
 
-var fs = require('fs')
-var path = require('path')
+const fs = require('fs')
+const path = require('path')
 
 function readFiles(dirname, onFileContent, onError) {
 	fs.readdir(dirname, function (err, filenames) {
