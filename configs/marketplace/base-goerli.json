@@ -12,18 +12,6 @@
 		"external": true
 	},
 	{
-		"author": "Aave",
-		"id": "aave",
-		"title": "Aave",
-		"logo": "https://www.gitbook.com/cdn-cgi/image/width=32,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FxVr4QpRAlyhTrqmt9KPb%252FPlaceholder.png%3Falt%3Dmedia%26token%3D3c1c5532-a0e5-4e79-b36e-4466a0fffbf6",
-		"categories": ["DeFi"],
-		"shortDescription": "Aave is a decentralised non-custodial liquidity market protocol where users can participate as suppliers or borrowers.",
-		"site": "https://app.aave.com/",
-		"description": "Aave is a decentralised non-custodial liquidity market protocol where users can participate as suppliers or borrowers.",
-		"url": "https://app.aave.com/",
-		"external": true
-	},
-	{
 		"author": "Flipside",
 		"id": "flipside",
 		"title": "Flipside",
@@ -270,9 +258,9 @@
 		"logo": "https://www.gitbook.com/cdn-cgi/image/width=32,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FxVr4QpRAlyhTrqmt9KPb%252FPlaceholder.png%3Falt%3Dmedia%26token%3D3c1c5532-a0e5-4e79-b36e-4466a0fffbf6",
 		"categories": ["NFT"],
 		"shortDescription": "A blockchain-based strategy game set in space, featuring NFT assets and in-game rewards.",
-		"site": "https://linktr.ee/spacebelters",
+		"site": "https://www.tiamat.digital/",
 		"description": "A blockchain-based strategy game set in space, featuring NFT assets and in-game rewards.",
-		"url": "https://linktr.ee/spacebelters",
+		"url": "https://www.tiamat.digital/",
 		"external": true
 	},
 	{
@@ -294,9 +282,9 @@
 		"logo": "https://www.gitbook.com/cdn-cgi/image/width=32,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FxVr4QpRAlyhTrqmt9KPb%252FPlaceholder.png%3Falt%3Dmedia%26token%3D3c1c5532-a0e5-4e79-b36e-4466a0fffbf6",
 		"categories": ["Infra & Dev tooling"],
 		"shortDescription": "A cross-chain communication protocol, enabling seamless interaction between different blockchain networks.",
-		"site": "layerzero.network",
+		"site": "https://layerzero.network/",
 		"description": "A cross-chain communication protocol, enabling seamless interaction between different blockchain networks.",
-		"url": "layerzero.network",
+		"url": "https://layerzero.network/",
 		"external": true
 	},
 	{
@@ -306,9 +294,9 @@
 		"logo": "https://www.gitbook.com/cdn-cgi/image/width=32,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FxVr4QpRAlyhTrqmt9KPb%252FPlaceholder.png%3Falt%3Dmedia%26token%3D3c1c5532-a0e5-4e79-b36e-4466a0fffbf6",
 		"categories": ["Payments"],
 		"shortDescription": "Suberra is a full-stack payments gateway that allows businesses to accept payments from anywhere for anything.",
-		"site": "suberra.com",
+		"site": "https://suberra.com/",
 		"description": "Suberra is a full-stack payments gateway that allows businesses to accept payments from anywhere for anything.",
-		"url": "suberra.com",
+		"url": "https://suberra.com/",
 		"external": true
 	},
 	{
@@ -318,9 +306,9 @@
 		"logo": "https://www.gitbook.com/cdn-cgi/image/width=32,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FxVr4QpRAlyhTrqmt9KPb%252FPlaceholder.png%3Falt%3Dmedia%26token%3D3c1c5532-a0e5-4e79-b36e-4466a0fffbf6",
 		"categories": ["Infra & Dev tooling"],
 		"shortDescription": "Lava Network is a trustless market for blockchain Remote Procedure Calls (RPC).",
-		"site": "lavanet.xyz",
+		"site": "https://www.lavanet.xyz/",
 		"description": "Lava Network is a trustless market for blockchain Remote Procedure Calls (RPC).",
-		"url": "lavanet.xyz",
+		"url": "https://www.lavanet.xyz/",
 		"external": true
 	},
 	{
@@ -330,9 +318,9 @@
 		"logo": "https://www.gitbook.com/cdn-cgi/image/width=32,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FxVr4QpRAlyhTrqmt9KPb%252FPlaceholder.png%3Falt%3Dmedia%26token%3D3c1c5532-a0e5-4e79-b36e-4466a0fffbf6",
 		"categories": ["Infra & Dev tooling"],
 		"shortDescription": "Automata Network is the privacy middleware layer building for a fair Web3.",
-		"site": "ata.network",
+		"site": "https://www.ata.network/",
 		"description": "Automata Network is the privacy middleware layer building for a fair Web3.",
-		"url": "ata.network",
+		"url": "https://www.ata.network/",
 		"external": true
 	},
 	{
@@ -366,9 +354,9 @@
 		"logo": "https://www.gitbook.com/cdn-cgi/image/width=32,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FxVr4QpRAlyhTrqmt9KPb%252FPlaceholder.png%3Falt%3Dmedia%26token%3D3c1c5532-a0e5-4e79-b36e-4466a0fffbf6",
 		"categories": ["Infra & Dev tooling"],
 		"shortDescription": "A decentralized platform for launching and investing in new blockchain projects through token offerings.",
-		"site": "launchifi.xyz",
+		"site": "https://launchifi.xyz/",
 		"description": "A decentralized platform for launching and investing in new blockchain projects through token offerings.",
-		"url": "launchifi.xyz",
+		"url": "https://launchifi.xyz/",
 		"external": true
 	},
 	{
@@ -378,9 +366,9 @@
 		"logo": "https://www.gitbook.com/cdn-cgi/image/width=32,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FxVr4QpRAlyhTrqmt9KPb%252FPlaceholder.png%3Falt%3Dmedia%26token%3D3c1c5532-a0e5-4e79-b36e-4466a0fffbf6",
 		"categories": ["DAO"],
 		"shortDescription": "A platform for creating and managing decentralized autonomous organizations (DAOs) and their governance processes.",
-		"site": "guild.xyz/our-guild",
+		"site": "https://guild.xyz/our-guild",
 		"description": "A platform for creating and managing decentralized autonomous organizations (DAOs) and their governance processes.",
-		"url": "guild.xyz/our-guild",
+		"url": "https://guild.xyz/our-guild",
 		"external": true
 	},
 	{
@@ -402,9 +390,9 @@
 		"logo": "https://www.gitbook.com/cdn-cgi/image/width=32,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FxVr4QpRAlyhTrqmt9KPb%252FPlaceholder.png%3Falt%3Dmedia%26token%3D3c1c5532-a0e5-4e79-b36e-4466a0fffbf6",
 		"categories": ["Infra & Dev tooling"],
 		"shortDescription": "Thirdweb is a platform for creating decentralized applications that allows developers to build on top of multiple blockchain networks.",
-		"site": "thirdweb.com",
+		"site": "https://thirdweb.com/",
 		"description": "Thirdweb is a platform for creating decentralized applications that allows developers to build on top of multiple blockchain networks.",
-		"url": "thirdweb.com",
+		"url": "https://thirdweb.com/",
 		"external": true
 	},
 	{
@@ -429,7 +417,7 @@
 		"site": "https://wallet.coinbase.com/",
 		"description": "Coinbase Wallet is a non-custodial cryptocurrency wallet that allows users to store, send, and receive various cryptocurrencies.",
 		"url": "https://wallet.coinbase.com/",
-		"external": false
+		"external": true
 	},
 	{
 		"author": "Rainbow Wallet",
