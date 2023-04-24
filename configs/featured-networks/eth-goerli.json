@@ -1,0 +1,98 @@
+[
+	{
+		"title": "Ethereum",
+		"url": "https://blockscout.com/eth/mainnet",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg"
+	},
+	{
+		"title": "Ethereum Classic",
+		"url": "https://blockscout.com/etc/mainnet",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum-classic.svg"
+	},
+	{
+		"title": "Gnosis Chain",
+		"url": "https://blockscout.com/xdai/mainnet",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/gnosis.svg"
+	},
+	{
+		"title": "Astar (EVM)",
+		"url": "https://blockscout.com/astar",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/astar.svg"
+	},
+	{
+		"title": "Shiden (EVM)",
+		"url": "https://blockscout.com/shiden",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/shiden.svg"
+	},
+	{
+		"title": "Goerli",
+		"url": "https://eth-goerli.blockscout.com/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/goerli.svg",
+		"isActive": true
+	},
+	{
+		"title": "Optimism Goerli",
+		"url": "https://blockscout.com/optimism/mainnet/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg"
+	},
+	{
+		"title": "Optimism Goerli",
+		"url": "https://blockscout.com/optimism/goerli/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg"
+	},
+	{
+		"title": "Optimism Bedrock Beta",
+		"url": "https://blockscout.com/optimism/bedrock-beta",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/goerli.svg"
+	},
+	{
+		"title": "Gnosis Chiado",
+		"url": "https://blockscout.com/gnosis/chiado/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/goerli.svg"
+	},
+	{
+		"title": "Shibuya (EVM)",
+		"url": "https://blockscout.com/shibuya",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/shibuya.svg"
+	},
+	{
+		"title": "Optimism Opcraft",
+		"url": "https://blockscout.com/optimism/opcraft",
+		"group": "Other"
+	},
+	{
+		"title": "ARTIS-Σ1",
+		"url": "https://blockscout.com/artis/sigma1",
+		"group": "Other",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/artis.svg"
+	},
+	{
+		"title": "LUKSO L14",
+		"url": "https://blockscout.com/lukso/l14",
+		"group": "Other",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/lukso.svg"
+	},
+	{
+		"title": "POA",
+		"url": "https://blockscout.com/poa/core",
+		"group": "Other",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/poa.svg"
+	},
+	{
+		"title": "POA Sokol",
+		"url": "https://blockscout.com/poa/sokol",
+		"group": "Other",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/poa-sokol.svg"
+	}
+]

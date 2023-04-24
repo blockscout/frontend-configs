@@ -1,0 +1,15 @@
+[
+	{
+		"title": "Göerli",
+		"url": "https://eth-goerli.blockscout.com/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/goerli.svg"
+	},
+	{
+		"title": "Base Göerli",
+		"url": "https://base-goerli.blockscout.com/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/base.svg",
+		"isActive": true
+	}
+]
