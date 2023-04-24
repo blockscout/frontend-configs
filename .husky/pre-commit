@@ -4,6 +4,7 @@
 # lint js/ts files + format with prettier
 echo 🧿 Running file linter and formatter...
 npx lint-staged --concurrent false
+echo ''
 
 # validate configs
 echo 🧿 Running marketplace config validator...
