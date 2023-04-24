@@ -5,3 +5,6 @@
 *.tsbuildinfo
 .eslintcache
 /tools/marketplace-config-validator/schema.*
+
+# misc
+.DS_Store
