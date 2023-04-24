@@ -51,14 +51,12 @@
 	{
 		"title": "Optimism Bedrock Beta",
 		"url": "https://blockscout.com/optimism/bedrock-beta",
-		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/goerli.svg"
+		"group": "Testnets"
 	},
 	{
 		"title": "Gnosis Chiado",
 		"url": "https://blockscout.com/gnosis/chiado/",
-		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/goerli.svg"
+		"group": "Testnets"
 	},
 	{
 		"title": "Shibuya (EVM)",
