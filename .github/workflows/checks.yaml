@@ -29,3 +29,6 @@ jobs:
 
       - name: Validate marketplace config schema
         run: './tools/marketplace-config-validator/script.sh'
+
+      - name: Validate featured networks config schema
+        run: './tools/featured-networks-config-validator/script.sh'
