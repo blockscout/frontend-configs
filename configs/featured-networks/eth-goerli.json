@@ -34,7 +34,8 @@
 		"url": "https://eth-goerli.blockscout.com/",
 		"group": "Testnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/goerli.svg",
-		"isActive": true
+		"isActive": true,
+		"invertIconInDarkMode": true
 	},
 	{
 		"title": "Optimism Goerli",
@@ -46,8 +47,7 @@
 		"title": "Optimism Goerli",
 		"url": "https://blockscout.com/optimism/goerli/",
 		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg",
-		"invertIconInDarkMode": true
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg"
 	},
 	{
 		"title": "Optimism Bedrock Beta",
