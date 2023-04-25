@@ -3,7 +3,8 @@
 		"title": "Göerli",
 		"url": "https://eth-goerli.blockscout.com/",
 		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/goerli.svg"
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/goerli.svg",
+		"invertIconInDarkMode": true
 	},
 	{
 		"title": "Base Göerli",
