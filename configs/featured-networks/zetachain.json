@@ -8,13 +8,13 @@
       "title":"Athens Testnet",
       "url":"https://explorer.zetachain.com/",
       "group":"Testnets",
-      "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/base.svg",
+      "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zetachain.svg",
       "isActive":true
    },
    {
       "title":"Athens 2 Testnet",
       "url":"https://zetachain-athens-2.blockscout.com/",
       "group":"Testnets",
-      "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/base.svg"
+      "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zetachain.svg"
    }
 ]
