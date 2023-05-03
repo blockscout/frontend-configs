@@ -2,20 +2,17 @@
    {
       "title":"Mainnet (soon)",
       "url":"https://www.zetachain.com/",
-      "group":"mainnets",
-      "type":"zeta_mainnet"
+      "group":"Mainnets"
    },
    {
       "title":"Athens Testnet",
       "url":"https://explorer.zetachain.com/",
-      "group":"testnets",
-      "type":"athens_testnet",
+      "group":"Testnets",
       "isActive":true
    },
    {
       "title":"Athens 2 Testnet",
       "url":"https://zetachain-athens-2.blockscout.com/",
-      "group":"testnets",
-      "type":"athens2_testnet"
+      "group":"Testnets"
    }
 ]
