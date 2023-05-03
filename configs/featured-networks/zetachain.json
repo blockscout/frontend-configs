@@ -17,6 +17,6 @@
       "group":"Testnets",
       "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zetachain.svg",
       "invertIconInDarkMode": true,
-      "isActive":true,
+      "isActive":true
    }
 ]
