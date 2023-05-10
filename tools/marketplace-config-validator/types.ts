@@ -17,6 +17,7 @@ export type AppItemPreview = {
 	external?: boolean
 	title: string
 	logo: string
+	logoDarkMode?: string
 	shortDescription: string
 	categories: Array<MarketplaceCategoriesIds>
 	url: string
