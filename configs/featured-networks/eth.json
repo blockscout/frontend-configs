@@ -3,7 +3,7 @@
 		"title": "Ethereum",
 		"url": "https://blockscout.com/eth/mainnet",
 		"group": "Mainnets",
-    "isActive": true,
+		"isActive": true,
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg"
 	},
 	{
@@ -52,12 +52,14 @@
 	{
 		"title": "Optimism Bedrock Beta",
 		"url": "https://blockscout.com/optimism/bedrock-beta",
-		"group": "Testnets"
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg"
 	},
 	{
 		"title": "Gnosis Chiado",
 		"url": "https://blockscout.com/gnosis/chiado/",
-		"group": "Testnets"
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/gnosis_chiado.svg"
 	},
 	{
 		"title": "Shibuya (EVM)",
@@ -69,7 +71,8 @@
 	{
 		"title": "Optimism Opcraft",
 		"url": "https://blockscout.com/optimism/opcraft",
-		"group": "Other"
+		"group": "Other",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism_opcraft.svg"
 	},
 	{
 		"title": "ARTIS-Σ1",
