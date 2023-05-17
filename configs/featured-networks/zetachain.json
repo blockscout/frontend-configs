@@ -5,14 +5,14 @@
       "group":"Mainnets"
    },
    {
-      "title":"Athens Testnet",
+      "title":"Official testnet explorer",
       "url":"https://explorer.zetachain.com/",
       "group":"Testnets",
       "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zetachain.svg",
       "invertIconInDarkMode": true
    },
    {
-      "title":"Athens 2 Testnet",
+      "title":"Blockscout testnet explorer",
       "url":"https://zetachain-athens-2.blockscout.com/",
       "group":"Testnets",
       "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zetachain.svg",
