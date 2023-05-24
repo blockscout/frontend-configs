@@ -1,0 +1,17 @@
+[
+   {
+      "title":"Phoenix Mainnet",
+      "url":"https://phoenix.lightlink.blockscout.com/",
+      "group":"Mainnets",
+      "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/blob/main/configs/network-icons/lightlink-short.svg",
+     "invertIconInDarkMode": true
+   },
+   {
+      "title":"Pegasus Testnet",
+      "url":"https://pegasus.lightlink.blockscout.com/",
+      "group":"Testnets",
+      "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/blob/main/configs/network-icons/lightlink-short.svg",
+      "invertIconInDarkMode": true,
+      "isActive":true
+   }
+]
