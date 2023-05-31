@@ -32,3 +32,6 @@ jobs:
 
       - name: Validate featured networks config schema
         run: './tools/featured-networks-config-validator/script.sh'
+
+      - name: Validate footer links config schema
+        run: './tools/footer-links-config-validator/script.sh'
