@@ -89,7 +89,7 @@
 	},
 	{
 		"title": "Neon Devnet",
-		"url": "https://neonscan.org/",
+		"url": "https://devnet.neon.blockscout.com/",
 		"group": "Testnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/neon-short.svg"
 	},
