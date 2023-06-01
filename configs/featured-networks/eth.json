@@ -1,10 +1,27 @@
-[
-	{
+[{
 		"title": "Ethereum",
 		"url": "https://blockscout.com/eth/mainnet",
 		"group": "Mainnets",
 		"isActive": true,
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg"
+	},
+	{
+		"title": "Optimism",
+		"url": "https://blockscout.com/optimism/mainnet/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg"
+	},
+	{
+		"title": "RSK",
+		"url": "https://blockscout.com/rsk/mainnet",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/rsk.svg"
+	},
+	{
+		"title": "LightLink Phoenix",
+		"url": "https://phoenix.lightlink.blockscout.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/lightlink-short.svg"
 	},
 	{
 		"title": "Ethereum Classic",
@@ -38,10 +55,11 @@
 		"invertIconInDarkMode": true
 	},
 	{
-		"title": "Optimism Goerli",
-		"url": "https://blockscout.com/optimism/mainnet/",
-		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg"
+		"title": "Base Göerli",
+		"url": "https://base-goerli.blockscout.com/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/base.svg",
+		"invertIconInDarkMode": true
 	},
 	{
 		"title": "Optimism Goerli",
@@ -54,6 +72,26 @@
 		"url": "https://blockscout.com/optimism/bedrock-beta",
 		"group": "Testnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg"
+	},
+	{
+		"title": "ZetaChain testnet",
+		"url": "https://zetachain-athens-2.blockscout.com/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zetachain.svg",
+		"invertIconInDarkMode": true
+	},
+	{
+		"title": "LightLink Pegasus",
+		"url": "https://pegasus.lightlink.blockscout.com/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/lightlink-short.svg",
+		"invertIconInDarkMode": true
+	},
+	{
+		"title": "Neon Devnet",
+		"url": "https://neonscan.org/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/neon-short.svg"
 	},
 	{
 		"title": "Gnosis Chiado",
