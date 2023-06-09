@@ -1,0 +1,29 @@
+[
+  {
+		"title": "Mainnet (soon)",
+		"url": "https://www.zetachain.com/",
+		"group": "Mainnets"
+	},
+	{
+		"title": "Official testnet explorer",
+		"url": "https://explorer.zetachain.com/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zetachain.svg",
+		"invertIconInDarkMode": true
+	},
+	{
+		"title": "Blockscout Athens-2 Explorer",
+		"url": "https://zetachain-athens-2.blockscout.com/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zetachain.svg",
+		"invertIconInDarkMode": true
+	},
+	{
+		"title": "Blockscout Athens-3 Explorer",
+		"url": "https://zetachain-athens-3.blockscout.com/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zetachain.svg",
+		"invertIconInDarkMode": true,
+		"isActive": true
+	}
+]
