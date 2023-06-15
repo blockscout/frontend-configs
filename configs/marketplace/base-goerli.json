@@ -132,6 +132,7 @@
       "id":"goerli-faucet",
       "title":"Goerli Faucet",
       "logo":"https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/goerli_faucet_light.png",
+      "logoDarkMode":"https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/goerli_faucet_dark.png",
       "categories":[
          "Faucet"
       ],
