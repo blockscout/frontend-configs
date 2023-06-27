@@ -1,7 +1,7 @@
 [
    {
       "title":"Neon Shadow Mainnet",
-      "url":"https://shadow.mainnet.neon.blockscout.com/",
+      "url":"https://neon-shadow-mainnet.blockscout.com/",
       "group":"Mainnets",
       "isActive":true,
       "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/neon-short.svg",
@@ -9,7 +9,7 @@
    },
    {
       "title":"Neon Devnet",
-      "url":"https://devnet.neon.blockscout.com/",
+      "url":"https://neon-devnet.blockscout.com/",
       "group":"Testnets",
       "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/neon-short.svg",
       "invertIconInDarkMode": true
