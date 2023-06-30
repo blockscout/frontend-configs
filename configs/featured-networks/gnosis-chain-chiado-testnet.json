@@ -1,0 +1,14 @@
+[{
+		"title": "Gnosis Chain",
+		"url": "https://blockscout.com/xdai/mainnet",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/gnosis.svg"
+	},
+	{
+		"title": "Gnosis Chain Chiado",
+		"url": "https://blockscout.com/gnosis/chiado",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/gnosis_chiado.svg",
+		"isActive": true
+	}
+]
