@@ -1,0 +1,13 @@
+[{
+	"author": "Gnosis Chain",
+	"id": "gnosis faucet",
+	"title": "Gnosis faucet",
+	"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-logos/gnosis.svg",
+	"categories": [
+		"Faucet"
+	],
+	"shortDescription": "A crypto faucet is a tool that distributes small amounts of tokens to perform transactions on a blockchain network. The Gnosis Chain xDAI faucet distributes xDAI to new users so that they may have enough gas to complete a few transactions and interact with applications on Gnosis Chain.",
+	"site": "https://gnosisfaucet.com/",
+	"description": "A crypto faucet is a tool that distributes small amounts of tokens to perform transactions on a blockchain network. The Gnosis Chain xDAI faucet distributes xDAI to new users so that they may have enough gas to complete a few transactions and interact with applications on Gnosis Chain.",
+	"external": false
+}]
