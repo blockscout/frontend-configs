@@ -28,11 +28,11 @@
 		"title": "Symmetric",
 		"logo": "https://www.gitbook.com/cdn-cgi/image/width=32,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FxVr4QpRAlyhTrqmt9KPb%252FPlaceholder.png%3Falt%3Dmedia%26token%3D3c1c5532-a0e5-4e79-b36e-4466a0fffbf6",
 		"categories": ["DeFi"],
-		"shortDescription": "Symmetric is an Automated Market Maker (AMM) and a Decentralized Exchange (DEX), running on the Celo and Gnosis networks. Symmetric’s includes further development of use-cases (such as a launchpad, crypto index funds, crypto ETFs & ESG funds) and support for more networks in the future.",
-		"site": "https://symmetric.finance/index.html",
-		"description": "Symmetric is an Automated Market Maker (AMM) and a Decentralized Exchange (DEX), running on the Celo and Gnosis networks. Symmetric’s includes further development of use-cases (such as a launchpad, crypto index funds, crypto ETFs & ESG funds) and support for more networks in the future.",
+		"shortDescription": "Symmetric is an Automated Market Maker (AMM) and a Decentralized Exchange (DEX), running on the Gnosis network.",
+		"site": "https://symmetric.finance/",
+		"description": "Symmetric is an Automated Market Maker (AMM) and a Decentralized Exchange (DEX), running on the Gnosis network.",
 		"external": false,
-		"url": "https://gnosis.symm.fi/#/"
+		"url": "https://gnosis.symm.fi/"
 	},
 	{
 		"author": "xDai Bridge",
@@ -40,9 +40,9 @@
 		"title": "xDai Bridge",
 		"logo": "https://www.gitbook.com/cdn-cgi/image/width=32,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FxVr4QpRAlyhTrqmt9KPb%252FPlaceholder.png%3Falt%3Dmedia%26token%3D3c1c5532-a0e5-4e79-b36e-4466a0fffbf6",
 		"categories": ["Bridge"],
-		"shortDescription": "xDai Bridge is the official bridge dedicated to transferring Dai from Ethereum into xDai on Gnosis Chain. It uses a set of trusted validators to confirm deposits for a Lock-Mint swap.",
+		"shortDescription": "xDai Bridge is the official bridge dedicated to transferring Dai from Ethereum into xDai on Gnosis Chain.",
 		"site": "https://bridge.gnosischain.com/",
-		"description": "xDai Bridge is the official bridge dedicated to transferring Dai from Ethereum into xDai on Gnosis Chain. It uses a set of trusted validators to confirm deposits for a Lock-Mint swap.",
+		"description": "xDai Bridge is the official bridge dedicated to transferring Dai from Ethereum into xDai on Gnosis Chain.",
 		"external": false,
 		"url": "https://bridge.gnosischain.com/"
 	},
@@ -52,10 +52,10 @@
 		"title": "Omni Bridge",
 		"logo": "https://www.gitbook.com/cdn-cgi/image/width=32,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FxVr4QpRAlyhTrqmt9KPb%252FPlaceholder.png%3Falt%3Dmedia%26token%3D3c1c5532-a0e5-4e79-b36e-4466a0fffbf6",
 		"categories": ["Bridge"],
-		"shortDescription": "Omni Bridge is the official bridge of Gnosis Chain. It uses a set of trusted validators to confirm deposits for a Lock-Mint swap.",
+		"shortDescription": "Omni Bridge is the official multitoken bridge of Gnosis Chain.",
 		"site": "https://omni.gnosischain.com/bridge",
-		"description": "Omni Bridge is the official bridge of Gnosis Chain. It uses a set of trusted validators to confirm deposits for a Lock-Mint swap.",
-		"external": false,
+		"description": "Omni Bridge is the official multitoken bridge of Gnosis Chain.",
+		"external": true,
 		"url": "https://omni.gnosischain.com/bridge"
 	},
 	{
@@ -63,10 +63,10 @@
 		"id": "curve",
 		"title": "Curve",
 		"logo": "https://www.gitbook.com/cdn-cgi/image/width=32,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FxVr4QpRAlyhTrqmt9KPb%252FPlaceholder.png%3Falt%3Dmedia%26token%3D3c1c5532-a0e5-4e79-b36e-4466a0fffbf6",
-		"categories": ["Infra & Dev tooling"],
-		"shortDescription": "Curve is a popular automated market maker (AMM) platform that offers a highly efficient way to exchange tokens while maintaining low fees and low slippage by only accommodating liquidity pools made up of similarly behaving assets.",
+		"categories": ["DeFi"],
+		"shortDescription": "Creating deep on-chain liquidity using advanced bonding curves",
 		"site": "https://xdai.curve.fi/",
-		"description": "Curve is a popular automated market maker (AMM) platform that offers a highly efficient way to exchange tokens while maintaining low fees and low slippage by only accommodating liquidity pools made up of similarly behaving assets.",
+		"description": "Creating deep on-chain liquidity using advanced bonding curves",
 		"external": false,
 		"url": "https://xdai.curve.fi/"
 	},
@@ -75,55 +75,43 @@
 		"id": "honeyswap",
 		"title": "HoneySwap",
 		"logo": "https://www.gitbook.com/cdn-cgi/image/width=32,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FxVr4QpRAlyhTrqmt9KPb%252FPlaceholder.png%3Falt%3Dmedia%26token%3D3c1c5532-a0e5-4e79-b36e-4466a0fffbf6",
-		"categories": ["Infra & Dev tooling"],
+		"categories": ["DeFi"],
 		"shortDescription": "HoneySwap Exchange is a decentralised exchange deployed on the xDai chain.",
 		"site": "https://honeyswap.org/",
 		"description": "HoneySwap Exchange is a decentralised exchange deployed on the xDai chain.",
-		"external": false,
+		"external": true,
 		"url": "https://honeyswap.1hive.eth.limo//#/swap"
 	},
 	{
-		"author": "Sushi",
-		"id": "sushi",
-		"title": "Sushi",
+		"author": "SushiSwap",
+		"id": "sushiswap",
+		"title": "SushiSwap",
 		"logo": "https://www.gitbook.com/cdn-cgi/image/width=32,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FxVr4QpRAlyhTrqmt9KPb%252FPlaceholder.png%3Falt%3Dmedia%26token%3D3c1c5532-a0e5-4e79-b36e-4466a0fffbf6",
 		"categories": ["Infra & Dev tooling"],
-		"shortDescription": "SushiSwap is a blockchain protocol running on Ethereum that seeks to incentivize a network of users to operate a platform where users can buy and sell crypto assets.",
-		"site": "https://app.sushi.com/swap",
-		"description": "SushiSwap is a blockchain protocol running on Ethereum that seeks to incentivize a network of users to operate a platform where users can buy and sell crypto assets.",
+		"shortDescription": "Cross-chain Dex",
+		"site": "https://www.sushi.com/",
+		"description": "Cross-chain Dex",
 		"external": false,
 		"url": "https://app.sushi.com/swap"
 	},
 	{
-		"author": "Bao",
-		"id": "bao",
-		"title": "Bao",
+		"author": "BaoSwap",
+		"id": "baoswap",
+		"title": "BaoSwap",
 		"logo": "https://www.gitbook.com/cdn-cgi/image/width=32,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FxVr4QpRAlyhTrqmt9KPb%252FPlaceholder.png%3Falt%3Dmedia%26token%3D3c1c5532-a0e5-4e79-b36e-4466a0fffbf6",
-		"categories": ["Infra & Dev tooling"],
-		"shortDescription": "Stake Sushiswap and Baoswap LP tokens to earn BAO!",
+		"categories": ["DeFi"],
+		"shortDescription": "Bao is creating a multinetwork suite of applications that will provide services to DeFi users.",
 		"site": "https://farms.baoswap.xyz/?ref=0x64631b5d259eAD889E8B06D12C8B74742804E5F1",
-		"description": "Stake Sushiswap and Baoswap LP tokens to earn BAO!",
+		"description": "Bao is creating a multinetwork suite of applications that will provide services to DeFi users.",
 		"external": false,
-		"url": "https://farms.baoswap.xyz/?ref=0x64631b5d259eAD889E8B06D12C8B74742804E5F1"
-	},
-	{
-		"author": "Component",
-		"id": "component",
-		"title": "Component",
-		"logo": "https://www.gitbook.com/cdn-cgi/image/width=32,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FxVr4QpRAlyhTrqmt9KPb%252FPlaceholder.png%3Falt%3Dmedia%26token%3D3c1c5532-a0e5-4e79-b36e-4466a0fffbf6",
-		"categories": ["Infra & Dev tooling"],
-		"shortDescription": "Component aims to provide flexible pool settings suitable for any token project, freedom of pools creation, and fair community protocol governance token distribution.",
-		"site": "https://xdai.component.finance/",
-		"description": "Component aims to provide flexible pool settings suitable for any token project, freedom of pools creation, and fair community protocol governance token distribution.",
-		"external": false,
-		"url": "https://xdai.component.finance/"
+		"url": "https://www.baoswap.xyz"
 	},
 	{
 		"author": "PoolTogether",
 		"id": "pooltogether",
 		"title": "PoolTogether",
 		"logo": "https://www.gitbook.com/cdn-cgi/image/width=32,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FxVr4QpRAlyhTrqmt9KPb%252FPlaceholder.png%3Falt%3Dmedia%26token%3D3c1c5532-a0e5-4e79-b36e-4466a0fffbf6",
-		"categories": ["Infra & Dev tooling"],
+		"categories": ["DeFi"],
 		"shortDescription": "PoolTogether is a prize savings protocol, enabling you to win by saving.",
 		"site": "https://community.pooltogether.com/pools/xdai",
 		"description": "PoolTogether is a prize savings protocol, enabling you to win by saving.",
@@ -131,27 +119,15 @@
 		"url": "https://community.pooltogether.com/pools/xdai"
 	},
 	{
-		"author": "Omen",
-		"id": "omen",
-		"title": "Omen",
-		"logo": "https://www.gitbook.com/cdn-cgi/image/width=32,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FxVr4QpRAlyhTrqmt9KPb%252FPlaceholder.png%3Falt%3Dmedia%26token%3D3c1c5532-a0e5-4e79-b36e-4466a0fffbf6",
-		"categories": ["Infra & Dev tooling"],
-		"shortDescription": "Omen is a fully decentralized multi-chain prediction market platform built on the Gnosis conditional token framework.",
-		"site": "https://xdai.omen.eth.link/",
-		"description": "Omen is a fully decentralized multi-chain prediction market platform built on the Gnosis conditional token framework.",
-		"external": false,
-		"url": "https://xdai.omen.eth.link/"
-	},
-	{
 		"author": "Swapr",
 		"id": "swapr",
 		"title": "Swapr",
 		"logo": "https://www.gitbook.com/cdn-cgi/image/width=32,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FxVr4QpRAlyhTrqmt9KPb%252FPlaceholder.png%3Falt%3Dmedia%26token%3D3c1c5532-a0e5-4e79-b36e-4466a0fffbf6",
-		"categories": ["Infra & Dev tooling"],
+		"categories": ["DeFi"],
 		"shortDescription": "A governance-enabled automated market maker with adjustable fees.",
 		"site": "https://swapr.eth.limo/#/swap?chainId=100",
 		"description": "A governance-enabled automated market maker with adjustable fees.",
-		"external": false,
+		"external": true,
 		"url": "https://swapr.eth.limo/#/swap?chainId=100"
 	},
 	{
@@ -175,20 +151,8 @@
 		"shortDescription": "Nifty Ink is a platform to convert your digital drawings into limited-edition NFTs.",
 		"site": "https://nifty.ink/",
 		"description": "Nifty Ink is a platform to convert your digital drawings into limited-edition NFTs.",
-		"external": false,
+		"external": true,
 		"url": "https://nifty.ink/"
-	},
-	{
-		"author": "Cargo",
-		"id": "cargo",
-		"title": "Cargo",
-		"logo": "https://www.gitbook.com/cdn-cgi/image/width=32,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FxVr4QpRAlyhTrqmt9KPb%252FPlaceholder.png%3Falt%3Dmedia%26token%3D3c1c5532-a0e5-4e79-b36e-4466a0fffbf6",
-		"categories": ["NFT"],
-		"shortDescription": "A view function that returns the creator address. The creator is initially set to the wallet address which deployed the smart contract via Cargo. burn(tokenId).",
-		"site": "https://cargo.build/",
-		"description": "A view function that returns the creator address. The creator is initially set to the wallet address which deployed the smart contract via Cargo. burn(tokenId).",
-		"external": false,
-		"url": "https://cargo.build/"
 	},
 	{
 		"author": "Unique.One",
@@ -199,7 +163,7 @@
 		"shortDescription": "Next Generation, Decentralised Art NFT Marketplace by the community for the community.",
 		"site": "https://www.unique.one/",
 		"description": "Next Generation, Decentralised Art NFT Marketplace by the community for the community.",
-		"external": false,
+		"external": true,
 		"url": "https://www.unique.one/"
 	},
 	{
@@ -208,10 +172,10 @@
 		"title": "Cold Truth Culture NFTs",
 		"logo": "https://www.gitbook.com/cdn-cgi/image/width=32,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FxVr4QpRAlyhTrqmt9KPb%252FPlaceholder.png%3Falt%3Dmedia%26token%3D3c1c5532-a0e5-4e79-b36e-4466a0fffbf6",
 		"categories": ["NFT"],
-		"shortDescription": "Cold Truth Culture is a community that works together to build something truly special. It’s a safe place in crypto space for people to hang out, talk and learn about digital assets, NFTs, share ideas, share artwork and reward people that contribute to our ecosystem.",
+		"shortDescription": "Blockchain community DAO of NFT artists and collectors Submit and request artwork designs to the CTC crew.",
 		"site": "https://www.coldtruthculture.io/",
-		"description": "Cold Truth Culture is a community that works together to build something truly special. It’s a safe place in crypto space for people to hang out, talk and learn about digital assets, NFTs, share ideas, share artwork and reward people that contribute to our ecosystem.",
+		"description": "Blockchain community DAO of NFT artists and collectors Submit and request artwork designs to the CTC crew.",
 		"external": false,
-		"url": "https://www.coldtruthculture.io/"
+		"url": "https://app.coldtruthculture.io/"
 	}
 ]
