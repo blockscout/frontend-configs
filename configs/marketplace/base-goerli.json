@@ -54,7 +54,7 @@
       "site":"https://app.hop.exchange/",
       "description":"Hop is a scalable rollup-to-rollup general token bridge. It allows users to send tokens from one rollup or sidechain to another almost immediately without having to wait for the networks challenge period.",
       "url":"https://app.hop.exchange/",
-      "external":false
+      "external":true
    },
    {
       "author":"Magic Eden",
@@ -151,10 +151,10 @@
          "NFT"
       ],
       "shortDescription":"An NFT project featuring unique, procedurally generated creatures as collectible art or PFP.",
-      "site":"https://twitter.com/pronoun_nft",
+      "site":"https://based-nouns-testnet-mm9sw3svwgws2gdjxme8.onrender.com/",
       "description":"An NFT project featuring unique, procedurally generated creatures as collectible art or PFP.",
-      "url":"https://twitter.com/pronoun_nft",
-      "external":true
+      "url":"https://based-nouns-testnet-mm9sw3svwgws2gdjxme8.onrender.com/",
+      "external":false
    },
    {
       "author":"Scry",
@@ -193,10 +193,10 @@
          "NFT"
       ],
       "shortDescription":"A digital art collection inspired by CryptoPunks, featuring unique, algorithmically generated pixel art characters.",
-      "site":"https://twitter.com/base_punks",
+      "site":"https://punks.sh/",
       "description":"A digital art collection inspired by CryptoPunks, featuring unique, algorithmically generated pixel art characters.",
-      "url":"https://twitter.com/base_punks",
-      "external":true
+      "url":"https://punks.sh/",
+      "external":false
    },
    {
       "author":"Dackie",
@@ -251,8 +251,8 @@
       "shortDescription":"CAP is decentralized trading protocol designed to be powerful and easy to use.",
       "site":"https://www.cap.io/",
       "description":"CAP is decentralized trading protocol designed to be powerful and easy to use.",
-      "url":"https://www.cap.io/",
-      "external":true
+      "url":"https://www.cap.io/trade/",
+      "external":false
    },
    {
       "author":"Base Faucet for Goerli by QuickNodeEasy",
@@ -294,7 +294,7 @@
       "site":"https://coinbase.com/faucets/base-ethereum-goerli-faucet",
       "description":"A faucet service for obtaining testnet Ether on the Base Goerli testnet for development and testing purposes.",
       "url":"https://coinbase.com/faucets/base-ethereum-goerli-faucet",
-      "external":false
+      "external":true
    },
    {
       "author":"Automatism",
@@ -450,7 +450,7 @@
       "shortDescription":"A platform for creating and managing decentralized autonomous organizations (DAOs) and their governance processes.",
       "site":"https://guild.xyz/our-guild",
       "description":"A platform for creating and managing decentralized autonomous organizations (DAOs) and their governance processes.",
-      "url":"https://guild.xyz/our-guild",
+      "url":"https://guild.xyz/buildonbase",
       "external":true
    },
    {
@@ -524,18 +524,18 @@
       "external":true
    },
    {
-      "author":"Gnosis Safe",
-      "id":"gnosis safe",
-      "title":"Gnosis Safe",
+      "author":"Safe",
+      "id":"safe",
+      "title":"Safe",
       "logo":"https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/gnosis_safe_light.png",
       "logoDarkMode":"https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/gnosis_safe_dark.png",
       "categories":[
          "Wallet"
       ],
-      "shortDescription":"Gnosis Safe is a multi-signature wallet for managing crypto assets that provides users with a secure and flexible way to manage their digital assets. The wallet allows users to set up multiple owners and administrators, define custom transaction policies, and manage their assets using a web or mobile interface.",
+      "shortDescription":"Safe is a multi-signature wallet for managing crypto assets that provides users with a secure and flexible way to manage their digital assets. The wallet allows users to set up multiple owners and administrators, define custom transaction policies, and manage their assets using a web or mobile interface.",
       "site":"https://safe.global/",
-      "description":"Gnosis Safe is a multi-signature wallet for managing crypto assets that provides users with a secure and flexible way to manage their digital assets. The wallet allows users to set up multiple owners and administrators, define custom transaction policies, and manage their assets using a web or mobile interface.",
-      "url":"https://safe.global/",
+      "description":"Safe is a multi-signature wallet for managing crypto assets that provides users with a secure and flexible way to manage their digital assets. The wallet allows users to set up multiple owners and administrators, define custom transaction policies, and manage their assets using a web or mobile interface.",
+      "url":"https://app.safe.global/welcome",
       "external":false
    },
    {
@@ -630,7 +630,7 @@
       "title":"Gelato Network",
       "logo":"https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/gelato_network_light.png",
       "categories":[
-         "DeFi"
+         "Infra & Dev tooling"
       ],
       "shortDescription":"Protocol for automating smart contract executions.",
       "site":"https://gelato.network/",
@@ -731,9 +731,9 @@
          "Data"
       ],
       "shortDescription":"Empower your Web3 analytics & business intelligence with Coherent - Seamless access to decoded and enriched blockchain data at your fingertips.",
-      "site":"https://coherent.xyz/",
+      "site":"https://coherent.xyz/chains/base",
       "description":"Empower your Web3 analytics & business intelligence with Coherent - Seamless access to decoded and enriched blockchain data at your fingertips.",
-      "url":"https://coherent.xyz/",
+      "url":"https://coherent.xyz/chains/base",
       "external":true
    },
    {
@@ -781,17 +781,17 @@
       "external":true
    },
    {
-      "author":"Atrtemis",
-      "id":"atrtemis",
-      "title":"Atrtemis",
+      "author":"Artemis",
+      "id":"artemis",
+      "title":"Artemis",
       "logo":"https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/atrtemis_light.png",
       "categories":[
          "Data"
       ],
       "shortDescription":"Artemis is an analytics platform that aggregates all the crypto metrics that matter in one place.",
-      "site":"http://app.artemis.xyz",
+      "site":"https://www.artemis.xyz/",
       "description":"Artemis is an analytics platform that aggregates all the crypto metrics that matter in one place.",
-      "url":"http://app.artemis.xyz",
+      "url":"https://app.artemis.xyz/dashboard",
       "external":false
    },
    {
