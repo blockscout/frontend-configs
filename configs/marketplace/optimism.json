@@ -11,18 +11,6 @@
 		"url": "https://app.overnight.fi/featured?tabName=optimism"
 	},
 	{
-		"author": "Aave",
-		"id": "aave",
-		"title": "Aave",
-		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/aave.jpeg",
-		"categories": ["DeFi"],
-		"shortDescription": "Open source and non-custodial liquidity protocol for lending and borrowing.",
-		"site": "https://aave.com/",
-		"description": "Open source and non-custodial liquidity protocol for lending and borrowing.",
-		"external": false,
-		"url": "https://app.aave.com/"
-	},
-	{
 		"author": "Velodrome",
 		"id": "velodrome",
 		"title": "Velodrome",
