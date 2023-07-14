@@ -182,7 +182,7 @@
 		"author": "Curve",
 		"id": "curve",
 		"title": "Curve",
-		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/curve.svg",
+		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/curve.png",
 		"categories": ["DeFi"],
 		"shortDescription": "Creating deep on-chain liquidity using advanced bonding curves",
 		"site": "https://optimism.curve.fi/",
