@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Developers",
+    "links": [
+      {
+        "text": "Documentation",
+        "url": "https://docs.base.org/"
+      },
+      {
+        "text": "GitHub",
+        "url": "https://github.com/base-org"
+      }
+    ]
+  },
+  {
+    "title": "Community",
+    "links": [
+      {
+        "text": "Twitter",
+        "url": "https://twitter.com/buildonbase"
+      },
+      {
+        "text": "Discord",
+        "url": "https://base.org/discord "
+      },
+      {
+        "text": "Blog",
+        "url": "https://base.mirror.xyz/"
+      }
+    ]
+  },
+  {
+    "title": "About Base",
+    "links": [
+      {
+        "text": "About",
+        "url": "https://base.org/about"
+      }
+    ]
+  }
+]
