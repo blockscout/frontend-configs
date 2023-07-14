@@ -1,0 +1,64 @@
+[{
+		"author": "0x",
+		"id": "0x",
+		"title": "0x",
+		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/0x_light.png",
+		"logoDarkMode": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/0x_dark.png",
+		"categories": [
+			"Infra & Dev tooling"
+		],
+		"shortDescription": "0x is an open-source, decentralized exchange infrastructure that enables the exchange of tokenized assets on multiple blockchains.",
+		"site": "https://www.0x.org/",
+		"description": "0x is an open-source, decentralized exchange infrastructure that enables the exchange of tokenized assets on multiple blockchains.",
+		"url": "https://dashboard.0x.org/",
+		"external": true
+	},
+	{
+		"author": "Uniswap",
+		"id": "uniswap",
+		"title": "Uniswap",
+		"logo": "https://www.gitbook.com/cdn-cgi/image/width=288,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FT8RR0UqqvH6wAVfaaM4f%252FUniswap.png%3Falt%3Dmedia%26token%3D797851a0-2d80-4f7b-8d80-f9ba664c0b3d",
+		"categories": ["DeFi"],
+		"shortDescription": "Uniswap is a cryptocurrency exchange which uses a decentralized network protocol.",
+		"site": "https://app.uniswap.org/",
+		"description": "Uniswap is a cryptocurrency exchange which uses a decentralized network protocol.",
+		"external": false,
+		"url": "https://app.uniswap.org/"
+	},
+	{
+		"author": "Coinbase Wallet",
+		"id": "coinbase-wallet",
+		"title": "Coinbase Wallet",
+		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/coinbase_wallet_light.png",
+		"categories": ["Wallet"],
+		"shortDescription": "Coinbase Wallet is a non-custodial cryptocurrency wallet that allows users to store, send, and receive various cryptocurrencies.",
+		"site": "https://wallet.coinbase.com/",
+		"description": "Coinbase Wallet is a non-custodial cryptocurrency wallet that allows users to store, send, and receive various cryptocurrencies.",
+		"external": true,
+		"url": "https://wallet.coinbase.com/"
+	},
+	{
+		"author": "Coinbase Faucet",
+		"id": "coinbase-faucet",
+		"title": "Coinbase Faucet",
+		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/base_goerli_eth_faucet_light.png",
+		"categories": ["Faucet"],
+		"shortDescription": "Coinbase Faucet | Base  is the easiest way to get some ETH for Base.",
+		"site": "https://www.coinbase.com/faucets",
+		"description": "Coinbase Faucet | Base  is the easiest way to get some ETH for Base.",
+		"external": true,
+		"url": "https://www.coinbase.com/faucets"
+	},
+	{
+		"author": "Base Bridge",
+		"id": "base-bridge",
+		"title": "Base Bridge",
+		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/base_bridge_light.png",
+		"categories": ["Bridge"],
+		"shortDescription": "Bridge your assets securely with Base. This project is in testing. You can bridge whitelisted ERC-20 tokens from Goerli (Ethereum testnet) to Base Goerli Testnet. Ethereum mainnet tokens are not yet supported.",
+		"site": "https://bridge.base.org/",
+		"description": "Bridge your assets securely with Base. This project is in testing. You can bridge whitelisted ERC-20 tokens from Goerli (Ethereum testnet) to Base Goerli Testnet. Ethereum mainnet tokens are not yet supported.",
+		"external": false,
+		"url": "https://bridge.base.org/"
+	}
+]
