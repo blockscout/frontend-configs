@@ -1,7 +1,7 @@
 [
    {
-      "title":"Neon Shadow Mainnet",
-      "url":"https://neon-shadow-mainnet.blockscout.com/",
+      "title":"Neon Mainnet",
+      "url":"https://neon.blockscout.com/",
       "group":"Mainnets",
       "isActive":true,
       "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/neon-short.svg",
