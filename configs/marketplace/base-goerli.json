@@ -125,7 +125,7 @@
       "site":"https://bridge.base.org/",
       "description":"Bridge your assets securely with Base. This project is in testing. You can bridge whitelisted ERC-20 tokens from Goerli (Ethereum testnet) to Base Goerli Testnet. Ethereum mainnet tokens are not yet supported.",
       "url":"https://bridge.base.org/",
-      "external":false
+      "external":true
    },
    {
       "author":"Goerli Faucet",
