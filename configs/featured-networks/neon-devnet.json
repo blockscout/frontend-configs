@@ -1,0 +1,17 @@
+[
+   {
+      "title":"Neon Mainnet",
+      "url":"https://neon.blockscout.com/",
+      "group":"Mainnets",
+      "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/neon-short.svg",
+      "invertIconInDarkMode": true
+   },
+   {
+      "title":"Neon Devnet",
+      "url":"https://neon-devnet.blockscout.com/",
+      "group":"Testnets",
+     "isActive":true,
+      "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/neon-short.svg",
+      "invertIconInDarkMode": true
+   }
+]
