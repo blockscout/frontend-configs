@@ -6,6 +6,7 @@
 .eslintcache
 /tools/marketplace-config-validator/schema.*
 /tools/featured-networks-config-validator/schema.*
+/tools/footer-links-config-validator/schema.*
 
 # misc
 .DS_Store
