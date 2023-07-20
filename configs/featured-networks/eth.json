@@ -1,13 +1,13 @@
 [{
 		"title": "Ethereum",
-		"url": "https://blockscout.com/eth/mainnet",
+		"url": "https://eth.blockscout.com/",
 		"group": "Mainnets",
 		"isActive": true,
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg"
 	},
 	{
 		"title": "Optimism",
-		"url": "https://blockscout.com/optimism/mainnet/",
+		"url": "https://optimism.blockscout.com/",
 		"group": "Mainnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg"
 	},
@@ -31,7 +31,7 @@
 	},
 	{
 		"title": "Gnosis Chain",
-		"url": "https://blockscout.com/xdai/mainnet",
+		"url": "https://gnosis.blockscout.com/",
 		"group": "Mainnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/gnosis.svg"
 	},
@@ -63,7 +63,7 @@
 	},
 	{
 		"title": "Optimism Goerli",
-		"url": "https://blockscout.com/optimism/goerli/",
+		"url": "https://optimism-goerli.blockscout.com/",
 		"group": "Testnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg"
 	},
@@ -95,7 +95,7 @@
 	},
 	{
 		"title": "Gnosis Chiado",
-		"url": "https://blockscout.com/gnosis/chiado/",
+		"url": "https://gnosis-chiado.blockscout.com/",
 		"group": "Testnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/gnosis_chiado.svg"
 	},
