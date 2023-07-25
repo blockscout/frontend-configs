@@ -1,0 +1,14 @@
+[{
+		"title": "Fuse",
+		"url": "https://www.fuse.io/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/fuse-short.svg"
+	},
+	{
+		"title": "Spark",
+		"url": "https://www.fuse.io/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/fuse-short.svg",
+		"isActive": true
+	}
+]
