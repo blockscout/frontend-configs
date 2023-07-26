@@ -1,0 +1,77 @@
+[
+  {
+    "title": "Rootstock",
+    "links": [
+      {
+        "text": "Home",
+        "url": "https://rootstock.io/"
+      },
+      {
+        "text": "Use",
+        "url": "https://rootstock.io/dapps-built-on-rootstock/"
+      },
+      {
+        "text": "Brand",
+        "url": "https://rootstock.io/brand/"
+      },
+      {
+        "text": "Events",
+        "url": "https://rootstock.io/events/"
+      },
+      {
+        "text": "Ambassadors",
+        "url": "https://rootstock.io/ambassadors-program/"
+      }
+    ]
+  },
+  {
+    "title": "Developers",
+    "links": [
+      {
+        "text": "Develop",
+        "url": "https://rootstock.io/develop/"
+      },
+      {
+        "text": "Developers’ Portal",
+        "url": "https://dev.rootstock.io/"
+      },
+      {
+        "text": "Grants",
+        "url": "https://rootstock.io/grants/"
+      },
+      {
+        "text": "Github",
+        "url": "https://github.com/rsksmart"
+      },
+      {
+        "text": "Status",
+        "url": "https://status.rsk.co/"
+      },
+      {
+        "text": "Help Desk",
+        "url": "https://helpdesk.rootstock.io/"
+      }
+    ]
+  },
+  {
+    "title": "Community",
+    "links": [
+      {
+        "text": "Discord",
+        "url": "https://discord.com/invite/fPerbqcWGE"
+      },
+      {
+        "text": "Twitter",
+        "url": "https://twitter.com/rootstock_io"
+      },
+      {
+        "text": "Telegram",
+        "url": "https://t.me/rskofficialcommunity"
+      },
+      {
+        "text": "Slack",
+        "url": "https://open-rsk-dev.slack.com/ssb/redirect"
+      }
+    ]
+  }
+]
