@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Immutable",
+    "links": [
+      {
+        "text": "Home",
+        "url": "https://immutable.com/"
+      },
+      {
+        "text": "Media",
+        "url": "https://www.immutable.com/media"
+      },
+      {
+        "text": "Blog",
+        "url": "https://www.immutable.com/blog"
+      },
+      {
+        "text": "Support",
+        "url": "https://support.immutable.com/"
+      }
+    ]
+  },
+  {
+    "title": "Developers",
+    "links": [
+      {
+        "text": "Docs",
+        "url": "https://docs.immutable.com/docs/zkevm/overview"
+      },
+      {
+        "text": "Hub",
+        "url": "https://hub.immutable.com/"
+      },
+      {
+        "text": "GitHub",
+        "url": "https://github.com/immutable"
+      }
+    ]
+  },
+  {
+    "title": "Community",
+    "links": [
+      {
+        "text": "Discord",
+        "url": "https://discord.com/invite/CYsjMdctsP"
+      },
+      {
+        "text": "Twitter",
+        "url": "https://twitter.com/Immutable"
+      },
+      {
+        "text": "Reddit",
+        "url": "https://www.reddit.com/r/ImmutableX/"
+      },
+      {
+        "text": "Instagram",
+        "url": "https://www.instagram.com/lifeatimmutable/"
+      },
+      {
+        "text": "Linkedin",
+        "url": "https://www.linkedin.com/company/immutable-1/"
+      },
+      {
+        "text": "Youtube",
+        "url": "https://www.youtube.com/channel/UCR_WlrGou7hm0ACXYpldcuA/featured"
+      }
+    ]
+  }
+]
