@@ -23,6 +23,12 @@
 		"group": "Mainnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/lightlink-short.svg"
 	},
+   {
+		"title": "Neon",
+		"url": "https://neon.blockscout.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/neon-short.svg"
+	},
 	{
 		"title": "Ethereum Classic",
 		"url": "https://blockscout.com/etc/mainnet",
