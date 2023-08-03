@@ -1,9 +1,6 @@
 [{
-    "title": " ",
-    "links": [{
-            "text": "Home",
-            "url": "https://www.blockscout.com/"
-        },
+    "title": "Developers",
+    "links": [
         {
             "text": "Feature request",
             "url": "https://blockscout.canny.io/"
