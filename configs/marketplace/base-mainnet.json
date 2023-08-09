@@ -60,5 +60,27 @@
 		"description": "Bridge your assets securely with Base. This project is in testing. You can bridge whitelisted ERC-20 tokens from Goerli (Ethereum testnet) to Base Goerli Testnet. Ethereum mainnet tokens are not yet supported.",
 		"external": true,
 		"url": "https://bridge.base.org/"
+	},
+  {
+		"author": "Quick Intel",
+		"id": "quick-intel",
+		"title": "Quick Intel",
+		"logo": "https://www.gitbook.com/cdn-cgi/image/width=32,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FxVr4QpRAlyhTrqmt9KPb%252FPlaceholder.png%3Falt%3Dmedia%26token%3D3c1c5532-a0e5-4e79-b36e-4466a0fffbf6",
+		"categories": ["Infra & Dev tooling", "Data"],
+		"shortDescription": "Quick Intel is a hub of AI research and security tools. Most notably, an innovative token and NFT smart contract scanner to proactively avoid scams and rugs.",
+		"site": "https://quickintel.io/",
+		"description": "Quick Intel is a hub of AI research and security tools. Most notably, an innovative token and NFT smart contract scanner to proactively avoid scams and rugs.",
+		"url": "https://quickintel.io/"
+	},
+  {
+		"author": "NFTEarth",
+		"id": "nftearth",
+		"title": "NFTEarth",
+		"logo": "https://www.gitbook.com/cdn-cgi/image/width=32,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FxVr4QpRAlyhTrqmt9KPb%252FPlaceholder.png%3Falt%3Dmedia%26token%3D3c1c5532-a0e5-4e79-b36e-4466a0fffbf6",
+		"categories": ["NFT", "Games", "DAO"],
+		"shortDescription": "NFTEarth is building the global hub for NFT activity.",
+		"site": "https://nftearth.exchange/",
+		"description": "NFTEarth is building the global hub for NFT activity.",
+		"url": "https://nftearth.exchange/"
 	}
 ]
