@@ -61,7 +61,7 @@
 		"external": true,
 		"url": "https://bridge.base.org/"
 	},
-  {
+	{
 		"author": "Quick Intel",
 		"id": "quick-intel",
 		"title": "Quick Intel",
@@ -69,10 +69,11 @@
 		"categories": ["Infra & Dev tooling", "Data"],
 		"shortDescription": "Quick Intel is a hub of AI research and security tools. Most notably, an innovative token and NFT smart contract scanner to proactively avoid scams and rugs.",
 		"site": "https://quickintel.io/",
+		"external": true,
 		"description": "Quick Intel is a hub of AI research and security tools. Most notably, an innovative token and NFT smart contract scanner to proactively avoid scams and rugs.",
 		"url": "https://quickintel.io/"
 	},
-  {
+	{
 		"author": "NFTEarth",
 		"id": "nftearth",
 		"title": "NFTEarth",
@@ -80,6 +81,7 @@
 		"categories": ["NFT", "Games", "DAO"],
 		"shortDescription": "NFTEarth is building the global hub for NFT activity.",
 		"site": "https://nftearth.exchange/",
+		"external": true,
 		"description": "NFTEarth is building the global hub for NFT activity.",
 		"url": "https://nftearth.exchange/"
 	}
