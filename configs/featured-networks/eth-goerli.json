@@ -11,6 +11,12 @@
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg"
 	},
 	{
+		"title": "Base Chain",
+		"url": "https://base.blockscout.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/base.svg"
+	},
+	{
 		"title": "RSK",
 		"url": "https://blockscout.com/rsk/mainnet",
 		"group": "Mainnets",
@@ -22,7 +28,7 @@
 		"group": "Mainnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/lightlink-short.svg"
 	},
-  {
+	{
 		"title": "Neon",
 		"url": "https://neon.blockscout.com/",
 		"group": "Mainnets",
