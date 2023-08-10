@@ -177,5 +177,17 @@
 		"description": "Blockchain community DAO of NFT artists and collectors Submit and request artwork designs to the CTC crew.",
 		"external": false,
 		"url": "https://app.coldtruthculture.io/"
+	},
+  {
+		"author": "Kredeum NFTs Factory",
+		"id": "kredeum-nfts-factory",
+		"title": "Kredeum NFTs Factory",
+		"logo": "https://www.gitbook.com/cdn-cgi/image/width=32,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FxVr4QpRAlyhTrqmt9KPb%252FPlaceholder.png%3Falt%3Dmedia%26token%3D3c1c5532-a0e5-4e79-b36e-4466a0fffbf6",
+		"categories": ["NFT", "Marketplaces", "Tools"],
+		"shortDescription": "Kredeum NFTs Factory is an Open Source project that provides an easy-to-use platform for creating and trading NFTs. It includes a Dapp NFT Wallet, a Smartcontracts Library, a WordPress Plugin, and the OpenSky Market, supporting crosschain NFTs on multiple EVM blockchains. The platform offers various customization options, including collection templating, NFT auto-trading and royalty enforcement.",
+		"site": "https://www.kredeum.com/",
+		"description": "Kredeum NFTs Factory is an Open Source project that provides an easy-to-use platform for creating and trading NFTs. It includes a Dapp NFT Wallet, a Smartcontracts Library, a WordPress Plugin, and the OpenSky Market, supporting crosschain NFTs on multiple EVM blockchains. The platform offers various customization options, including collection templating, NFT auto-trading and royalty enforcement.",
+		"external": false,
+		"url": "https://app.kredeum.com"
 	}
 ]
