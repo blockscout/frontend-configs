@@ -1,0 +1,14 @@
+[{
+		"title": "Shibariumscan",
+		"url": "http://shibariumscan.io/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/shibarium-short.png"
+	},
+	{
+		"title": "Puppynet Testnet",
+		"url": "https://shibarium-testnet.blockscout.com/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/shibarium-short.png",
+		"isActive": true
+	}
+]
