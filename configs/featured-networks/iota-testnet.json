@@ -12,7 +12,7 @@
 	},
 	{
 		"title": "Shimmer EVM Testnet",
-		"url": "https://shimmer.network/",
+		"url": "https://iota-shimmer-testnet.blockscout.com/",
 		"group": "Testnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/shimmer-short.svg",
 		"isActive": true
