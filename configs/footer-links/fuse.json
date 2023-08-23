@@ -17,10 +17,6 @@
 	{
 		"title": "Under the hood",
 		"links": [{
-				"text": "Explorer",
-				"url": "https://explorer.fuse.io/"
-			},
-			{
 				"text": "Documentation",
 				"url": "https://docs.fuse.io/"
 			},
