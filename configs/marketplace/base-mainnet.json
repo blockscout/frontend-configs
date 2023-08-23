@@ -86,5 +86,31 @@
 		"external": true,
 		"description": "NFTEarth is building the global hub for NFT activity.",
 		"url": "https://nftearth.exchange/"
+	},
+  {
+		"author": "L2Coin",
+		"id": "l2coin",
+		"title": "L2Coin",
+		"logo": "https://www.gitbook.com/cdn-cgi/image/width=32,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FxVr4QpRAlyhTrqmt9KPb%252FPlaceholder.png%3Falt%3Dmedia%26token%3D3c1c5532-a0e5-4e79-b36e-4466a0fffbf6",
+		"logoDarkMode": "https://www.gitbook.com/cdn-cgi/image/width=32,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FxVr4QpRAlyhTrqmt9KPb%252FPlaceholder.png%3Falt%3Dmedia%26token%3D3c1c5532-a0e5-4e79-b36e-4466a0fffbf6",
+		"categories": ["Games", "NFT", "DeFi"],
+		"shortDescription": "Building a decentralized metaverse game based on L2 Token",
+		"site": "https://l2coin.io/",
+		"external": false,
+		"description": "Building a decentralized metaverse game based on L2 Token",
+		"url": "https://www.l2coin.io/home"
+	},
+	{
+		"author": "Base Name Service",
+		"id": "base-name-service",
+		"title": "Base Name Service",
+		"logo": "https://www.gitbook.com/cdn-cgi/image/width=32,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FxVr4QpRAlyhTrqmt9KPb%252FPlaceholder.png%3Falt%3Dmedia%26token%3D3c1c5532-a0e5-4e79-b36e-4466a0fffbf6",
+		"logoDarkMode": "https://www.gitbook.com/cdn-cgi/image/width=32,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FxVr4QpRAlyhTrqmt9KPb%252FPlaceholder.png%3Falt%3Dmedia%26token%3D3c1c5532-a0e5-4e79-b36e-4466a0fffbf6",
+		"categories": ["NFT", "Infra & Dev tooling"],
+		"shortDescription": "Web3 naming (.base) for the next billion+ users on Base. Native Name Service",
+		"site": "https://basename.app/",
+		"external": false,
+		"description": "Web3 naming (.base) for the next billion+ users on Base. Native Name Service",
+		"url": "https://basename.app/"
 	}
 ]
