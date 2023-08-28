@@ -6,7 +6,7 @@
 	},
 	{
 		"title": "Puppynet Testnet",
-		"url": "https://shibarium-testnet.blockscout.com/",
+		"url": "https://puppyscan.shib.io/",
 		"group": "Testnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/shibarium-short.png",
 		"isActive": true
