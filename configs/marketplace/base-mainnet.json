@@ -162,7 +162,7 @@
 		"shortDescription": "Decentralized exchange and liquidity provider.",
 		"site": "https://balancer.finance/",
 		"description": "Decentralized exchange and liquidity provider.",
-		"url": "https://balancer.finance/",
-		"external": true
+		"url": "https://app.balancer.fi/",
+		"external": false
 	}
 ]
