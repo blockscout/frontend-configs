@@ -164,20 +164,5 @@
 		"description": "Decentralized exchange and liquidity provider.",
 		"url": "https://app.balancer.fi/",
 		"external": false
-	},
-  {
-		"author": "Velocore",
-		"id": "velocore",
-		"title": "Velocore",
-		"logo": "https://www.gitbook.com/cdn-cgi/image/width=32,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FxVr4QpRAlyhTrqmt9KPb%252FPlaceholder.png%3Falt%3Dmedia%26token%3D3c1c5532-a0e5-4e79-b36e-4466a0fffbf6",
-		"logoDarkMode": "https://www.gitbook.com/cdn-cgi/image/width=32,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FxVr4QpRAlyhTrqmt9KPb%252FPlaceholder.png%3Falt%3Dmedia%26token%3D3c1c5532-a0e5-4e79-b36e-4466a0fffbf6",
-		"categories": [
-			"DeFi"
-		],
-		"shortDescription": "Velocore is the leading ve(3,3) dex on zkSyncEra & Linea. Through the revolutionized AMM and ve(3,3) system, users could save gas cost up to 90% on swap and vote/bribe in real time without caring the epoch.",
-		"site": "https://velocore.xyz/",
-		"description": "Velocore is the leading ve(3,3) dex on zkSyncEra & Linea. Through the revolutionized AMM and ve(3,3) system, users could save gas cost up to 90% on swap and vote/bribe in real time without caring the epoch.",
-		"url": "https://velocore.xyz/",
-		"external": false
 	}
 ]
