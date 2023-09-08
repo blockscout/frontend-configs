@@ -14,8 +14,8 @@
 		"title": "Base Chain",
 		"url": "https://base.blockscout.com/",
 		"group": "Mainnets",
-		"isActive": true,
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/base.svg"
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/base.svg",
+		"isActive": true
 	},
 	{
 		"title": "RSK",
@@ -60,6 +60,13 @@
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/shiden.svg"
 	},
 	{
+		"title": "Base Göerli",
+		"url": "https://base-goerli.blockscout.com/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/base.svg",
+		"invertIconInDarkMode": true
+	},
+	{
 		"title": "Goerli",
 		"url": "https://eth-goerli.blockscout.com/",
 		"group": "Testnets",
@@ -67,11 +74,10 @@
 		"invertIconInDarkMode": true
 	},
 	{
-		"title": "Base Göerli",
-		"url": "https://base-goerli.blockscout.com/",
+		"title": "Sepolia",
+		"url": "https://eth-sepolia.blockscout.com/",
 		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/base.svg",
-		"invertIconInDarkMode": true
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/sepolia.png"
 	},
 	{
 		"title": "Optimism Goerli",
