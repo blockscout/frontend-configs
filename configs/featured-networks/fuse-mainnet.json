@@ -7,7 +7,7 @@
 	},
 	{
 		"title": "Spark",
-		"url": "https://explorer.fusespark.io/",
+		"url": "https://fuse-testnet.blockscout.com/",
 		"group": "Testnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/fuse-short.svg"
 	}
