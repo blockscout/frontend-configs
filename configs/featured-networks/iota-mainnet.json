@@ -3,7 +3,7 @@
 		"url": "https://iota-shimmer.blockscout.com/",
 		"group": "Mainnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/shimmer-short.svg",
-	    "isActive": true
+		"isActive": true
 	},
   {
 		"title": "Shimmer L1 Mainnet",
