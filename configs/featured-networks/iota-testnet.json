@@ -1,6 +1,6 @@
 [{
 		"title": "Shimmer EVM",
-		"url": "https://iota-shimmer.blockscout.com/",
+		"url": "https://explorer.evm.shimmer.network/",
 		"group": "Mainnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/shimmer-short.svg"
 	},
