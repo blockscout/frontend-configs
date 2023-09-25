@@ -53,8 +53,8 @@
 		"author": "OverMint",
 		"id": "overmint",
 		"title": "OverMint",
-		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/nft_earth_light.png",
-		"logoDarkMode": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/nft_earth_dark.png",
+		"logo": "https://raw.githubusercontent.com/DOSLabs/DOScan-Frontend-Configs/main/configs/marketplace-logos/overmint.png",
+		"logoDarkMode": "https://raw.githubusercontent.com/DOSLabs/DOScan-Frontend-Configs/main/configs/marketplace-logos/overmint.png",
 		"categories": ["NFT", "Games", "DAO"],
 		"shortDescription": "OverMint is building the global hub for NFT activity.",
 		"site": "https://overmint.io/",
@@ -92,18 +92,18 @@
 		"author": "DOSwap",
 		"id": "doswap",
 		"title": "DOSwap",
-		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/sushi_swap_light.png",
+		"logo": "https://raw.githubusercontent.com/DOSLabs/DOScan-Frontend-Configs/main/configs/marketplace-logos/doswap.svg",
 		"categories": [
 			"DeFi"
 		],
 		"shortDescription": "Swap, earn, stack yields, lend, borrow & leverage, all on one decentralized, community driven platform. Welcome home to DeFi.",
-		"site": "https://www.sushi.com/swap",
+		"site": "https://doswap.io",
 		"description": "Swap, earn, stack yields, lend, borrow & leverage, all on one decentralized, community driven platform. Welcome home to DeFi.",
 		"url": "https://doswap.io",
 		"external": false
 	},
 	{
-		"author": "Uniswap",
+		"author": "DOScan",
 		"id": "uniswap",
 		"title": "Uniswap",
 		"logo": "https://www.gitbook.com/cdn-cgi/image/width=288,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FT8RR0UqqvH6wAVfaaM4f%252FUniswap.png%3Falt%3Dmedia%26token%3D797851a0-2d80-4f7b-8d80-f9ba664c0b3d",
