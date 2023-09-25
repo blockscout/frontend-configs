@@ -70,10 +70,10 @@
 		"logoDarkMode": "https://raw.githubusercontent.com/DOSLabs/DOScan-Frontend-Configs/main/configs/marketplace-logos/dos.svg",
 		"categories": ["Social", "NFT", "DeFi"],
 		"shortDescription": "Building a decentralized metaverse game based on L2 Token",
-		"site": "https://l2coin.io/",
+		"site": "https://dos.me/",
 		"external": false,
 		"description": "Building a decentralized metaverse game based on L2 Token",
-		"url": "https://www.l2coin.io/home"
+		"url": "https://www.dos.me"
 	},
 	{
 		"author": "DOS Name Service",
