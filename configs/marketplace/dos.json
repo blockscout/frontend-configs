@@ -17,7 +17,7 @@
 		"author": "DOSafe",
 		"id": "dosafe",
 		"title": "DOSafe",
-		"logo": "https://raw.githubusercontent.com/DOSLabs/DOScan-Frontend-Configs/main/configs/marketplace-logos/dosafe.svg",
+		"logo": "https://raw.githubusercontent.com/DOSLabs/DOScan-Frontend-Configs/main/configs/marketplace-logos/dos.svg",
 		"categories": ["Wallet"],
 		"shortDescription": "DOSafe Wallet is a custodial cryptocurrency wallet that allows users to store, send, and receive various cryptocurrencies.",
 		"site": "https://dosafe.io/",
@@ -28,7 +28,7 @@
 	{
 		"author": "DOS Faucet",
 		"id": "dos-faucet",
-		"title": "Coinbase Faucet",
+		"title": "DOS Faucet",
 		"logo": "https://raw.githubusercontent.com/DOSLabs/DOScan-Frontend-Configs/main/configs/marketplace-logos/dos.svg",
 		"categories": ["Faucet"],
 		"shortDescription": "DOS Faucet | Base  is the easiest way to get some ETH for Base.",
