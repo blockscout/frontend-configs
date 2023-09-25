@@ -1,16 +1,16 @@
 [{
-		"author": "0x",
-		"id": "0x",
-		"title": "0x",
+		"author": "AvaCloud",
+		"id": "avacloud",
+		"title": "AvaCloud",
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/0x_light.png",
 		"logoDarkMode": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/0x_dark.png",
 		"categories": [
 			"Infra & Dev tooling"
 		],
-		"shortDescription": "0x is an open-source, decentralized exchange infrastructure that enables the exchange of tokenized assets on multiple blockchains.",
-		"site": "https://www.0x.org/",
-		"description": "0x is an open-source, decentralized exchange infrastructure that enables the exchange of tokenized assets on multiple blockchains.",
-		"url": "https://dashboard.0x.org/",
+		"shortDescription": "Avacloud is an open-source, decentralized exchange infrastructure that enables the exchange of tokenized assets on multiple blockchains.",
+		"site": "https://avacloud.io/",
+		"description": "Avacloud is an open-source, decentralized exchange infrastructure that enables the exchange of tokenized assets on multiple blockchains.",
+		"url": "https://Avacloud.io/",
 		"external": true
 	},
 	{
@@ -19,69 +19,56 @@
 		"title": "DOSafe",
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/coinbase_wallet_light.png",
 		"categories": ["Wallet"],
-		"shortDescription": "Coinbase Wallet is a non-custodial cryptocurrency wallet that allows users to store, send, and receive various cryptocurrencies.",
-		"site": "https://wallet.coinbase.com/",
-		"description": "Coinbase Wallet is a non-custodial cryptocurrency wallet that allows users to store, send, and receive various cryptocurrencies.",
+		"shortDescription": "DOSafe Wallet is a custodial cryptocurrency wallet that allows users to store, send, and receive various cryptocurrencies.",
+		"site": "https://dosafe.io/",
+		"description": "DOSafe Wallet is a custodial cryptocurrency wallet that allows users to store, send, and receive various cryptocurrencies.",
 		"external": true,
-		"url": "https://wallet.coinbase.com/"
+		"url": "https://DOSafe.io/"
 	},
 	{
-		"author": "Coinbase Faucet",
-		"id": "coinbase-faucet",
+		"author": "DOS Faucet",
+		"id": "dos-faucet",
 		"title": "Coinbase Faucet",
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/base_goerli_eth_faucet_light.png",
 		"categories": ["Faucet"],
 		"shortDescription": "Coinbase Faucet | Base  is the easiest way to get some ETH for Base.",
-		"site": "https://www.coinbase.com/faucets",
+		"site": "https://faucet.doschain.com/",
 		"description": "Coinbase Faucet | Base  is the easiest way to get some ETH for Base.",
 		"external": true,
-		"url": "https://www.coinbase.com/faucets"
+		"url": "https://faucet.doschain.com/"
 	},
 	{
-		"author": "Base Bridge",
-		"id": "base-bridge",
-		"title": "Base Bridge",
+		"author": "DOS Bridge",
+		"id": "dos-bridge",
+		"title": "DOS Bridge",
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/base_bridge_light.png",
 		"categories": ["Bridge"],
-		"shortDescription": "Bridge your assets securely with Base. This project is in testing. You can bridge whitelisted ERC-20 tokens from Goerli (Ethereum testnet) to Base Goerli Testnet. Ethereum mainnet tokens are not yet supported.",
-		"site": "https://bridge.base.org/",
-		"description": "Bridge your assets securely with Base. This project is in testing. You can bridge whitelisted ERC-20 tokens from Goerli (Ethereum testnet) to Base Goerli Testnet. Ethereum mainnet tokens are not yet supported.",
+		"shortDescription": "Bridge your assets securely with DOS. This project is in testing. You can bridge whitelisted ERC-20 tokens from Avalanche and BNB Chain to DOS. Ethereum mainnet tokens are not yet supported.",
+		"site": "https://bridge.doschain.com/",
+		"description": "Bridge your assets securely with DOS. This project is in testing. You can bridge whitelisted ERC-20 tokens from Avalanche and BNB Chain to DOS. Ethereum mainnet tokens are not yet supported.",
 		"external": true,
-		"url": "https://bridge.base.org/"
+		"url": "https://bridge.doschain.com/"
 	},
 	{
-		"author": "Quick Intel",
-		"id": "quick-intel",
-		"title": "Quick Intel",
-		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/quick_intel_light.png",
-		"logoDarkMode": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/quick_intel_dark.png",
-		"categories": ["Infra & Dev tooling", "Data"],
-		"shortDescription": "Quick Intel is a hub of AI research and security tools. Most notably, an innovative token and NFT smart contract scanner to proactively avoid scams and rugs.",
-		"site": "https://quickintel.io/",
-		"external": true,
-		"description": "Quick Intel is a hub of AI research and security tools. Most notably, an innovative token and NFT smart contract scanner to proactively avoid scams and rugs.",
-		"url": "https://quickintel.io/"
-	},
-	{
-		"author": "NFTEarth",
-		"id": "nftearth",
-		"title": "NFTEarth",
+		"author": "OverMint",
+		"id": "overmint",
+		"title": "OverMint",
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/nft_earth_light.png",
 		"logoDarkMode": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/nft_earth_dark.png",
 		"categories": ["NFT", "Games", "DAO"],
-		"shortDescription": "NFTEarth is building the global hub for NFT activity.",
-		"site": "https://nftearth.exchange/",
+		"shortDescription": "OverMint is building the global hub for NFT activity.",
+		"site": "https://overmint.io/",
 		"external": true,
-		"description": "NFTEarth is building the global hub for NFT activity.",
-		"url": "https://nftearth.exchange/"
+		"description": "OverMint is building the global hub for NFT activity.",
+		"url": "https://overmint.io/"
 	},
 	{
-		"author": "L2Coin",
-		"id": "l2coin",
-		"title": "L2Coin",
+		"author": "DOS.Me",
+		"id": "dosme",
+		"title": "DOS.Me",
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/l2coin_light.png",
 		"logoDarkMode": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/l2coin_dark.png",
-		"categories": ["Games", "NFT", "DeFi"],
+		"categories": ["Social", "NFT", "DeFi"],
 		"shortDescription": "Building a decentralized metaverse game based on L2 Token",
 		"site": "https://l2coin.io/",
 		"external": false,
@@ -89,22 +76,22 @@
 		"url": "https://www.l2coin.io/home"
 	},
 	{
-		"author": "Base Name Service",
-		"id": "base-name-service",
-		"title": "Base Name Service",
+		"author": "DOS Name Service",
+		"id": "dos-name-service",
+		"title": "DOS Name Service",
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/basenameservice_light.png",
 		"logoDarkMode": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/basenameservice_dark.png",
 		"categories": ["NFT", "Infra & Dev tooling"],
-		"shortDescription": "Web3 naming (.base) for the next billion+ users on Base. Native Name Service",
+		"shortDescription": "Web3 naming (.base) for the next billion+ users on DOS. Native Name Service",
 		"site": "https://basename.app/",
 		"external": false,
-		"description": "Web3 naming (.base) for the next billion+ users on Base. Native Name Service",
+		"description": "Web3 naming (.base) for the next billion+ users on DOS. Native Name Service",
 		"url": "https://basename.app/"
 	},
 	{
-		"author": "SushiSwap",
-		"id": "sushiswap",
-		"title": "SushiSwap",
+		"author": "DOSwap",
+		"id": "doswap",
+		"title": "DOSwap",
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/sushi_swap_light.png",
 		"categories": [
 			"DeFi"
@@ -112,19 +99,7 @@
 		"shortDescription": "Swap, earn, stack yields, lend, borrow & leverage, all on one decentralized, community driven platform. Welcome home to DeFi.",
 		"site": "https://www.sushi.com/swap",
 		"description": "Swap, earn, stack yields, lend, borrow & leverage, all on one decentralized, community driven platform. Welcome home to DeFi.",
-		"url": "https://www.sushi.com/swap",
-		"external": false
-	},
-	{
-		"author": "Aave",
-		"id": "aave",
-		"title": "Aave",
-		"logo": "https://www.gitbook.com/cdn-cgi/image/width=288,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FaNQY8jHNue30P2caV79v%252FAave.png%3Falt%3Dmedia%26token%3Dda9ea09b-a5d8-4bf1-bdfe-41837eebdd03",
-		"categories": ["DeFi"],
-		"shortDescription": "Aave is a decentralised non-custodial liquidity market protocol where users can participate as suppliers or borrowers. Suppliers provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralised (perpetually) or undercollateralised (one-block liquidity) fashion.",
-		"site": "https://docs.aave.com/faq/",
-		"description": "Aave is a decentralised non-custodial liquidity market protocol where users can participate as suppliers or borrowers. Suppliers provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralised (perpetually) or undercollateralised (one-block liquidity) fashion.",
-		"url": "https://app.aave.com/",
+		"url": "https://doswap.io",
 		"external": false
 	},
 	{
@@ -149,20 +124,5 @@
 		"description": "DeFi / DEX aggregator with the most liquidity and the best rates.",
 		"external": true,
 		"url": "https://app.1inch.io/#/8453/simple/swap/ETH"
-	},
-	{
-		"author": "Balancer",
-		"id": "balancer",
-		"title": "Balancer",
-		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/balancer_light.png",
-		"logoDarkMode": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/balancer_dark.png",
-		"categories": [
-			"DeFi"
-		],
-		"shortDescription": "Decentralized exchange and liquidity provider.",
-		"site": "https://balancer.finance/",
-		"description": "Decentralized exchange and liquidity provider.",
-		"url": "https://app.balancer.fi/",
-		"external": false
 	}
 ]
