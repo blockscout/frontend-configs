@@ -82,11 +82,11 @@
 		"logo": "https://raw.githubusercontent.com/DOSLabs/DOScan-Frontend-Configs/main/configs/marketplace-logos/dos.svg",
 		"logoDarkMode": "https://raw.githubusercontent.com/DOSLabs/DOScan-Frontend-Configs/main/configs/marketplace-logos/dos.svg",
 		"categories": ["NFT", "Infra & Dev tooling"],
-		"shortDescription": "Web3 naming (.base) for the next billion+ users on DOS. Native Name Service",
-		"site": "https://basename.app/",
+		"shortDescription": "Web3 naming (.dos) for the next billion+ users on DOS. Native Name Service",
+		"site": "https://dos.me/",
 		"external": false,
-		"description": "Web3 naming (.base) for the next billion+ users on DOS. Native Name Service",
-		"url": "https://basename.app/"
+		"description": "Web3 naming (.dos) for the next billion+ users on DOS. Native Name Service",
+		"url": "https://dos.me/"
 	},
 	{
 		"author": "DOSwap",
@@ -104,13 +104,13 @@
 	},
 	{
 		"author": "DOScan",
-		"id": "uniswap",
-		"title": "Uniswap",
-		"logo": "https://www.gitbook.com/cdn-cgi/image/width=288,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FT8RR0UqqvH6wAVfaaM4f%252FUniswap.png%3Falt%3Dmedia%26token%3D797851a0-2d80-4f7b-8d80-f9ba664c0b3d",
+		"id": "doscan",
+		"title": "DOScan",
+		"logo": "https://raw.githubusercontent.com/DOSLabs/DOScan-Frontend-Configs/main/configs/marketplace-logos/doscan.svg",
 		"categories": ["Bridge"],
-		"shortDescription": "Uniswap is a cryptocurrency exchange which uses a decentralized network protocol.",
-		"site": "https://docs.uniswap.org/",
-		"description": "Uniswap is a cryptocurrency exchange which uses a decentralized network protocol.",
-		"url": "https://app.uniswap.org/swap"
+		"shortDescription": "DOScan is a blockchain explorer for DOS.",
+		"site": "https://doscan.io/",
+		"description": "DOScan is a blockchain explorer for DOS.",
+		"url": "https://doscan.io"
 	}
 ]
