@@ -93,7 +93,7 @@
 	},
 	{
 		"title": "ZetaChain testnet",
-		"url": "https://zetachain-athens-2.blockscout.com/",
+		"url": "https://zetachain-athens-3.blockscout.com/",
 		"group": "Testnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zetachain.svg",
 		"invertIconInDarkMode": true
