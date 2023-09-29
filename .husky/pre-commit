@@ -8,10 +8,13 @@ echo ''
 
 # validate configs
 echo 🧿 Running marketplace config validator...
-./tools/marketplace-config-validator/script.sh
+yarn validate:marketplace
 
 echo 🧿 Running featured networks config validator...
-./tools/featured-networks-config-validator/script.sh
+yarn validate:featured-networks
+
+echo 🧿 Running footer links config validator...
+yarn validate:footer-links
 
 # format svg
 echo 🧿 Running svg formatter...
