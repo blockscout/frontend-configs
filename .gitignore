@@ -4,9 +4,8 @@
 # artifacts
 *.tsbuildinfo
 .eslintcache
-/tools/marketplace-config-validator/schema.*
-/tools/featured-networks-config-validator/schema.*
-/tools/footer-links-config-validator/schema.*
+yarn-error.log*
 
 # misc
 .DS_Store
+yarn-debug.log*
