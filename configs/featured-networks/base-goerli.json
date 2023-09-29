@@ -2,7 +2,7 @@
 	{
 		"title": "Ethereum",
 		"url": "https://eth.blockscout.com/",
-		"group": "Mainnetsasd",
+		"group": "Mainnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg"
 	},
 	{
