@@ -80,7 +80,7 @@
 		"site": "https://honeyswap.org/",
 		"description": "HoneySwap Exchange is a decentralised exchange deployed on the xDai chain.",
 		"external": true,
-		"url": "https://honeyswap.1hive.eth.limo//#/swap"
+		"url": "https://honeyswap.1hive.eth.limo/#/swap"
 	},
 	{
 		"author": "SushiSwap",
