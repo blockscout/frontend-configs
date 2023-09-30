@@ -209,7 +209,7 @@
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/1inch.jpg",
 		"categories": ["DeFi"],
 		"shortDescription": "DeFi / DEX aggregator with the most liquidity and the best rates.",
-		"site": "app.1inch.io",
+		"site": "https://app.1inch.io",
 		"description": "DeFi / DEX aggregator with the most liquidity and the best rates.",
 		"external": true,
 		"url": "https://app.1inch.io/#/10/simple/swap/OP"

@@ -80,7 +80,7 @@
 		"site": "https://honeyswap.org/",
 		"description": "HoneySwap Exchange is a decentralised exchange deployed on the xDai chain.",
 		"external": true,
-		"url": "https://honeyswap.1hive.eth.limo//#/swap"
+		"url": "https://honeyswap.1hive.eth.limo/"
 	},
 	{
 		"author": "SushiSwap",
@@ -197,7 +197,7 @@
 		"title": "EthicHub",
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/ethichub_light.png",
 		"logoDarkMode": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/ethichub_dark.png",
-		"categories": ["Payments"],
+		"categories": ["DeFi"],
 		"shortDescription": "EthicHub is a social enterprise that connects small farmers with the financing needed to work their land and sell their crops to direct markets.",
 		"site": "https://app.ethichub.com/",
 		"description": "EthicHub is a social enterprise that connects small farmers with the financing needed to work their land and sell their crops to direct markets.",

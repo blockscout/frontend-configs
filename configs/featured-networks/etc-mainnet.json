@@ -1,0 +1,15 @@
+[
+	{
+		"title": "Ethereum Classic",
+		"url": "https://etc.blockscout.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/etc-mainnet-short.svg",
+		"isActive": true
+	},
+	{
+		"title": "ETC Mordor",
+		"url": "https://etc-mordor.blockscout.com/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/etc-mainnet-short.svg"
+	}
+]

@@ -1,74 +1,73 @@
 [
-    {
-        "title": "Company",
-        "links": [
-            {
-                "text": "Advertise",
-                "url": "https://coinzilla.com/"
-            },
-            {
-                "text": "Staking",
-                "url": ""
-            },
-            {
-                "text": "Contact us",
-                "url": ""
-            },
-            {
-                "text": "Brand assets",
-                "url": ""
-            },
-            {
-                "text": "Term of service",
-                "url": ""
-            }
-        ]
-    },
-    {
-        "title": "Community",
-        "links": [
-            {
-                "text": "API docs",
-                "url": ""
-            },
-            {
-                "text": "Knowledge base",
-                "url": ""
-            },
-            {
-                "text": "Network status",
-                "url": ""
-            },
-            {
-                "text": "Learn Alphabet",
-                "url": ""
-            }
-        ]
-    },
-    {
-        "title": "Product",
-        "links": [
-            {
-                "text": "Stake Alphabet",
-                "url": ""
-            },
-            {
-                "text": "Build token",
-                "url": ""
-            },
-            {
-                "text": "Build DAPPS",
-                "url": ""
-            },
-            {
-                "text": "NFT marketplace",
-                "url": ""
-            },
-            {
-                "text": "Become validator",
-                "url": ""
-            }
-
-        ]
-    }
+	{
+		"title": "Company",
+		"links": [
+			{
+				"text": "Advertise",
+				"url": "https://coinzilla.com/"
+			},
+			{
+				"text": "Staking",
+				"url": "https://example.com"
+			},
+			{
+				"text": "Contact us",
+				"url": "https://example.com"
+			},
+			{
+				"text": "Brand assets",
+				"url": "https://example.com"
+			},
+			{
+				"text": "Term of service",
+				"url": "https://example.com"
+			}
+		]
+	},
+	{
+		"title": "Community",
+		"links": [
+			{
+				"text": "API docs",
+				"url": "https://example.com"
+			},
+			{
+				"text": "Knowledge base",
+				"url": "https://example.com"
+			},
+			{
+				"text": "Network status",
+				"url": "https://example.com"
+			},
+			{
+				"text": "Learn Alphabet",
+				"url": "https://example.com"
+			}
+		]
+	},
+	{
+		"title": "Product",
+		"links": [
+			{
+				"text": "Stake Alphabet",
+				"url": "https://example.com"
+			},
+			{
+				"text": "Build token",
+				"url": "https://example.com"
+			},
+			{
+				"text": "Build DAPPS",
+				"url": "https://example.com"
+			},
+			{
+				"text": "NFT marketplace",
+				"url": "https://example.com"
+			},
+			{
+				"text": "Become validator",
+				"url": "https://example.com"
+			}
+		]
+	}
 ]
