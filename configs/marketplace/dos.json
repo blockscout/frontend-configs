@@ -2,8 +2,8 @@
 		"author": "AvaCloud",
 		"id": "avacloud",
 		"title": "AvaCloud",
-		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/0x_light.png",
-		"logoDarkMode": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/0x_dark.png",
+		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Ava_Cloud.svg",
+		"logoDarkMode": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Ava_Cloud.svg",
 		"categories": [
 			"Infra & Dev tooling"
 		],
