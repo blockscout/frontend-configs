@@ -139,6 +139,7 @@
 		"shortDescription": "DOScan is a blockchain explorer for DOS.",
 		"site": "https://doscan.io/",
 		"description": "DOScan is a blockchain explorer for DOS.",
-		"url": "https://doscan.io"
+		"url": "https://doscan.io",
+		"external": true
 	}
 ]
