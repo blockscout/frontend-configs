@@ -2,8 +2,8 @@
 		"author": "AvaCloud",
 		"id": "avacloud",
 		"title": "AvaCloud",
-		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Ava_Cloud.svg",
-		"logoDarkMode": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Ava_Cloud.svg",
+		"logo": "https://raw.githubusercontent.com/DOSLabs/DOScan-Frontend-Configs/main/configs/marketplace-logos/ava_cloud.jpg",
+		"logoDarkMode": "https://raw.githubusercontent.com/DOSLabs/DOScan-Frontend-Configs/main/configs/marketplace-logos/ava_cloud.jpg",
 		"categories": [
 			"Infra & Dev tooling"
 		],
@@ -100,6 +100,34 @@
 		"site": "https://doswap.io",
 		"description": "Swap, earn, stack yields, lend, borrow & leverage, all on one decentralized, community driven platform. Welcome home to DeFi.",
 		"url": "https://doswap.io",
+		"external": false
+	},
+	{
+		"author": "MetaDOS",
+		"id": "metados",
+		"title": "MetaDOS",
+		"logo": "https://raw.githubusercontent.com/DOSLabs/DOScan-Frontend-Configs/main/configs/marketplace-logos/metados.png",
+		"categories": [
+			"Gaming"
+		],
+		"shortDescription": "Next-gen battle royale game using TIME-as-currency concept supporting up to 100 players.",
+		"site": "https://metados.com",
+		"description": "Next-gen battle royale game using TIME-as-currency concept supporting up to 100 players.",
+		"url": "https://metados.com",
+		"external": false
+	},
+	{
+		"author": "Heroes & Empires",
+		"id": "he",
+		"title": "Heroes & Empires",
+		"logo": "https://raw.githubusercontent.com/DOSLabs/DOScan-Frontend-Configs/main/configs/marketplace-logos/he.png",
+		"categories": [
+			"Gaming"
+		],
+		"shortDescription": "Idle RPG combined with battle royale gameplay.",
+		"site": "https://heroesempires.com",
+		"description": "Heroes & Empires is an idle RPG combined with battle royale gameplay with the support of NFTs.",
+		"url": "https://heroesempires.com",
 		"external": false
 	},
 	{
