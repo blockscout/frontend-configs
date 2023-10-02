@@ -71,7 +71,7 @@
 		"categories": ["Social", "NFT", "DeFi"],
 		"shortDescription": "Building a decentralized metaverse game based on L2 Token",
 		"site": "https://dos.me/",
-		"external": false,
+		"external": true,
 		"description": "Building a decentralized metaverse game based on L2 Token",
 		"url": "https://www.dos.me"
 	},
@@ -84,7 +84,7 @@
 		"categories": ["NFT", "Infra & Dev tooling"],
 		"shortDescription": "Web3 naming (.dos) for the next billion+ users on DOS. Native Name Service",
 		"site": "https://dos.me/",
-		"external": false,
+		"external": true,
 		"description": "Web3 naming (.dos) for the next billion+ users on DOS. Native Name Service",
 		"url": "https://dos.me/"
 	},
@@ -100,7 +100,7 @@
 		"site": "https://doswap.io",
 		"description": "Swap, earn, stack yields, lend, borrow & leverage, all on one decentralized, community driven platform. Welcome home to DeFi.",
 		"url": "https://doswap.io",
-		"external": false
+		"external": true
 	},
 	{
 		"author": "MetaDOS",
@@ -114,7 +114,7 @@
 		"site": "https://metados.com",
 		"description": "Next-gen battle royale game using TIME-as-currency concept supporting up to 100 players.",
 		"url": "https://metados.com",
-		"external": false
+		"external": true
 	},
 	{
 		"author": "Heroes & Empires",
@@ -128,7 +128,7 @@
 		"site": "https://heroesempires.com",
 		"description": "Heroes & Empires is an idle RPG combined with battle royale gameplay with the support of NFTs.",
 		"url": "https://heroesempires.com",
-		"external": false
+		"external": true
 	},
 	{
 		"author": "DOScan",
