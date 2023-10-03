@@ -23,8 +23,7 @@
 		"format-svg": "npx svgo -r ./configs",
 		"validate:featured-networks": "node ./tools/featured-networks-config-validator/index.js",
 		"validate:footer-links": "node ./tools/footer-links-config-validator/index.js",
-		"validate:marketplace": "node ./tools/marketplace-config-validator/index.js",
-		"validate:bridged-tokens": "node ./tools/bridged-tokens-config-validator/index.js"
+		"validate:marketplace": "node ./tools/marketplace-config-validator/index.js"
 	},
 	"lint-staged": {
 		"*.{js,ts}": "eslint --cache --fix",

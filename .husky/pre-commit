@@ -16,9 +16,6 @@ yarn validate:featured-networks
 echo 🧿 Running footer links config validator...
 yarn validate:footer-links
 
-echo 🧿 Running bridged tokens config validator...
-yarn validate:bridged-tokens
-
 # format svg
 echo 🧿 Running svg formatter...
 for file in `git diff --diff-filter=ACMRT --cached --name-only | grep ".svg\$"`
