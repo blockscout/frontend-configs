@@ -166,18 +166,6 @@
 		"external": true,
 		"url": "https://www.unique.one/"
 	},
-	{
-		"author": "Cold Truth Culture NFTs",
-		"id": "cold-truth-culture-nfts",
-		"title": "Cold Truth Culture NFTs",
-		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/ctc.png",
-		"categories": ["NFT"],
-		"shortDescription": "Blockchain community DAO of NFT artists and collectors Submit and request artwork designs to the CTC crew.",
-		"site": "https://www.coldtruthculture.io/",
-		"description": "Blockchain community DAO of NFT artists and collectors Submit and request artwork designs to the CTC crew.",
-		"external": false,
-		"url": "https://app.coldtruthculture.io/"
-	},
   {
 		"author": "Kredeum NFTs Factory",
 		"id": "kredeum-nfts-factory",
