@@ -14,8 +14,7 @@
 		"title": "Base Chain",
 		"url": "https://base.blockscout.com/",
 		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/base.svg",
-		"isActive": true
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/base.svg"
 	},
 	{
 		"title": "RSK",
@@ -84,7 +83,8 @@
 		"title": "Sepolia",
 		"url": "https://eth-sepolia.blockscout.com/",
 		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/sepolia.png"
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/sepolia.png",
+		"isActive": true
 	},
 	{
 		"title": "Optimism Goerli",

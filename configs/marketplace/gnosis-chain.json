@@ -166,18 +166,6 @@
 		"external": true,
 		"url": "https://www.unique.one/"
 	},
-	{
-		"author": "Cold Truth Culture NFTs",
-		"id": "cold-truth-culture-nfts",
-		"title": "Cold Truth Culture NFTs",
-		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/ctc.png",
-		"categories": ["NFT"],
-		"shortDescription": "Blockchain community DAO of NFT artists and collectors Submit and request artwork designs to the CTC crew.",
-		"site": "https://www.coldtruthculture.io/",
-		"description": "Blockchain community DAO of NFT artists and collectors Submit and request artwork designs to the CTC crew.",
-		"external": false,
-		"url": "https://app.coldtruthculture.io/"
-	},
   {
 		"author": "Kredeum NFTs Factory",
 		"id": "kredeum-nfts-factory",
@@ -203,5 +191,18 @@
 		"description": "EthicHub is a social enterprise that connects small farmers with the financing needed to work their land and sell their crops to direct markets.",
 		"external": true,
 		"url": "https://app.ethichub.com/"
+	},
+  {
+		"author": "Request Finance",
+		"id": "request-finance",
+		"title": "Request Finance",
+		"logo": "https://www.gitbook.com/cdn-cgi/image/width=32,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FxVr4QpRAlyhTrqmt9KPb%252FPlaceholder.png%3Falt%3Dmedia%26token%3D3c1c5532-a0e5-4e79-b36e-4466a0fffbf6",
+		"logoDarkMode": "https://www.gitbook.com/cdn-cgi/image/width=32,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FxVr4QpRAlyhTrqmt9KPb%252FPlaceholder.png%3Falt%3Dmedia%26token%3D3c1c5532-a0e5-4e79-b36e-4466a0fffbf6",
+		"categories": ["DeFi"],
+		"shortDescription": "The all-in-one finance solution for Web3 teams | Crypto invoices, payroll & expenses.",
+		"site": "https://www.request.finance/",
+		"description": "The all-in-one finance solution for Web3 teams | Crypto invoices, payroll & expenses.",
+		"external": true,
+		"url": "https://www.request.finance/"
 	}
 ]
