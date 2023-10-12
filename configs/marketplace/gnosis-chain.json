@@ -204,5 +204,18 @@
 		"description": "The all-in-one finance solution for Web3 teams | Crypto invoices, payroll & expenses.",
 		"external": true,
 		"url": "https://www.request.finance/"
+	},
+{
+		"author": "Celer",
+		"id": "celer",
+		"title": "Celer",
+		"logo": "https://www.gitbook.com/cdn-cgi/image/width=32,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FxVr4QpRAlyhTrqmt9KPb%252FPlaceholder.png%3Falt%3Dmedia%26token%3D3c1c5532-a0e5-4e79-b36e-4466a0fffbf6",
+		"logoDarkMode": "https://www.gitbook.com/cdn-cgi/image/width=32,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FxVr4QpRAlyhTrqmt9KPb%252FPlaceholder.png%3Falt%3Dmedia%26token%3D3c1c5532-a0e5-4e79-b36e-4466a0fffbf6",
+		"categories": ["DeFi", "Infra & Dev tooling"],
+		"shortDescription": "Celer is a blockchain interoperability protocol enabling a one-click user experience accessing tokens, DeFi, GameFi, NFTs, governance, privacy solutions and more across multiple chains.",
+		"site": "https://www.celer.network/",
+		"description": "Celer is a blockchain interoperability protocol enabling a one-click user experience accessing tokens, DeFi, GameFi, NFTs, governance, privacy solutions and more across multiple chains. Developers can build inter-chain-native dApps using the Celer Inter-chain Message SDK to gain access to efficient liquidity utilization, coherent application logic, and shared states. Users of Celer-enabled dApps will enjoy the benefits of a diverse multi-blockchain ecosystem with the simplicity of a single-transaction UX, all from a single chain.",
+		"external": true,
+		"url": "https://www.celer.network/"
 	}
 ]
