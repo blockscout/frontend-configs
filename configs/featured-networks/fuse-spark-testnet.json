@@ -1,12 +1,12 @@
 [{
 		"title": "Fuse",
-		"url": "https://fuse.blockscout.com/",
+		"url": "http://explorer.fuse.io/",
 		"group": "Mainnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/fuse-short.svg"
 	},
 	{
 		"title": "Spark",
-		"url": "https://fuse-testnet.blockscout.com/",
+		"url": "http://explorer.fusespark.io/",
 		"group": "Testnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/fuse-short.svg",
 		"isActive": true
