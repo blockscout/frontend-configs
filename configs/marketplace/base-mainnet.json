@@ -164,5 +164,20 @@
 		"description": "Decentralized exchange and liquidity provider.",
 		"url": "https://app.balancer.fi/",
 		"external": false
+	},
+  {
+		"author": "Base Name Service",
+		"id": "base-name-service-",
+		"title": "Base Name Service",
+		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/base-name-service-.png",
+		"logoDarkMode": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/base-name-service-.png",
+		"categories": [
+			"NFT"
+		],
+		"shortDescription": "BaseNS, the 1st DID on the Base Mainnet. Secure your distinctive Web3 domain on all blockchains today.",
+		"site": "https://basens.domains/",
+		"description": "BaseNS, the 1st DID on the Base Mainnet. Secure your distinctive Web3 domain on all blockchains today.",
+		"url": "https://basens.domains/",
+		"external": false
 	}
 ]
