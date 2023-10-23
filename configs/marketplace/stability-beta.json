@@ -1,0 +1,18 @@
+[
+    {
+       "author":"Stability",
+       "id":"linkme",
+       "title":"LinkMe",
+       "logo":"https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/stability_light.png",
+       "logoDarkMode":"https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/stbility_dark.png",
+       "categories":[
+          "Infra & Dev tooling"
+       ],
+       "shortDescription":"Demo app for Stability blockchain.",
+       "site":"https://stblchain.app/",
+       "description":" LinkMe is a sample demonstration of the capability of applications that can be built on the Stability blockchain today that cannot be replicated on any other public blockchain. Users join a social network, or create their own, and the data is recorded and stored on the blockchain through a single click of a button - no wallet, no cryptocurrency, and no gas fees.",
+       "url":"https://stblchain.app/",
+       "external":false
+    }
+ ]
+ 
