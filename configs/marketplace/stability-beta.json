@@ -9,10 +9,25 @@
           "Infra & Dev tooling"
        ],
        "shortDescription":"Demo app for Stability blockchain.",
-       "site":"https://stblchain.app/",
-       "description":" LinkMe is a sample demonstration of the capability of applications that can be built on the Stability blockchain today that cannot be replicated on any other public blockchain. Users join a social network, or create their own, and the data is recorded and stored on the blockchain through a single click of a button - no wallet, no cryptocurrency, and no gas fees.",
+       "site":"https://github.com/devRupa/LinkMe-on-Stability-Blockchain",
+       "description":"LinkMe is a sample demonstration of the capability of applications that can be built on the Stability blockchain today that cannot be replicated on any other public blockchain. Users join a social network, or create their own, and the data is recorded and stored on the blockchain through a single click of a button - no wallet, no cryptocurrency, and no gas fees.",
        "url":"https://stblchain.app/",
        "external":false
-    }
+    }, 
+    {
+      "author":"Stability",
+      "id":"stabilityportal",
+      "title":"StabilityPortal",
+      "logo":"https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/stability_light.png",
+      "logoDarkMode":"https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/stability_dark.png",
+      "categories":[
+         "Infra & Dev tooling"
+      ],
+      "shortDescription":"Track, optimize and utilize zero gas transactions. A User and Developer tool for accessing the Stability blockchain.",
+      "site":"https://github.com/stabilityprotocol/zero-gas-transactions",
+      "description":"Track, optimize and utilize zero gas transactions. A User and Developer tool for accessing the Stability blockchain.",
+      "url":"https://portal.stble.io/",
+      "external":false
+   }
  ]
  
