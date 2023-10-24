@@ -4,7 +4,7 @@
        "id":"linkme",
        "title":"LinkMe",
        "logo":"https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/stability_light.png",
-       "logoDarkMode":"https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/stbility_dark.png",
+       "logoDarkMode":"https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/stability_dark.png",
        "categories":[
           "Infra & Dev tooling"
        ],
