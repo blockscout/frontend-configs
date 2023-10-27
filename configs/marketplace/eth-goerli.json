@@ -148,5 +148,17 @@
         "url": "https://staging--zkbob.netlify.app/transfer",
         "twitter": "https://twitter.com/zkBob_",
         "telegram": "https://t.me/zkbobcommunity"
-    }
+    },
+    {
+		"author": "Swapr",
+		"id": "swapr",
+		"title": "Swapr",
+		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/swapr.svg",
+		"categories": ["DeFi"],
+		"shortDescription": "A governance-enabled automated market maker with adjustable fees.",
+		"site": "https://swapr.eth.dev.lastmilelabs.systems",
+		"description": "A governance-enabled automated market maker with adjustable fees.",
+		"external": false,
+		"url": "https://swapr.eth.dev.lastmilelabs.systems"
+	}
 ]
