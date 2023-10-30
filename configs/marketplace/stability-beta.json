@@ -15,9 +15,9 @@
        "external":false
     }, 
     {
-      "author":"Stability",
+      "author":"Account",
       "id":"stabilityportal",
-      "title":"StabilityPortal",
+      "title":"Account",
       "logo":"https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/stability_light.png",
       "logoDarkMode":"https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/stability_dark.png",
       "categories":[
