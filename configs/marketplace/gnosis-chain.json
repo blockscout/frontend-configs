@@ -7,7 +7,7 @@
 		"shortDescription": "The Gnosis Safe is a multi-signature smart contract wallet that allows users to define a list of owner/signer accounts and a threshold number of signers required to confirm a transaction.",
 		"site": "https://app.safe.global/welcome",
 		"description": "The Gnosis Safe is a multi-signature smart contract wallet that allows users to define a list of owner/signer accounts and a threshold number of signers required to confirm a transaction.",
-		"external": false,
+		"external": true,
 		"url": "https://app.safe.global/welcome?chain=gno"
 	},
 	{
