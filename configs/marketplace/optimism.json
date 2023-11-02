@@ -224,5 +224,35 @@
 		"site": "https://docs.aave.com/faq/",
 		"description": "Aave is a decentralised non-custodial liquidity market protocol where users can participate as suppliers or borrowers. Suppliers provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralised (perpetually) or undercollateralised (one-block liquidity) fashion.",
 		"url": "https://staging.aave.com/?marketName=proto_optimism_goerli_v3"
-	}
+	},
+	{
+        "author": "zkBob",
+        "id": "zkbob-wallet",
+        "title": "zkBob Wallet",
+        "logo": "https://ipfs.filebase.io/ipfs/QmS4VomwX1Dh2fGcrVAWDdQFeqWq4XCA2FRTbgBva3bZHX",
+        "categories": [
+            "Wallet"
+        ],
+        "shortDescription": "A Web3 smart-contract privacy wallet based on ZKP technology. zkBob could be used for regular transfers, payments, and much more. Compliance features backed in!",
+        "site": "https://zkbob.com",
+        "description": "zkBob simplifies secure, limited-value, and anonymous token transfers for everyday users. The application accepts WETH, ETH, USDC. Once one of the tokens is deposited in the zkBob app, pool participants can transfer tokens amongst themselves in a private, secure manner. The shielded zkBob pool uses zkproofs to limit public data exposure",
+        "external": false,
+        "url": "https://zkbob-ui-qn7wq2.dappling.eth.limo/#/?pool=BOB2USDC-optimism",
+        "twitter": "https://twitter.com/zkBob_",
+        "telegram": "https://t.me/zkbobcommunity"
+    },
+	{
+        "author": "Allowances Near",
+        "id": "allowances-near",
+        "title": "Find & revoke token allowances",
+        "logo": "https://ipfs.near.social/ipfs/bafkreidx55vwpkujku7agefwy6lsks2dc3lioay7mo4b72wnv2i73x3dxy",
+        "categories": [
+            "Infra & Dev tooling"
+        ],
+        "shortDescription": "The tool helps to scan EVM-Compatible Blockchain transactions to identify approval transactions, which you can then revoke",
+        "site": "https://near.social/mob.near/widget/WidgetSource?src=allowances.near/widget/Index",
+        "description": "The tool helps to scan EVM-Compatible Blockchain transactions to identify approval transactions, which you can then revoke",
+        "external": false,
+        "url": "https://allowances.bos.gg/#"
+    }
 ]
