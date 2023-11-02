@@ -87,7 +87,7 @@
 		"id": "sushiswap",
 		"title": "SushiSwap",
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/sushi_swap.svg",
-		"categories": ["Infra & Dev tooling"],
+		"categories": ["DeFi"],
 		"shortDescription": "Cross-chain Dex",
 		"site": "https://www.sushi.com/",
 		"description": "Cross-chain Dex",
@@ -217,5 +217,33 @@
 		"description": "Celer is a blockchain interoperability protocol enabling a one-click user experience accessing tokens, DeFi, GameFi, NFTs, governance, privacy solutions and more across multiple chains. Developers can build inter-chain-native dApps using the Celer Inter-chain Message SDK to gain access to efficient liquidity utilization, coherent application logic, and shared states. Users of Celer-enabled dApps will enjoy the benefits of a diverse multi-blockchain ecosystem with the simplicity of a single-transaction UX, all from a single chain.",
 		"external": true,
 		"url": "https://www.celer.network/"
-	}
+	},
+	{
+        "author": "Allowances Near",
+        "id": "allowances-near",
+        "title": "Find & revoke token allowances",
+        "logo": "https://ipfs.near.social/ipfs/bafkreidx55vwpkujku7agefwy6lsks2dc3lioay7mo4b72wnv2i73x3dxy",
+        "categories": [
+            "Infra & Dev tooling"
+        ],
+        "shortDescription": "The tool helps to scan EVM-Compatible Blockchain transactions to identify approval transactions, which you can then revoke",
+        "site": "https://near.social/mob.near/widget/WidgetSource?src=allowances.near/widget/Index",
+        "description": "The tool helps to scan EVM-Compatible Blockchain transactions to identify approval transactions, which you can then revoke",
+        "external": false,
+        "url": "https://allowances.bos.gg/#"
+    },
+	{
+        "author": "Dappnode",
+        "id": "dappnode",
+        "title": "Dappnode",
+        "logo": "https://raw.githubusercontent.com/dappnode/DAppNodeDocs/22c6c46ddb3b7c2c76d659c0fa7881d697f2e8b4/static/img/logo.png",
+        "categories": [
+            "Infra & Dev tooling"
+        ],
+        "shortDescription": "Dappnode is a decentralized applications and services platform that makes it easy for anyone to run a node from anywhere",
+        "site": "https://dappnode.com/",
+        "description": "Dappnode is a decentralized applications and services platform that makes it easy for anyone to run a node from anywhere",
+        "external": true,
+        "url": "https://dappnode.com/"
+    }
 ]
