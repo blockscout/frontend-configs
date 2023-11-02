@@ -1,10 +1,19 @@
-[{
-    "title": "Developers",
+[
+   {
+    "title": "Partners",
     "links": [
-        {
-            "text": "Feature request",
-            "url": "https://blockscout.canny.io/"
-        }
+      {
+        "text": "MetaDock",
+        "url": "https://blocksec.com/metadock"
+      },
+      {
+        "text": "Sourcify",
+        "url": "https://sourcify.dev/"
+      },
+      {
+        "text": "DRPC",
+        "url": "https://drpc.org?ref=559183"
+      }
     ]
-}
+  }
 ]
