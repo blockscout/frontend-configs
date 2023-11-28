@@ -1,9 +1,12 @@
-[{
+[
+	{
 		"author": "Overnight.fi",
 		"id": "overnight.fi",
 		"title": "Overnight.fi",
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/overnight.jpeg",
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"shortDescription": "Overnight.fi is an asset management protocol offering passive yield products based on delta-neutral strategies for conservative liquidity miners.",
 		"site": "https://overnight.fi",
 		"description": "Overnight.fi is an asset management protocol offering passive yield products based on delta-neutral strategies for conservative liquidity miners.",
@@ -15,7 +18,9 @@
 		"id": "velodrome",
 		"title": "Velodrome",
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/velodrome.png",
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"shortDescription": "Velodrome is an AMM modeled on Solidly and designed to be a public good that provides deep liquidity and low slippage to token pairs critical for the growth of the Optimism ecosystem.",
 		"site": "https://app.velodrome.finance/",
 		"description": "Velodrome is an AMM modeled on Solidly and designed to be a public good that provides deep liquidity and low slippage to token pairs critical for the growth of the Optimism ecosystem.",
@@ -27,7 +32,9 @@
 		"id": "woofi",
 		"title": "WOOFi",
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/multisender.svg",
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"shortDescription": "WOOFi is a one-stop shop with CeFi-grade execution, one-click cross-chain swaps, and single-sided institutional yield opportunities.",
 		"site": "https://fi.woo.org/",
 		"description": "WOOFi is a one-stop shop with CeFi-grade execution, one-click cross-chain swaps, and single-sided institutional yield opportunities.",
@@ -39,7 +46,9 @@
 		"id": "pooltogether",
 		"title": "PoolTogether",
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/woofi.jpeg",
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"shortDescription": "PoolTogether is a no loss prize savings protocol. The more you deposit the better your chances to win!",
 		"site": "https://app.pooltogether.com/deposit?network=optimism",
 		"description": "PoolTogether is a no loss prize savings protocol. The more you deposit the better your chances to win!",
@@ -51,7 +60,9 @@
 		"id": "beefy",
 		"title": "Beefy",
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/beefy.png",
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"shortDescription": "Beefy Finance is a Multi-Chain Yield Optimizer Protocol.",
 		"site": "https://beefy.com/",
 		"description": "Beefy Finance is a Multi-Chain Yield Optimizer Protocol.",
@@ -63,7 +74,9 @@
 		"id": "stargate",
 		"title": "Stargate",
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/stargate.png",
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"shortDescription": "Stargate is a fully composable liquidity transport protocol that lives at the heart of Omnichain DeFi.",
 		"site": "https://stargate.finance/",
 		"description": "Stargate is a fully composable liquidity transport protocol that lives at the heart of Omnichain DeFi.",
@@ -75,7 +88,9 @@
 		"id": "synthetix",
 		"title": "Synthetix",
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/synthetix.png",
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"shortDescription": "Synthetix is a system designed to let users hold and trade synthetic assets whose value can be tied to real-world assets.",
 		"site": "https://staking.synthetix.io/",
 		"description": "Synthetix is a system designed to let users hold and trade synthetic assets whose value can be tied to real-world assets.",
@@ -87,7 +102,9 @@
 		"id": "perpetual-protocol",
 		"title": "Perpetual Protocol",
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/perpertual.jpeg",
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"shortDescription": "Decentralized perpetual swap",
 		"site": "https://www.perp.com/",
 		"description": "Decentralized perpetual swap",
@@ -99,7 +116,9 @@
 		"id": "arrakis",
 		"title": "Arrakis",
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/arrakis.jpeg",
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"shortDescription": "Arrakis is a protocol that specializes in concentrated & active liquidity management.",
 		"site": "https://www.arrakis.finance/",
 		"description": "Arrakis is a protocol that specializes in concentrated & active liquidity management.",
@@ -111,7 +130,9 @@
 		"id": "aktionariat",
 		"title": "Aktionariat",
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/aktionariat.png",
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"shortDescription": "Provides Swiss Companies with digital tools to create a market for their shares on their website.",
 		"site": "https://www.aktionariat.com/",
 		"description": "Provides Swiss Companies with digital tools to create a market for their shares on their website.",
@@ -123,7 +144,9 @@
 		"id": "dhedge",
 		"title": "dHEDGE",
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/dhedge.png",
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"shortDescription": "Automated investment management.",
 		"site": "https://www.dhedge.org/",
 		"description": "Automated investment management.",
@@ -135,7 +158,9 @@
 		"id": "polynomial-protocol",
 		"title": "Polynomial Protocol",
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/polynomial.jpeg",
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"shortDescription": "One-stop decentralized options protocol.",
 		"site": "https://www.polynomial.fi/",
 		"description": "One-stop decentralized options protocol.",
@@ -147,7 +172,9 @@
 		"id": "lyra",
 		"title": "Lyra",
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/lyra.png",
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"shortDescription": "Lyra is an automated market maker (AMM) for options trading.",
 		"site": "https://app.lyra.finance/",
 		"description": "Lyra is an automated market maker (AMM) for options trading.",
@@ -159,102 +186,114 @@
 		"id": "thales",
 		"title": "Thales",
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/thales.png",
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"shortDescription": "Allows the creation of peer-to-peer parimutuel markets that anyone can join. The foundation of novel on-chain initiatives, from AMM-based positional markets to immersive gamified experiences.",
 		"site": "https://thalesmarket.io/",
 		"description": "Allows the creation of peer-to-peer parimutuel markets that anyone can join. The foundation of novel on-chain initiatives, from AMM-based positional markets to immersive gamified experiences.",
 		"external": true,
 		"url": "https://thalesmarket.io/"
 	},
-{
+	{
 		"author": "Optimism Bridge",
 		"id": "optimism-bridge",
 		"title": "Optimism Bridge",
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg",
-		"categories": ["Bridge"],
+		"categories": [
+			"Bridge"
+		],
 		"shortDescription": "The Optimism Bridge allows you to transfer assets between L1 and Optimism.",
 		"site": "https://app.optimism.io/bridge/deposit",
 		"description": "The Optimism Bridge allows you to transfer assets between L1 and Optimism.",
 		"external": true,
 		"url": "https://app.optimism.io/bridge/deposit"
 	},
-{
+	{
 		"author": "Curve",
 		"id": "curve",
 		"title": "Curve",
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/curve.png",
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"shortDescription": "Creating deep on-chain liquidity using advanced bonding curves",
 		"site": "https://optimism.curve.fi/",
 		"description": "Creating deep on-chain liquidity using advanced bonding curves",
 		"external": false,
 		"url": "https://optimism.curve.fi/"
 	},
-  {
+	{
 		"author": "Uniswap",
 		"id": "uniswap",
 		"title": "Uniswap",
 		"logo": "https://www.gitbook.com/cdn-cgi/image/width=288,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FT8RR0UqqvH6wAVfaaM4f%252FUniswap.png%3Falt%3Dmedia%26token%3D797851a0-2d80-4f7b-8d80-f9ba664c0b3d",
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"shortDescription": "Uniswap lets you swap between assets. It is currently the most commonly used OP Mainnet application.",
 		"site": "https://app.uniswap.org/swap",
 		"description": "Uniswap lets you swap between assets. It is currently the most commonly used OP Mainnet application.",
 		"external": false,
 		"url": "https://app.uniswap.org/swap"
 	},
-   {
+	{
 		"author": "1inch",
 		"id": "1inch",
 		"title": "1inch",
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/1inch.jpg",
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"shortDescription": "DeFi / DEX aggregator with the most liquidity and the best rates.",
 		"site": "app.1inch.io",
 		"description": "DeFi / DEX aggregator with the most liquidity and the best rates.",
 		"external": true,
 		"url": "https://app.1inch.io/#/10/simple/swap/OP"
 	},
-  {
+	{
 		"author": "Aave",
 		"id": "aave",
 		"title": "Aave",
 		"logo": "https://www.gitbook.com/cdn-cgi/image/width=288,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FaNQY8jHNue30P2caV79v%252FAave.png%3Falt%3Dmedia%26token%3Dda9ea09b-a5d8-4bf1-bdfe-41837eebdd03",
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"shortDescription": "Aave is a decentralised non-custodial liquidity market protocol where users can participate as suppliers or borrowers. Suppliers provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralised (perpetually) or undercollateralised (one-block liquidity) fashion.",
 		"site": "https://docs.aave.com/faq/",
 		"description": "Aave is a decentralised non-custodial liquidity market protocol where users can participate as suppliers or borrowers. Suppliers provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralised (perpetually) or undercollateralised (one-block liquidity) fashion.",
 		"url": "https://staging.aave.com/?marketName=proto_optimism_goerli_v3"
 	},
 	{
-        "author": "zkBob",
-        "id": "zkbob-wallet",
-        "title": "zkBob Wallet",
-        "logo": "https://ipfs.filebase.io/ipfs/QmS4VomwX1Dh2fGcrVAWDdQFeqWq4XCA2FRTbgBva3bZHX",
-        "categories": [
-            "Wallet"
-        ],
-        "shortDescription": "A Web3 smart-contract privacy wallet based on ZKP technology. zkBob could be used for regular transfers, payments, and much more. Compliance features backed in!",
-        "site": "https://zkbob.com",
-        "description": "zkBob simplifies secure, limited-value, and anonymous token transfers for everyday users. The application accepts WETH, ETH, USDC. Once one of the tokens is deposited in the zkBob app, pool participants can transfer tokens amongst themselves in a private, secure manner. The shielded zkBob pool uses zkproofs to limit public data exposure",
-        "external": false,
-        "url": "https://zkbob-ui-qn7wq2.dappling.eth.limo/#/?pool=BOB2USDC-optimism",
-        "twitter": "https://twitter.com/zkBob_",
-        "telegram": "https://t.me/zkbobcommunity"
-    },
+		"author": "zkBob",
+		"id": "zkbob-wallet",
+		"title": "zkBob Wallet",
+		"logo": "https://ipfs.filebase.io/ipfs/QmS4VomwX1Dh2fGcrVAWDdQFeqWq4XCA2FRTbgBva3bZHX",
+		"categories": [
+			"Wallet"
+		],
+		"shortDescription": "A Web3 smart-contract privacy wallet based on ZKP technology. zkBob could be used for regular transfers, payments, and much more. Compliance features backed in!",
+		"site": "https://zkbob.com",
+		"description": "zkBob simplifies secure, limited-value, and anonymous token transfers for everyday users. The application accepts WETH, ETH, USDC. Once one of the tokens is deposited in the zkBob app, pool participants can transfer tokens amongst themselves in a private, secure manner. The shielded zkBob pool uses zkproofs to limit public data exposure",
+		"external": false,
+		"url": "https://zkbob-ui-qn7wq2.dappling.eth.limo/#/?pool=BOB2USDC-optimism",
+		"twitter": "https://twitter.com/zkBob_",
+		"telegram": "https://t.me/zkbobcommunity"
+	},
 	{
-        "author": "Allowances Near",
-        "id": "allowances-near",
-        "title": "Find & revoke token allowances",
-        "logo": "https://ipfs.near.social/ipfs/bafkreidx55vwpkujku7agefwy6lsks2dc3lioay7mo4b72wnv2i73x3dxy",
-        "categories": [
-            "Infra & Dev tooling"
-        ],
-        "shortDescription": "The tool helps to scan EVM-Compatible Blockchain transactions to identify approval transactions, which you can then revoke",
-        "site": "https://near.social/mob.near/widget/WidgetSource?src=allowances.near/widget/Index",
-        "description": "The tool helps to scan EVM-Compatible Blockchain transactions to identify approval transactions, which you can then revoke",
-        "external": false,
-        "url": "https://allowances.bos.gg/#"
-    },
+		"author": "Allowances Near",
+		"id": "allowances-near",
+		"title": "Find & revoke token allowances",
+		"logo": "https://ipfs.near.social/ipfs/bafkreidx55vwpkujku7agefwy6lsks2dc3lioay7mo4b72wnv2i73x3dxy",
+		"categories": [
+			"Infra & Dev tooling"
+		],
+		"shortDescription": "The tool helps to scan EVM-Compatible Blockchain transactions to identify approval transactions, which you can then revoke",
+		"site": "https://near.social/mob.near/widget/WidgetSource?src=allowances.near/widget/Index",
+		"description": "The tool helps to scan EVM-Compatible Blockchain transactions to identify approval transactions, which you can then revoke",
+		"external": false,
+		"url": "https://allowances.bos.gg/#"
+	},
 	{
 		"author": "0xSplits",
 		"id": "0xsplits",
@@ -264,10 +303,12 @@
 		"site": "https://www.0xsplits.xyz/",
 		"url": "https://app.splits.org/accounts/",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/0xsplits.svg"
-	  },
-	  {
+	},
+	{
 		"author": "Across",
 		"id": "across",
 		"title": "Across",
@@ -276,10 +317,12 @@
 		"site": "https://across.to/",
 		"url": "https://across.to/bridge",
 		"external": true,
-		"categories": ["Bridge"],
+		"categories": [
+			"Bridge"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Across.jpg"
-	  },
-	  {
+	},
+	{
 		"author": "Aelin",
 		"id": "aelin",
 		"title": "Aelin",
@@ -288,10 +331,12 @@
 		"site": "https://aelin.xyz/",
 		"url": "https://app.aelin.xyz/",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/aelin.jpeg"
-	  },
-	  {
+	},
+	{
 		"author": "AirGap",
 		"id": "airgap",
 		"title": "AirGap",
@@ -300,10 +345,12 @@
 		"site": "https://airgap.it/",
 		"url": "https://airgap.it/",
 		"external": true,
-		"categories": ["Wallet"],
+		"categories": [
+			"Wallet"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/AirGap.svg"
-	  },
-	  {
+	},
+	{
 		"author": "Alchemix Finance",
 		"id": "alchemix-finance",
 		"title": "Alchemix Finance",
@@ -312,10 +359,13 @@
 		"site": "https://alchemix.fi",
 		"url": "https://app.alchemix.fi",
 		"external": false,
-		"categories": ["DeFi", "Incentives"],
+		"categories": [
+			"DeFi",
+			"Incentives"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/alchemix.jpeg"
-	  },
-	  {
+	},
+	{
 		"author": "Alchemy Notify",
 		"id": "alchemy-notify",
 		"title": "Alchemy Notify",
@@ -324,10 +374,12 @@
 		"site": "https://www.alchemy.com/notify",
 		"url": "https://www.alchemy.com/notify",
 		"external": true,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/alchemy-notify.png"
-	  },
-	  {
+	},
+	{
 		"author": "Aloe II",
 		"id": "aloe-ii",
 		"title": "Aloe II",
@@ -336,10 +388,12 @@
 		"site": "https://aloe.capital/",
 		"url": "https://app.aloe.capital/",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/aloe.png"
-	  },
-	  {
+	},
+	{
 		"author": "Altitude",
 		"id": "altitude",
 		"title": "Altitude",
@@ -348,10 +402,12 @@
 		"site": "https://www.altitudedefi.com/",
 		"url": "https://www.altitudedefi.com/",
 		"external": false,
-		"categories": ["Bridge"],
+		"categories": [
+			"Bridge"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Altitude.png"
-	  },
-	  {
+	},
+	{
 		"author": "Angle Protocol",
 		"id": "angle-protocol",
 		"title": "Angle Protocol",
@@ -360,10 +416,13 @@
 		"site": "https://www.angle.money/",
 		"url": "https://app.angle.money/",
 		"external": true,
-		"categories": ["DeFi", "Incentives"],
+		"categories": [
+			"DeFi",
+			"Incentives"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/angle.svg"
-	  },
-	  {
+	},
+	{
 		"author": "Ante",
 		"id": "ante",
 		"title": "Ante",
@@ -372,10 +431,12 @@
 		"site": "https://ante.finance",
 		"url": "https://app.ante.finance",
 		"external": true,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/ante_logo.svg"
-	  },
-	  {
+	},
+	{
 		"author": "Arcadia Finance",
 		"id": "arcadia-finance",
 		"title": "Arcadia Finance",
@@ -384,10 +445,12 @@
 		"site": "https://arcadia.finance/",
 		"url": "https://app.arcadia.finance/",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Arcadia.png"
-	  },
-	  {
+	},
+	{
 		"author": "Arkham",
 		"id": "arkham",
 		"title": "Arkham",
@@ -396,10 +459,12 @@
 		"site": "https://www.arkhamintelligence.com/",
 		"url": "https://platform.arkhamintelligence.com/",
 		"external": true,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/arkham.jpeg"
-	  },
-	  {
+	},
+	{
 		"author": "Assure Wallet",
 		"id": "assure-wallet",
 		"title": "Assure Wallet",
@@ -408,10 +473,12 @@
 		"site": "https://www.assure.pro/#/",
 		"url": "https://www.assure.pro/#/",
 		"external": true,
-		"categories": ["Wallet"],
+		"categories": [
+			"Wallet"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/assure.jpeg"
-	  },
-	  {
+	},
+	{
 		"author": "Aura Finance",
 		"id": "aura-finance",
 		"title": "Aura Finance",
@@ -420,10 +487,12 @@
 		"site": "https://aura.finance/",
 		"url": "https://app.aura.finance/",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/AURA.png"
-	  },
-	  {
+	},
+	{
 		"author": "Avault",
 		"id": "avault",
 		"title": "Avault",
@@ -432,10 +501,12 @@
 		"site": "https://www.avault.network/",
 		"url": "https://www.avault.network/vault",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/avault.png"
-	  },
-	  {
+	},
+	{
 		"author": "AVTrade",
 		"id": "avtrade",
 		"title": "AVTrade",
@@ -444,10 +515,12 @@
 		"site": "https://avt.trade/#/",
 		"url": "https://avt.trade/#/",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/AVT.png"
-	  },
-	  {
+	},
+	{
 		"author": "Bakery DAO",
 		"id": "bakery-dao",
 		"title": "Bakery DAO",
@@ -456,10 +529,12 @@
 		"site": "https://pastry.xyz/",
 		"url": "https://pastry.xyz/",
 		"external": true,
-		"categories": ["DAO"],
+		"categories": [
+			"DAO"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/bakery.jpeg"
-	  },
-	  {
+	},
+	{
 		"author": "Band Protocol",
 		"id": "band-protocol",
 		"title": "Band Protocol",
@@ -468,10 +543,12 @@
 		"site": "https://bandprotocol.com",
 		"url": "https://bandprotocol.com",
 		"external": true,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Band.png"
-	  },
-	  {
+	},
+	{
 		"author": "BarnBridge",
 		"id": "barnbridge",
 		"title": "BarnBridge",
@@ -480,10 +557,12 @@
 		"site": "https://barnbridge.com/",
 		"url": "https://app.barnbridge.com/",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/BarnBridge.svg"
-	  },
-	  {
+	},
+	{
 		"author": "Beamer",
 		"id": "beamer",
 		"title": "Beamer",
@@ -492,10 +571,12 @@
 		"site": "https://app.beamerbridge.com/#/",
 		"url": "https://app.beamerbridge.com/#/",
 		"external": false,
-		"categories": ["Bridge"],
+		"categories": [
+			"Bridge"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Beamer.png"
-	  },
-	  {
+	},
+	{
 		"author": "Beethoven X",
 		"id": "beethoven-x",
 		"title": "Beethoven X",
@@ -504,10 +585,13 @@
 		"site": "https://op.beets.fi/#/",
 		"url": "https://op.beets.fi/#/",
 		"external": false,
-		"categories": ["DeFi", "Incentives"],
+		"categories": [
+			"DeFi",
+			"Incentives"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/beethoven-x.jpeg"
-	  },
-	  {
+	},
+	{
 		"author": "Biconomy Hyphen",
 		"id": "biconomy-hyphen",
 		"title": "Biconomy Hyphen",
@@ -516,10 +600,12 @@
 		"site": "https://hyphen.biconomy.io/",
 		"url": "https://hyphen.biconomy.io/",
 		"external": false,
-		"categories": ["Bridge"],
+		"categories": [
+			"Bridge"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Bico.png"
-	  },
-	  {
+	},
+	{
 		"author": "BitBTC",
 		"id": "bitbtc",
 		"title": "BitBTC",
@@ -528,10 +614,12 @@
 		"site": "https://bitbtc.money/#/",
 		"url": "https://bitbtc.money/#/",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/BitBTC.png"
-	  },
-	  {
+	},
+	{
 		"author": "Bitget",
 		"id": "bitget",
 		"title": "Bitget",
@@ -540,10 +628,12 @@
 		"site": "https://www.bitget.com/en/",
 		"url": "https://www.bitget.com/en/",
 		"external": false,
-		"categories": ["Fiat On-Ramp"],
+		"categories": [
+			"Fiat On-Ramp"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/bitget.jpeg"
-	  },
-	  {
+	},
+	{
 		"author": "BlockVision",
 		"id": "blockvision",
 		"title": "BlockVision",
@@ -552,10 +642,12 @@
 		"site": "https://blockvision.org/",
 		"url": "https://dashboard.blockvision.org/welcome",
 		"external": true,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/blockVision.svg"
-	  },
-	  {
+	},
+	{
 		"author": "Boardroom",
 		"id": "boardroom",
 		"title": "Boardroom",
@@ -564,10 +656,12 @@
 		"site": "https://boardroom.io/optimism",
 		"url": "https://boardroom.io/optimism",
 		"external": false,
-		"categories": ["DAO"],
+		"categories": [
+			"DAO"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Boardroom.png"
-	  },
-	  {
+	},
+	{
 		"author": "BoringDAO",
 		"id": "boringdao",
 		"title": "BoringDAO",
@@ -576,10 +670,12 @@
 		"site": "https://www.boringdao.com/",
 		"url": "https://app.boringdao.com/",
 		"external": false,
-		"categories": ["DAO"],
+		"categories": [
+			"DAO"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/boring-dao.png"
-	  },
-	  {
+	},
+	{
 		"author": "Brave Wallet",
 		"id": "brave-wallet",
 		"title": "Brave Wallet",
@@ -588,10 +684,12 @@
 		"site": "https://brave.com/wallet/",
 		"url": "https://brave.com/wallet/",
 		"external": true,
-		"categories": ["Wallet"],
+		"categories": [
+			"Wallet"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/brave-wallet.png"
-	  },
-	  {
+	},
+	{
 		"author": "Bridge Wallet",
 		"id": "bridge-wallet",
 		"title": "Bridge Wallet",
@@ -600,10 +698,12 @@
 		"site": "https://www.mtpelerin.com/bridge-wallet",
 		"url": "https://www.mtpelerin.com/bridge-wallet",
 		"external": true,
-		"categories": ["Wallet"],
+		"categories": [
+			"Wallet"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/bridge_wallet.svg"
-	  },
-	  {
+	},
+	{
 		"author": "Bulksender",
 		"id": "bulksender",
 		"title": "Bulksender",
@@ -612,10 +712,12 @@
 		"site": "https://bulksender.app/",
 		"url": "https://bulksender.app/",
 		"external": false,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/bulksender.png"
-	  },
-	  {
+	},
+	{
 		"author": "Bungee",
 		"id": "bungee",
 		"title": "Bungee",
@@ -624,10 +726,12 @@
 		"site": "https://www.bungee.exchange/",
 		"url": "https://www.bungee.exchange/",
 		"external": false,
-		"categories": ["Bridge"],
+		"categories": [
+			"Bridge"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/bungee.png"
-	  },
-	  {
+	},
+	{
 		"author": "BwareLabs",
 		"id": "bwarelabs",
 		"title": "BwareLabs",
@@ -636,10 +740,12 @@
 		"site": "https://bwarelabs.com/",
 		"url": "https://blastapi.io/explorer",
 		"external": true,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Bware.png"
-	  },
-	  {
+	},
+	{
 		"author": "Celer cBridge",
 		"id": "celer-cbridge",
 		"title": "Celer cBridge",
@@ -648,10 +754,12 @@
 		"site": "https://cbridge.celer.network/",
 		"url": "https://cbridge.celer.network/",
 		"external": false,
-		"categories": ["Bridge"],
+		"categories": [
+			"Bridge"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Celer.jpeg"
-	  },
-	  {
+	},
+	{
 		"author": "Chainbase",
 		"id": "chainbase",
 		"title": "Chainbase",
@@ -660,10 +768,12 @@
 		"site": "https://chainbase.online/",
 		"url": "https://chainbase.online/",
 		"external": true,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/chainbase.png"
-	  },
-	  {
+	},
+	{
 		"author": "ChainHop",
 		"id": "chainhop",
 		"title": "ChainHop",
@@ -672,10 +782,12 @@
 		"site": "https://chainhop.exchange/",
 		"url": "https://app.chainhop.exchange/",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/ChainHop.png"
-	  },
-	  {
+	},
+	{
 		"author": "ChainPort",
 		"id": "chainport",
 		"title": "ChainPort",
@@ -684,10 +796,12 @@
 		"site": "https://www.chainport.io/",
 		"url": "https://app.chainport.io/",
 		"external": true,
-		"categories": ["Bridge"],
+		"categories": [
+			"Bridge"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/ChainPort.svg"
-	  },
-	  {
+	},
+	{
 		"author": "ChangeNOW",
 		"id": "changenow",
 		"title": "ChangeNOW",
@@ -696,10 +810,12 @@
 		"site": "https://changenow.io/",
 		"url": "https://changenow.io/",
 		"external": true,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/ChangeNOW.png"
-	  },
-	  {
+	},
+	{
 		"author": "CharmVerse",
 		"id": "charmverse",
 		"title": "CharmVerse",
@@ -708,10 +824,12 @@
 		"site": "https://www.charmverse.io/",
 		"url": "https://www.charmverse.io/",
 		"external": true,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/charmVerse.svg"
-	  },
-	  {
+	},
+	{
 		"author": "Clipper",
 		"id": "clipper",
 		"title": "Clipper",
@@ -720,10 +838,13 @@
 		"site": "https://clipper.exchange/",
 		"url": "https://clipper.exchange/app/liquidity",
 		"external": false,
-		"categories": ["DeFi", "Incentives"],
+		"categories": [
+			"DeFi",
+			"Incentives"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/clipper.jpeg"
-	  },
-	  {
+	},
+	{
 		"author": "Clique",
 		"id": "clique",
 		"title": "Clique",
@@ -732,10 +853,12 @@
 		"site": "https://clique.social/",
 		"url": "https://clique.social/",
 		"external": false,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/clique.jpg"
-	  },
-	  {
+	},
+	{
 		"author": "Coin98",
 		"id": "coin98",
 		"title": "Coin98",
@@ -744,10 +867,12 @@
 		"site": "https://coin98.com/",
 		"url": "https://exchange.coin98.com/",
 		"external": true,
-		"categories": ["Wallet"],
+		"categories": [
+			"Wallet"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Coin98.svg"
-	  },
-	  {
+	},
+	{
 		"author": "Coinbase Wallet",
 		"id": "coinbase-wallet",
 		"title": "Coinbase Wallet",
@@ -756,10 +881,12 @@
 		"site": "https://wallet.coinbase.com/",
 		"url": "https://wallet.coinbase.com/",
 		"external": true,
-		"categories": ["Wallet"],
+		"categories": [
+			"Wallet"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/CoinbaseWallet.png"
-	  },
-	  {
+	},
+	{
 		"author": "CoinBrain",
 		"id": "coinbrain",
 		"title": "CoinBrain",
@@ -768,10 +895,12 @@
 		"site": "https://coinbrain.com",
 		"url": "https://coinbrain.com",
 		"external": false,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/CoinBrain.png"
-	  },
-	  {
+	},
+	{
 		"author": "Coinpassport",
 		"id": "coinpassport",
 		"title": "Coinpassport",
@@ -780,10 +909,12 @@
 		"site": "https://coinpassport.net/",
 		"url": "https://coinpassport.net/",
 		"external": false,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/coinpassport.png"
-	  },
-	  {
+	},
+	{
 		"author": "Coinshift",
 		"id": "coinshift",
 		"title": "Coinshift",
@@ -792,10 +923,12 @@
 		"site": "https://coinshift.xyz/",
 		"url": "https://app.coinshift.xyz/",
 		"external": false,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Coinshift.png"
-	  },
-	  {
+	},
+	{
 		"author": "CompareNodes",
 		"id": "comparenodes",
 		"title": "CompareNodes",
@@ -804,10 +937,12 @@
 		"site": "https://www.comparenodes.com/",
 		"url": "https://www.comparenodes.com/",
 		"external": false,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/comparenodes.png"
-	  },
-	  {
+	},
+	{
 		"author": "Connext",
 		"id": "connext",
 		"title": "Connext",
@@ -816,10 +951,12 @@
 		"site": "https://connext.network/",
 		"url": "https://connext.network/",
 		"external": true,
-		"categories": ["Bridge"],
+		"categories": [
+			"Bridge"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Connext.png"
-	  },
-	  {
+	},
+	{
 		"author": "Contango",
 		"id": "contango",
 		"title": "Contango",
@@ -828,10 +965,12 @@
 		"site": "https://contango.xyz/",
 		"url": "https://app.contango.xyz/",
 		"external": true,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Contango.jpg"
-	  },
-	  {
+	},
+	{
 		"author": "Cookbook",
 		"id": "cookbook",
 		"title": "Cookbook",
@@ -840,10 +979,12 @@
 		"site": "https://www.cookbook.dev/",
 		"url": "https://www.cookbook.dev/",
 		"external": true,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/cookbook.png"
-	  },
-	  {
+	},
+	{
 		"author": "Cookie3",
 		"id": "cookie3",
 		"title": "Cookie3",
@@ -852,10 +993,12 @@
 		"site": "https://www.cookie3.co/",
 		"url": "https://www.cookie3.co/",
 		"external": true,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Cookie3.png"
-	  },
-	  {
+	},
+	{
 		"author": "Cryptio",
 		"id": "cryptio",
 		"title": "Cryptio",
@@ -864,10 +1007,12 @@
 		"site": "https://cryptio.co/",
 		"url": "https://app.cryptio.co/",
 		"external": false,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Cryptio.png"
-	  },
-	  {
+	},
+	{
 		"author": "DAOhaus",
 		"id": "daohaus",
 		"title": "DAOhaus",
@@ -876,10 +1021,12 @@
 		"site": "https://daohaus.club/",
 		"url": "https://app.daohaus.club/",
 		"external": false,
-		"categories": ["DAO"],
+		"categories": [
+			"DAO"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/dao-haus.png"
-	  },
-	  {
+	},
+	{
 		"author": "DAPPAD Launchpad",
 		"id": "dappad-launchpad",
 		"title": "DAPPAD Launchpad",
@@ -888,10 +1035,12 @@
 		"site": "https://dappad.app",
 		"url": "https://app.dappad.app/",
 		"external": true,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Dappad.jpg"
-	  },
-	  {
+	},
+	{
 		"author": "DeBank",
 		"id": "debank",
 		"title": "DeBank",
@@ -900,10 +1049,12 @@
 		"site": "https://debank.com/",
 		"url": "https://debank.com/",
 		"external": true,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/DeBank.png"
-	  },
-	  {
+	},
+	{
 		"author": "DeFi Saver",
 		"id": "defi-saver",
 		"title": "DeFi Saver",
@@ -912,10 +1063,12 @@
 		"site": "https://defisaver.com/",
 		"url": "https://app.defisaver.com/",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/defisaver.jpeg"
-	  },
-	  {
+	},
+	{
 		"author": "DeFiEdge",
 		"id": "defiedge",
 		"title": "DeFiEdge",
@@ -924,10 +1077,12 @@
 		"site": "https://app.defiedge.io/",
 		"url": "https://app.defiedge.io/",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/defi-edge.png"
-	  },
-	  {
+	},
+	{
 		"author": "Delegate",
 		"id": "delegate",
 		"title": "Delegate",
@@ -936,10 +1091,12 @@
 		"site": "https://delegate.xyz/",
 		"url": "https://delegate.xyz/",
 		"external": false,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Delegate.jpg"
-	  },
-	  {
+	},
+	{
 		"author": "DexGuru",
 		"id": "dexguru",
 		"title": "DexGuru",
@@ -948,10 +1105,12 @@
 		"site": "https://dex.guru/",
 		"url": "https://dex.guru/",
 		"external": true,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/dexguru.png"
-	  },
-	  {
+	},
+	{
 		"author": "dforce",
 		"id": "dforce",
 		"title": "dforce",
@@ -960,10 +1119,13 @@
 		"site": "https://app.dforce.network/#/Markets/Optimism?AssetsType=Lend&currentPool=general",
 		"url": "https://app.dforce.network/#/Markets/Optimism?AssetsType=Lend&currentPool=general",
 		"external": false,
-		"categories": ["DeFi", "Incentives"],
+		"categories": [
+			"DeFi",
+			"Incentives"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/dForce.png"
-	  },
-	  {
+	},
+	{
 		"author": "DIA",
 		"id": "dia",
 		"title": "DIA",
@@ -972,10 +1134,12 @@
 		"site": "https://www.diadata.org/",
 		"url": "https://www.diadata.org/app/",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/dia.png"
-	  },
-	  {
+	},
+	{
 		"author": "Diamond Protocol",
 		"id": "diamond-protocol",
 		"title": "Diamond Protocol",
@@ -984,10 +1148,12 @@
 		"site": "https://dmo.finance",
 		"url": "https://app.dmo.finance",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/diamond.jpeg"
-	  },
-	  {
+	},
+	{
 		"author": "DRPC",
 		"id": "drpc",
 		"title": "DRPC",
@@ -996,10 +1162,12 @@
 		"site": "https://drpc.org/",
 		"url": "https://app.drpc.org/",
 		"external": true,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/DRPC.png"
-	  },
-	  {
+	},
+	{
 		"author": "Elk Finance",
 		"id": "elk-finance",
 		"title": "Elk Finance",
@@ -1008,10 +1176,12 @@
 		"site": "https://elk.finance/",
 		"url": "https://app.elk.finance/",
 		"external": false,
-		"categories": ["Bridge"],
+		"categories": [
+			"Bridge"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/elk-finance.png"
-	  },
-	  {
+	},
+	{
 		"author": "Equilibria",
 		"id": "equilibria",
 		"title": "Equilibria",
@@ -1020,10 +1190,12 @@
 		"site": "https://equilibria.fi/home",
 		"url": "https://equilibria.fi/stake",
 		"external": true,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Equilibria.jpg"
-	  },
-	  {
+	},
+	{
 		"author": "EthereansOS",
 		"id": "ethereansos",
 		"title": "EthereansOS",
@@ -1032,10 +1204,12 @@
 		"site": "https://ethos.eth.limo",
 		"url": "https://ethos.eth.limo",
 		"external": true,
-		"categories": ["DAO"],
+		"categories": [
+			"DAO"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/eth-os.png"
-	  },
-	  {
+	},
+	{
 		"author": "Exactly Protocol",
 		"id": "exactly-protocol",
 		"title": "Exactly Protocol",
@@ -1044,10 +1218,13 @@
 		"site": "https://exact.ly/",
 		"url": "https://app.exact.ly/",
 		"external": false,
-		"categories": ["DeFi", "Incentives"],
+		"categories": [
+			"DeFi",
+			"Incentives"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/ExactlyProtocol.png"
-	  },
-	  {
+	},
+	{
 		"author": "Exotic Markets",
 		"id": "exotic-markets",
 		"title": "Exotic Markets",
@@ -1056,10 +1233,13 @@
 		"site": "https://exoticmarkets.xyz/#/",
 		"url": "https://exoticmarkets.xyz/#/markets",
 		"external": false,
-		"categories": ["DeFi", "Incentives"],
+		"categories": [
+			"DeFi",
+			"Incentives"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/exotic-markets.png"
-	  },
-	  {
+	},
+	{
 		"author": "Extra Finance",
 		"id": "extra-finance",
 		"title": "Extra Finance",
@@ -1068,10 +1248,12 @@
 		"site": "https://app.extrafi.io",
 		"url": "https://app.extrafi.io",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Extra_Finance.png"
-	  },
-	  {
+	},
+	{
 		"author": "Fjord Foundry",
 		"id": "fjord-foundry",
 		"title": "Fjord Foundry",
@@ -1080,10 +1262,12 @@
 		"site": "https://fjordfoundry.com/",
 		"url": "https://fjordfoundry.com/",
 		"external": false,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/fjord.jpeg"
-	  },
-	  {
+	},
+	{
 		"author": "Forta",
 		"id": "forta",
 		"title": "Forta",
@@ -1092,10 +1276,12 @@
 		"site": "https://forta.org/",
 		"url": "https://app.forta.network/",
 		"external": false,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/forta.jpeg"
-	  },
-	  {
+	},
+	{
 		"author": "FoxWallet",
 		"id": "foxwallet",
 		"title": "FoxWallet",
@@ -1104,10 +1290,12 @@
 		"site": "https://foxwallet.com/en",
 		"url": "https://foxwallet.com/en",
 		"external": true,
-		"categories": ["Wallet"],
+		"categories": [
+			"Wallet"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/FoxWallet.png"
-	  },
-	  {
+	},
+	{
 		"author": "Frame",
 		"id": "frame",
 		"title": "Frame",
@@ -1116,10 +1304,12 @@
 		"site": "https://frame.sh",
 		"url": "https://app.frame.sh",
 		"external": false,
-		"categories": ["Wallet"],
+		"categories": [
+			"Wallet"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/frame.png"
-	  },
-	  {
+	},
+	{
 		"author": "Fringe Finance",
 		"id": "fringe-finance",
 		"title": "Fringe Finance",
@@ -1128,10 +1318,12 @@
 		"site": "https://fringe.fi/",
 		"url": "https://app.fringe.fi/",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Fringe.png"
-	  },
-	  {
+	},
+	{
 		"author": "Furucombo",
 		"id": "furucombo",
 		"title": "Furucombo",
@@ -1140,10 +1332,12 @@
 		"site": "https://furucombo.app/",
 		"url": "https://furucombo.app/combo",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Furucombo.png"
-	  },
-	  {
+	},
+	{
 		"author": "Gamma",
 		"id": "gamma",
 		"title": "Gamma",
@@ -1152,10 +1346,13 @@
 		"site": "https://www.gamma.xyz/",
 		"url": "https://app.gamma.xyz/",
 		"external": false,
-		"categories": ["DeFi", "Incentives"],
+		"categories": [
+			"DeFi",
+			"Incentives"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/gamma.png"
-	  },
-	  {
+	},
+	{
 		"author": "GeckoTerminal",
 		"id": "geckoterminal",
 		"title": "GeckoTerminal",
@@ -1164,10 +1361,12 @@
 		"site": "https://www.geckoterminal.com",
 		"url": "https://www.geckoterminal.com",
 		"external": true,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/gecko-terminal.png"
-	  },
-	  {
+	},
+	{
 		"author": "Gnosis Safe",
 		"id": "gnosis-safe",
 		"title": "Gnosis Safe",
@@ -1176,10 +1375,12 @@
 		"site": "https://ogg.scopelift.co/",
 		"url": "https://ogg.scopelift.co/",
 		"external": false,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/gnosis_safe.jpeg"
-	  },
-	  {
+	},
+	{
 		"author": "Guild",
 		"id": "guild",
 		"title": "Guild",
@@ -1188,10 +1389,12 @@
 		"site": "https://guild.xyz/",
 		"url": "https://guild.xyz/",
 		"external": true,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/guild.png"
-	  },
-	  {
+	},
+	{
 		"author": "Hashflow",
 		"id": "hashflow",
 		"title": "Hashflow",
@@ -1200,10 +1403,12 @@
 		"site": "https://www.hashflow.com/",
 		"url": "https://app.hashflow.com/",
 		"external": true,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/hashflow.jpeg"
-	  },
-	  {
+	},
+	{
 		"author": "Hats Protocol",
 		"id": "hats-protocol",
 		"title": "Hats Protocol",
@@ -1212,10 +1417,12 @@
 		"site": "https://www.hatsprotocol.xyz/",
 		"url": "https://app.hatsprotocol.xyz/",
 		"external": false,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/HatsProtocol.jpg"
-	  },
-	  {
+	},
+	{
 		"author": "Hedgey",
 		"id": "hedgey",
 		"title": "Hedgey",
@@ -1224,10 +1431,12 @@
 		"site": "https://app.hedgey.finance/",
 		"url": "https://app.hedgey.finance/",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/hedgey.jpeg"
-	  },
-	  {
+	},
+	{
 		"author": "Holdstation",
 		"id": "holdstation",
 		"title": "Holdstation",
@@ -1236,10 +1445,12 @@
 		"site": "https://holdstation.com/",
 		"url": "https://app.holdstation.com/",
 		"external": false,
-		"categories": ["Wallet"],
+		"categories": [
+			"Wallet"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/holdstation.png"
-	  },
-	  {
+	},
+	{
 		"author": "Holograph",
 		"id": "holograph",
 		"title": "Holograph",
@@ -1248,10 +1459,12 @@
 		"site": "https://www.holograph.xyz/",
 		"url": "https://app.holograph.xyz/",
 		"external": false,
-		"categories": ["Bridge"],
+		"categories": [
+			"Bridge"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Holograph.png"
-	  },
-	  {
+	},
+	{
 		"author": "Homora V2",
 		"id": "homora-v2",
 		"title": "Homora V2",
@@ -1260,10 +1473,12 @@
 		"site": "https://homora-v2.alphaventuredao.io/",
 		"url": "https://homora-v2.alphaventuredao.io/",
 		"external": true,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/homora.png"
-	  },
-	  {
+	},
+	{
 		"author": "Hop Exchange",
 		"id": "hop-exchange",
 		"title": "Hop Exchange",
@@ -1272,10 +1487,13 @@
 		"site": "https://app.hop.exchange/send?sourceNetwork=ethereum&destNetwork=optimism&token=USDC",
 		"url": "https://app.hop.exchange/send?sourceNetwork=ethereum&destNetwork=optimism&token=USDC",
 		"external": true,
-		"categories": ["Bridge", "Incentives"],
+		"categories": [
+			"Bridge",
+			"Incentives"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/HopExchange.png"
-	  },
-	  {
+	},
+	{
 		"author": "Hundred Finance",
 		"id": "hundred-finance",
 		"title": "Hundred Finance",
@@ -1284,10 +1502,13 @@
 		"site": "https://hundred.finance/",
 		"url": "https://app.hundred.finance/",
 		"external": false,
-		"categories": ["DeFi", "Incentives"],
+		"categories": [
+			"DeFi",
+			"Incentives"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/hundred-finance.png"
-	  },
-	  {
+	},
+	{
 		"author": "HyperPay",
 		"id": "hyperpay",
 		"title": "HyperPay",
@@ -1296,10 +1517,12 @@
 		"site": "https://www.hyperpay.tech/",
 		"url": "https://www.hyperpay.tech/",
 		"external": true,
-		"categories": ["Wallet"],
+		"categories": [
+			"Wallet"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/hyperpay-wallet.png"
-	  },
-	  {
+	},
+	{
 		"author": "Idle Finance",
 		"id": "idle-finance",
 		"title": "Idle Finance",
@@ -1308,10 +1531,12 @@
 		"site": "https://idle.finance/",
 		"url": "https://app.idle.finance/",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/IdleFinance.jpg"
-	  },
-	  {
+	},
+	{
 		"author": "imToken",
 		"id": "imtoken",
 		"title": "imToken",
@@ -1320,10 +1545,12 @@
 		"site": "https://token.im/",
 		"url": "https://token.im/",
 		"external": true,
-		"categories": ["Wallet"],
+		"categories": [
+			"Wallet"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/imToken.png"
-	  },
-	  {
+	},
+	{
 		"author": "Index Coop",
 		"id": "index-coop",
 		"title": "Index Coop",
@@ -1332,10 +1559,12 @@
 		"site": "https://indexcoop.com/",
 		"url": "https://app.indexcoop.com/",
 		"external": true,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/INDEX.png"
-	  },
-	  {
+	},
+	{
 		"author": "Infinity Wallet",
 		"id": "infinity-wallet",
 		"title": "Infinity Wallet",
@@ -1344,10 +1573,12 @@
 		"site": "https://infinitywallet.io/",
 		"url": "https://infinitywallet.io/",
 		"external": true,
-		"categories": ["Wallet"],
+		"categories": [
+			"Wallet"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/InfinityWalle.png"
-	  },
-	  {
+	},
+	{
 		"author": "Instadapp",
 		"id": "instadapp",
 		"title": "Instadapp",
@@ -1356,10 +1587,12 @@
 		"site": "https://instadapp.io/",
 		"url": "https://defi.instadapp.io/",
 		"external": true,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/instadapp.png"
-	  },
-	  {
+	},
+	{
 		"author": "Iron Bank",
 		"id": "iron-bank",
 		"title": "Iron Bank",
@@ -1368,10 +1601,12 @@
 		"site": "https://app.ib.xyz/",
 		"url": "https://app.ib.xyz/",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/iron-bank.png"
-	  },
-	  {
+	},
+	{
 		"author": "iToken Wallet",
 		"id": "itoken-wallet",
 		"title": "iToken Wallet",
@@ -1380,10 +1615,12 @@
 		"site": "https://www.itoken.com/",
 		"url": "https://www.itoken.com/",
 		"external": true,
-		"categories": ["Wallet"],
+		"categories": [
+			"Wallet"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/itokenWallet.webp"
-	  },
-	  {
+	},
+	{
 		"author": "Jarvis Network",
 		"id": "jarvis-network",
 		"title": "Jarvis Network",
@@ -1392,10 +1629,12 @@
 		"site": "https://jarvis.network",
 		"url": "https://jarvis.money/",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/jarvis.png"
-	  },
-	  {
+	},
+	{
 		"author": "Juno",
 		"id": "juno",
 		"title": "Juno",
@@ -1404,10 +1643,12 @@
 		"site": "https://juno.finance/",
 		"url": "https://app.juno.finance/",
 		"external": true,
-		"categories": ["Fiat On-Ramp"],
+		"categories": [
+			"Fiat On-Ramp"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Juno.png"
-	  },
-	  {
+	},
+	{
 		"author": "Kado",
 		"id": "kado",
 		"title": "Kado",
@@ -1416,10 +1657,12 @@
 		"site": "https://www.kado.money/",
 		"url": "https://app.kado.money/",
 		"external": false,
-		"categories": ["Fiat On-Ramp"],
+		"categories": [
+			"Fiat On-Ramp"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/kado.png"
-	  },
-	  {
+	},
+	{
 		"author": "KeyFi",
 		"id": "keyfi",
 		"title": "KeyFi",
@@ -1428,10 +1671,12 @@
 		"site": "https://keyfi.com/",
 		"url": "https://app.keyfi.com/",
 		"external": false,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/keyfi.png"
-	  },
-	  {
+	},
+	{
 		"author": "Kromatika",
 		"id": "kromatika",
 		"title": "Kromatika",
@@ -1440,10 +1685,12 @@
 		"site": "https://kromatika.finance",
 		"url": "https://app.kromatika.finance",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Kromatika.jpg"
-	  },
-	  {
+	},
+	{
 		"author": "Krystal",
 		"id": "krystal",
 		"title": "Krystal",
@@ -1452,10 +1699,12 @@
 		"site": "https://krystal.app/",
 		"url": "https://krystal.app/",
 		"external": true,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Krystal-logo.png"
-	  },
-	  {
+	},
+	{
 		"author": "Krystal Wallet",
 		"id": "krystal-wallet",
 		"title": "Krystal Wallet",
@@ -1464,10 +1713,12 @@
 		"site": "https://krystal.app/",
 		"url": "https://defi.krystal.app/",
 		"external": true,
-		"categories": ["Wallet"],
+		"categories": [
+			"Wallet"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Krystal.png"
-	  },
-	  {
+	},
+	{
 		"author": "KyberSwap",
 		"id": "kyberswap",
 		"title": "KyberSwap",
@@ -1476,10 +1727,12 @@
 		"site": "https://kyberswap.com/swap",
 		"url": "https://kyberswap.com/swap",
 		"external": true,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/kyberswap.jpeg"
-	  },
-	  {
+	},
+	{
 		"author": "Layer2DAO",
 		"id": "layer2dao",
 		"title": "Layer2DAO",
@@ -1488,10 +1741,13 @@
 		"site": "https://www.layer2dao.org/",
 		"url": "https://www.layer2dao.org/",
 		"external": false,
-		"categories": ["Incentives", "DAO"],
+		"categories": [
+			"Incentives",
+			"DAO"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/layer-2-dao.png"
-	  },
-	  {
+	},
+	{
 		"author": "LayerSwap",
 		"id": "layerswap",
 		"title": "LayerSwap",
@@ -1500,10 +1756,12 @@
 		"site": "https://www.layerswap.io/",
 		"url": "https://www.layerswap.io/app",
 		"external": false,
-		"categories": ["Bridge"],
+		"categories": [
+			"Bridge"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/LayerSwap.png"
-	  },
-	  {
+	},
+	{
 		"author": "LayerSync",
 		"id": "layersync",
 		"title": "LayerSync",
@@ -1512,10 +1770,12 @@
 		"site": "https://layersync.org/",
 		"url": "https://app.layersync.org/",
 		"external": false,
-		"categories": ["Bridge"],
+		"categories": [
+			"Bridge"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/LayerSync.png"
-	  },
-	  {
+	},
+	{
 		"author": "LI.FI",
 		"id": "li.fi",
 		"title": "LI.FI",
@@ -1524,10 +1784,12 @@
 		"site": "https://li.fi/",
 		"url": "https://jumper.exchange/",
 		"external": false,
-		"categories": ["Bridge"],
+		"categories": [
+			"Bridge"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/lifi.svg"
-	  },
-	  {
+	},
+	{
 		"author": "Lighthouse",
 		"id": "lighthouse",
 		"title": "Lighthouse",
@@ -1536,10 +1798,12 @@
 		"site": "https://www.lighthouse.storage/",
 		"url": "https://files.lighthouse.storage/",
 		"external": false,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/lighthouse.jpeg"
-	  },
-	  {
+	},
+	{
 		"author": "Lollipop DEX",
 		"id": "lollipop-dex",
 		"title": "Lollipop DEX",
@@ -1548,10 +1812,12 @@
 		"site": "https://www.lollipop.exchange/",
 		"url": "https://www.lollipop.exchange/",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Lollipop.jpg"
-	  },
-	  {
+	},
+	{
 		"author": "Mai Finance",
 		"id": "mai-finance",
 		"title": "Mai Finance",
@@ -1560,10 +1826,12 @@
 		"site": "https://www.mai.finance/",
 		"url": "https://app.mai.finance/",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/mai-finance.png"
-	  },
-	  {
+	},
+	{
 		"author": "Matcha",
 		"id": "matcha",
 		"title": "Matcha",
@@ -1572,10 +1840,12 @@
 		"site": "https://matcha.xyz/",
 		"url": "https://matcha.xyz/tokens/optimism/eth",
 		"external": true,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Matcha.png"
-	  },
-	  {
+	},
+	{
 		"author": "Matrix Farm",
 		"id": "matrix-farm",
 		"title": "Matrix Farm",
@@ -1584,10 +1854,12 @@
 		"site": "https://matrix.farm/",
 		"url": "https://app.matrix.farm/",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/matrix-farm.png"
-	  },
-	  {
+	},
+	{
 		"author": "Mean Finance",
 		"id": "mean-finance",
 		"title": "Mean Finance",
@@ -1596,10 +1868,12 @@
 		"site": "https://mean.finance/",
 		"url": "https://mean.finance/",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/meanfi.jpeg"
-	  },
-	  {
+	},
+	{
 		"author": "MES Protocol",
 		"id": "mes-protocol",
 		"title": "MES Protocol",
@@ -1608,10 +1882,12 @@
 		"site": "https://www.mesprotocol.com/",
 		"url": "https://app.mesprotocol.com/",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/mesprotocol.png"
-	  },
-	  {
+	},
+	{
 		"author": "Meson",
 		"id": "meson",
 		"title": "Meson",
@@ -1620,10 +1896,12 @@
 		"site": "https://meson.fi",
 		"url": "https://meson.fi",
 		"external": false,
-		"categories": ["Bridge"],
+		"categories": [
+			"Bridge"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Meson.png"
-	  },
-	  {
+	},
+	{
 		"author": "MetalSwap",
 		"id": "metalswap",
 		"title": "MetalSwap",
@@ -1632,10 +1910,12 @@
 		"site": "https://metalswap.finance",
 		"url": "https://app.metalswap.finance",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/MetalSwap.png"
-	  },
-	  {
+	},
+	{
 		"author": "MetaMask",
 		"id": "metamask",
 		"title": "MetaMask",
@@ -1644,10 +1924,12 @@
 		"site": "https://metamask.io/",
 		"url": "https://metamask.io/",
 		"external": true,
-		"categories": ["Wallet"],
+		"categories": [
+			"Wallet"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/MetaMask.png"
-	  },
-	  {
+	},
+	{
 		"author": "Metronome",
 		"id": "metronome",
 		"title": "Metronome",
@@ -1656,10 +1938,12 @@
 		"site": "https://metronome.io",
 		"url": "https://app.metronome.io",
 		"external": true,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Metronome.png"
-	  },
-	  {
+	},
+	{
 		"author": "Mintpad",
 		"id": "mintpad",
 		"title": "Mintpad",
@@ -1668,10 +1952,12 @@
 		"site": "https://mintpad.co/",
 		"url": "https://app.mintpad.co/",
 		"external": true,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/mintpad.jpeg"
-	  },
-	  {
+	},
+	{
 		"author": "Mummy Finance",
 		"id": "mummy-finance",
 		"title": "Mummy Finance",
@@ -1680,10 +1966,12 @@
 		"site": "https://www.mummy.finance/#/",
 		"url": "https://app.mummy.finance/#/trade",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/MummyFinance.svg"
-	  },
-	  {
+	},
+	{
 		"author": "Nansen",
 		"id": "nansen",
 		"title": "Nansen",
@@ -1692,10 +1980,12 @@
 		"site": "https://www.nansen.ai/",
 		"url": "https://app.nansen.ai/",
 		"external": true,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/nansen.png"
-	  },
-	  {
+	},
+	{
 		"author": "Nested",
 		"id": "nested",
 		"title": "Nested",
@@ -1704,10 +1994,12 @@
 		"site": "https://nested.fi/",
 		"url": "https://app.nested.fi/",
 		"external": true,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/nested.jpeg"
-	  },
-	  {
+	},
+	{
 		"author": "NFTScan",
 		"id": "nftscan",
 		"title": "NFTScan",
@@ -1716,10 +2008,12 @@
 		"site": "https://optimism.nftscan.com/",
 		"url": "https://optimism.nftscan.com/",
 		"external": false,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/nftscan.png"
-	  },
-	  {
+	},
+	{
 		"author": "Notum",
 		"id": "notum",
 		"title": "Notum",
@@ -1728,10 +2022,12 @@
 		"site": "https://app.notum.ai/",
 		"url": "https://app.notum.ai/",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Notum.png"
-	  },
-	  {
+	},
+	{
 		"author": "Now Wallet",
 		"id": "now-wallet",
 		"title": "Now Wallet",
@@ -1740,10 +2036,12 @@
 		"site": "https://walletnow.app/",
 		"url": "https://walletnow.app/",
 		"external": true,
-		"categories": ["Wallet"],
+		"categories": [
+			"Wallet"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/NOW_Wallet.svg"
-	  },
-	  {
+	},
+	{
 		"author": "O3 Swap",
 		"id": "o3-swap",
 		"title": "O3 Swap",
@@ -1752,10 +2050,12 @@
 		"site": "https://o3swap.com/",
 		"url": "https://o3swap.com/",
 		"external": true,
-		"categories": ["Bridge"],
+		"categories": [
+			"Bridge"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/o3-swap.png"
-	  },
-	  {
+	},
+	{
 		"author": "O3 Wallet",
 		"id": "o3-wallet",
 		"title": "O3 Wallet",
@@ -1764,10 +2064,12 @@
 		"site": "https://o3.network/#/wallet",
 		"url": "https://o3.network/#/wallet",
 		"external": true,
-		"categories": ["Wallet"],
+		"categories": [
+			"Wallet"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/o3-wallet.png"
-	  },
-	  {
+	},
+	{
 		"author": "Odos",
 		"id": "odos",
 		"title": "Odos",
@@ -1776,10 +2078,12 @@
 		"site": "https://www.odos.xyz",
 		"url": "https://app.odos.xyz/",
 		"external": true,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/odos.jpg"
-	  },
-	  {
+	},
+	{
 		"author": "Olympus DAO",
 		"id": "olympus-dao",
 		"title": "Olympus DAO",
@@ -1788,10 +2092,12 @@
 		"site": "https://www.olympusdao.finance/",
 		"url": "https://app.olympusdao.finance",
 		"external": true,
-		"categories": ["DAO"],
+		"categories": [
+			"DAO"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/OlympusDAO.jpeg"
-	  },
-	  {
+	},
+	{
 		"author": "Omni",
 		"id": "omni",
 		"title": "Omni",
@@ -1800,10 +2106,12 @@
 		"site": "https://omni.app",
 		"url": "https://omni.app",
 		"external": false,
-		"categories": ["Wallet"],
+		"categories": [
+			"Wallet"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/omni.png"
-	  },
-	  {
+	},
+	{
 		"author": "Onramp Money",
 		"id": "onramp-money",
 		"title": "Onramp Money",
@@ -1812,10 +2120,12 @@
 		"site": "https://onramp.money/",
 		"url": "https://onramp.money/",
 		"external": false,
-		"categories": ["Fiat On-Ramp"],
+		"categories": [
+			"Fiat On-Ramp"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/OnrampMoney.svg"
-	  },
-	  {
+	},
+	{
 		"author": "ONT ID",
 		"id": "ont-id",
 		"title": "ONT ID",
@@ -1824,10 +2134,12 @@
 		"site": "https://ont.id/",
 		"url": "https://www.onto.app/",
 		"external": true,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/OntID.jpg"
-	  },
-	  {
+	},
+	{
 		"author": "OpenOcean",
 		"id": "openocean",
 		"title": "OpenOcean",
@@ -1836,10 +2148,12 @@
 		"site": "https://openocean.finance/",
 		"url": "https://openocean.app/",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/open-ocean.png"
-	  },
-	  {
+	},
+	{
 		"author": "OpenXSwap",
 		"id": "openxswap",
 		"title": "OpenXSwap",
@@ -1848,10 +2162,12 @@
 		"site": "https://openxswap.exchange",
 		"url": "https://app.openxswap.exchange",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/openx.jpeg"
-	  },
-	  {
+	},
+	{
 		"author": "Orbiter",
 		"id": "orbiter",
 		"title": "Orbiter",
@@ -1860,10 +2176,12 @@
 		"site": "https://www.orbiter.finance/",
 		"url": "https://www.orbiter.finance/",
 		"external": false,
-		"categories": ["Bridge"],
+		"categories": [
+			"Bridge"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Orbiter.jpg"
-	  },
-	  {
+	},
+	{
 		"author": "Overtime Markets",
 		"id": "overtime-markets",
 		"title": "Overtime Markets",
@@ -1872,10 +2190,13 @@
 		"site": "https://overtimemarkets.xyz/#/markets",
 		"url": "https://overtimemarkets.xyz/#/markets",
 		"external": false,
-		"categories": ["DeFi", "Incentives"],
+		"categories": [
+			"DeFi",
+			"Incentives"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/overtime.png"
-	  },
-	  {
+	},
+	{
 		"author": "Owlto Finance",
 		"id": "owlto-finance",
 		"title": "Owlto Finance",
@@ -1884,10 +2205,12 @@
 		"site": "https://owlto.finance/",
 		"url": "https://owlto.finance/",
 		"external": false,
-		"categories": ["Bridge"],
+		"categories": [
+			"Bridge"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/owlto.png"
-	  },
-	  {
+	},
+	{
 		"author": "ParaSwap",
 		"id": "paraswap",
 		"title": "ParaSwap",
@@ -1896,10 +2219,12 @@
 		"site": "https://www.paraswap.io/",
 		"url": "https://app.paraswap.io/",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/ParaSwap.svg"
-	  },
-	  {
+	},
+	{
 		"author": "Pegasus Finance",
 		"id": "pegasus-finance",
 		"title": "Pegasus Finance",
@@ -1908,10 +2233,12 @@
 		"site": "https://www.pegasusfinance.xyz/home",
 		"url": "https://trade.pegasusfinance.xyz/",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/pegasus.png"
-	  },
-	  {
+	},
+	{
 		"author": "Pendle",
 		"id": "pendle",
 		"title": "Pendle",
@@ -1920,10 +2247,12 @@
 		"site": "https://www.pendle.finance/",
 		"url": "https://app.pendle.finance/earn/fixed-yield",
 		"external": true,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Pendle.png"
-	  },
-	  {
+	},
+	{
 		"author": "Pheasant Network",
 		"id": "pheasant-network",
 		"title": "Pheasant Network",
@@ -1932,10 +2261,12 @@
 		"site": "https://pheasant.network/",
 		"url": "https://pheasant.network/",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/PheasantNetwork.png"
-	  },
-	  {
+	},
+	{
 		"author": "Pickle Finance",
 		"id": "pickle-finance",
 		"title": "Pickle Finance",
@@ -1944,10 +2275,13 @@
 		"site": "https://app.pickle.finance/",
 		"url": "https://app.pickle.finance/",
 		"external": false,
-		"categories": ["DeFi", "Incentives"],
+		"categories": [
+			"DeFi",
+			"Incentives"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/pickle-finance.png"
-	  },
-	  {
+	},
+	{
 		"author": "Pika",
 		"id": "pika",
 		"title": "Pika",
@@ -1956,10 +2290,13 @@
 		"site": "https://app.pikaprotocol.com/",
 		"url": "https://app.pikaprotocol.com/",
 		"external": false,
-		"categories": ["DeFi", "Incentives"],
+		"categories": [
+			"DeFi",
+			"Incentives"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/PikaProtocol.png"
-	  },
-	  {
+	},
+	{
 		"author": "Pillar Wallet",
 		"id": "pillar-wallet",
 		"title": "Pillar Wallet",
@@ -1968,10 +2305,12 @@
 		"site": "https://www.pillar.fi/",
 		"url": "https://www.pillar.fi/",
 		"external": true,
-		"categories": ["Wallet"],
+		"categories": [
+			"Wallet"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/PillarWallet.png"
-	  },
-	  {
+	},
+	{
 		"author": "Plasma Finance",
 		"id": "plasma-finance",
 		"title": "Plasma Finance",
@@ -1980,10 +2319,12 @@
 		"site": "https://plasma.finance",
 		"url": "https://plasma.app",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/plasmafinance.svg"
-	  },
-	  {
+	},
+	{
 		"author": "Pulsar Finance",
 		"id": "pulsar-finance",
 		"title": "Pulsar Finance",
@@ -1992,10 +2333,12 @@
 		"site": "https://app.pulsar.finance/portfolio",
 		"url": "https://app.pulsar.finance/portfolio",
 		"external": false,
-		"categories": ["Wallet"],
+		"categories": [
+			"Wallet"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/PulsarFinance.png"
-	  },
-	  {
+	},
+	{
 		"author": "Punk Domains",
 		"id": "punk-domains",
 		"title": "Punk Domains",
@@ -2004,10 +2347,12 @@
 		"site": "https://punk.domains/#/",
 		"url": "https://punk.domains/#/",
 		"external": false,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/punkDomains.png"
-	  },
-	  {
+	},
+	{
 		"author": "Rabby",
 		"id": "rabby",
 		"title": "Rabby",
@@ -2016,10 +2361,12 @@
 		"site": "https://rabby.io/",
 		"url": "https://rabby.io/",
 		"external": true,
-		"categories": ["Wallet"],
+		"categories": [
+			"Wallet"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Rabby.jpg"
-	  },
-	  {
+	},
+	{
 		"author": "Rainbow",
 		"id": "rainbow",
 		"title": "Rainbow",
@@ -2028,10 +2375,13 @@
 		"site": "https://rainbow.me/",
 		"url": "https://rainbow.me/",
 		"external": true,
-		"categories": ["Wallet", "Incentives"],
+		"categories": [
+			"Wallet",
+			"Incentives"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Rainbow.png"
-	  },
-	  {
+	},
+	{
 		"author": "Ramp",
 		"id": "ramp",
 		"title": "Ramp",
@@ -2040,10 +2390,12 @@
 		"site": "https://ramp.network/",
 		"url": "https://app.ramp.network/",
 		"external": false,
-		"categories": ["Fiat On-Ramp"],
+		"categories": [
+			"Fiat On-Ramp"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/ramp.png"
-	  },
-	  {
+	},
+	{
 		"author": "Reaper Farm",
 		"id": "reaper-farm",
 		"title": "Reaper Farm",
@@ -2052,10 +2404,12 @@
 		"site": "https://reaper.farm",
 		"url": "https://reaper.farm",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/ReaperFarm.jpeg"
-	  },
-	  {
+	},
+	{
 		"author": "ReHold",
 		"id": "rehold",
 		"title": "ReHold",
@@ -2064,10 +2418,12 @@
 		"site": "https://rehold.io/",
 		"url": "https://app.rehold.io/",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/rehold.svg"
-	  },
-	  {
+	},
+	{
 		"author": "Request Finance",
 		"id": "request-finance",
 		"title": "Request Finance",
@@ -2076,10 +2432,12 @@
 		"site": "https://www.request.finance/",
 		"url": "https://www.request.finance/",
 		"external": true,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/request-finance.png"
-	  },
-	  {
+	},
+	{
 		"author": "Reveel",
 		"id": "reveel",
 		"title": "Reveel",
@@ -2088,10 +2446,12 @@
 		"site": "https://www.r3vl.xyz/",
 		"url": "https://app.r3vl.xyz/",
 		"external": false,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Reveel.png"
-	  },
-	  {
+	},
+	{
 		"author": "Revert",
 		"id": "revert",
 		"title": "Revert",
@@ -2100,10 +2460,12 @@
 		"site": "https://revert.finance/",
 		"url": "https://revert.finance/",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/revert.png"
-	  },
-	  {
+	},
+	{
 		"author": "REYIELD Finance",
 		"id": "reyield-finance",
 		"title": "REYIELD Finance",
@@ -2112,10 +2474,12 @@
 		"site": "https://www.reyield.fi/",
 		"url": "https://www.reyield.fi/app/explore",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/REYIELD-Finance.jpg"
-	  },
-	  {
+	},
+	{
 		"author": "Roobee",
 		"id": "roobee",
 		"title": "Roobee",
@@ -2124,10 +2488,12 @@
 		"site": "https://roobee.finance/",
 		"url": "https://app.roobee.finance/",
 		"external": false,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/roobee.png"
-	  },
-	  {
+	},
+	{
 		"author": "Router Protocol",
 		"id": "router-protocol",
 		"title": "Router Protocol",
@@ -2136,10 +2502,12 @@
 		"site": "https://app.routerprotocol.com/",
 		"url": "https://app.routerprotocol.com/",
 		"external": false,
-		"categories": ["Bridge"],
+		"categories": [
+			"Bridge"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/router-protocol.png"
-	  },
-	  {
+	},
+	{
 		"author": "Rubic",
 		"id": "rubic",
 		"title": "Rubic",
@@ -2148,10 +2516,12 @@
 		"site": "https://rubic.exchange/",
 		"url": "https://app.rubic.exchange/",
 		"external": false,
-		"categories": ["Bridge"],
+		"categories": [
+			"Bridge"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Rubic.png"
-	  },
-	  {
+	},
+	{
 		"author": "Rubicon",
 		"id": "rubicon",
 		"title": "Rubicon",
@@ -2160,10 +2530,13 @@
 		"site": "https://app.rubicon.finance/",
 		"url": "https://app.rubicon.finance/",
 		"external": false,
-		"categories": ["DeFi", "Incentives"],
+		"categories": [
+			"DeFi",
+			"Incentives"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Rubicon.png"
-	  },
-	  {
+	},
+	{
 		"author": "Sablier",
 		"id": "sablier",
 		"title": "Sablier",
@@ -2172,10 +2545,12 @@
 		"site": "https://sablier.finance/",
 		"url": "https://app.sablier.finance/",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/sablier.png"
-	  },
-	  {
+	},
+	{
 		"author": "Sentio",
 		"id": "sentio",
 		"title": "Sentio",
@@ -2184,10 +2559,12 @@
 		"site": "https://www.sentio.xyz/",
 		"url": "https://app.sentio.xyz/projects",
 		"external": false,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Sentio.png"
-	  },
-	  {
+	},
+	{
 		"author": "ShapeShift",
 		"id": "shapeshift",
 		"title": "ShapeShift",
@@ -2196,10 +2573,12 @@
 		"site": "https://shapeshift.com",
 		"url": "https://app.shapeshift.com",
 		"external": true,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/shapeshift.png"
-	  },
-	  {
+	},
+	{
 		"author": "Shield Protocol",
 		"id": "shield-protocol",
 		"title": "Shield Protocol",
@@ -2208,10 +2587,12 @@
 		"site": "https://shieldprotocol.org/",
 		"url": "https://shieldprotocol.org/",
 		"external": true,
-		"categories": ["Wallet"],
+		"categories": [
+			"Wallet"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/shield-protocol.png"
-	  },
-	  {
+	},
+	{
 		"author": "Slingshot",
 		"id": "slingshot",
 		"title": "Slingshot",
@@ -2220,10 +2601,13 @@
 		"site": "https://slingshot.finance/",
 		"url": "https://app.slingshot.finance/",
 		"external": false,
-		"categories": ["DeFi", "Incentives"],
+		"categories": [
+			"DeFi",
+			"Incentives"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/slingshot.png"
-	  },
-	  {
+	},
+	{
 		"author": "Sonne Finance",
 		"id": "sonne-finance",
 		"title": "Sonne Finance",
@@ -2232,10 +2616,12 @@
 		"site": "https://sonne.finance",
 		"url": "https://sonne.finance",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/sonne.jpeg"
-	  },
-	  {
+	},
+	{
 		"author": "Sourcify",
 		"id": "sourcify",
 		"title": "Sourcify",
@@ -2244,10 +2630,12 @@
 		"site": "https://repo.sourcify.dev/select-contract",
 		"url": "https://repo.sourcify.dev/select-contract",
 		"external": false,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Sourcify.jpg"
-	  },
-	  {
+	},
+	{
 		"author": "Speedboat",
 		"id": "speedboat",
 		"title": "Speedboat",
@@ -2256,10 +2644,12 @@
 		"site": "https://speedboat.studio/",
 		"url": "https://app.speedboat.studio/",
 		"external": false,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/speedboat.png"
-	  },
-	  {
+	},
+	{
 		"author": "Superfluid",
 		"id": "superfluid",
 		"title": "Superfluid",
@@ -2268,10 +2658,12 @@
 		"site": "https://www.superfluid.finance/home",
 		"url": "https://www.superfluid.finance/home",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/superfluid.svg"
-	  },
-	  {
+	},
+	{
 		"author": "SushiSwap",
 		"id": "sushiswap",
 		"title": "SushiSwap",
@@ -2280,10 +2672,13 @@
 		"site": "https://www.sushi.com/",
 		"url": "https://www.sushi.com/swap",
 		"external": false,
-		"categories": ["DeFi", "Incentives"],
+		"categories": [
+			"DeFi",
+			"Incentives"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/sushi.png"
-	  },
-	  {
+	},
+	{
 		"author": "Symbiosis",
 		"id": "symbiosis",
 		"title": "Symbiosis",
@@ -2292,10 +2687,12 @@
 		"site": "https://symbiosis.finance/",
 		"url": "https://app.symbiosis.finance/",
 		"external": true,
-		"categories": ["Bridge"],
+		"categories": [
+			"Bridge"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Symbiosis.jpg"
-	  },
-	  {
+	},
+	{
 		"author": "Synapse Protocol",
 		"id": "synapse-protocol",
 		"title": "Synapse Protocol",
@@ -2304,10 +2701,13 @@
 		"site": "https://synapseprotocol.com/?inputCurrency=USDC&outputCurrency=USDC&outputChain=10",
 		"url": "https://synapseprotocol.com/?inputCurrency=USDC&outputCurrency=USDC&outputChain=10",
 		"external": false,
-		"categories": ["Bridge", "Incentives"],
+		"categories": [
+			"Bridge",
+			"Incentives"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/synapse-protocol.png"
-	  },
-	  {
+	},
+	{
 		"author": "Synfutures",
 		"id": "synfutures",
 		"title": "Synfutures",
@@ -2316,10 +2716,12 @@
 		"site": "http://synfutures.com/",
 		"url": "https://trade.synfutures.com/#/trade",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/synfutures.png"
-	  },
-	  {
+	},
+	{
 		"author": "Taho",
 		"id": "taho",
 		"title": "Taho",
@@ -2328,10 +2730,12 @@
 		"site": "https://taho.xyz/",
 		"url": "https://app.taho.xyz/",
 		"external": false,
-		"categories": ["Wallet"],
+		"categories": [
+			"Wallet"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Taho.png"
-	  },
-	  {
+	},
+	{
 		"author": "Tally",
 		"id": "tally",
 		"title": "Tally",
@@ -2340,10 +2744,12 @@
 		"site": "https://tally.xyz",
 		"url": "https://www.tally.xyz/user/your-daos",
 		"external": false,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Tally.png"
-	  },
-	  {
+	},
+	{
 		"author": "Tarot",
 		"id": "tarot",
 		"title": "Tarot",
@@ -2352,10 +2758,12 @@
 		"site": "https://www.tarot.to/",
 		"url": "https://www.tarot.to/",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/tarot.png"
-	  },
-	  {
+	},
+	{
 		"author": "Teahouse Finance",
 		"id": "teahouse-finance",
 		"title": "Teahouse Finance",
@@ -2364,10 +2772,12 @@
 		"site": "https://teahouse.finance/",
 		"url": "https://vault.teahouse.finance/",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Teahouse.png"
-	  },
-	  {
+	},
+	{
 		"author": "The Granary",
 		"id": "the-granary",
 		"title": "The Granary",
@@ -2376,10 +2786,12 @@
 		"site": "https://granary.finance/markets",
 		"url": "https://granary.finance/markets",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/the-granary.png"
-	  },
-	  {
+	},
+	{
 		"author": "TokenPocket",
 		"id": "tokenpocket",
 		"title": "TokenPocket",
@@ -2388,10 +2800,12 @@
 		"site": "https://www.tokenpocket.pro/",
 		"url": "https://www.tokenpocket.pro/",
 		"external": true,
-		"categories": ["Wallet"],
+		"categories": [
+			"Wallet"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/TokenPocket.png"
-	  },
-	  {
+	},
+	{
 		"author": "Tokensoft",
 		"id": "tokensoft",
 		"title": "Tokensoft",
@@ -2400,10 +2814,12 @@
 		"site": "https://tokensoft.io",
 		"url": "https://app.tokensoft.io",
 		"external": true,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Tokensoft.jpeg"
-	  },
-	  {
+	},
+	{
 		"author": "Toros",
 		"id": "toros",
 		"title": "Toros",
@@ -2412,10 +2828,12 @@
 		"site": "https://toros.finance/",
 		"url": "https://app.toros.finance/",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Toros.png"
-	  },
-	  {
+	},
+	{
 		"author": "TrueFi",
 		"id": "truefi",
 		"title": "TrueFi",
@@ -2424,10 +2842,12 @@
 		"site": "https://truefi.io",
 		"url": "https://app.truefi.io",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/TrueFi.png"
-	  },
-	  {
+	},
+	{
 		"author": "Trust Wallet",
 		"id": "trust-wallet",
 		"title": "Trust Wallet",
@@ -2436,10 +2856,12 @@
 		"site": "https://trustwallet.com/",
 		"url": "https://trustwallet.com/",
 		"external": true,
-		"categories": ["Wallet"],
+		"categories": [
+			"Wallet"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/TrustWallet.png"
-	  },
-	  {
+	},
+	{
 		"author": "Turnkey",
 		"id": "turnkey",
 		"title": "Turnkey",
@@ -2448,10 +2870,12 @@
 		"site": "https://www.turnkey.com/",
 		"url": "https://www.turnkey.com/",
 		"external": true,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Turnkey.png"
-	  },
-	  {
+	},
+	{
 		"author": "Umbra",
 		"id": "umbra",
 		"title": "Umbra",
@@ -2460,10 +2884,12 @@
 		"site": "https://app.umbra.cash/",
 		"url": "https://app.umbra.cash/",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/umbra.png"
-	  },
-	  {
+	},
+	{
 		"author": "Union",
 		"id": "union",
 		"title": "Union",
@@ -2472,10 +2898,12 @@
 		"site": "https://union.finance",
 		"url": "https://app.union.finance",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Union.png"
-	  },
-	  {
+	},
+	{
 		"author": "Unstoppable Wallet",
 		"id": "unstoppable-wallet",
 		"title": "Unstoppable Wallet",
@@ -2484,10 +2912,12 @@
 		"site": "https://unstoppable.money/",
 		"url": "https://unstoppable.money/",
 		"external": true,
-		"categories": ["Wallet"],
+		"categories": [
+			"Wallet"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/unstoppable.svg"
-	  },
-	  {
+	},
+	{
 		"author": "Utopia Labs",
 		"id": "utopia-labs",
 		"title": "Utopia Labs",
@@ -2496,10 +2926,12 @@
 		"site": "https://www.utopialabs.com/",
 		"url": "https://www.utopialabs.com/",
 		"external": true,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Utopia.png"
-	  },
-	  {
+	},
+	{
 		"author": "Vesper",
 		"id": "vesper",
 		"title": "Vesper",
@@ -2508,10 +2940,13 @@
 		"site": "https://vesper.finance/",
 		"url": "https://app.vesper.finance/",
 		"external": false,
-		"categories": ["DeFi", "Incentives"],
+		"categories": [
+			"DeFi",
+			"Incentives"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Vesper.jpg"
-	  },
-	  {
+	},
+	{
 		"author": "Via Protocol",
 		"id": "via-protocol",
 		"title": "Via Protocol",
@@ -2520,10 +2955,12 @@
 		"site": "https://via.exchange/",
 		"url": "https://router.via.exchange/",
 		"external": false,
-		"categories": ["Bridge"],
+		"categories": [
+			"Bridge"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/via.jpeg"
-	  },
-	  {
+	},
+	{
 		"author": "WardenSwap",
 		"id": "wardenswap",
 		"title": "WardenSwap",
@@ -2532,10 +2969,13 @@
 		"site": "https://www.wardenswap.com/",
 		"url": "https://www.wardenswap.com/",
 		"external": false,
-		"categories": ["DeFi", "Incentives"],
+		"categories": [
+			"DeFi",
+			"Incentives"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/WardenSwap.png"
-	  },
-	  {
+	},
+	{
 		"author": "WePiggy",
 		"id": "wepiggy",
 		"title": "WePiggy",
@@ -2544,10 +2984,13 @@
 		"site": "https://wepiggy.com/",
 		"url": "https://app.wepiggy.com/",
 		"external": true,
-		"categories": ["DeFi", "Incentives"],
+		"categories": [
+			"DeFi",
+			"Incentives"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/WePiggy.jpg"
-	  },
-	  {
+	},
+	{
 		"author": "XBANKING",
 		"id": "xbanking",
 		"title": "XBANKING",
@@ -2556,10 +2999,12 @@
 		"site": "https://xbanking.org",
 		"url": "https://app.xbanking.org",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Xbanking.png"
-	  },
-	  {
+	},
+	{
 		"author": "XDAO",
 		"id": "xdao",
 		"title": "XDAO",
@@ -2568,10 +3013,12 @@
 		"site": "https://www.xdao.app/",
 		"url": "https://www.xdao.app/137",
 		"external": false,
-		"categories": ["DAO"],
+		"categories": [
+			"DAO"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/xdao.png"
-	  },
-	  {
+	},
+	{
 		"author": "xToken",
 		"id": "xtoken",
 		"title": "xToken",
@@ -2580,10 +3027,13 @@
 		"site": "https://xtokenterminal.io/",
 		"url": "https://app.xtokenterminal.io/",
 		"external": false,
-		"categories": ["DeFi", "Incentives"],
+		"categories": [
+			"DeFi",
+			"Incentives"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/xtoken.png"
-	  },
-	  {
+	},
+	{
 		"author": "XY Finance",
 		"id": "xy-finance",
 		"title": "XY Finance",
@@ -2592,10 +3042,12 @@
 		"site": "https://xy.finance/",
 		"url": "https://app.xy.finance/",
 		"external": false,
-		"categories": ["Bridge"],
+		"categories": [
+			"Bridge"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/XY_Finance.png"
-	  },
-	  {
+	},
+	{
 		"author": "YaspFi",
 		"id": "yaspfi",
 		"title": "YaspFi",
@@ -2604,10 +3056,12 @@
 		"site": "https://yasp.fi/",
 		"url": "https://app.yasp.fi/",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/YaspfiLogo.png"
-	  },
-	  {
+	},
+	{
 		"author": "Zapper",
 		"id": "zapper",
 		"title": "Zapper",
@@ -2616,10 +3070,12 @@
 		"site": "https://zapper.fi",
 		"url": "https://zapper.fi",
 		"external": false,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Zapper.png"
-	  },
-	  {
+	},
+	{
 		"author": "Zerion",
 		"id": "zerion",
 		"title": "Zerion",
@@ -2628,10 +3084,12 @@
 		"site": "https://zerion.io/",
 		"url": "https://app.zerion.io/",
 		"external": false,
-		"categories": ["Wallet"],
+		"categories": [
+			"Wallet"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/zerion.svg"
-	  },
-	  {
+	},
+	{
 		"author": "zeroDAO",
 		"id": "zerodao",
 		"title": "zeroDAO",
@@ -2640,10 +3098,12 @@
 		"site": "https://zerodao.com/",
 		"url": "https://app.zerodao.com/",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/zero-dao.png"
-	  },
-	  {
+	},
+	{
 		"author": "Zertidocs",
 		"id": "zertidocs",
 		"title": "Zertidocs",
@@ -2652,10 +3112,12 @@
 		"site": "https://zertidocs.com/",
 		"url": "https://zertidocs.com/",
 		"external": false,
-		"categories": ["Infra & Dev tooling"],
+		"categories": [
+			"Infra & Dev tooling"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/zertifier.jpeg"
-	  },
-	  {
+	},
+	{
 		"author": "ZippyInu",
 		"id": "zippyinu",
 		"title": "ZippyInu",
@@ -2664,10 +3126,12 @@
 		"site": "https://www.zippyinu.com/",
 		"url": "https://www.zippyinu.com/Locker",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/zippy-inu.png"
-	  },
-	  {
+	},
+	{
 		"author": "ZipSwap",
 		"id": "zipswap",
 		"title": "ZipSwap",
@@ -2676,7 +3140,9 @@
 		"site": "https://zipswap.fi/",
 		"url": "https://zipswap.fi/",
 		"external": false,
-		"categories": ["DeFi"],
+		"categories": [
+			"DeFi"
+		],
 		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/zipswap.png"
-	  }
+	}
 ]
