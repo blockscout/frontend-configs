@@ -300,7 +300,7 @@
     "site": "https://alchemix.fi",
     "url": "https://app.alchemix.fi",
     "external": false,
-    "categories": ["DeFi", "Incentives"],
+    "categories": ["DeFi"],
     "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/alchemix.jpeg"
   },
   {
@@ -348,7 +348,7 @@
     "site": "https://www.angle.money/",
     "url": "https://app.angle.money/",
     "external": true,
-    "categories": ["DeFi", "Incentives"],
+    "categories": ["DeFi"],
     "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/angle.svg"
   },
   {
@@ -492,7 +492,7 @@
     "site": "https://op.beets.fi/#/",
     "url": "https://op.beets.fi/#/",
     "external": false,
-    "categories": ["DeFi", "Incentives"],
+    "categories": ["DeFi"],
     "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/beethoven-x.jpeg"
   },
   {
@@ -518,18 +518,6 @@
     "external": false,
     "categories": ["DeFi"],
     "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/BitBTC.png"
-  },
-  {
-    "author": "Bitget",
-    "id": "bitget",
-    "title": "Bitget",
-    "description": "Bitget is the world\u2019s leading digital asset trading platform with 2 million registered users worldwide, offering spot trading, futures trading and digital asset purchasing services.",
-    "shortDescription": "Bitget is the world\u2019s leading digital asset trading platform with 2 million registered users worldwide, offering spot trading, futures trading and digital asset purchasing services.",
-    "site": "https://www.bitget.com/en/",
-    "url": "https://www.bitget.com/en/",
-    "external": false,
-    "categories": ["Fiat On-Ramp"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/bitget.jpeg"
   },
   {
     "author": "BlockVision",
@@ -708,7 +696,7 @@
     "site": "https://clipper.exchange/",
     "url": "https://clipper.exchange/app/liquidity",
     "external": false,
-    "categories": ["DeFi", "Incentives"],
+    "categories": ["DeFi"],
     "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/clipper.jpeg"
   },
   {
@@ -948,7 +936,7 @@
     "site": "https://app.dforce.network/#/Markets/Optimism?AssetsType=Lend&currentPool=general",
     "url": "https://app.dforce.network/#/Markets/Optimism?AssetsType=Lend&currentPool=general",
     "external": false,
-    "categories": ["DeFi", "Incentives"],
+    "categories": ["DeFi"],
     "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/dForce.png"
   },
   {
@@ -1032,7 +1020,7 @@
     "site": "https://exact.ly/",
     "url": "https://app.exact.ly/",
     "external": false,
-    "categories": ["DeFi", "Incentives"],
+    "categories": ["DeFi"],
     "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/ExactlyProtocol.png"
   },
   {
@@ -1044,7 +1032,7 @@
     "site": "https://exoticmarkets.xyz/#/",
     "url": "https://exoticmarkets.xyz/#/markets",
     "external": false,
-    "categories": ["DeFi", "Incentives"],
+    "categories": ["DeFi"],
     "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/exotic-markets.png"
   },
   {
@@ -1140,7 +1128,7 @@
     "site": "https://www.gamma.xyz/",
     "url": "https://app.gamma.xyz/",
     "external": false,
-    "categories": ["DeFi", "Incentives"],
+    "categories": ["DeFi"],
     "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/gamma.png"
   },
   {
@@ -1260,7 +1248,7 @@
     "site": "https://app.hop.exchange/send?sourceNetwork=ethereum&destNetwork=optimism&token=USDC",
     "url": "https://app.hop.exchange/send?sourceNetwork=ethereum&destNetwork=optimism&token=USDC",
     "external": true,
-    "categories": ["Bridge", "Incentives"],
+    "categories": ["Bridge"],
     "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/HopExchange.png"
   },
   {
@@ -1272,7 +1260,7 @@
     "site": "https://hundred.finance/",
     "url": "https://app.hundred.finance/",
     "external": false,
-    "categories": ["DeFi", "Incentives"],
+    "categories": ["DeFi"],
     "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/hundred-finance.png"
   },
   {
@@ -1392,7 +1380,7 @@
     "site": "https://juno.finance/",
     "url": "https://app.juno.finance/",
     "external": true,
-    "categories": ["Fiat On-Ramp"],
+    "categories": ["DeFi"],
     "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Juno.png"
   },
   {
@@ -1404,7 +1392,7 @@
     "site": "https://www.kado.money/",
     "url": "https://app.kado.money/",
     "external": false,
-    "categories": ["Fiat On-Ramp"],
+    "categories": ["Payments", "DeFi"],
     "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/kado.png"
   },
   {
@@ -1476,7 +1464,7 @@
     "site": "https://www.layer2dao.org/",
     "url": "https://www.layer2dao.org/",
     "external": false,
-    "categories": ["Incentives", "DAO"],
+    "categories": ["DAO"],
     "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/layer-2-dao.png"
   },
   {
@@ -1800,7 +1788,7 @@
     "site": "https://onramp.money/",
     "url": "https://onramp.money/",
     "external": false,
-    "categories": ["Fiat On-Ramp"],
+    "categories": ["DeFi", "Payments"],
     "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/OnrampMoney.svg"
   },
   {
@@ -1860,7 +1848,7 @@
     "site": "https://overtimemarkets.xyz/#/markets",
     "url": "https://overtimemarkets.xyz/#/markets",
     "external": false,
-    "categories": ["DeFi", "Incentives"],
+    "categories": ["DeFi"],
     "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/overtime.png"
   },
   {
@@ -1932,7 +1920,7 @@
     "site": "https://app.pickle.finance/",
     "url": "https://app.pickle.finance/",
     "external": false,
-    "categories": ["DeFi", "Incentives"],
+    "categories": ["DeFi"],
     "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/pickle-finance.png"
   },
   {
@@ -1944,7 +1932,7 @@
     "site": "https://app.pikaprotocol.com/",
     "url": "https://app.pikaprotocol.com/",
     "external": false,
-    "categories": ["DeFi", "Incentives"],
+    "categories": ["DeFi"],
     "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/PikaProtocol.png"
   },
   {
@@ -2016,7 +2004,7 @@
     "site": "https://rainbow.me/",
     "url": "https://rainbow.me/",
     "external": true,
-    "categories": ["Wallet", "Incentives"],
+    "categories": ["Wallet"],
     "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Rainbow.png"
   },
   {
@@ -2028,7 +2016,7 @@
     "site": "https://ramp.network/",
     "url": "https://app.ramp.network/",
     "external": false,
-    "categories": ["Fiat On-Ramp"],
+    "categories": ["DeFi", "Payments"],
     "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/ramp.png"
   },
   {
@@ -2148,7 +2136,7 @@
     "site": "https://app.rubicon.finance/",
     "url": "https://app.rubicon.finance/",
     "external": false,
-    "categories": ["DeFi", "Incentives"],
+    "categories": ["DeFi"],
     "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Rubicon.png"
   },
   {
@@ -2208,7 +2196,7 @@
     "site": "https://slingshot.finance/",
     "url": "https://app.slingshot.finance/",
     "external": false,
-    "categories": ["DeFi", "Incentives"],
+    "categories": ["DeFi"],
     "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/slingshot.png"
   },
   {
@@ -2268,7 +2256,7 @@
     "site": "https://www.sushi.com/",
     "url": "https://www.sushi.com/swap",
     "external": false,
-    "categories": ["DeFi", "Incentives"],
+    "categories": ["DeFi"],
     "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/sushi.png"
   },
   {
@@ -2292,7 +2280,7 @@
     "site": "https://synapseprotocol.com/?inputCurrency=USDC&outputCurrency=USDC&outputChain=10",
     "url": "https://synapseprotocol.com/?inputCurrency=USDC&outputCurrency=USDC&outputChain=10",
     "external": false,
-    "categories": ["Bridge", "Incentives"],
+    "categories": ["Bridge"],
     "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/synapse-protocol.png"
   },
   {
@@ -2496,7 +2484,7 @@
     "site": "https://vesper.finance/",
     "url": "https://app.vesper.finance/",
     "external": false,
-    "categories": ["DeFi", "Incentives"],
+    "categories": ["DeFi"],
     "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Vesper.jpg"
   },
   {
@@ -2520,7 +2508,7 @@
     "site": "https://www.wardenswap.com/",
     "url": "https://www.wardenswap.com/",
     "external": false,
-    "categories": ["DeFi", "Incentives"],
+    "categories": ["DeFi"],
     "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/WardenSwap.png"
   },
   {
@@ -2532,7 +2520,7 @@
     "site": "https://wepiggy.com/",
     "url": "https://app.wepiggy.com/",
     "external": true,
-    "categories": ["DeFi", "Incentives"],
+    "categories": ["DeFi"],
     "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/WePiggy.jpg"
   },
   {
@@ -2568,7 +2556,7 @@
     "site": "https://xtokenterminal.io/",
     "url": "https://app.xtokenterminal.io/",
     "external": false,
-    "categories": ["DeFi", "Incentives"],
+    "categories": ["DeFi"],
     "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/xtoken.png"
   },
   {
