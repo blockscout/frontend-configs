@@ -4,7 +4,7 @@
     "id": "dackie-swap",
     "title": "Dackie Swap",
     "logo": "https://blockscout-content.s3.amazonaws.com/dackie-swap.png",
-    "categories": ["DeFi", "Exchanges"],
+    "categories": ["DeFi"],
     "shortDescription": "DackieSwap allows you to earn more rewards through Concentrated Liquidity Market Maker (CLMM). Swap and earn with the most trusted DEX on BASE",
     "site": "https://www.dackieswap.xyz/?chain=base",
     "description": "DackieSwap allows you to earn more rewards through Concentrated Liquidity Market Maker (CLMM). Swap and earn with the most trusted DEX on BASE",
