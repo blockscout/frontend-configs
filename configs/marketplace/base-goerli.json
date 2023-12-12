@@ -447,7 +447,7 @@
       "title":"Bungee Exchange",
       "logo":"https://blockscout-content.s3.amazonaws.com/bungee.png",
       "categories":[
-         "Exchanges", "DeFi"
+         "DeFi"
       ],
       "shortDescription":"Bungee moves assets between chains in the most efficient way by plugging into the Socket Liquidity Meta-Layer",
       "site":"https://www.socket.tech/",
