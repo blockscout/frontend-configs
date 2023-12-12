@@ -597,7 +597,7 @@
     "site": "https://clipper.exchange/",
     "url": "https://clipper.exchange/app/swap",
     "external": false,
-    "categories": ["DeFi", "Exchanges"],
+    "categories": ["DeFi"],
     "logo": "https://blockscout-content.s3.amazonaws.com/clipper.png"
   },
   {
