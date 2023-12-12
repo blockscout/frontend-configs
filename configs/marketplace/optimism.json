@@ -1,249 +1,234 @@
-[{
-		"author": "Overnight.fi",
-		"id": "overnight.fi",
-		"title": "Overnight.fi",
-		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/overnight.jpeg",
-		"categories": ["DeFi"],
-		"shortDescription": "Overnight.fi is an asset management protocol offering passive yield products based on delta-neutral strategies for conservative liquidity miners.",
-		"site": "https://overnight.fi",
-		"description": "Overnight.fi is an asset management protocol offering passive yield products based on delta-neutral strategies for conservative liquidity miners.",
-		"external": false,
-		"url": "https://app.overnight.fi/featured?tabName=optimism"
-	},
-	{
-		"author": "WOOFi",
-		"id": "woofi",
-		"title": "WOOFi",
-		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/multisender.svg",
-		"categories": ["DeFi"],
-		"shortDescription": "WOOFi is a one-stop shop with CeFi-grade execution, one-click cross-chain swaps, and single-sided institutional yield opportunities.",
-		"site": "https://fi.woo.org/",
-		"description": "WOOFi is a one-stop shop with CeFi-grade execution, one-click cross-chain swaps, and single-sided institutional yield opportunities.",
-		"external": true,
-		"url": "https://fi.woo.org/"
-	},
-	{
-		"author": "PoolTogether",
-		"id": "pooltogether",
-		"title": "PoolTogether",
-		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/woofi.jpeg",
-		"categories": ["DeFi"],
-		"shortDescription": "PoolTogether is a no loss prize savings protocol. The more you deposit the better your chances to win!",
-		"site": "https://app.pooltogether.com/deposit?network=optimism",
-		"description": "PoolTogether is a no loss prize savings protocol. The more you deposit the better your chances to win!",
-		"external": true,
-		"url": "https://app.pooltogether.com/deposit?network=optimism"
-	},
-	{
-		"author": "Beefy",
-		"id": "beefy",
-		"title": "Beefy",
-		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/beefy.png",
-		"categories": ["DeFi"],
-		"shortDescription": "Beefy Finance is a Multi-Chain Yield Optimizer Protocol.",
-		"site": "https://beefy.com/",
-		"description": "Beefy Finance is a Multi-Chain Yield Optimizer Protocol.",
-		"external": false,
-		"url": "https://app.beefy.com/"
-	},
-	{
-		"author": "Stargate",
-		"id": "stargate",
-		"title": "Stargate",
-		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/stargate.png",
-		"categories": ["DeFi"],
-		"shortDescription": "Stargate is a fully composable liquidity transport protocol that lives at the heart of Omnichain DeFi.",
-		"site": "https://stargate.finance/",
-		"description": "Stargate is a fully composable liquidity transport protocol that lives at the heart of Omnichain DeFi.",
-		"external": false,
-		"url": "https://stargate.finance/transfer"
-	},
-	{
-		"author": "Synthetix",
-		"id": "synthetix",
-		"title": "Synthetix",
-		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/synthetix.png",
-		"categories": ["DeFi"],
-		"shortDescription": "Synthetix is a system designed to let users hold and trade synthetic assets whose value can be tied to real-world assets.",
-		"site": "https://staking.synthetix.io/",
-		"description": "Synthetix is a system designed to let users hold and trade synthetic assets whose value can be tied to real-world assets.",
-		"external": false,
-		"url": "https://staking.synthetix.io/"
-	},
-	{
-		"author": "Perpetual Protocol",
-		"id": "perpetual-protocol",
-		"title": "Perpetual Protocol",
-		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/perpertual.jpeg",
-		"categories": ["DeFi"],
-		"shortDescription": "Decentralized perpetual swap",
-		"site": "https://www.perp.com/",
-		"description": "Decentralized perpetual swap",
-		"external": false,
-		"url": "https://app.perp.com/"
-	},
-	{
-		"author": "Arrakis",
-		"id": "arrakis",
-		"title": "Arrakis",
-		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/arrakis.jpeg",
-		"categories": ["DeFi"],
-		"shortDescription": "Arrakis is a protocol that specializes in concentrated & active liquidity management.",
-		"site": "https://www.arrakis.finance/",
-		"description": "Arrakis is a protocol that specializes in concentrated & active liquidity management.",
-		"external": false,
-		"url": "https://beta.arrakis.finance/vaults"
-	},
-	{
-		"author": "Aktionariat",
-		"id": "aktionariat",
-		"title": "Aktionariat",
-		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/aktionariat.png",
-		"categories": ["Infra & Dev tooling"],
-		"shortDescription": "Provides Swiss Companies with digital tools to create a market for their shares on their website.",
-		"site": "https://www.aktionariat.com/",
-		"description": "Provides Swiss Companies with digital tools to create a market for their shares on their website.",
-		"external": true,
-		"url": "https://www.aktionariat.com/"
-	},
-	{
-		"author": "dHEDGE",
-		"id": "dhedge",
-		"title": "dHEDGE",
-		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/dhedge.png",
-		"categories": ["DeFi"],
-		"shortDescription": "Automated investment management.",
-		"site": "https://www.dhedge.org/",
-		"description": "Automated investment management.",
-		"external": true,
-		"url": "https://app.dhedge.org/"
-	},
-	{
-		"author": "Polynomial Protocol",
-		"id": "polynomial-protocol",
-		"title": "Polynomial Protocol",
-		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/polynomial.jpeg",
-		"categories": ["DeFi"],
-		"shortDescription": "One-stop decentralized options protocol.",
-		"site": "https://www.polynomial.fi/",
-		"description": "One-stop decentralized options protocol.",
-		"external": false,
-		"url": "https://trade.polynomial.fi/"
-	},
-	{
-		"author": "Lyra",
-		"id": "lyra",
-		"title": "Lyra",
-		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/lyra.png",
-		"categories": ["DeFi"],
-		"shortDescription": "Lyra is an automated market maker (AMM) for options trading.",
-		"site": "https://app.lyra.finance/",
-		"description": "Lyra is an automated market maker (AMM) for options trading.",
-		"external": false,
-		"url": "https://trade.polynomial.fi/"
-	},
-	{
-		"author": "Thales",
-		"id": "thales",
-		"title": "Thales",
-		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/thales.png",
-		"categories": ["DeFi"],
-		"shortDescription": "Allows the creation of peer-to-peer parimutuel markets that anyone can join. The foundation of novel on-chain initiatives, from AMM-based positional markets to immersive gamified experiences.",
-		"site": "https://thalesmarket.io/",
-		"description": "Allows the creation of peer-to-peer parimutuel markets that anyone can join. The foundation of novel on-chain initiatives, from AMM-based positional markets to immersive gamified experiences.",
-		"external": true,
-		"url": "https://thalesmarket.io/"
-	},
-{
-		"author": "Optimism Bridge",
-		"id": "optimism-bridge",
-		"title": "Optimism Bridge",
-		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg",
-		"categories": ["Bridge"],
-		"shortDescription": "The Optimism Bridge allows you to transfer assets between L1 and Optimism.",
-		"site": "https://app.optimism.io/bridge/deposit",
-		"description": "The Optimism Bridge allows you to transfer assets between L1 and Optimism.",
-		"external": true,
-		"url": "https://app.optimism.io/bridge/deposit"
-	},
-{
-		"author": "Curve",
-		"id": "curve",
-		"title": "Curve",
-		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/curve.png",
-		"categories": ["DeFi"],
-		"shortDescription": "Creating deep on-chain liquidity using advanced bonding curves",
-		"site": "https://optimism.curve.fi/",
-		"description": "Creating deep on-chain liquidity using advanced bonding curves",
-		"external": false,
-		"url": "https://optimism.curve.fi/"
-	},
+[
   {
-		"author": "Uniswap",
-		"id": "uniswap",
-		"title": "Uniswap",
-		"logo": "https://www.gitbook.com/cdn-cgi/image/width=288,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FT8RR0UqqvH6wAVfaaM4f%252FUniswap.png%3Falt%3Dmedia%26token%3D797851a0-2d80-4f7b-8d80-f9ba664c0b3d",
-		"categories": ["DeFi"],
-		"shortDescription": "Uniswap lets you swap between assets. It is currently the most commonly used OP Mainnet application.",
-		"site": "https://app.uniswap.org/swap",
-		"description": "Uniswap lets you swap between assets. It is currently the most commonly used OP Mainnet application.",
-		"external": false,
-		"url": "https://app.uniswap.org/swap"
-	},
-   {
-		"author": "1inch",
-		"id": "1inch",
-		"title": "1inch",
-		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/1inch.jpg",
-		"categories": ["DeFi"],
-		"shortDescription": "DeFi / DEX aggregator with the most liquidity and the best rates.",
-		"site": "https://app.1inch.io",
-		"description": "DeFi / DEX aggregator with the most liquidity and the best rates.",
-		"external": true,
-		"url": "https://app.1inch.io/#/10/simple/swap/OP"
-	},
+    "author": "Overnight.fi",
+    "id": "overnight.fi",
+    "title": "Overnight.fi",
+    "logo": "https://blockscout-content.s3.amazonaws.com/overnight.png",
+    "categories": ["DeFi"],
+    "shortDescription": "Overnight.fi is an asset management protocol offering passive yield products based on delta-neutral strategies for conservative liquidity miners.",
+    "site": "https://overnight.fi",
+    "description": "Overnight.fi is an asset management protocol offering passive yield products based on delta-neutral strategies for conservative liquidity miners.",
+    "external": false,
+    "url": "https://app.overnight.fi/featured?tabName=optimism"
+  },
   {
-		"author": "Aave",
-		"id": "aave",
-		"title": "Aave",
-		"logo": "https://www.gitbook.com/cdn-cgi/image/width=288,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FaNQY8jHNue30P2caV79v%252FAave.png%3Falt%3Dmedia%26token%3Dda9ea09b-a5d8-4bf1-bdfe-41837eebdd03",
-		"categories": ["DeFi"],
-		"shortDescription": "Aave is a decentralised non-custodial liquidity market protocol where users can participate as suppliers or borrowers. Suppliers provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralised (perpetually) or undercollateralised (one-block liquidity) fashion.",
-		"site": "https://docs.aave.com/faq/",
-		"description": "Aave is a decentralised non-custodial liquidity market protocol where users can participate as suppliers or borrowers. Suppliers provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralised (perpetually) or undercollateralised (one-block liquidity) fashion.",
-		"url": "https://staging.aave.com/?marketName=proto_optimism_goerli_v3"
-	},
-	{
-        "author": "zkBob",
-        "id": "zkbob-wallet",
-        "title": "zkBob Wallet",
-        "logo": "https://ipfs.filebase.io/ipfs/QmS4VomwX1Dh2fGcrVAWDdQFeqWq4XCA2FRTbgBva3bZHX",
-        "categories": [
-            "Wallet"
-        ],
-        "shortDescription": "A Web3 smart-contract privacy wallet based on ZKP technology. zkBob could be used for regular transfers, payments, and much more. Compliance features backed in!",
-        "site": "https://zkbob.com",
-        "description": "zkBob simplifies secure, limited-value, and anonymous token transfers for everyday users. The application accepts WETH, ETH, USDC. Once one of the tokens is deposited in the zkBob app, pool participants can transfer tokens amongst themselves in a private, secure manner. The shielded zkBob pool uses zkproofs to limit public data exposure",
-        "external": false,
-        "url": "https://zkbob-ui-qn7wq2.dappling.eth.limo/#/?pool=BOB2USDC-optimism",
-        "twitter": "https://twitter.com/zkBob_",
-        "telegram": "https://t.me/zkbobcommunity"
-    },
-	{
-        "author": "Allowances Near",
-        "id": "allowances-near",
-        "title": "Find & revoke token allowances",
-        "logo": "https://ipfs.near.social/ipfs/bafkreidx55vwpkujku7agefwy6lsks2dc3lioay7mo4b72wnv2i73x3dxy",
-        "categories": [
-            "Infra & Dev tooling"
-        ],
-        "shortDescription": "The tool helps to scan EVM-Compatible Blockchain transactions to identify approval transactions, which you can then revoke",
-        "site": "https://near.social/mob.near/widget/WidgetSource?src=allowances.near/widget/Index",
-        "description": "The tool helps to scan EVM-Compatible Blockchain transactions to identify approval transactions, which you can then revoke",
-        "external": false,
-        "url": "https://allowances.bos.gg/#"
-    },
-	{
+    "author": "WOOFi",
+    "id": "woofi",
+    "title": "WOOFi",
+    "logo": "https://blockscout-content.s3.amazonaws.com/multisender.png",
+    "categories": ["DeFi"],
+    "shortDescription": "WOOFi is a one-stop shop with CeFi-grade execution, one-click cross-chain swaps, and single-sided institutional yield opportunities.",
+    "site": "https://fi.woo.org/",
+    "description": "WOOFi is a one-stop shop with CeFi-grade execution, one-click cross-chain swaps, and single-sided institutional yield opportunities.",
+    "external": true,
+    "url": "https://fi.woo.org/"
+  },
+  {
+    "author": "PoolTogether",
+    "id": "pooltogether",
+    "title": "PoolTogether",
+    "logo": "https://blockscout-content.s3.amazonaws.com/woofi.png",
+    "categories": ["DeFi"],
+    "shortDescription": "PoolTogether is a no loss prize savings protocol. The more you deposit the better your chances to win!",
+    "site": "https://app.pooltogether.com/deposit?network=optimism",
+    "description": "PoolTogether is a no loss prize savings protocol. The more you deposit the better your chances to win!",
+    "external": true,
+    "url": "https://app.pooltogether.com/deposit?network=optimism"
+  },
+  {
+    "author": "Beefy",
+    "id": "beefy",
+    "title": "Beefy",
+    "logo": "https://blockscout-content.s3.amazonaws.com/beefy.png",
+    "categories": ["DeFi"],
+    "shortDescription": "Beefy Finance is a Multi-Chain Yield Optimizer Protocol.",
+    "site": "https://beefy.com/",
+    "description": "Beefy Finance is a Multi-Chain Yield Optimizer Protocol.",
+    "external": false,
+    "url": "https://app.beefy.com/"
+  },
+  {
+    "author": "Stargate",
+    "id": "stargate",
+    "title": "Stargate",
+    "logo": "https://blockscout-content.s3.amazonaws.com/stargate.png",
+    "categories": ["DeFi"],
+    "shortDescription": "Stargate is a fully composable liquidity transport protocol that lives at the heart of Omnichain DeFi.",
+    "site": "https://stargate.finance/",
+    "description": "Stargate is a fully composable liquidity transport protocol that lives at the heart of Omnichain DeFi.",
+    "external": true,
+    "url": "https://stargate.finance/transfer"
+  },
+  {
+    "author": "Synthetix",
+    "id": "synthetix",
+    "title": "Synthetix",
+    "logo": "https://blockscout-content.s3.amazonaws.com/synthetix.png",
+    "categories": ["DeFi"],
+    "shortDescription": "Synthetix is a system designed to let users hold and trade synthetic assets whose value can be tied to real-world assets.",
+    "site": "https://staking.synthetix.io/",
+    "description": "Synthetix is a system designed to let users hold and trade synthetic assets whose value can be tied to real-world assets.",
+    "external": false,
+    "url": "https://staking.synthetix.io/"
+  },
+  {
+    "author": "Perpetual Protocol",
+    "id": "perpetual-protocol",
+    "title": "Perpetual Protocol",
+    "logo": "https://blockscout-content.s3.amazonaws.com/perpertual.png",
+    "categories": ["DeFi"],
+    "shortDescription": "Decentralized perpetual swap",
+    "site": "https://www.perp.com/",
+    "description": "Decentralized perpetual swap",
+    "external": false,
+    "url": "https://app.perp.com/"
+  },
+  {
+    "author": "Arrakis",
+    "id": "arrakis",
+    "title": "Arrakis",
+    "logo": "https://blockscout-content.s3.amazonaws.com/arrakis.png",
+    "categories": ["DeFi"],
+    "shortDescription": "Arrakis is a protocol that specializes in concentrated & active liquidity management.",
+    "site": "https://www.arrakis.finance/",
+    "description": "Arrakis is a protocol that specializes in concentrated & active liquidity management.",
+    "external": false,
+    "url": "https://beta.arrakis.finance/vaults"
+  },
+  {
+    "author": "dHEDGE",
+    "id": "dhedge",
+    "title": "dHEDGE",
+    "logo": "https://blockscout-content.s3.amazonaws.com/dhedge.png",
+    "categories": ["DeFi"],
+    "shortDescription": "Automated investment management.",
+    "site": "https://www.dhedge.org/",
+    "description": "Automated investment management.",
+    "external": true,
+    "url": "https://app.dhedge.org/"
+  },
+  {
+    "author": "Polynomial Protocol",
+    "id": "polynomial-protocol",
+    "title": "Polynomial Protocol",
+    "logo": "https://blockscout-content.s3.amazonaws.com/polynomial.png",
+    "categories": ["DeFi"],
+    "shortDescription": "One-stop decentralized options protocol.",
+    "site": "https://www.polynomial.fi/",
+    "description": "One-stop decentralized options protocol.",
+    "external": false,
+    "url": "https://trade.polynomial.fi/"
+  },
+  {
+    "author": "Lyra",
+    "id": "lyra",
+    "title": "Lyra",
+    "logo": "https://blockscout-content.s3.amazonaws.com/lyra.png",
+    "categories": ["DeFi"],
+    "shortDescription": "Lyra is an automated market maker (AMM) for options trading.",
+    "site": "https://app.lyra.finance/",
+    "description": "Lyra is an automated market maker (AMM) for options trading.",
+    "external": false,
+    "url": "https://app.lyra.finance/"
+  },
+  {
+    "author": "Thales",
+    "id": "thales",
+    "title": "Thales",
+    "logo": "https://blockscout-content.s3.amazonaws.com/thales.png",
+    "categories": ["DeFi"],
+    "shortDescription": "Allows the creation of peer-to-peer parimutuel markets that anyone can join. The foundation of novel on-chain initiatives, from AMM-based positional markets to immersive gamified experiences.",
+    "site": "https://thalesmarket.io/",
+    "description": "Allows the creation of peer-to-peer parimutuel markets that anyone can join. The foundation of novel on-chain initiatives, from AMM-based positional markets to immersive gamified experiences.",
+    "external": true,
+    "url": "https://thalesmarket.io/markets"
+  },
+  {
+    "author": "Optimism Bridge",
+    "id": "optimism-bridge",
+    "title": "Optimism Bridge",
+    "logo": "https://blockscout-content.s3.amazonaws.com/optimism-icon.svg",
+    "categories": ["Bridge"],
+    "shortDescription": "The Optimism Bridge allows you to transfer assets between L1 and Optimism.",
+    "site": "https://app.optimism.io/bridge/deposit",
+    "description": "The Optimism Bridge allows you to transfer assets between L1 and Optimism.",
+    "external": true,
+    "url": "https://app.optimism.io/bridge/deposit"
+  },
+  {
+    "author": "Curve",
+    "id": "curve",
+    "title": "Curve",
+    "logo": "https://blockscout-content.s3.amazonaws.com/curve.png",
+    "categories": ["DeFi"],
+    "shortDescription": "Creating deep on-chain liquidity using advanced bonding curves",
+    "site": "https://optimism.curve.fi/",
+    "description": "Creating deep on-chain liquidity using advanced bonding curves",
+    "external": false,
+    "url": "https://optimism.curve.fi/"
+  },
+  {
+    "author": "Uniswap",
+    "id": "uniswap",
+    "title": "Uniswap",
+    "logo": "https://blockscout-content.s3.amazonaws.com/uniswap.png",
+    "categories": ["DeFi"],
+    "shortDescription": "Uniswap lets you swap between assets. It is currently the most commonly used OP Mainnet application.",
+    "site": "https://app.uniswap.org/swap",
+    "description": "Uniswap lets you swap between assets. It is currently the most commonly used OP Mainnet application.",
+    "external": false,
+    "url": "https://app.uniswap.org/swap"
+  },
+  {
+    "author": "1inch",
+    "id": "1inch",
+    "title": "1inch",
+    "logo": "https://blockscout-content.s3.amazonaws.com/1inch.png",
+    "categories": ["DeFi"],
+    "shortDescription": "DeFi / DEX aggregator with the most liquidity and the best rates.",
+    "site": "https://app.1inch.io",
+    "description": "DeFi / DEX aggregator with the most liquidity and the best rates.",
+    "external": true,
+    "url": "https://app.1inch.io/#/10/simple/swap/OP"
+  },
+  {
+    "author": "Aave",
+    "id": "aave",
+    "title": "Aave",
+    "logo": "https://blockscout-content.s3.amazonaws.com/aave.png",
+    "categories": ["DeFi"],
+    "shortDescription": "Aave is a decentralised non-custodial liquidity market protocol where users can participate as suppliers or borrowers. Suppliers provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralised (perpetually) or undercollateralised (one-block liquidity) fashion.",
+    "site": "https://docs.aave.com/faq/",
+    "description": "Aave is a decentralised non-custodial liquidity market protocol where users can participate as suppliers or borrowers. Suppliers provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralised (perpetually) or undercollateralised (one-block liquidity) fashion.",
+    "url": "https://app.aave.com/?marketName=proto_optimism_v3"
+  },
+  {
+    "author": "zkBob",
+    "id": "zkbob-wallet",
+    "title": "zkBob Wallet",
+    "logo": "https://blockscout-content.s3.amazonaws.com/zkbob-logo.png",
+    "categories": ["Wallet"],
+    "shortDescription": "A Web3 smart-contract privacy wallet based on ZKP technology. zkBob could be used for regular transfers, payments, and much more. Compliance features backed in!",
+    "site": "https://zkbob.com",
+    "description": "zkBob simplifies secure, limited-value, and anonymous token transfers for everyday users. The application accepts WETH, ETH, USDC. Once one of the tokens is deposited in the zkBob app, pool participants can transfer tokens amongst themselves in a private, secure manner. The shielded zkBob pool uses zkproofs to limit public data exposure",
+    "external": false,
+    "url": "https://zkbob-ui-qn7wq2.dappling.eth.limo/#/?pool=BOB2USDC-optimism",
+    "twitter": "https://twitter.com/zkBob_",
+    "telegram": "https://t.me/zkbobcommunity"
+  },
+  {
+    "author": "Allowances Near",
+    "id": "allowances-near",
+    "title": "Find & revoke token allowances",
+    "logo": "https://blockscout-content.s3.amazonaws.com/near-token-approval.png",
+    "categories": ["Infra & Dev tooling"],
+    "shortDescription": "The tool helps to scan EVM-Compatible Blockchain transactions to identify approval transactions, which you can then revoke",
+    "site": "https://near.social/mob.near/widget/WidgetSource?src=allowances.near/widget/Index",
+    "description": "The tool helps to scan EVM-Compatible Blockchain transactions to identify approval transactions, which you can then revoke",
+    "external": false,
+    "url": "https://allowances.bos.gg/#"
+  },
+  {
     "author": "0xSplits",
     "id": "0xsplits",
     "title": "0xSplits",
@@ -253,7 +238,7 @@
     "url": "https://app.splits.org/accounts/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/0xsplits.svg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/0xsplits.png"
   },
   {
     "author": "Across",
@@ -265,7 +250,7 @@
     "url": "https://across.to/bridge",
     "external": true,
     "categories": ["Bridge"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Across.jpg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/Across.png"
   },
   {
     "author": "Aelin",
@@ -277,7 +262,7 @@
     "url": "https://app.aelin.xyz/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/aelin.jpeg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/aelin.png"
   },
   {
     "author": "AirGap",
@@ -289,7 +274,7 @@
     "url": "https://airgap.it/",
     "external": true,
     "categories": ["Wallet"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/AirGap.svg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/AirGap.png"
   },
   {
     "author": "Alchemix Finance",
@@ -301,19 +286,7 @@
     "url": "https://app.alchemix.fi",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/alchemix.jpeg"
-  },
-  {
-    "author": "Alchemy Notify",
-    "id": "alchemy-notify",
-    "title": "Alchemy Notify",
-    "description": "Alchemy Notify allows developers to send real-time push notifications to users for critical events.",
-    "shortDescription": "Alchemy Notify allows developers to send real-time push notifications to users for critical events.",
-    "site": "https://www.alchemy.com/notify",
-    "url": "https://www.alchemy.com/notify",
-    "external": true,
-    "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/alchemy-notify.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/alchemix.png"
   },
   {
     "author": "Aloe II",
@@ -325,7 +298,7 @@
     "url": "https://app.aloe.capital/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/aloe.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/aloe.png"
   },
   {
     "author": "Altitude",
@@ -334,10 +307,10 @@
     "description": "Altitude is a composable Blue-chip asset bridge built on LayerZero, offering enhanced security via SGF (Secured Guaranteed Finality).",
     "shortDescription": "Altitude is a composable Blue-chip asset bridge built on LayerZero, offering enhanced security via SGF (Secured Guaranteed Finality).",
     "site": "https://www.altitudedefi.com/",
-    "url": "https://www.altitudedefi.com/",
+    "url": "https://www.altitudedefi.com/pool",
     "external": false,
     "categories": ["Bridge"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Altitude.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/Altitude.png"
   },
   {
     "author": "Angle Protocol",
@@ -349,7 +322,7 @@
     "url": "https://app.angle.money/",
     "external": true,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/angle.svg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/angle.png"
   },
   {
     "author": "Ante",
@@ -361,7 +334,7 @@
     "url": "https://app.ante.finance",
     "external": true,
     "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/ante_logo.svg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/ante_logo.png"
   },
   {
     "author": "Arcadia Finance",
@@ -373,7 +346,7 @@
     "url": "https://app.arcadia.finance/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Arcadia.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/Arcadia.png"
   },
   {
     "author": "Arkham",
@@ -385,19 +358,7 @@
     "url": "https://platform.arkhamintelligence.com/",
     "external": true,
     "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/arkham.jpeg"
-  },
-  {
-    "author": "Assure Wallet",
-    "id": "assure-wallet",
-    "title": "Assure Wallet",
-    "description": "Assure is a Web3.0 crypto trading management aggregator as well as a portal for billions of users switching from Web2.0 to Web3.0.",
-    "shortDescription": "Assure is a Web3.0 crypto trading management aggregator as well as a portal for billions of users switching from Web2.0 to Web3.0.",
-    "site": "https://www.assure.pro/#/",
-    "url": "https://www.assure.pro/#/",
-    "external": true,
-    "categories": ["Wallet"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/assure.jpeg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/arkham.png"
   },
   {
     "author": "Aura Finance",
@@ -409,7 +370,7 @@
     "url": "https://app.aura.finance/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/AURA.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/AURA.png"
   },
   {
     "author": "Avault",
@@ -421,7 +382,7 @@
     "url": "https://www.avault.network/vault",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/avault.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/avault.png"
   },
   {
     "author": "AVTrade",
@@ -433,31 +394,7 @@
     "url": "https://avt.trade/#/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/AVT.png"
-  },
-  {
-    "author": "Bakery DAO",
-    "id": "bakery-dao",
-    "title": "Bakery DAO",
-    "description": "The Bakery provides exclusive DeFi research with Web3. Pastries are dynamic NFTs, letting users contribute, level-up, and get rewarded for their info!",
-    "shortDescription": "The Bakery provides exclusive DeFi research with Web3. Pastries are dynamic NFTs, letting users contribute, level-up, and get rewarded for their info!",
-    "site": "https://pastry.xyz/",
-    "url": "https://pastry.xyz/",
-    "external": true,
-    "categories": ["DAO"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/bakery.jpeg"
-  },
-  {
-    "author": "Band Protocol",
-    "id": "band-protocol",
-    "title": "Band Protocol",
-    "description": "Band Protocol is known for its cross-chain data flagship oracle solutions service with the aspiration to build high-quality suites of web3 development.",
-    "shortDescription": "Band Protocol is known for its cross-chain data flagship oracle solutions service with the aspiration to build high-quality suites of web3 development.",
-    "site": "https://bandprotocol.com",
-    "url": "https://bandprotocol.com",
-    "external": true,
-    "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Band.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/AVT.png"
   },
   {
     "author": "BarnBridge",
@@ -469,19 +406,7 @@
     "url": "https://app.barnbridge.com/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/BarnBridge.svg"
-  },
-  {
-    "author": "Beamer",
-    "id": "beamer",
-    "title": "Beamer",
-    "description": "Beamer allows consolidation of assets across rollups, make P2P payments to recipients on other rollups, and access dApps on other rollups.",
-    "shortDescription": "Beamer allows consolidation of assets across rollups, make P2P payments to recipients on other rollups, and access dApps on other rollups.",
-    "site": "https://app.beamerbridge.com/#/",
-    "url": "https://app.beamerbridge.com/#/",
-    "external": false,
-    "categories": ["Bridge"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Beamer.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/BarnBridge.png"
   },
   {
     "author": "Beethoven X",
@@ -493,7 +418,7 @@
     "url": "https://op.beets.fi/#/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/beethoven-x.jpeg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/beethoven-x.png"
   },
   {
     "author": "Biconomy Hyphen",
@@ -505,7 +430,7 @@
     "url": "https://hyphen.biconomy.io/",
     "external": false,
     "categories": ["Bridge"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Bico.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/Bico.png"
   },
   {
     "author": "BitBTC",
@@ -517,7 +442,7 @@
     "url": "https://bitbtc.money/#/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/BitBTC.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/BitBTC.png"
   },
   {
     "author": "BlockVision",
@@ -529,7 +454,7 @@
     "url": "https://dashboard.blockvision.org/welcome",
     "external": true,
     "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/blockVision.svg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/blockVision.png"
   },
   {
     "author": "Boardroom",
@@ -541,7 +466,7 @@
     "url": "https://boardroom.io/optimism",
     "external": false,
     "categories": ["DAO"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Boardroom.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/Boardroom.png"
   },
   {
     "author": "BoringDAO",
@@ -553,7 +478,7 @@
     "url": "https://app.boringdao.com/",
     "external": false,
     "categories": ["DAO"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/boring-dao.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/boring-dao.png"
   },
   {
     "author": "Brave Wallet",
@@ -565,7 +490,7 @@
     "url": "https://brave.com/wallet/",
     "external": true,
     "categories": ["Wallet"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/brave-wallet.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/brave-wallet.png"
   },
   {
     "author": "Bridge Wallet",
@@ -577,7 +502,7 @@
     "url": "https://www.mtpelerin.com/bridge-wallet",
     "external": true,
     "categories": ["Wallet"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/bridge_wallet.svg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/bridge_wallet.png"
   },
   {
     "author": "Bulksender",
@@ -589,7 +514,7 @@
     "url": "https://bulksender.app/",
     "external": false,
     "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/bulksender.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/bulksender.png"
   },
   {
     "author": "Bungee",
@@ -601,7 +526,7 @@
     "url": "https://www.bungee.exchange/",
     "external": false,
     "categories": ["Bridge"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/bungee.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/bungee.png"
   },
   {
     "author": "BwareLabs",
@@ -613,7 +538,7 @@
     "url": "https://blastapi.io/explorer",
     "external": true,
     "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Bware.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/Bware.png"
   },
   {
     "author": "Celer cBridge",
@@ -622,22 +547,10 @@
     "description": "Celer cBridge is a decentralized and non-custodial asset bridge that supports 130+ different tokens across 30+ blockchains and layer-2 rollups.",
     "shortDescription": "Celer cBridge is a decentralized and non-custodial asset bridge that supports 130+ different tokens across 30+ blockchains and layer-2 rollups.",
     "site": "https://cbridge.celer.network/",
-    "url": "https://cbridge.celer.network/",
+    "url": "https://cbridge.celer.network/100/1/SOS",
     "external": false,
     "categories": ["Bridge"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Celer.jpeg"
-  },
-  {
-    "author": "Chainbase",
-    "id": "chainbase",
-    "title": "Chainbase",
-    "description": "Chainbase is a Web3 interaction layer infrastructure that provides open, cloud-based, SQL-generated APIs for real-time multi-chain data query/index.",
-    "shortDescription": "Chainbase is a Web3 interaction layer infrastructure that provides open, cloud-based, SQL-generated APIs for real-time multi-chain data query/index.",
-    "site": "https://chainbase.online/",
-    "url": "https://chainbase.online/",
-    "external": true,
-    "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/chainbase.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/celer.png"
   },
   {
     "author": "ChainHop",
@@ -649,7 +562,7 @@
     "url": "https://app.chainhop.exchange/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/ChainHop.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/ChainHop.png"
   },
   {
     "author": "ChainPort",
@@ -661,7 +574,7 @@
     "url": "https://app.chainport.io/",
     "external": true,
     "categories": ["Bridge"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/ChainPort.svg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/ChainPort.png"
   },
   {
     "author": "ChangeNOW",
@@ -673,19 +586,7 @@
     "url": "https://changenow.io/",
     "external": true,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/ChangeNOW.png"
-  },
-  {
-    "author": "CharmVerse",
-    "id": "charmverse",
-    "title": "CharmVerse",
-    "description": "Web3 community operation platform for members to build relationships, work together and vote.",
-    "shortDescription": "Web3 community operation platform for members to build relationships, work together and vote.",
-    "site": "https://www.charmverse.io/",
-    "url": "https://www.charmverse.io/",
-    "external": true,
-    "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/charmVerse.svg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/ChangeNOW.png"
   },
   {
     "author": "Clipper",
@@ -694,10 +595,10 @@
     "description": "Decentralized exchange (DEX) built to give the self-made crypto trader the best possible prices on small trades (< $10k).",
     "shortDescription": "Decentralized exchange (DEX) built to give the self-made crypto trader the best possible prices on small trades (< $10k).",
     "site": "https://clipper.exchange/",
-    "url": "https://clipper.exchange/app/liquidity",
+    "url": "https://clipper.exchange/app/swap",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/clipper.jpeg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/clipper.png"
   },
   {
     "author": "Clique",
@@ -709,19 +610,7 @@
     "url": "https://clique.social/",
     "external": false,
     "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/clique.jpg"
-  },
-  {
-    "author": "Coin98",
-    "id": "coin98",
-    "title": "Coin98",
-    "description": "Coin98 is a non-custodial, multi-chain wallet and Web3 gateway.",
-    "shortDescription": "Coin98 is a non-custodial, multi-chain wallet and Web3 gateway.",
-    "site": "https://coin98.com/",
-    "url": "https://exchange.coin98.com/",
-    "external": true,
-    "categories": ["Wallet"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Coin98.svg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/clique.png"
   },
   {
     "author": "Coinbase Wallet",
@@ -733,7 +622,7 @@
     "url": "https://wallet.coinbase.com/",
     "external": true,
     "categories": ["Wallet"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/CoinbaseWallet.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/CoinbaseWallet.png"
   },
   {
     "author": "CoinBrain",
@@ -745,7 +634,7 @@
     "url": "https://coinbrain.com",
     "external": false,
     "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/CoinBrain.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/CoinBrain.png"
   },
   {
     "author": "Coinpassport",
@@ -757,7 +646,7 @@
     "url": "https://coinpassport.net/",
     "external": false,
     "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/coinpassport.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/coinpassport.png"
   },
   {
     "author": "Coinshift",
@@ -769,7 +658,7 @@
     "url": "https://app.coinshift.xyz/",
     "external": false,
     "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Coinshift.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/Coinshift.png"
   },
   {
     "author": "CompareNodes",
@@ -781,7 +670,7 @@
     "url": "https://www.comparenodes.com/",
     "external": false,
     "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/comparenodes.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/comparenodes.png"
   },
   {
     "author": "Connext",
@@ -790,10 +679,10 @@
     "description": "Connext is a leading protocol for fast, fully noncustodial transfers and contract calls between EVM-compatible systems.",
     "shortDescription": "Connext is a leading protocol for fast, fully noncustodial transfers and contract calls between EVM-compatible systems.",
     "site": "https://connext.network/",
-    "url": "https://connext.network/",
+    "url": "https://bridge.connext.network/USDC-from-optimism-to-binance",
     "external": true,
     "categories": ["Bridge"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Connext.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/Connext.png"
   },
   {
     "author": "Contango",
@@ -805,7 +694,7 @@
     "url": "https://app.contango.xyz/",
     "external": true,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Contango.jpg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/Contango.png"
   },
   {
     "author": "Cookbook",
@@ -817,19 +706,7 @@
     "url": "https://www.cookbook.dev/",
     "external": true,
     "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/cookbook.png"
-  },
-  {
-    "author": "Cookie3",
-    "id": "cookie3",
-    "title": "Cookie3",
-    "description": "Cookie3 (aka Google Analytics for Web3) supports Web3 projects with measuring attribution and performance of their marketing activities.",
-    "shortDescription": "Cookie3 (aka Google Analytics for Web3) supports Web3 projects with measuring attribution and performance of their marketing activities.",
-    "site": "https://www.cookie3.co/",
-    "url": "https://www.cookie3.co/",
-    "external": true,
-    "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Cookie3.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/cookbook.png"
   },
   {
     "author": "Cryptio",
@@ -841,7 +718,7 @@
     "url": "https://app.cryptio.co/",
     "external": false,
     "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Cryptio.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/Cryptio.png"
   },
   {
     "author": "DAOhaus",
@@ -853,7 +730,7 @@
     "url": "https://app.daohaus.club/",
     "external": false,
     "categories": ["DAO"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/dao-haus.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/dao-haus.png"
   },
   {
     "author": "DAPPAD Launchpad",
@@ -865,7 +742,7 @@
     "url": "https://app.dappad.app/",
     "external": true,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Dappad.jpg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/Dappad.png"
   },
   {
     "author": "DeBank",
@@ -877,7 +754,7 @@
     "url": "https://debank.com/",
     "external": true,
     "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/DeBank.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/DeBank.png"
   },
   {
     "author": "DeFi Saver",
@@ -889,7 +766,7 @@
     "url": "https://app.defisaver.com/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/defisaver.jpeg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/defisaver.png"
   },
   {
     "author": "DeFiEdge",
@@ -901,7 +778,7 @@
     "url": "https://app.defiedge.io/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/defi-edge.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/defi-edge.png"
   },
   {
     "author": "Delegate",
@@ -913,7 +790,7 @@
     "url": "https://delegate.xyz/",
     "external": false,
     "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Delegate.jpg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/Delegate.png"
   },
   {
     "author": "DexGuru",
@@ -925,7 +802,7 @@
     "url": "https://dex.guru/",
     "external": true,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/dexguru.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/dexguru.png"
   },
   {
     "author": "dforce",
@@ -937,7 +814,7 @@
     "url": "https://app.dforce.network/#/Markets/Optimism?AssetsType=Lend&currentPool=general",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/dForce.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/dForce.png"
   },
   {
     "author": "DIA",
@@ -949,7 +826,7 @@
     "url": "https://www.diadata.org/app/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/dia.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/dia.png"
   },
   {
     "author": "Diamond Protocol",
@@ -961,7 +838,7 @@
     "url": "https://app.dmo.finance",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/diamond.jpeg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/diamond.png"
   },
   {
     "author": "DRPC",
@@ -973,7 +850,7 @@
     "url": "https://app.drpc.org/",
     "external": true,
     "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/DRPC.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/DRPC.png"
   },
   {
     "author": "Elk Finance",
@@ -985,7 +862,7 @@
     "url": "https://app.elk.finance/",
     "external": false,
     "categories": ["Bridge"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/elk-finance.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/elk-finance.png"
   },
   {
     "author": "Equilibria",
@@ -997,7 +874,7 @@
     "url": "https://equilibria.fi/stake",
     "external": true,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Equilibria.jpg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/Equilibria.png"
   },
   {
     "author": "EthereansOS",
@@ -1009,7 +886,7 @@
     "url": "https://ethos.eth.limo",
     "external": true,
     "categories": ["DAO"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/eth-os.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/eth-os.png"
   },
   {
     "author": "Exactly Protocol",
@@ -1021,7 +898,7 @@
     "url": "https://app.exact.ly/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/ExactlyProtocol.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/ExactlyProtocol.png"
   },
   {
     "author": "Exotic Markets",
@@ -1033,7 +910,7 @@
     "url": "https://exoticmarkets.xyz/#/markets",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/exotic-markets.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/exotic-markets.png"
   },
   {
     "author": "Extra Finance",
@@ -1045,7 +922,7 @@
     "url": "https://app.extrafi.io",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Extra_Finance.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/Extra_Finance.png"
   },
   {
     "author": "Fjord Foundry",
@@ -1057,7 +934,7 @@
     "url": "https://fjordfoundry.com/",
     "external": false,
     "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/fjord.jpeg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/fjord.png"
   },
   {
     "author": "Forta",
@@ -1069,7 +946,7 @@
     "url": "https://app.forta.network/",
     "external": false,
     "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/forta.jpeg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/forta.png"
   },
   {
     "author": "FoxWallet",
@@ -1081,7 +958,7 @@
     "url": "https://foxwallet.com/en",
     "external": true,
     "categories": ["Wallet"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/FoxWallet.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/FoxWallet.png"
   },
   {
     "author": "Frame",
@@ -1093,7 +970,7 @@
     "url": "https://app.frame.sh",
     "external": false,
     "categories": ["Wallet"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/frame.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/frame.png"
   },
   {
     "author": "Fringe Finance",
@@ -1105,7 +982,7 @@
     "url": "https://app.fringe.fi/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Fringe.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/Fringe.png"
   },
   {
     "author": "Furucombo",
@@ -1117,7 +994,7 @@
     "url": "https://furucombo.app/combo",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Furucombo.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/Furucombo.png"
   },
   {
     "author": "Gamma",
@@ -1129,7 +1006,7 @@
     "url": "https://app.gamma.xyz/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/gamma.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/gamma.png"
   },
   {
     "author": "GeckoTerminal",
@@ -1141,7 +1018,7 @@
     "url": "https://www.geckoterminal.com",
     "external": true,
     "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/gecko-terminal.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/gecko-terminal.png"
   },
   {
     "author": "Gnosis Safe",
@@ -1149,11 +1026,11 @@
     "title": "Gnosis Safe",
     "description": "A programmable, battle-tested multisig that enables users to control their digital assets with granular permissions.",
     "shortDescription": "A programmable, battle-tested multisig that enables users to control their digital assets with granular permissions.",
-    "site": "https://ogg.scopelift.co/",
-    "url": "https://ogg.scopelift.co/",
+    "site": "https://safe.global/",
+    "url": "https://app.safe.global/welcome",
     "external": false,
     "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/gnosis_safe.jpeg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/gnosis_safe.png"
   },
   {
     "author": "Guild",
@@ -1165,7 +1042,7 @@
     "url": "https://guild.xyz/",
     "external": true,
     "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/guild.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/guild.png"
   },
   {
     "author": "Hashflow",
@@ -1177,7 +1054,7 @@
     "url": "https://app.hashflow.com/",
     "external": true,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/hashflow.jpeg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/hashflow.png"
   },
   {
     "author": "Hats Protocol",
@@ -1189,7 +1066,7 @@
     "url": "https://app.hatsprotocol.xyz/",
     "external": false,
     "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/HatsProtocol.jpg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/HatsProtocol.png"
   },
   {
     "author": "Hedgey",
@@ -1201,7 +1078,7 @@
     "url": "https://app.hedgey.finance/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/hedgey.jpeg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/hedgey.png"
   },
   {
     "author": "Holdstation",
@@ -1210,10 +1087,10 @@
     "description": "Holdstation is a non-custodial Web3 wallet for EVM-compatible networks, NFTs supported, multi-platform (IOS, Android, SDK)",
     "shortDescription": "Holdstation is a non-custodial Web3 wallet for EVM-compatible networks, NFTs supported, multi-platform (IOS, Android, SDK)",
     "site": "https://holdstation.com/",
-    "url": "https://app.holdstation.com/",
+    "url": "https://holdstation.exchange/trading?p=BTCUSD",
     "external": false,
     "categories": ["Wallet"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/holdstation.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/holdstation.png"
   },
   {
     "author": "Holograph",
@@ -1225,7 +1102,7 @@
     "url": "https://app.holograph.xyz/",
     "external": false,
     "categories": ["Bridge"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Holograph.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/Holograph.png"
   },
   {
     "author": "Homora V2",
@@ -1237,7 +1114,7 @@
     "url": "https://homora-v2.alphaventuredao.io/",
     "external": true,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/homora.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/homora.png"
   },
   {
     "author": "Hop Exchange",
@@ -1249,7 +1126,7 @@
     "url": "https://app.hop.exchange/send?sourceNetwork=ethereum&destNetwork=optimism&token=USDC",
     "external": true,
     "categories": ["Bridge"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/HopExchange.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/hop.png"
   },
   {
     "author": "Hundred Finance",
@@ -1261,7 +1138,7 @@
     "url": "https://app.hundred.finance/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/hundred-finance.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/hundred-finance.png"
   },
   {
     "author": "HyperPay",
@@ -1273,7 +1150,7 @@
     "url": "https://www.hyperpay.tech/",
     "external": true,
     "categories": ["Wallet"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/hyperpay-wallet.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/hyperpay-wallet.png"
   },
   {
     "author": "Idle Finance",
@@ -1285,7 +1162,7 @@
     "url": "https://app.idle.finance/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/IdleFinance.jpg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/IdleFinance.png"
   },
   {
     "author": "imToken",
@@ -1297,7 +1174,7 @@
     "url": "https://token.im/",
     "external": true,
     "categories": ["Wallet"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/imToken.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/imToken.png"
   },
   {
     "author": "Index Coop",
@@ -1309,7 +1186,7 @@
     "url": "https://app.indexcoop.com/",
     "external": true,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/INDEX.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/INDEX.png"
   },
   {
     "author": "Infinity Wallet",
@@ -1321,7 +1198,7 @@
     "url": "https://infinitywallet.io/",
     "external": true,
     "categories": ["Wallet"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/InfinityWalle.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/InfinityWalle.png"
   },
   {
     "author": "Instadapp",
@@ -1333,7 +1210,7 @@
     "url": "https://defi.instadapp.io/",
     "external": true,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/instadapp.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/instadapp.png"
   },
   {
     "author": "Iron Bank",
@@ -1345,7 +1222,7 @@
     "url": "https://app.ib.xyz/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/iron-bank.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/iron-bank.png"
   },
   {
     "author": "iToken Wallet",
@@ -1357,7 +1234,7 @@
     "url": "https://www.itoken.com/",
     "external": true,
     "categories": ["Wallet"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/itokenWallet.webp"
+    "logo": "https://blockscout-content.s3.amazonaws.com/itokenWallet.png"
   },
   {
     "author": "Jarvis Network",
@@ -1369,7 +1246,7 @@
     "url": "https://jarvis.money/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/jarvis.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/jarvis.png"
   },
   {
     "author": "Juno",
@@ -1381,7 +1258,7 @@
     "url": "https://app.juno.finance/",
     "external": true,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Juno.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/Juno.png"
   },
   {
     "author": "Kado",
@@ -1393,7 +1270,7 @@
     "url": "https://app.kado.money/",
     "external": false,
     "categories": ["Payments", "DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/kado.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/kado.png"
   },
   {
     "author": "KeyFi",
@@ -1405,7 +1282,7 @@
     "url": "https://app.keyfi.com/",
     "external": false,
     "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/keyfi.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/keyfi.png"
   },
   {
     "author": "Kromatika",
@@ -1417,7 +1294,7 @@
     "url": "https://app.kromatika.finance",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Kromatika.jpg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/Kromatika.png"
   },
   {
     "author": "Krystal",
@@ -1426,22 +1303,10 @@
     "description": "Krystal is a multi-chain platform that simplifies & serves all of your DeFi needs.",
     "shortDescription": "Krystal is a multi-chain platform that simplifies & serves all of your DeFi needs.",
     "site": "https://krystal.app/",
-    "url": "https://krystal.app/",
+    "url": "https://defi.krystal.app/overview/",
     "external": true,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Krystal-logo.png"
-  },
-  {
-    "author": "Krystal Wallet",
-    "id": "krystal-wallet",
-    "title": "Krystal Wallet",
-    "description": "Krystal is the simplest web3 wallet for everyone.",
-    "shortDescription": "Krystal is the simplest web3 wallet for everyone.",
-    "site": "https://krystal.app/",
-    "url": "https://defi.krystal.app/",
-    "external": true,
-    "categories": ["Wallet"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Krystal.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/Krystal-logo.png"
   },
   {
     "author": "KyberSwap",
@@ -1453,7 +1318,7 @@
     "url": "https://kyberswap.com/swap",
     "external": true,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/kyberswap.jpeg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/kyberswap.png"
   },
   {
     "author": "Layer2DAO",
@@ -1465,7 +1330,7 @@
     "url": "https://www.layer2dao.org/",
     "external": false,
     "categories": ["DAO"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/layer-2-dao.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/layer-2-dao.png"
   },
   {
     "author": "LayerSwap",
@@ -1477,7 +1342,7 @@
     "url": "https://www.layerswap.io/app",
     "external": false,
     "categories": ["Bridge"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/LayerSwap.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/LayerSwap.png"
   },
   {
     "author": "LayerSync",
@@ -1489,7 +1354,7 @@
     "url": "https://app.layersync.org/",
     "external": false,
     "categories": ["Bridge"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/LayerSync.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/LayerSync.png"
   },
   {
     "author": "LI.FI",
@@ -1501,19 +1366,7 @@
     "url": "https://jumper.exchange/",
     "external": false,
     "categories": ["Bridge"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/lifi.svg"
-  },
-  {
-    "author": "Lighthouse",
-    "id": "lighthouse",
-    "title": "Lighthouse",
-    "description": "Lighthouse is a permanent file storage protocol that provides the ability to pay once for the files and store them forever. Users can verifiably pay for perpetual storage on Optimism.",
-    "shortDescription": "Lighthouse is a permanent file storage protocol that provides the ability to pay once for the files and store them forever. Users can verifiably pay for perpetual storage on Optimism.",
-    "site": "https://www.lighthouse.storage/",
-    "url": "https://files.lighthouse.storage/",
-    "external": false,
-    "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/lighthouse.jpeg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/lifi.png"
   },
   {
     "author": "Lollipop DEX",
@@ -1525,7 +1378,7 @@
     "url": "https://www.lollipop.exchange/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Lollipop.jpg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/Lollipop.png"
   },
   {
     "author": "Mai Finance",
@@ -1537,7 +1390,7 @@
     "url": "https://app.mai.finance/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/mai-finance.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/mai-finance.png"
   },
   {
     "author": "Matcha",
@@ -1549,7 +1402,7 @@
     "url": "https://matcha.xyz/tokens/optimism/eth",
     "external": true,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Matcha.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/Matcha.png"
   },
   {
     "author": "Matrix Farm",
@@ -1561,7 +1414,7 @@
     "url": "https://app.matrix.farm/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/matrix-farm.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/matrix-farm.png"
   },
   {
     "author": "Mean Finance",
@@ -1573,7 +1426,7 @@
     "url": "https://mean.finance/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/meanfi.jpeg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/meanfi.png"
   },
   {
     "author": "MES Protocol",
@@ -1585,7 +1438,7 @@
     "url": "https://app.mesprotocol.com/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/mesprotocol.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/mesprotocol.png"
   },
   {
     "author": "Meson",
@@ -1597,7 +1450,7 @@
     "url": "https://meson.fi",
     "external": false,
     "categories": ["Bridge"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Meson.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/Meson.png"
   },
   {
     "author": "MetalSwap",
@@ -1609,7 +1462,7 @@
     "url": "https://app.metalswap.finance",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/MetalSwap.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/MetalSwap.png"
   },
   {
     "author": "MetaMask",
@@ -1621,7 +1474,7 @@
     "url": "https://metamask.io/",
     "external": true,
     "categories": ["Wallet"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/MetaMask.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/MetaMask.png"
   },
   {
     "author": "Metronome",
@@ -1633,7 +1486,7 @@
     "url": "https://app.metronome.io",
     "external": true,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Metronome.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/Metronome.png"
   },
   {
     "author": "Mintpad",
@@ -1645,7 +1498,7 @@
     "url": "https://app.mintpad.co/",
     "external": true,
     "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/mintpad.jpeg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/mintpad.png"
   },
   {
     "author": "Mummy Finance",
@@ -1657,7 +1510,7 @@
     "url": "https://app.mummy.finance/#/trade",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/MummyFinance.svg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/MummyFinance.png"
   },
   {
     "author": "Nansen",
@@ -1669,7 +1522,7 @@
     "url": "https://app.nansen.ai/",
     "external": true,
     "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/nansen.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/nansen.png"
   },
   {
     "author": "Nested",
@@ -1681,7 +1534,7 @@
     "url": "https://app.nested.fi/",
     "external": true,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/nested.jpeg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/nested.png"
   },
   {
     "author": "NFTScan",
@@ -1693,7 +1546,7 @@
     "url": "https://optimism.nftscan.com/",
     "external": false,
     "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/nftscan.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/nftscan.png"
   },
   {
     "author": "Notum",
@@ -1705,7 +1558,7 @@
     "url": "https://app.notum.ai/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Notum.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/Notum.png"
   },
   {
     "author": "Now Wallet",
@@ -1717,7 +1570,7 @@
     "url": "https://walletnow.app/",
     "external": true,
     "categories": ["Wallet"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/NOW_Wallet.svg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/NOW_Wallet.png"
   },
   {
     "author": "O3 Swap",
@@ -1729,7 +1582,7 @@
     "url": "https://o3swap.com/",
     "external": true,
     "categories": ["Bridge"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/o3-swap.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/o3-swap.png"
   },
   {
     "author": "O3 Wallet",
@@ -1741,7 +1594,7 @@
     "url": "https://o3.network/#/wallet",
     "external": true,
     "categories": ["Wallet"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/o3-wallet.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/o3-wallet.png"
   },
   {
     "author": "Odos",
@@ -1753,7 +1606,7 @@
     "url": "https://app.odos.xyz/",
     "external": true,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/odos.jpg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/odos.png"
   },
   {
     "author": "Olympus DAO",
@@ -1765,7 +1618,7 @@
     "url": "https://app.olympusdao.finance",
     "external": true,
     "categories": ["DAO"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/OlympusDAO.jpeg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/OlympusDAO.png"
   },
   {
     "author": "Omni",
@@ -1777,7 +1630,7 @@
     "url": "https://omni.app",
     "external": false,
     "categories": ["Wallet"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/omni.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/omni.png"
   },
   {
     "author": "Onramp Money",
@@ -1789,7 +1642,7 @@
     "url": "https://onramp.money/",
     "external": false,
     "categories": ["DeFi", "Payments"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/OnrampMoney.svg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/OnrampMoney.png"
   },
   {
     "author": "ONT ID",
@@ -1801,7 +1654,7 @@
     "url": "https://www.onto.app/",
     "external": true,
     "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/OntID.jpg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/OntID.png"
   },
   {
     "author": "OpenOcean",
@@ -1810,10 +1663,10 @@
     "description": "A DEX aggregator integrating the most liquidity sources to bring users the best swap return for decentralized crypto trading.",
     "shortDescription": "A DEX aggregator integrating the most liquidity sources to bring users the best swap return for decentralized crypto trading.",
     "site": "https://openocean.finance/",
-    "url": "https://openocean.app/",
-    "external": false,
+    "url": "https://app.openocean.finance/classic",
+    "external": true,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/open-ocean.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/open-ocean.png"
   },
   {
     "author": "OpenXSwap",
@@ -1825,7 +1678,7 @@
     "url": "https://app.openxswap.exchange",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/openx.jpeg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/openx.png"
   },
   {
     "author": "Orbiter",
@@ -1837,7 +1690,7 @@
     "url": "https://www.orbiter.finance/",
     "external": false,
     "categories": ["Bridge"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Orbiter.jpg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/Orbiter.png"
   },
   {
     "author": "Overtime Markets",
@@ -1846,10 +1699,10 @@
     "description": "Overtime is a fully decentralized sports platform. Overtime allows users to trade seamlessly with our sports markets. Play now!",
     "shortDescription": "Overtime is a fully decentralized sports platform. Overtime allows users to trade seamlessly with our sports markets. Play now!",
     "site": "https://overtimemarkets.xyz/#/markets",
-    "url": "https://overtimemarkets.xyz/#/markets",
-    "external": false,
+    "url": "https://www.overtimemarkets.xyz/markets",
+    "external": true,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/overtime.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/overtime.png"
   },
   {
     "author": "Owlto Finance",
@@ -1861,7 +1714,7 @@
     "url": "https://owlto.finance/",
     "external": false,
     "categories": ["Bridge"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/owlto.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/owlto.png"
   },
   {
     "author": "ParaSwap",
@@ -1873,7 +1726,7 @@
     "url": "https://app.paraswap.io/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/ParaSwap.svg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/ParaSwap.png"
   },
   {
     "author": "Pegasus Finance",
@@ -1885,7 +1738,7 @@
     "url": "https://trade.pegasusfinance.xyz/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/pegasus.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/pegasus.png"
   },
   {
     "author": "Pendle",
@@ -1897,7 +1750,7 @@
     "url": "https://app.pendle.finance/earn/fixed-yield",
     "external": true,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Pendle.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/Pendle.png"
   },
   {
     "author": "Pheasant Network",
@@ -1909,7 +1762,7 @@
     "url": "https://pheasant.network/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/PheasantNetwork.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/PheasantNetwork.png"
   },
   {
     "author": "Pickle Finance",
@@ -1921,7 +1774,7 @@
     "url": "https://app.pickle.finance/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/pickle-finance.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/pickle-finance.png"
   },
   {
     "author": "Pika",
@@ -1933,7 +1786,7 @@
     "url": "https://app.pikaprotocol.com/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/PikaProtocol.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/PikaProtocol.png"
   },
   {
     "author": "Pillar Wallet",
@@ -1945,19 +1798,7 @@
     "url": "https://www.pillar.fi/",
     "external": true,
     "categories": ["Wallet"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/PillarWallet.png"
-  },
-  {
-    "author": "Plasma Finance",
-    "id": "plasma-finance",
-    "title": "Plasma Finance",
-    "description": "Manage, Swap and Bridge Assets on Optimism with a Plasma Finance DeFi Aggregator. Everything you need in one place + more.",
-    "shortDescription": "Manage, Swap and Bridge Assets on Optimism with a Plasma Finance DeFi Aggregator. Everything you need in one place + more.",
-    "site": "https://plasma.finance",
-    "url": "https://plasma.app",
-    "external": false,
-    "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/plasmafinance.svg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/PillarWallet.png"
   },
   {
     "author": "Pulsar Finance",
@@ -1969,7 +1810,7 @@
     "url": "https://app.pulsar.finance/portfolio",
     "external": false,
     "categories": ["Wallet"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/PulsarFinance.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/PulsarFinance.png"
   },
   {
     "author": "Punk Domains",
@@ -1981,7 +1822,7 @@
     "url": "https://punk.domains/#/",
     "external": false,
     "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/punkDomains.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/punkDomains.png"
   },
   {
     "author": "Rabby",
@@ -1993,7 +1834,7 @@
     "url": "https://rabby.io/",
     "external": true,
     "categories": ["Wallet"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Rabby.jpg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/Rabby.png"
   },
   {
     "author": "Rainbow",
@@ -2005,7 +1846,7 @@
     "url": "https://rainbow.me/",
     "external": true,
     "categories": ["Wallet"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Rainbow.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/Rainbow.png"
   },
   {
     "author": "Ramp",
@@ -2014,10 +1855,10 @@
     "description": "Ramp\u2019s non-custodial, full-stack payment infrastructure accelerates adoption of web 3 technologies and builds trust for its partners.",
     "shortDescription": "Ramp\u2019s non-custodial, full-stack payment infrastructure accelerates adoption of web 3 technologies and builds trust for its partners.",
     "site": "https://ramp.network/",
-    "url": "https://app.ramp.network/",
+    "url": "https://ramp.network/buy",
     "external": false,
     "categories": ["DeFi", "Payments"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/ramp.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/ramp.png"
   },
   {
     "author": "Reaper Farm",
@@ -2029,7 +1870,7 @@
     "url": "https://reaper.farm",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/ReaperFarm.jpeg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/ReaperFarm.png"
   },
   {
     "author": "ReHold",
@@ -2041,7 +1882,7 @@
     "url": "https://app.rehold.io/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/rehold.svg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/rehold.png"
   },
   {
     "author": "Request Finance",
@@ -2053,7 +1894,7 @@
     "url": "https://www.request.finance/",
     "external": true,
     "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/request-finance.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/request-finance.png"
   },
   {
     "author": "Reveel",
@@ -2065,7 +1906,7 @@
     "url": "https://app.r3vl.xyz/",
     "external": false,
     "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Reveel.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/Reveel.png"
   },
   {
     "author": "Revert",
@@ -2077,7 +1918,7 @@
     "url": "https://revert.finance/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/revert.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/revert.png"
   },
   {
     "author": "REYIELD Finance",
@@ -2086,10 +1927,10 @@
     "description": "Provides users with AI investment tools on DeFi and CeFi platforms, with the FIAT onramp as the entry point.",
     "shortDescription": "Provides users with AI investment tools on DeFi and CeFi platforms, with the FIAT onramp as the entry point.",
     "site": "https://www.reyield.fi/",
-    "url": "https://www.reyield.fi/app/explore",
+    "url": "https://www.reyield.fi/app/explore/investment-tools",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/REYIELD-Finance.jpg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/REYIELD-Finance.png"
   },
   {
     "author": "Roobee",
@@ -2101,7 +1942,7 @@
     "url": "https://app.roobee.finance/",
     "external": false,
     "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/roobee.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/roobee.png"
   },
   {
     "author": "Router Protocol",
@@ -2113,7 +1954,7 @@
     "url": "https://app.routerprotocol.com/",
     "external": false,
     "categories": ["Bridge"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/router-protocol.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/router-protocol.png"
   },
   {
     "author": "Rubic",
@@ -2125,7 +1966,7 @@
     "url": "https://app.rubic.exchange/",
     "external": false,
     "categories": ["Bridge"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Rubic.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/Rubic.png"
   },
   {
     "author": "Rubicon",
@@ -2137,7 +1978,7 @@
     "url": "https://app.rubicon.finance/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Rubicon.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/Rubicon.png"
   },
   {
     "author": "Sablier",
@@ -2149,19 +1990,7 @@
     "url": "https://app.sablier.finance/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/sablier.png"
-  },
-  {
-    "author": "Sentio",
-    "id": "sentio",
-    "title": "Sentio",
-    "description": "Sentio helps to monitor, analyse and diagnose in one place. Use cases include gaining insights, securing assets, and troubleshooting transactions.",
-    "shortDescription": "Sentio helps to monitor, analyse and diagnose in one place. Use cases include gaining insights, securing assets, and troubleshooting transactions.",
-    "site": "https://www.sentio.xyz/",
-    "url": "https://app.sentio.xyz/projects",
-    "external": false,
-    "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Sentio.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/sablier.png"
   },
   {
     "author": "ShapeShift",
@@ -2173,7 +2002,7 @@
     "url": "https://app.shapeshift.com",
     "external": true,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/shapeshift.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/shapeshift.png"
   },
   {
     "author": "Shield Protocol",
@@ -2185,7 +2014,7 @@
     "url": "https://shieldprotocol.org/",
     "external": true,
     "categories": ["Wallet"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/shield-protocol.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/shield-protocol.png"
   },
   {
     "author": "Slingshot",
@@ -2197,7 +2026,7 @@
     "url": "https://app.slingshot.finance/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/slingshot.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/slingshot.png"
   },
   {
     "author": "Sonne Finance",
@@ -2209,7 +2038,7 @@
     "url": "https://sonne.finance",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/sonne.jpeg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/sonne.png"
   },
   {
     "author": "Sourcify",
@@ -2221,7 +2050,7 @@
     "url": "https://repo.sourcify.dev/select-contract",
     "external": false,
     "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Sourcify.jpg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/Sourcify.png"
   },
   {
     "author": "Speedboat",
@@ -2233,7 +2062,7 @@
     "url": "https://app.speedboat.studio/",
     "external": false,
     "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/speedboat.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/speedboat.png"
   },
   {
     "author": "Superfluid",
@@ -2242,10 +2071,10 @@
     "description": "Handle subscriptions, salaries, rewards and any composable stream of value, with continuous settlement and per-second netting for extreme capital efficiency.",
     "shortDescription": "Handle subscriptions, salaries, rewards and any composable stream of value, with continuous settlement and per-second netting for extreme capital efficiency.",
     "site": "https://www.superfluid.finance/home",
-    "url": "https://www.superfluid.finance/home",
+    "url": "https://app.superfluid.finance/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/superfluid.svg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/superfluid.png"
   },
   {
     "author": "SushiSwap",
@@ -2257,7 +2086,7 @@
     "url": "https://www.sushi.com/swap",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/sushi.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/sushi.png"
   },
   {
     "author": "Symbiosis",
@@ -2269,7 +2098,7 @@
     "url": "https://app.symbiosis.finance/",
     "external": true,
     "categories": ["Bridge"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Symbiosis.jpg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/Symbiosis.png"
   },
   {
     "author": "Synapse Protocol",
@@ -2281,7 +2110,7 @@
     "url": "https://synapseprotocol.com/?inputCurrency=USDC&outputCurrency=USDC&outputChain=10",
     "external": false,
     "categories": ["Bridge"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/synapse-protocol.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/synapse-protocol.png"
   },
   {
     "author": "Synfutures",
@@ -2293,7 +2122,7 @@
     "url": "https://trade.synfutures.com/#/trade",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/synfutures.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/synfutures.png"
   },
   {
     "author": "Taho",
@@ -2305,7 +2134,7 @@
     "url": "https://app.taho.xyz/",
     "external": false,
     "categories": ["Wallet"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Taho.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/Taho.png"
   },
   {
     "author": "Tally",
@@ -2317,7 +2146,7 @@
     "url": "https://www.tally.xyz/user/your-daos",
     "external": false,
     "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Tally.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/Tally.png"
   },
   {
     "author": "Tarot",
@@ -2329,7 +2158,7 @@
     "url": "https://www.tarot.to/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/tarot.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/tarot.png"
   },
   {
     "author": "Teahouse Finance",
@@ -2341,7 +2170,7 @@
     "url": "https://vault.teahouse.finance/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Teahouse.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/Teahouse.png"
   },
   {
     "author": "The Granary",
@@ -2353,7 +2182,7 @@
     "url": "https://granary.finance/markets",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/the-granary.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/the-granary.png"
   },
   {
     "author": "TokenPocket",
@@ -2365,7 +2194,7 @@
     "url": "https://www.tokenpocket.pro/",
     "external": true,
     "categories": ["Wallet"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/TokenPocket.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/TokenPocket.png"
   },
   {
     "author": "Tokensoft",
@@ -2377,7 +2206,7 @@
     "url": "https://app.tokensoft.io",
     "external": true,
     "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Tokensoft.jpeg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/Tokensoft.png"
   },
   {
     "author": "Toros",
@@ -2389,7 +2218,7 @@
     "url": "https://app.toros.finance/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Toros.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/Toros.png"
   },
   {
     "author": "TrueFi",
@@ -2401,7 +2230,7 @@
     "url": "https://app.truefi.io",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/TrueFi.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/TrueFi.png"
   },
   {
     "author": "Trust Wallet",
@@ -2413,19 +2242,7 @@
     "url": "https://trustwallet.com/",
     "external": true,
     "categories": ["Wallet"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/TrustWallet.png"
-  },
-  {
-    "author": "Turnkey",
-    "id": "turnkey",
-    "title": "Turnkey",
-    "description": "Simple APIs to securely manage your private keys.",
-    "shortDescription": "Simple APIs to securely manage your private keys.",
-    "site": "https://www.turnkey.com/",
-    "url": "https://www.turnkey.com/",
-    "external": true,
-    "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Turnkey.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/TrustWallet.png"
   },
   {
     "author": "Umbra",
@@ -2437,7 +2254,7 @@
     "url": "https://app.umbra.cash/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/umbra.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/umbra.png"
   },
   {
     "author": "Union",
@@ -2449,7 +2266,7 @@
     "url": "https://app.union.finance",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Union.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/Union.png"
   },
   {
     "author": "Unstoppable Wallet",
@@ -2461,7 +2278,7 @@
     "url": "https://unstoppable.money/",
     "external": true,
     "categories": ["Wallet"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/unstoppable.svg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/unstoppable.png"
   },
   {
     "author": "Utopia Labs",
@@ -2473,7 +2290,7 @@
     "url": "https://www.utopialabs.com/",
     "external": true,
     "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Utopia.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/Utopia.png"
   },
   {
     "author": "Vesper",
@@ -2485,7 +2302,7 @@
     "url": "https://app.vesper.finance/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Vesper.jpg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/Vesper.png"
   },
   {
     "author": "Via Protocol",
@@ -2497,7 +2314,7 @@
     "url": "https://router.via.exchange/",
     "external": false,
     "categories": ["Bridge"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/via.jpeg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/via.png"
   },
   {
     "author": "WardenSwap",
@@ -2506,10 +2323,10 @@
     "description": "You swap, AI does the rest. The First best-rate AI swap with the lowest gas fees on multi-chains.",
     "shortDescription": "You swap, AI does the rest. The First best-rate AI swap with the lowest gas fees on multi-chains.",
     "site": "https://www.wardenswap.com/",
-    "url": "https://www.wardenswap.com/",
+    "url": "https://www.wardenswap.finance/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/WardenSwap.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/WardenSwap.png"
   },
   {
     "author": "WePiggy",
@@ -2521,7 +2338,7 @@
     "url": "https://app.wepiggy.com/",
     "external": true,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/WePiggy.jpg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/WePiggy.png"
   },
   {
     "author": "XBANKING",
@@ -2533,7 +2350,7 @@
     "url": "https://app.xbanking.org",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Xbanking.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/Xbanking.png"
   },
   {
     "author": "XDAO",
@@ -2545,7 +2362,7 @@
     "url": "https://www.xdao.app/137",
     "external": false,
     "categories": ["DAO"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/xdao.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/xdao.png"
   },
   {
     "author": "xToken",
@@ -2557,7 +2374,7 @@
     "url": "https://app.xtokenterminal.io/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/xtoken.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/xtoken.png"
   },
   {
     "author": "XY Finance",
@@ -2569,7 +2386,7 @@
     "url": "https://app.xy.finance/",
     "external": false,
     "categories": ["Bridge"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/XY_Finance.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/XY_Finance.png"
   },
   {
     "author": "YaspFi",
@@ -2578,10 +2395,10 @@
     "description": "YaspFi is an all-in-one wallet focused on sustainable DeFi yield.",
     "shortDescription": "YaspFi is an all-in-one wallet focused on sustainable DeFi yield.",
     "site": "https://yasp.fi/",
-    "url": "https://app.yasp.fi/",
+    "url": "https://yasp.fi/app/yield-offers",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/YaspfiLogo.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/YaspfiLogo.png"
   },
   {
     "author": "Zapper",
@@ -2593,7 +2410,7 @@
     "url": "https://zapper.fi",
     "external": false,
     "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/Zapper.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/Zapper.png"
   },
   {
     "author": "Zerion",
@@ -2605,7 +2422,7 @@
     "url": "https://app.zerion.io/",
     "external": false,
     "categories": ["Wallet"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/zerion.svg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/zerion.png"
   },
   {
     "author": "zeroDAO",
@@ -2617,7 +2434,7 @@
     "url": "https://app.zerodao.com/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/zero-dao.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/zero-dao.png"
   },
   {
     "author": "Zertidocs",
@@ -2629,7 +2446,7 @@
     "url": "https://zertidocs.com/",
     "external": false,
     "categories": ["Infra & Dev tooling"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/zertifier.jpeg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/zertifier.png"
   },
   {
     "author": "ZippyInu",
@@ -2641,7 +2458,7 @@
     "url": "https://www.zippyinu.com/Locker",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/zippy-inu.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/zippy-inu.png"
   },
   {
     "author": "ZipSwap",
@@ -2653,6 +2470,6 @@
     "url": "https://zipswap.fi/",
     "external": false,
     "categories": ["DeFi"],
-    "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/zipswap.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/zipswap.png"
   }
 ]

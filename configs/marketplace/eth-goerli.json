@@ -3,7 +3,7 @@
         "author": "Hop",
         "id": "hop-exchange",
         "title": "Hop",
-        "logo": "https://www.gitbook.com/cdn-cgi/image/width=288,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FfhJJGsR3RSfFmRoxfvqk%252FHop.png%3Falt%3Dmedia%26token%3D8107e45c-546c-4771-bbfe-e86bb0fe8c1a",
+        "logo": "https://blockscout-content.s3.amazonaws.com/hop.png",
         "categories": [
             "Bridge"
         ],
@@ -17,25 +17,27 @@
         "author": "Blockscout",
         "id": "token-approval-tracker",
         "title": "Token Approval Tracker",
-        "logo": "https://approval-tracker.apps.blockscout.com/icon-192.png",
+        "logo": "https://blockscout-content.s3.amazonaws.com/token-approval.png",
         "categories": [
             "Infra & Dev tooling"
         ],
         "shortDescription": "Token Approval Tracker shows all approvals for any ERC20-compliant tokens and NFTs and lets to revoke them or adjust the approved amount.",
         "site": "https://docs.blockscout.com/for-users/blockscout-apps/token-approval-tracker",
         "description": "Token Approval Tracker shows all approvals for any ERC20-compliant tokens and NFTs and lets to revoke them or adjust the approved amount.",
+        "external": false,
         "url": "https://approval-tracker.apps.blockscout.com/"
     },
     {
         "author": "Revoke",
         "id": "revoke.cash",
         "title": "Revoke.cash",
-        "logo": "https://www.gitbook.com/cdn-cgi/image/width=288,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252Fdt8jSgtmNeJjzRt7tRZO%252Frevoke_sing.png%3Falt%3Dmedia%26token%3D9cb9ada6-4773-4eec-8bd0-cbb172d2c558",
+        "logo": "https://blockscout-content.s3.amazonaws.com/revokecash.png",
         "categories": [
             "Infra & Dev tooling"
         ],
         "shortDescription": "Revoke.cash comes in as a preventative tool to manage your token allowances and practice proper wallet hygiene. By regularly revoking active allowances you reduce the chances of becoming the victim of allowance exploits.",
         "site": "https://revoke.cash/about",
+        "external": false,
         "description": "Revoke.cash comes in as a preventative tool to manage your token allowances and practice proper wallet hygiene. By regularly revoking active allowances you reduce the chances of becoming the victim of allowance exploits.",
         "url": "https://revoke.cash/"
     },
@@ -43,12 +45,13 @@
         "author": "Aave",
         "id": "aave",
         "title": "Aave",
-        "logo": "https://www.gitbook.com/cdn-cgi/image/width=288,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FaNQY8jHNue30P2caV79v%252FAave.png%3Falt%3Dmedia%26token%3Dda9ea09b-a5d8-4bf1-bdfe-41837eebdd03",
+        "logo": "https://blockscout-content.s3.amazonaws.com/aave.png",
         "categories": [
             "DeFi"
         ],
         "shortDescription": "Aave is a decentralised non-custodial liquidity market protocol where users can participate as suppliers or borrowers. Suppliers provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralised (perpetually) or undercollateralised (one-block liquidity) fashion.",
         "site": "https://docs.aave.com/faq/",
+        "external": false,
         "description": "Aave is a decentralised non-custodial liquidity market protocol where users can participate as suppliers or borrowers. Suppliers provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralised (perpetually) or undercollateralised (one-block liquidity) fashion.",
         "url": "https://staging.aave.com/"
     },
@@ -56,7 +59,7 @@
         "author": "LooksRare",
         "id": "looksrare",
         "title": "LooksRare",
-        "logo": "https://www.gitbook.com/cdn-cgi/image/width=288,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252Frc5vMd2JW7eXuf0qlLc4%252FLooksRare.png%3Falt%3Dmedia%26token%3D7680741b-023a-41fa-bc28-e561b50d63cf",
+        "logo": "https://blockscout-content.s3.amazonaws.com/looksrare.png",
         "categories": [
             "NFT"
         ],
@@ -67,24 +70,10 @@
         "url": "https://goerli.looksrare.org/"
     },
     {
-        "author": "zkSync Bridge",
-        "id": "zksync-bridge",
-        "title": "zkSync Bridge",
-        "logo": "https://www.gitbook.com/cdn-cgi/image/width=288,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FAuAx8pzSEfj0MfQnaO8h%252FzkSync.png%3Falt%3Dmedia%26token%3D3f63476b-24b4-4aac-b03e-4114630429b2",
-        "categories": [
-            "Bridge"
-        ],
-        "shortDescription": "zkSync 2.0 Goerli Bridge",
-        "external": true,
-        "site": "https://v2-docs.zksync.io/dev/",
-        "description": "zkSync 2.0 Goerli Bridge",
-        "url": "https://portal.zksync.io/bridge"
-    },
-    {
         "author": "dYdX",
         "id": "dydx",
         "title": "dYdX",
-        "logo": "https://www.gitbook.com/cdn-cgi/image/width=288,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FPWEYjmrEsWYoahu7pRZh%252Fdxdy.png%3Falt%3Dmedia%26token%3D34439e25-98f5-4992-9773-19d49efda86c",
+        "logo": "https://blockscout-content.s3.amazonaws.com/dydx.png",
         "categories": [
             "DeFi"
         ],
@@ -98,12 +87,13 @@
         "author": "MetalSwap",
         "id": "metalswap",
         "title": "MetalSwap",
-        "logo": "https://www.gitbook.com/cdn-cgi/image/width=288,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FEbbjO5pLETxpzJjyJo2G%252FMetalSwap.png%3Falt%3Dmedia%26token%3D149015e8-e65b-4b12-ac24-e512973912c4",
+        "logo": "https://blockscout-content.s3.amazonaws.com/MetalSwap.png",
         "categories": [
             "DeFi"
         ],
         "shortDescription": "MetalSwap is a decentralised platform that enables hedging swaps in financial markets with the aim of providing a hedge for commodity traders and an investment opportunity for those who contribute to the shared liquidity of the project.",
         "site": "https://docs.metalswap.finance/",
+        "external": false,
         "description": "MetalSwap is a decentralised platform that enables hedging swaps in financial markets with the aim of providing a hedge for commodity traders and an investment opportunity for those who contribute to the shared liquidity of the project.",
         "url": "https://demo.metalswap.finance/"
     },
@@ -111,33 +101,35 @@
         "author": "FaucetDao",
         "id": "faucetdao",
         "title": "FaucetDao",
-        "logo": "https://www.gitbook.com/cdn-cgi/image/width=288,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FpRYQQ2eCoFtGaiYnIXx3%252Ffaucet.png%3Falt%3Dmedia%26token%3Df1c7ddfc-055e-4710-8f23-5392d06738b9",
+        "logo": "https://blockscout-content.s3.amazonaws.com/faucet-dao.png",
         "categories": [
             "Faucet"
         ],
-        "shortDescription": "FaucetDao is a decentralised community fund providing liquidity and support to early-stage well vetted blockchain projects.",
+        "shortDescription": "FaucetDao is a decentralised community fund providing liquidity and support to early-stage well-vetted blockchain projects.",
         "site": "https://linktr.ee/faucet_dao",
-        "description": "FaucetDao is a decentralised community fund providing liquidity and support to early-stage well vetted blockchain projects.",
+        "external": false,
+        "description": "FaucetDao is a decentralised community fund providing liquidity and support to early-stage well-vetted blockchain projects.",
         "url": "https://www.faucetdao.shop/swap?chain=goerli"
     },
     {
         "author": "Uniswap",
         "id": "uniswap",
         "title": "Uniswap",
-        "logo": "https://www.gitbook.com/cdn-cgi/image/width=288,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FT8RR0UqqvH6wAVfaaM4f%252FUniswap.png%3Falt%3Dmedia%26token%3D797851a0-2d80-4f7b-8d80-f9ba664c0b3d",
+        "logo": "https://blockscout-content.s3.amazonaws.com/uniswap.png",
         "categories": [
             "Bridge"
         ],
-        "shortDescription": "Uniswap is a cryptocurrency exchange which uses a decentralized network protocol.",
+        "shortDescription": "Uniswap is a cryptocurrency exchange that uses a decentralized network protocol.",
         "site": "https://docs.uniswap.org/",
-        "description": "Uniswap is a cryptocurrency exchange which uses a decentralized network protocol.",
+        "external": false,
+        "description": "Uniswap is a cryptocurrency exchange that uses a decentralized network protocol.",
         "url": "https://app.uniswap.org/swap"
     },
     {
         "author": "zkBob",
         "id": "zkbob-wallet",
         "title": "zkBob Wallet",
-        "logo": "https://ipfs.filebase.io/ipfs/QmS4VomwX1Dh2fGcrVAWDdQFeqWq4XCA2FRTbgBva3bZHX",
+        "logo": "https://blockscout-content.s3.amazonaws.com/zkbob-logo.png",
         "categories": [
             "Wallet"
         ],
@@ -150,15 +142,15 @@
         "telegram": "https://t.me/zkbobcommunity"
     },
     {
-		"author": "Swapr",
-		"id": "swapr",
-		"title": "Swapr",
-		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/swapr.svg",
-		"categories": ["DeFi"],
-		"shortDescription": "A governance-enabled automated market maker with adjustable fees.",
-		"site": "https://swapr.eth.dev.lastmilelabs.systems",
-		"description": "A governance-enabled automated market maker with adjustable fees.",
-		"external": false,
-		"url": "https://swapr.eth.dev.lastmilelabs.systems"
+	"author": "Swapr",
+	"id": "swapr",
+	"title": "Swapr",
+	"logo": "https://blockscout-content.s3.amazonaws.com/swapr.png",
+	"categories": ["DeFi"],
+	"shortDescription": "A governance-enabled automated market maker with adjustable fees.",
+	"site": "https://swapr.eth.dev.lastmilelabs.systems",
+	"description": "A governance-enabled automated market maker with adjustable fees.",
+	"external": false,
+	"url": "https://swapr.eth.limo/#/swap"
 	}
 ]
