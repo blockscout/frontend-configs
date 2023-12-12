@@ -1,9 +1,38 @@
-[{
+[
+	{
+		"author": "Dackie",
+		"id": "dackie-swap",
+		"title": "Dackie Swap",
+		"logo": "https://blockscout-content.s3.amazonaws.com/dackie-swap.png",
+		"categories": [
+			"DeFi", "Exchanges"
+		],
+		"shortDescription": "DackieSwap allows you to earn more rewards through Concentrated Liquidity Market Maker (CLMM). Swap and earn with the most trusted DEX on BASE",
+		"site": "https://www.dackieswap.xyz/?chain=base",
+		"description": "DackieSwap allows you to earn more rewards through Concentrated Liquidity Market Maker (CLMM). Swap and earn with the most trusted DEX on BASE",
+		"url": "https://www.dackieswap.xyz/swap?chain=base",
+		"external": false
+	},
+	{
+		"author":"Nether",
+		"id":"nether",
+		"title":"Nether",
+		"logo":"https://blockscout-content.s3.amazonaws.com/nether_light.png",
+		"categories":[
+		   "DeFi"
+		],
+		"shortDescription":"A blockchain-based virtual world platform, enabling users to create, explore, and trade digital assets and experiences.",
+		"site":"https://nether.fi/",
+		"description":"A blockchain-based virtual world platform, enabling users to create, explore, and trade digital assets and experiences.",
+		"url":"https://nether.fi/",
+		"external":false
+	},
+	{
 		"author": "0x",
 		"id": "0x",
 		"title": "0x",
-		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/0x_light.png",
-		"logoDarkMode": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/0x_dark.png",
+		"logo": "https://blockscout-content.s3.amazonaws.com/0x_light.png",
+		"logoDarkMode": "https://blockscout-content.s3.amazonaws.com/0x_dark.png",
 		"categories": [
 			"Infra & Dev tooling"
 		],
@@ -17,7 +46,7 @@
 		"author": "Coinbase Wallet",
 		"id": "coinbase-wallet",
 		"title": "Coinbase Wallet",
-		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/coinbase_wallet_light.png",
+		"logo": "https://blockscout-content.s3.amazonaws.com/CoinbaseWallet.png",
 		"categories": ["Wallet"],
 		"shortDescription": "Coinbase Wallet is a non-custodial cryptocurrency wallet that allows users to store, send, and receive various cryptocurrencies.",
 		"site": "https://wallet.coinbase.com/",
@@ -29,7 +58,7 @@
 		"author": "Coinbase Faucet",
 		"id": "coinbase-faucet",
 		"title": "Coinbase Faucet",
-		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/base_goerli_eth_faucet_light.png",
+		"logo": "https://blockscout-content.s3.amazonaws.com/base_goerli_eth_faucet_light.png",
 		"categories": ["Faucet"],
 		"shortDescription": "Coinbase Faucet | Base  is the easiest way to get some ETH for Base.",
 		"site": "https://www.coinbase.com/faucets",
@@ -41,7 +70,8 @@
 		"author": "Base Bridge",
 		"id": "base-bridge",
 		"title": "Base Bridge",
-		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/base_bridge_light.png",
+		"logo": "https://blockscout-content.s3.amazonaws.com/base_bridge_light.png",
+		"logoDarkMode": "https://blockscout-content.s3.amazonaws.com/base_bridge_dark.png",
 		"categories": ["Bridge"],
 		"shortDescription": "Bridge your assets securely with Base. This project is in testing. You can bridge whitelisted ERC-20 tokens from Goerli (Ethereum testnet) to Base Goerli Testnet. Ethereum mainnet tokens are not yet supported.",
 		"site": "https://bridge.base.org/",
@@ -53,21 +83,21 @@
 		"author": "Quick Intel",
 		"id": "quick-intel",
 		"title": "Quick Intel",
-		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/quick_intel_light.png",
-		"logoDarkMode": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/quick_intel_dark.png",
+		"logo": "https://blockscout-content.s3.amazonaws.com/quick_intel_light.png",
+		"logoDarkMode": "https://blockscout-content.s3.amazonaws.com/quick_intel_dark.png",
 		"categories": ["Infra & Dev tooling", "Data"],
 		"shortDescription": "Quick Intel is a hub of AI research and security tools. Most notably, an innovative token and NFT smart contract scanner to proactively avoid scams and rugs.",
 		"site": "https://quickintel.io/",
-		"external": true,
+		"external": false,
 		"description": "Quick Intel is a hub of AI research and security tools. Most notably, an innovative token and NFT smart contract scanner to proactively avoid scams and rugs.",
-		"url": "https://quickintel.io/"
+		"url": "https://app.quickintel.io/scanner"
 	},
 	{
 		"author": "NFTEarth",
 		"id": "nftearth",
 		"title": "NFTEarth",
-		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/nft_earth_light.png",
-		"logoDarkMode": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/nft_earth_dark.png",
+		"logo": "https://blockscout-content.s3.amazonaws.com/nft_earth_light.png",
+		"logoDarkMode": "https://blockscout-content.s3.amazonaws.com/nft_earth_dark.png",
 		"categories": ["NFT", "Games", "DAO"],
 		"shortDescription": "NFTEarth is building the global hub for NFT activity.",
 		"site": "https://nftearth.exchange/",
@@ -76,24 +106,11 @@
 		"url": "https://nftearth.exchange/"
 	},
 	{
-		"author": "L2Coin",
-		"id": "l2coin",
-		"title": "L2Coin",
-		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/l2coin_light.png",
-		"logoDarkMode": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/l2coin_dark.png",
-		"categories": ["Games", "NFT", "DeFi"],
-		"shortDescription": "Building a decentralized metaverse game based on L2 Token",
-		"site": "https://l2coin.io/",
-		"external": false,
-		"description": "Building a decentralized metaverse game based on L2 Token",
-		"url": "https://www.l2coin.io/home"
-	},
-	{
 		"author": "Base Name Service",
 		"id": "base-name-service",
 		"title": "Base Name Service",
-		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/basenameservice_light.png",
-		"logoDarkMode": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/basenameservice_dark.png",
+		"logo": "https://blockscout-content.s3.amazonaws.com/basenameservice_light.png",
+		"logoDarkMode": "https://blockscout-content.s3.amazonaws.com/basenameservice_dark.png",
 		"categories": ["NFT", "Infra & Dev tooling"],
 		"shortDescription": "Web3 naming (.base) for the next billion+ users on Base. Native Name Service",
 		"site": "https://basename.app/",
@@ -105,7 +122,7 @@
 		"author": "SushiSwap",
 		"id": "sushiswap",
 		"title": "SushiSwap",
-		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/sushi_swap_light.png",
+		"logo": "https://blockscout-content.s3.amazonaws.com/sushi_swap.png",
 		"categories": [
 			"DeFi"
 		],
@@ -119,7 +136,7 @@
 		"author": "Aave",
 		"id": "aave",
 		"title": "Aave",
-		"logo": "https://www.gitbook.com/cdn-cgi/image/width=288,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FaNQY8jHNue30P2caV79v%252FAave.png%3Falt%3Dmedia%26token%3Dda9ea09b-a5d8-4bf1-bdfe-41837eebdd03",
+		"logo": "https://blockscout-content.s3.amazonaws.com/aave.png",
 		"categories": ["DeFi"],
 		"shortDescription": "Aave is a decentralised non-custodial liquidity market protocol where users can participate as suppliers or borrowers. Suppliers provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralised (perpetually) or undercollateralised (one-block liquidity) fashion.",
 		"site": "https://docs.aave.com/faq/",
@@ -131,18 +148,19 @@
 		"author": "Uniswap",
 		"id": "uniswap",
 		"title": "Uniswap",
-		"logo": "https://www.gitbook.com/cdn-cgi/image/width=288,dpr=2.200000047683716,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq1XoWGmy8zggj_u2fM%252Fuploads%252FT8RR0UqqvH6wAVfaaM4f%252FUniswap.png%3Falt%3Dmedia%26token%3D797851a0-2d80-4f7b-8d80-f9ba664c0b3d",
+		"logo": "https://blockscout-content.s3.amazonaws.com/uniswap.png",
 		"categories": ["Bridge"],
 		"shortDescription": "Uniswap is a cryptocurrency exchange which uses a decentralized network protocol.",
 		"site": "https://docs.uniswap.org/",
 		"description": "Uniswap is a cryptocurrency exchange which uses a decentralized network protocol.",
+		"external": false,
 		"url": "https://app.uniswap.org/swap"
 	},
 	{
 		"author": "1inch",
 		"id": "1inch",
 		"title": "1inch",
-		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/1inch.jpg",
+		"logo": "https://blockscout-content.s3.amazonaws.com/1inch.png",
 		"categories": ["DeFi"],
 		"shortDescription": "DeFi / DEX aggregator with the most liquidity and the best rates.",
 		"site": "https://app.1inch.io",
@@ -154,8 +172,8 @@
 		"author": "Balancer",
 		"id": "balancer",
 		"title": "Balancer",
-		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/balancer_light.png",
-		"logoDarkMode": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/balancer_dark.png",
+		"logo": "https://blockscout-content.s3.amazonaws.com/balancer_light.png",
+		"logoDarkMode": "https://blockscout-content.s3.amazonaws.com/balancer_dark.png",
 		"categories": [
 			"DeFi"
 		],
@@ -165,19 +183,18 @@
 		"url": "https://app.balancer.fi/",
 		"external": false
 	},
-  {
+  	{
 		"author": "Base Name Service",
 		"id": "base-name-service-",
 		"title": "Base Name Service",
-		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/base-name-service-.png",
-		"logoDarkMode": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/base-name-service-.png",
+		"logo": "https://blockscout-content.s3.amazonaws.com/base-name-service-.png",
 		"categories": [
 			"NFT"
 		],
 		"shortDescription": "BaseNS, the 1st DID on the Base Mainnet. Secure your distinctive Web3 domain on all blockchains today.",
 		"site": "https://basens.domains/",
 		"description": "BaseNS, the 1st DID on the Base Mainnet. Secure your distinctive Web3 domain on all blockchains today.",
-		"url": "https://basens.domains/",
+		"url": "https://app.basens.domains/",
 		"external": false
 	}
 ]
