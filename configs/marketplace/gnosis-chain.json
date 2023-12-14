@@ -72,7 +72,7 @@
     "url": "https://xdai.curve.fi/"
   },
   {
-    "author": "HoneySwap",
+    "author": "1Hive",
     "id": "honeyswap",
     "title": "HoneySwap",
     "logo": "https://blockscout-content.s3.amazonaws.com/honey_swap.png",
@@ -81,7 +81,19 @@
     "site": "https://honeyswap.org/",
     "description": "HoneySwap Exchange is a decentralised exchange deployed on the xDai chain.",
     "external": false,
-    "url": "https://honeyswap.1hive.eth.limo/"
+    "url": "https://honeyswap-interface-y28mu7.dappling.eth.limo/"
+  },
+  {
+    "author": "1Hive",
+    "id": "gardens",
+    "title": "Gardens",
+    "logo": "https://blockscout-content.s3.amazonaws.com/gardens.png",
+    "categories": ["DAO"],
+    "shortDescription": "Gardens is a framework for a new kind of DAO - a composable, sufficiently decentralized, and self-improving system, limited only by your community's collective imagination.",
+    "site": "https://gardens-ui-e68er9.dappling.eth.limo/",
+    "description": "Gardens is a framework for a new kind of DAO - a composable, sufficiently decentralized, and self-improving system, limited only by your community's collective imagination.",
+    "external": false,
+    "url": "https://gardens-ui-e68er9.dappling.eth.limo/"
   },
   {
     "author": "SushiSwap",
