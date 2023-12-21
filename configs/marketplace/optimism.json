@@ -12,6 +12,18 @@
     "url": "https://app.overnight.fi/featured?tabName=optimism"
   },
   {
+    "author": "Coordinape",
+    "id": "colink",
+    "title": "CoLink",
+    "logo": "https://blockscout-content.s3.amazonaws.com/colinks.png",
+    "categories": ["DeFi", "DAO"],
+    "shortDescription": "CoLinks is a network of professionals and friends in the web3 ecosystem",
+    "site": "https://colinks.coordinape.com/start",
+    "description": "CoLinks is a network of professionals and friends in the web3 ecosystem",
+    "url": "https://colinks.coordinape.com/start",
+    "external": false
+  },
+  {
     "author": "WOOFi",
     "id": "woofi",
     "title": "WOOFi",
