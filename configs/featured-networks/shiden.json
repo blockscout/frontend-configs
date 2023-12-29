@@ -65,13 +65,13 @@
     {
         "title": "Kusama",
         "url": "https://kusama.subscan.io/",
-        "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/kusama.png",
+        "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/kusama.svg",
         "group": "Other"
     },
     {
         "title": "Polkadot",
         "url": "https://polkadot.subscan.io/",
-        "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/polkadot.png",
+        "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/polkadot.svg",
         "group": "Other"
     }
 ]
