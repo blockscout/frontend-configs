@@ -58,5 +58,41 @@
         "external": true,
         "categories": ["NFT"],
         "logo": "https://blockscout-content.s3.amazonaws.com/curate.png"
+      },
+      {
+        "author": "CryptoDo",
+        "id": "cryptodo",
+        "title": "CryptoDo",
+        "description": "AI-Powered multichain no-code builder of web3 solutions for business.",
+        "shortDescription": "AI-Powered multichain no-code builder of web3 solutions for business.",
+        "site": "https://www.cryptodo.app/",
+        "url": "https://lab.cryptodo.app/",
+        "external": true,
+        "categories": ["Infra & Dev tooling"],
+        "logo": "https://blockscout-content.s3.amazonaws.com/cryptodo.png"
+      },
+      {
+        "author": "Zonic",
+        "id": "zonic",
+        "title": "Zonic",
+        "description": "Zonic is a lightning-fast NFT marketplace built especially for the Ethereum Layer 2 ecosystem.",
+        "shortDescription": "Zonic is a lightning-fast NFT marketplace built especially for the Ethereum Layer 2 ecosystem.",
+        "site": "https://zonic.app/",
+        "url": "https://zonic.app/",
+        "external": false,
+        "categories": ["NFT"],
+        "logo": "https://blockscout-content.s3.amazonaws.com/zonic.png"
+      },
+      {
+        "author": "Space ID",
+        "id": "space-id",
+        "title": "Space ID",
+        "description": "Space ID is a one-stop Web3 domain and identity platform that offers a comprehensive suite of services for digital identities.",
+        "shortDescription": "Space ID is a one-stop Web3 domain and identity platform that offers a comprehensive suite of services for digital identities.",
+        "site": "https://space.id/",
+        "url": "https://space.id/",
+        "external": true,
+        "categories": ["NFT", "Infra & Dev tooling"],
+        "logo": "https://blockscout-content.s3.amazonaws.com/spaceid.png"
       }
 ]
