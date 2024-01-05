@@ -184,5 +184,89 @@
     "description": "BaseNS, the 1st DID on the Base Mainnet. Secure your distinctive Web3 domain on all blockchains today.",
     "url": "https://app.basens.domains/",
     "external": false
+  },
+   {
+    "author": "Bounce Finance",
+    "id": "bouncefinance",
+    "title": "Bounce Finance",
+    "description": "Bounce Finance is a decentralized platform dedicated to meeting the evolving needs of the Web3 space. Established in 2020, Bounce Finance is proudly known for our onchain auction protocol and diverse innovations in trading both digital and real-world assets.",
+    "shortDescription": "Bounce Finance is a decentralized platform dedicated to meeting the evolving needs of the Web3 space. Established in 2020, Bounce Finance is proudly known for our onchain auction protocol and diverse innovations in trading both digital and real-world assets.",
+    "site": "https://www.bounce.finance/",
+    "url": "https://www.bounce.finance/",
+    "external": false,
+    "categories": ["DeFi", "NFT"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/bounce_finance.png"
+  },
+   {
+    "author": "Catapulta",
+    "id": "catapulta",
+    "title": "Catapulta",
+    "description": "A plug-n-play, multi-chain Web3 deployment platform for teams. Deploy with Foundry or Hardhat scripts to more than 10 networks with zero configs, get instantly verified in block explorers and share your deployment reports with your team, or your community.",
+    "shortDescription": "A plug-n-play, multi-chain Web3 deployment platform for teams. Deploy with Foundry or Hardhat scripts to more than 10 networks with zero configs, get instantly verified in block explorers and share your deployment reports with your team, or your community.",
+    "site": "https://catapulta.sh",
+    "url": "https://catapulta.sh",
+    "external": false,
+    "categories": ["Data", "Infra & Dev tooling"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/catapulta.png"
+  },
+   {
+    "author": "MetaDock",
+    "id": "metaDock",
+    "title": "MetaDock",
+    "description": "# Builders’ Swiss Army Knife; 20+ Web3 Pop Tools in 1 Browser Extension; Explain Tx with GPT; 300M+ Address Labels; Built-in Fund Flow Map",
+    "shortDescription": "# Builders’ Swiss Army Knife; 20+ Web3 Pop Tools in 1 Browser Extension; Explain Tx with GPT; 300M+ Address Labels; Built-in Fund Flow Map",
+    "site": "https://blocksec.com/metadock",
+    "url": "https://blocksec.com/metadock",
+    "external": true,
+    "categories": ["Data", "Infra & Dev tooling"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/metadock.jpg"
+  },
+   {
+    "author": "MetaSleuth",
+    "id": "metasleuth",
+    "title": "MetaSleuth",
+    "description": "MetaSleuth is a crypto tracking and investigation platform. It can help monitor market movements, track fund flow of criminal activities, and DYOR to avoid scams.",
+    "shortDescription": "MetaSleuth is a crypto tracking and investigation platform. It can help monitor market movements, track fund flow of criminal activities, and DYOR to avoid scams.",
+    "site": "https://metasleuth.io/",
+    "url": "https://metasleuth.io/",
+    "external": true,
+    "categories": ["Data", "Infra & Dev tooling"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/metasleuth.jpg"
+  },
+  {
+    "author": "Phalcon",
+    "id": "phalcon",
+    "title": "Phalcon",
+    "description": "# Dive into Transactions to Act Wisely Phalcon Explorer helps developers, traders, and researchers intuitively understand complicated transactions to make better descisions. Trusted by 30K users from 160+ countries and regions, it analyzes more than 500K transactions per month.",
+    "shortDescription": "# Dive into Transactions to Act Wisely Phalcon Explorer helps developers, traders, and researchers intuitively understand complicated transactions to make better descisions. Trusted by 30K users from 160+ countries and regions, it analyzes more than 500K transactions per month.",
+    "site": "https://phalcon.xyz/explorer",
+    "url": "https://phalcon.xyz/explorer",
+    "external": true,
+    "categories": ["Data", "Infra & Dev tooling"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/phalcon.jpg"
+  },
+   {
+    "author": "Mellow Protocol",
+    "id": "mellowprotocol",
+    "title": "Mellow Protocol",
+    "description": "Mellow Protocol is a generalized infrastructure for building asset management and complex DeFi strategies.",
+    "shortDescription": "Mellow Protocol is a generalized infrastructure for building asset management and complex DeFi strategies.",
+    "site": "https://mellow.finance/",
+    "url": "https://mellow.finance/",
+    "external": false,
+    "categories": ["Infra & Dev tooling", "DeFi"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/mellowprotocol.png"
+  },
+   {
+    "author": "Subsquid",
+    "id": "subsquid",
+    "title": "Subsquid",
+    "description": "Subsquid Network is a decentralized data lake and query engine designed to provide developers with performant and permissionless access to on-chain data. The network is secured by ZK proofs, and has a modular architecture which enables unparalleled scalability and dev-friendliness for blockchain indexing, dApp development, and analytics. Subsquid is a response to unscalable and rigid monolithic indexing frameworks that had previously gained popularity and market traction among Web3 developers, but that are failing to stay ahead in a rapidly changing blockchain landscape. Furthermore, the network serves as a tremendously efficient decentralized alternative to centralized infrastructure companies, including large RPC and API providers.",
+    "shortDescription": "Subsquid Network is a decentralized data lake and query engine designed to provide developers with performant and permissionless access to on-chain data.",
+    "site": "https://subsquid.io",
+    "url": "https://subsquid.io",
+    "external": false,
+    "categories": ["Infra & Dev tooling", "Data"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/subsquid.svg"
   }
 ]
