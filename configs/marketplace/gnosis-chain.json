@@ -350,5 +350,17 @@
     "external": false,
     "categories": ["Games"],
     "logo": "https://blockscout-content.s3.amazonaws.com/gustakes.png"
+  },
+  {
+    "author": "Bulla Network",
+    "id": "bullanetwork",
+    "title": "Bulla Network",
+    "description": "Bulla simplifies the blockchain and enhances your web3 experience. Bulla makes web3 business work.",
+    "shortDescription": "Bulla simplifies the blockchain and enhances your web3 experience. Bulla makes web3 business work.",
+    "site": "https://www.bulla.network/",
+    "url": "https://www.bulla.network/",
+    "external": false,
+    "categories": ["NFT", "Infra & Dev tooling"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/bulla.network.svg"
   }
 ]
