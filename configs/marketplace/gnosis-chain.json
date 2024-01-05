@@ -254,5 +254,101 @@
     "description": "Dappnode is a decentralized applications and services platform that makes it easy for anyone to run a node from anywhere",
     "external": true,
     "url": "https://dappnode.com/"
+  },
+   {
+    "author": "Conquest.eth",
+    "id": "conquest.eth",
+    "title": "Conquest.eth",
+    "description": "## Permissionless and Persistent. Conquest is a Permissionless and Persistent Game of Diplomacy, and so it is also an Autonomous World where anyone can join in at any time that will live forever. ## A Game of Diplomacy. Conquest is at its core a very simple game. This apparent simplicity becomes a intricate game of diplomacy as player need to know who their friends are. ## Composable. Player can write their own smart contract to better coordinate with other players. All of this permissionless-ly",
+    "shortDescription": "## Permissionless and Persistent. Conquest is a Permissionless and Persistent Game of Diplomacy, and so it is also an Autonomous World where anyone can join in at any time that will live forever. ## A Game of Diplomacy. Conquest is at its core a very simple game. This apparent simplicity becomes a intricate game of diplomacy as player need to know who their friends are. ## Composable. Player can write their own smart contract to better coordinate with other players. All of this permissionless-ly",
+    "site": "https://conquest.game",
+    "url": "https://conquest.game",
+    "external": false,
+    "categories": ["Games"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/сonquest.eth.png"
+  },
+  {
+    "author": "Spark",
+    "id": "spark",
+    "title": "Spark",
+    "description": "The next-gen DeFi infrastructure for DAI, powered by Maker",
+    "shortDescription": "The next-gen DeFi infrastructure for DAI, powered by Maker",
+    "site": "https://spark.fi/",
+    "url": "https://spark.fi/",
+    "external": false,
+    "categories": ["DeFi"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/spark.svg"
+  },
+   {
+    "author": "ShapeShift",
+    "id": "shapeshift",
+    "title": "ShapeShift",
+    "description": "Your new multichain crypto home base. Trade, track, buy, and earn permissionlessly with our open-source, community-owned, private, and non-custodial platform. More than a DEX, better than CEX.",
+    "shortDescription": "Your new multichain crypto home base. Trade, track, buy, and earn permissionlessly with our open-source, community-owned, private, and non-custodial platform. More than a DEX, better than CEX.",
+    "site": "https://shapeshift.com",
+    "url": "https://shapeshift.com",
+    "external": false,
+    "categories": ["DeFi", "Bridge", "Wallet"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/shapeshift_dark.svg"
+  },
+   {
+    "author": "Catapulta",
+    "id": "catapulta",
+    "title": "Catapulta",
+    "description": "A plug-n-play, multi-chain Web3 deployment platform for teams. Deploy with Foundry or Hardhat scripts to more than 10 networks with zero configs, get instantly verified in block explorers and share your deployment reports with your team, or your community.",
+    "shortDescription": "A plug-n-play, multi-chain Web3 deployment platform for teams. Deploy with Foundry or Hardhat scripts to more than 10 networks with zero configs, get instantly verified in block explorers and share your deployment reports with your team, or your community.",
+    "site": "https://catapulta.sh",
+    "url": "https://catapulta.sh",
+    "external": false,
+    "categories": ["Data", "Infra & Dev tooling"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/catapulta.png"
+  },
+   {
+    "author": "MetaDock",
+    "id": "metaDock",
+    "title": "MetaDock",
+    "description": "# Builders’ Swiss Army Knife; 20+ Web3 Pop Tools in 1 Browser Extension; Explain Tx with GPT; 300M+ Address Labels; Built-in Fund Flow Map",
+    "shortDescription": "# Builders’ Swiss Army Knife; 20+ Web3 Pop Tools in 1 Browser Extension; Explain Tx with GPT; 300M+ Address Labels; Built-in Fund Flow Map",
+    "site": "https://blocksec.com/metadock",
+    "url": "https://blocksec.com/metadock",
+    "external": true,
+    "categories": ["Data", "Infra & Dev tooling"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/metadock.jpg"
+  },
+  {
+    "author": "Fileverse",
+    "id": "fileverse",
+    "title": "Fileverse",
+    "description": "Your onchain space for collaboration and productivity. Use it to write, create a knowledge-base, sketch ideas, share files, make a public webpage and more - individually or as a group.",
+    "shortDescription": "Your onchain space for collaboration and productivity. Use it to write, create a knowledge-base, sketch ideas, share files, make a public webpage and more - individually or as a group.",
+    "site": "https://fileverse.io/",
+    "url": "https://fileverse.io/",
+    "external": false,
+    "categories": ["Infra & Dev tooling", "Data", "DAO"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/fileverse.png"
+  },
+  {
+    "author": "Bounce Finance",
+    "id": "bouncefinance",
+    "title": "Bounce Finance",
+    "description": "Bounce Finance is a decentralized platform dedicated to meeting the evolving needs of the Web3 space. Established in 2020, Bounce Finance is proudly known for our onchain auction protocol and diverse innovations in trading both digital and real-world assets.",
+    "shortDescription": "Bounce Finance is a decentralized platform dedicated to meeting the evolving needs of the Web3 space. Established in 2020, Bounce Finance is proudly known for our onchain auction protocol and diverse innovations in trading both digital and real-world assets.",
+    "site": "https://www.bounce.finance/",
+    "url": "https://www.bounce.finance/",
+    "external": false,
+    "categories": ["DeFi", "NFT"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/bounce_finance.png"
+  },
+  {
+    "author": "GUStakes",
+    "id": "gustakes",
+    "title": "GUStakes",
+    "description": "The go to DApp to elevate your Gods Unchained experience! Secure, trustless, and decentralized infrastructure to create and host various game modes including Classic & Arena match duels, as well as seamless tournament creation and participation.",
+    "shortDescription": "The go to DApp to elevate your Gods Unchained experience! Secure, trustless, and decentralized infrastructure to create and host various game modes including Classic & Arena match duels, as well as seamless tournament creation and participation.",
+    "site": "https://gustakes.gg/",
+    "url": "https://gustakes.gg/",
+    "external": false,
+    "categories": ["Games"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/gustakes.png"
   }
 ]
