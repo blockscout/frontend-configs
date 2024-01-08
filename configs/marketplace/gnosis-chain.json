@@ -262,7 +262,7 @@
     "description": "## Permissionless and Persistent. Conquest is a Permissionless and Persistent Game of Diplomacy, and so it is also an Autonomous World where anyone can join in at any time that will live forever. ## A Game of Diplomacy. Conquest is at its core a very simple game. This apparent simplicity becomes a intricate game of diplomacy as player need to know who their friends are. ## Composable. Player can write their own smart contract to better coordinate with other players. All of this permissionless-ly",
     "shortDescription": "## Permissionless and Persistent. Conquest is a Permissionless and Persistent Game of Diplomacy, and so it is also an Autonomous World where anyone can join in at any time that will live forever. ## A Game of Diplomacy. Conquest is at its core a very simple game. This apparent simplicity becomes a intricate game of diplomacy as player need to know who their friends are. ## Composable. Player can write their own smart contract to better coordinate with other players. All of this permissionless-ly",
     "site": "https://conquest.game",
-    "url": "https://conquest.game",
+    "url": "https://defcon.conquest.etherplay.io/",
     "external": false,
     "categories": ["Games"],
     "logo": "https://blockscout-content.s3.amazonaws.com/сonquest.eth.png"
@@ -274,12 +274,12 @@
     "description": "The next-gen DeFi infrastructure for DAI, powered by Maker",
     "shortDescription": "The next-gen DeFi infrastructure for DAI, powered by Maker",
     "site": "https://spark.fi/",
-    "url": "https://spark.fi/",
+    "url": "https://app.spark.fi/?marketName=gnosis",
     "external": false,
     "categories": ["DeFi"],
     "logo": "https://blockscout-content.s3.amazonaws.com/spark.svg"
   },
-   {
+  {
     "author": "ShapeShift",
     "id": "shapeshift",
     "title": "ShapeShift",
@@ -322,22 +322,10 @@
     "description": "Your onchain space for collaboration and productivity. Use it to write, create a knowledge-base, sketch ideas, share files, make a public webpage and more - individually or as a group.",
     "shortDescription": "Your onchain space for collaboration and productivity. Use it to write, create a knowledge-base, sketch ideas, share files, make a public webpage and more - individually or as a group.",
     "site": "https://fileverse.io/",
-    "url": "https://fileverse.io/",
+    "url": "https://beta.fileverse.io/",
     "external": false,
-    "categories": ["Infra & Dev tooling", "Data", "DAO"],
+    "categories": ["Data"],
     "logo": "https://blockscout-content.s3.amazonaws.com/fileverse.png"
-  },
-  {
-    "author": "Bounce Finance",
-    "id": "bouncefinance",
-    "title": "Bounce Finance",
-    "description": "Bounce Finance is a decentralized platform dedicated to meeting the evolving needs of the Web3 space. Established in 2020, Bounce Finance is proudly known for our onchain auction protocol and diverse innovations in trading both digital and real-world assets.",
-    "shortDescription": "Bounce Finance is a decentralized platform dedicated to meeting the evolving needs of the Web3 space. Established in 2020, Bounce Finance is proudly known for our onchain auction protocol and diverse innovations in trading both digital and real-world assets.",
-    "site": "https://www.bounce.finance/",
-    "url": "https://www.bounce.finance/",
-    "external": false,
-    "categories": ["DeFi", "NFT"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/bounce_finance.png"
   },
   {
     "author": "GUStakes",
@@ -347,7 +335,7 @@
     "shortDescription": "The go to DApp to elevate your Gods Unchained experience! Secure, trustless, and decentralized infrastructure to create and host various game modes including Classic & Arena match duels, as well as seamless tournament creation and participation.",
     "site": "https://gustakes.gg/",
     "url": "https://gustakes.gg/",
-    "external": false,
+    "external": true,
     "categories": ["Games"],
     "logo": "https://blockscout-content.s3.amazonaws.com/gustakes.png"
   },
@@ -358,9 +346,21 @@
     "description": "Bulla simplifies the blockchain and enhances your web3 experience. Bulla makes web3 business work.",
     "shortDescription": "Bulla simplifies the blockchain and enhances your web3 experience. Bulla makes web3 business work.",
     "site": "https://www.bulla.network/",
-    "url": "https://www.bulla.network/",
+    "url": "https://banker.bulla.network/",
     "external": false,
-    "categories": ["NFT", "Infra & Dev tooling"],
+    "categories": ["Payments", "Infra & Dev tooling"],
     "logo": "https://blockscout-content.s3.amazonaws.com/bulla.network.svg"
+  },
+  {
+    "author": "Kleros Court",
+    "id": "kleros-court",
+    "title": "Kleros Court",
+    "description": "Kleros is a decentralized arbitration service for the disputes of the new economy. It's courts are used to resolve dispute and subjective oracle questions in a wide variety of use cases, including identity verification, data curation, DAO governance, insurance and escrow.",
+    "shortDescription": "Kleros is a decentralized arbitration service for the disputes of the new economy. It's courts are used to resolve dispute and subjective oracle questions in a wide variety of use cases, including identity verification, data curation, DAO governance, insurance and escrow.",
+    "site": "https://court.kleros.io/",
+    "url": "https://court.kleros.io/",
+    "external": false,
+    "categories": ["Infra & Dev tooling"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/kleros-court.png"
   }
 ]
