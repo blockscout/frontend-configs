@@ -739,9 +739,9 @@
     "description": "Oku Trade is an advanced DeFi trading interface powered by Uniswap v3. The platform is designed to offer a familiar interface to popular centralized exchanges like Binance and Coinbase, offering order books, price charts, live trading history, limit orders, order history, analytics and more.",
     "shortDescription": "Oku Trade is an advanced DeFi trading interface powered by Uniswap v3. The platform is designed to offer a familiar interface to popular centralized exchanges like Binance and Coinbase, offering order books, price charts, live trading history, limit orders, order history, analytics and more.",
     "site": "https://oku.trade",
-    "url": "https://oku.trade",
+    "url": "https://oku.trade/app/ethereum/pool/0x88e6a0c2ddd26feeb64f039a2c41296fcb3f5640",
     "external": false,
-    "categories": ["Data", "DeFi"],
+    "categories": ["DeFi"],
     "logo": "https://blockscout-content.s3.amazonaws.com/okutrade.png"
   },
    {
@@ -751,9 +751,9 @@
     "description": "Mellow Protocol is a generalized infrastructure for building asset management and complex DeFi strategies.",
     "shortDescription": "Mellow Protocol is a generalized infrastructure for building asset management and complex DeFi strategies.",
     "site": "https://mellow.finance/",
-    "url": "https://mellow.finance/",
+    "url": "https://app.mellow.finance/products",
     "external": false,
-    "categories": ["Infra & Dev tooling", "DeFi"],
+    "categories": ["DeFi"],
     "logo": "https://blockscout-content.s3.amazonaws.com/mellowprotocol.png"
   },
    {
@@ -764,7 +764,7 @@
     "shortDescription": "Subsquid Network is a decentralized data lake and query engine designed to provide developers with performant and permissionless access to on-chain data.",
     "site": "https://subsquid.io",
     "url": "https://subsquid.io",
-    "external": false,
+    "external": true,
     "categories": ["Infra & Dev tooling", "Data"],
     "logo": "https://blockscout-content.s3.amazonaws.com/subsquid.svg"
   },
@@ -776,7 +776,7 @@
     "shortDescription": "Crypto payment system for vending, retail & e-commerce",
     "site": "https://ivendpay.com",
     "url": "https://ivendpay.com",
-    "external": false,
+    "external": true,
     "categories": ["Payments"],
     "logo": "https://blockscout-content.s3.amazonaws.com/ivendpay.png"
   },
@@ -787,9 +787,21 @@
     "description": "Your onchain space for collaboration and productivity. Use it to write, create a knowledge-base, sketch ideas, share files, make a public webpage and more - individually or as a group.",
     "shortDescription": "Your onchain space for collaboration and productivity. Use it to write, create a knowledge-base, sketch ideas, share files, make a public webpage and more - individually or as a group.",
     "site": "https://fileverse.io/",
-    "url": "https://fileverse.io/",
+    "url": "https://beta.fileverse.io/",
     "external": false,
-    "categories": ["Infra & Dev tooling", "Data", "DAO"],
+    "categories": ["Data"],
     "logo": "https://blockscout-content.s3.amazonaws.com/fileverse.png"
+  },
+  {
+    "author": "Kleros Court",
+    "id": "kleros-court",
+    "title": "Kleros Court",
+    "description": "Kleros is a decentralized arbitration service for the disputes of the new economy. It's courts are used to resolve dispute and subjective oracle questions in a wide variety of use cases, including identity verification, data curation, DAO governance, insurance and escrow.",
+    "shortDescription": "Kleros is a decentralized arbitration service for the disputes of the new economy. It's courts are used to resolve dispute and subjective oracle questions in a wide variety of use cases, including identity verification, data curation, DAO governance, insurance and escrow.",
+    "site": "https://court.kleros.io/",
+    "url": "https://court.kleros.io/",
+    "external": false,
+    "categories": ["Infra & Dev tooling"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/kleros-court.png"
   }
 ]
