@@ -13,7 +13,7 @@
     },
     {
         "title": "Shiden (EVM)",
-        "url": "https://blockscout.com/shiden",
+        "url": "https://shiden.blockscout.com",
         "group": "Mainnets",
         "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/shiden.svg"
     },
