@@ -631,7 +631,7 @@
     "description": "Liquid staking provider.",
     "shortDescription": "Liquid staking provider.",
     "site": "https://app.stafi.io/gallery/evm/",
-    "url": "https://app.stafi.io/gallery/evm/",
+    "url": "https://app.stafi.io/pool/evm/?net=ERC20",
     "external": false,
     "categories": ["DeFi"],
     "logo": "https://blockscout-content.s3.amazonaws.com/stafi.jpg"
@@ -643,7 +643,7 @@
     "description": "The next-gen DeFi infrastructure for DAI, powered by Maker",
     "shortDescription": "The next-gen DeFi infrastructure for DAI, powered by Maker",
     "site": "https://spark.fi/",
-    "url": "https://spark.fi/",
+    "url": "https://app.spark.fi/",
     "external": false,
     "categories": ["DeFi"],
     "logo": "https://blockscout-content.s3.amazonaws.com/spark.svg"
@@ -656,7 +656,7 @@
     "shortDescription": "Your new multichain crypto home base. Trade, track, buy, and earn permissionlessly with our open-source, community-owned, private, and non-custodial platform. More than a DEX, better than CEX.",
     "site": "https://shapeshift.com",
     "url": "https://shapeshift.com",
-    "external": false,
+    "external": true,
     "categories": ["DeFi", "Bridge", "Wallet"],
     "logo": "https://blockscout-content.s3.amazonaws.com/shapeshift_dark.svg"
   },
@@ -668,7 +668,7 @@
     "shortDescription": "Rise simplifies global workforce payments in cash and crypto for web3 companies, DAOs, agencies, and more. Easily fund payroll in USD or USDC and give every team member the flexibility to withdraw earnings directly to their bank account or web3 wallet from a selection fiat currencies and 100+ cryptocurrencies. Rise also automates global onboarding and compliance for international contractors across 190+ countries and provides secure on-chain professional IDs for every team member.",
     "site": "https://www.riseworks.io/",
     "url": "https://www.riseworks.io/",
-    "external": false,
+    "external": true,
     "categories": ["Payments", "Infra & Dev tooling"],
     "logo": "https://blockscout-content.s3.amazonaws.com/rise_pay.png"
   },
@@ -680,7 +680,7 @@
     "shortDescription": "A plug-n-play, multi-chain Web3 deployment platform for teams. Deploy with Foundry or Hardhat scripts to more than 10 networks with zero configs, get instantly verified in block explorers and share your deployment reports with your team, or your community.",
     "site": "https://catapulta.sh",
     "url": "https://catapulta.sh",
-    "external": false,
+    "external": true,
     "categories": ["Data", "Infra & Dev tooling"],
     "logo": "https://blockscout-content.s3.amazonaws.com/catapulta.png"
   },

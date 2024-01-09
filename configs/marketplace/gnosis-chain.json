@@ -287,7 +287,7 @@
     "shortDescription": "Your new multichain crypto home base. Trade, track, buy, and earn permissionlessly with our open-source, community-owned, private, and non-custodial platform. More than a DEX, better than CEX.",
     "site": "https://shapeshift.com",
     "url": "https://shapeshift.com",
-    "external": false,
+    "external": true,
     "categories": ["DeFi", "Bridge", "Wallet"],
     "logo": "https://blockscout-content.s3.amazonaws.com/shapeshift_dark.svg"
   },
@@ -299,7 +299,7 @@
     "shortDescription": "A plug-n-play, multi-chain Web3 deployment platform for teams. Deploy with Foundry or Hardhat scripts to more than 10 networks with zero configs, get instantly verified in block explorers and share your deployment reports with your team, or your community.",
     "site": "https://catapulta.sh",
     "url": "https://catapulta.sh",
-    "external": false,
+    "external": true,
     "categories": ["Data", "Infra & Dev tooling"],
     "logo": "https://blockscout-content.s3.amazonaws.com/catapulta.png"
   },
