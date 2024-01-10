@@ -1,0 +1,86 @@
+[{
+		"title": "Reach out",
+		"links": [{
+				"text": "Slack",
+				"url": "https://filecoin.io/slack"
+			},
+			{
+				"text": "WeChat",
+				"url": "https://weixin.qq.com/r/1xz54Y-EctINrcuC90nF"
+			},
+			{
+				"text": "Twitter",
+				"url": "https://twitter.com/Filecoin"
+			},
+			{
+				"text": "Forum",
+				"url": "https://github.com/filecoin-project/community#forums"
+			}
+		]
+	},
+	{
+		"title": "Resources",
+		"links": [{
+				"text": "Blog",
+				"url": "https://filecoin.io/blog/"
+			},
+			{
+				"text": "GitHub",
+				"url": "https://github.com/filecoin-project"
+			},
+			{
+				"text": "ProtoSchool",
+				"url": "https://proto.school/course/filecoin/"
+			},
+			{
+				"text": "Security",
+				"url": "https://security.filecoin.io/"
+			},
+			{
+				"text": "Docs",
+				"url": "https://docs.filecoin.io/fvm/basics/introduction/"
+			}
+		]
+	},
+	{
+		"title": "Filecoin Virtual Machine",
+		"links": [{
+				"text": "Source code",
+				"url": "https://github.com/filecoin-project/ref-fvm"
+			},
+			{
+				"text": "Architecture",
+				"url": "https://github.com/filecoin-project/fvm-specs/blob/main/01-architecture.md"
+			},
+			{
+				"text": "Specifications",
+				"url": "https://github.com/filecoin-project/fvm-specs"
+			},
+			{
+				"text": "Bug bounty",
+				"url": "https://immunefi.com/bounty/filecoin/"
+			}
+		]
+	},
+  {
+    "title": "Partners",
+    "links": [
+      {
+        "text": "MetaDock",
+        "url": "https://blocksec.com/metadock"
+      },
+      {
+        "text": "Sourcify",
+        "url": "https://sourcify.dev/"
+      },
+      {
+        "text": "DRPC",
+        "url": "https://drpc.org?ref=559183"
+      },
+      {
+        "text": "BlockSec",
+        "url": "https://blocksec.com/"
+      }
+    ]
+  }
+]
