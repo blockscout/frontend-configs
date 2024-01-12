@@ -44,4 +44,19 @@
         "url": "https://mintify.stabilityprotocol.com/",
         "external": false
     }
+    ,
+    {
+        "author": "Paynow",
+        "id": "paynow",
+        "title": "Paynow",
+        "logo": "https://blockscout-content.s3.amazonaws.com/paynow-logo-stability.png",
+        "categories": [
+            "DeFi"
+        ],
+        "shortDescription": "Paynow is a demo application built on the Stability blockchain, demonstrating the practical use of blockchain technology for secure and efficient transactions. Utilizing Magiclink for user authentication, Paynow eliminates the need for traditional databases, showcasing a streamlined, blockchain-based approach to digital payments and user management.",
+        "site": "https://paynow.stabilityprotocol.com/",
+        "description": "Paynow is a demo application built on the Stability blockchain, demonstrating the practical use of blockchain technology for secure and efficient transactions. Utilizing Magiclink for user authentication, Paynow eliminates the need for traditional databases, showcasing a streamlined, blockchain-based approach to digital payments and user management.",
+        "url": "https://paynow.stabilityprotocol.com",
+        "external": true
+    }
 ]
