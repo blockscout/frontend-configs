@@ -1,8 +1,5 @@
-const { featuredNetworkSchema } = require('./schema.js')
-const validateFilesWithSchema = require('../utils/validateFilesWithSchema.js')
+const schema = require('./schema.js')
+const validateFilesWithYup = require('../utils/validateFilesWithYup.js')
 
 console.log()
-validateFilesWithSchema(
-	__dirname + '/../../configs/featured-networks',
-	featuredNetworkSchema.array()
-)
+validateFilesWithYup(__dirname + '/../../configs/featured-networks', schema)

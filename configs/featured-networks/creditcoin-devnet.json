@@ -1,0 +1,34 @@
+[
+   {
+      "title": "Ethereum",
+      "url": "https://eth.blockscout.com/",
+      "group": "Mainnets",
+      "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg"
+   },
+   {
+      "title":"Creditcoin Devnet",
+      "url":"https://creditcoin-devnet.blockscout.com/",
+      "group":"Testnets",
+      "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/creditcoin-icon-light.svg",
+      "invertIconInDarkMode": true,
+      "isActive": true
+   },
+   {
+		"title": "Goerli",
+		"url": "https://eth-goerli.blockscout.com/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/goerli.svg",
+		"invertIconInDarkMode": true
+	},
+   {
+		"title": "Sepolia",
+		"url": "https://eth-sepolia.blockscout.com/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/sepolia.png"
+	},
+   {
+      "title": "Holesky",
+      "url": "https://eth-holesky.blockscout.com/",
+      "group": "Testnets"
+  }
+]

@@ -1,0 +1,14 @@
+[{
+		"title": "Rootstock Mainnet",
+		"url": "https://rootstock.blockscout.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/rootstock-short.svg",
+		"isActive": true
+	},
+	{
+		"title": "Rootstock Testnet",
+		"url": "https://rootstock-testnet.blockscout.com/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/rootstock-short.svg"
+	}
+]

@@ -28,10 +28,10 @@ jobs:
         run: yarn eslint .
 
       - name: Validate marketplace config schema
-        run: './tools/marketplace-config-validator/script.sh'
+        run: yarn validate:marketplace
 
       - name: Validate featured networks config schema
-        run: './tools/featured-networks-config-validator/script.sh'
+        run: yarn validate:featured-networks
 
       - name: Validate footer links config schema
-        run: './tools/footer-links-config-validator/script.sh'
+        run: yarn validate:footer-links

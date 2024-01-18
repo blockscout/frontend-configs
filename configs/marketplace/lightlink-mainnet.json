@@ -1,0 +1,98 @@
+[
+    {
+        "author": "The Red Village",
+        "id": "red-village",
+        "title": "The Red Village",
+        "description": "A dark fantasy metaverse game with team-based combat mechanics, migrated to LightLink to reduce transaction fees, enhance the user experience with improved throughput, and simplify onboarding through gasless transactions.",
+        "shortDescription": "A dark fantasy metaverse game with team-based combat mechanics, migrated to LightLink to reduce transaction fees, enhance the user experience with improved throughput, and simplify onboarding through gasless transactions.",
+        "site": "https://theredvillage.com/",
+        "url": "https://theredvillage.com/",
+        "external": true,
+        "categories": ["Games"],
+        "logo": "https://blockscout-content.s3.amazonaws.com/red-village.png"
+      },
+      {
+        "author": "Elektrik",
+        "id": "elektrik",
+        "title": "Elektrik",
+        "description": "Elektrik is a decentralized exchange that utilizes Enterprise Mode to enable its users to swap tokens without any fees.",
+        "shortDescription": "Elektrik is a decentralized exchange that utilizes Enterprise Mode to enable its users to swap tokens without any fees.",
+        "site": "https://elektrik.network/",
+        "url": "https://app.elektrik.network/#/swap",
+        "external": true,
+        "categories": ["DeFi"],
+        "logo": "https://blockscout-content.s3.amazonaws.com/elektrik.png"
+      },
+      {
+        "author": "Translucia",
+        "id": "translucia",
+        "title": "Translucia",
+        "description": "Translucia is a Multiverse Convergence solution that aims to accelerate the entry of traditional businesses into Web3 by uniting third-party metaverses. Essentially, it is an infrastructure project that connects metaverses into a multiverse, offering players an endless world to explore.",
+        "shortDescription": "Translucia is a Multiverse Convergence solution that aims to accelerate the entry of traditional businesses into Web3 by uniting third-party metaverses.",
+        "site": "https://www.translucia.com/",
+        "url": "https://www.translucia.com/",
+        "external": true,
+        "categories": ["Games"],
+        "logo": "https://blockscout-content.s3.amazonaws.com/translucia.png"
+      },
+      {
+        "author": "Mittaria",
+        "id": "mittaria",
+        "title": "Mittaria",
+        "description": "Mittaria is a Web3 metaverse for creators to connect, co-own, and co-create in fields such as animation, music, movies, and fashion.",
+        "shortDescription": "Mittaria is a Web3 metaverse for creators to connect, co-own, and co-create in fields such as animation, music, movies, and fashion.",
+        "site": "https://mittaria.io/",
+        "url": "https://mittaria.io/",
+        "external": true,
+        "categories": ["Games"],
+        "logo": "https://blockscout-content.s3.amazonaws.com/mittaria.png"
+      },
+      {
+        "author": "Curate",
+        "id": "curate",
+        "title": "Curate",
+        "description": "Curate is an NFT marketplace that enabled zero transaction fees after migrating to LightLink and activating Enterprise Mode. Claiming, minting, and trading NFTs on Curate is free from gas fees.",
+        "shortDescription": "Curate is an NFT marketplace that enabled zero transaction fees after migrating to LightLink and activating Enterprise Mode. Claiming, minting, and trading NFTs on Curate is free from gas fees.",
+        "site": "https://web.curate.style/",
+        "url": "https://web.curate.style/",
+        "external": true,
+        "categories": ["NFT"],
+        "logo": "https://blockscout-content.s3.amazonaws.com/curate.png"
+      },
+      {
+        "author": "CryptoDo",
+        "id": "cryptodo",
+        "title": "CryptoDo",
+        "description": "AI-Powered multichain no-code builder of web3 solutions for business.",
+        "shortDescription": "AI-Powered multichain no-code builder of web3 solutions for business.",
+        "site": "https://www.cryptodo.app/",
+        "url": "https://lab.cryptodo.app/",
+        "external": true,
+        "categories": ["Infra & Dev tooling"],
+        "logo": "https://blockscout-content.s3.amazonaws.com/cryptodo.png"
+      },
+      {
+        "author": "Zonic",
+        "id": "zonic",
+        "title": "Zonic",
+        "description": "Zonic is a lightning-fast NFT marketplace built especially for the Ethereum Layer 2 ecosystem.",
+        "shortDescription": "Zonic is a lightning-fast NFT marketplace built especially for the Ethereum Layer 2 ecosystem.",
+        "site": "https://zonic.app/",
+        "url": "https://zonic.app/",
+        "external": false,
+        "categories": ["NFT"],
+        "logo": "https://blockscout-content.s3.amazonaws.com/zonic.png"
+      },
+      {
+        "author": "Space ID",
+        "id": "space-id",
+        "title": "Space ID",
+        "description": "Space ID is a one-stop Web3 domain and identity platform that offers a comprehensive suite of services for digital identities.",
+        "shortDescription": "Space ID is a one-stop Web3 domain and identity platform that offers a comprehensive suite of services for digital identities.",
+        "site": "https://space.id/",
+        "url": "https://space.id/",
+        "external": true,
+        "categories": ["NFT", "Infra & Dev tooling"],
+        "logo": "https://blockscout-content.s3.amazonaws.com/spaceid.png"
+      }
+]

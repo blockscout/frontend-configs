@@ -1,0 +1,90 @@
+[{
+		"title": "Shimmer Network",
+		"links": [{
+				"text": "Homepage",
+				"url": "https://shimmer.network/"
+			},
+			{
+				"text": "Technology",
+				"url": "https://shimmer.network/technology"
+			},
+			{
+				"text": "Ecosystem",
+				"url": "https://shimmer.network/ecosystem"
+			},
+			{
+				"text": "Blog",
+				"url": "https://blog.shimmer.network/"
+			}
+		]
+	},
+	{
+		"title": "Resources",
+		"links": [{
+				"text": "Developer",
+				"url": "https://shimmer.network/developer"
+			},
+			{
+				"text": "Wiki",
+				"url": "https://wiki.iota.org/shimmer/"
+			},
+			{
+				"text": "Touchpoint",
+				"url": "https://shimmer.network/touchpoint"
+			},
+			{
+				"text": "Firefly Shimmer Wallet",
+				"url": "https://firefly.iota.org/"
+			}
+		]
+	},
+	{
+		"title": "Connect",
+		"links": [{
+				"text": "Twitter",
+				"url": "https://twitter.com/shimmernet"
+			},
+			{
+				"text": "Discord",
+				"url": "https://discord.shimmer.network/"
+			},
+			{
+				"text": "Linkedin",
+				"url": "https://www.linkedin.com/company/shimmernet"
+			},
+			{
+				"text": "Coinmarketcap",
+				"url": "https://coinmarketcap.com/currencies/shimmer/"
+			},
+			{
+				"text": "Reddit",
+				"url": "https://www.reddit.com/r/shimmer/"
+			},
+			{
+				"text": "Github",
+				"url": "https://github.com/iotaledger"
+			}
+		]
+	},
+    {
+    "title": "Partners",
+    "links": [
+      {
+        "text": "MetaDock",
+        "url": "https://blocksec.com/metadock"
+      },
+      {
+        "text": "Sourcify",
+        "url": "https://sourcify.dev/"
+      },
+      {
+        "text": "DRPC",
+        "url": "https://drpc.org?ref=559183"
+      },
+      {
+        "text": "BlockSec",
+        "url": "https://blocksec.com/"
+      }
+    ]
+  }
+]

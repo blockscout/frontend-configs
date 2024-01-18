@@ -11,6 +11,12 @@
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg"
 	},
 	{
+		"title": "Base Chain",
+		"url": "https://base.blockscout.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/base.svg"
+	},
+	{
 		"title": "RSK",
 		"url": "https://blockscout.com/rsk/mainnet",
 		"group": "Mainnets",
@@ -21,6 +27,12 @@
 		"url": "https://phoenix.lightlink.blockscout.com/",
 		"group": "Mainnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/lightlink-short.svg"
+	},
+	{
+		"title": "Neon",
+		"url": "https://neon.blockscout.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/neon-short.svg"
 	},
 	{
 		"title": "Ethereum Classic",
@@ -47,13 +59,12 @@
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/shiden.svg"
 	},
 	{
-		"title": "Goerli",
-		"url": "https://eth-goerli.blockscout.com/",
-		"group": "Testnets",
-		"isActive": true,
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/goerli.svg",
-		"invertIconInDarkMode": true
-	},
+        "title": "Base Sepolia",
+        "url": "https://base-sepolia.blockscout.com/",
+        "group": "Testnets",
+        "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/base.svg",
+        "invertIconInDarkMode": true
+    },
 	{
 		"title": "Base Göerli",
 		"url": "https://base-goerli.blockscout.com/",
@@ -62,8 +73,28 @@
 		"invertIconInDarkMode": true
 	},
 	{
+		"title": "Goerli",
+		"url": "https://eth-goerli.blockscout.com/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/goerli.svg",
+		"invertIconInDarkMode": true,
+		"isActive": true
+	},
+	{
+		"title": "Sepolia",
+		"url": "https://eth-sepolia.blockscout.com/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/sepolia.png"
+	},
+	{
 		"title": "Optimism Goerli",
 		"url": "https://optimism-goerli.blockscout.com/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg"
+	},
+	{
+		"title": "Optimism Sepolia",
+		"url": "https://optimism-sepolia.blockscout.com/",
 		"group": "Testnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg"
 	},
@@ -75,7 +106,7 @@
 	},
 	{
 		"title": "ZetaChain testnet",
-		"url": "https://zetachain-athens-2.blockscout.com/",
+		"url": "https://zetachain-athens-3.blockscout.com/",
 		"group": "Testnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zetachain.svg",
 		"invertIconInDarkMode": true

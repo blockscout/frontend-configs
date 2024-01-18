@@ -1,0 +1,70 @@
+[{
+		"title": "Getting started",
+		"links": [{
+				"text": "Fuse Network",
+				"url": "https://www.fuse.io/network"
+			},
+			{
+				"text": "Mobile Stack",
+				"url": "https://www.fuse.io/mobile"
+			},
+			{
+				"text": "Voltage Finance",
+				"url": "https://voltage.finance/"
+			}
+		]
+	},
+	{
+		"title": "Under the hood",
+		"links": [{
+				"text": "Documentation",
+				"url": "https://docs.fuse.io/"
+			},
+			{
+				"text": "Fuse Staking",
+				"url": "https://staking.fuse.io/"
+			},
+			{
+				"text": "Governance",
+				"url": "https://forum.fuse.io/"
+			},
+			{
+				"text": "Service Status",
+				"url": "https://status.fuse.io/"
+			}
+		]
+	},
+	{
+		"title": "General",
+		"links": [{
+				"text": "Brand Kits",
+				"url": "https://uploads-ssl.webflow.com/63a6d0820bd1f472b4150067/63f758e4017a399398360f78_Brand%20kit.pdf"
+			},
+			{
+				"text": "Jobs",
+				"url": "https://fuse.freshteam.com/jobs"
+			}
+		]
+	},
+     {
+    "title": "Partners",
+    "links": [
+      {
+        "text": "MetaDock",
+        "url": "https://blocksec.com/metadock"
+      },
+      {
+        "text": "Sourcify",
+        "url": "https://sourcify.dev/"
+      },
+      {
+        "text": "DRPC",
+        "url": "https://drpc.org?ref=559183"
+      },
+      {
+        "text": "BlockSec",
+        "url": "https://blocksec.com/"
+      }
+    ]
+  }
+]

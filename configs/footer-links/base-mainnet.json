@@ -21,7 +21,7 @@
       },
       {
         "text": "Discord",
-        "url": "https://base.org/discord "
+        "url": "https://base.org/discord"
       },
       {
         "text": "Blog",
@@ -35,6 +35,27 @@
       {
         "text": "About",
         "url": "https://base.org/about"
+      }
+    ]
+  },
+   {
+    "title": "Partners",
+    "links": [
+      {
+        "text": "MetaDock",
+        "url": "https://blocksec.com/metadock"
+      },
+      {
+        "text": "Sourcify",
+        "url": "https://sourcify.dev/"
+      },
+      {
+        "text": "DRPC",
+        "url": "https://drpc.org?ref=559183"
+      },
+      {
+        "text": "BlockSec",
+        "url": "https://blocksec.com/"
       }
     ]
   }

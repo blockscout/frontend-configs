@@ -1,0 +1,86 @@
+[
+    {
+        "title": "zkSync Era",
+        "links": [
+            {
+                "text": "Portal",
+                "url": "https://portal.zksync.io/"
+            },
+            {
+                "text": "Explorers",
+                "url": "https://zksync.io/explore#explorers"
+            },
+            {
+                "text": "Bridges",
+                "url": "https://zksync.io/explore#bridges"
+            },
+            {
+                "text": "Ecosystem",
+                "url": "https://ecosystem.zksync.io/"
+            },
+            {
+                "text": "Careers",
+                "url": "https://matterlabs.notion.site/Shape-the-future-of-Ethereum-at-Matter-Labs-dfb3b5a037044bb3a8006af2eb0575e0"
+            }
+        ]
+    },
+    {
+        "title": "Resources",
+        "links": [
+            {
+                "text": "Documentation",
+                "url": "https://era.zksync.io/docs/"
+            },
+            {
+                "text": "Tools",
+                "url": "https://era.zksync.io/docs/tools/"
+            },
+            {
+                "text": "Github",
+                "url": "https://github.com/matter-labs/"
+            },
+            {
+                "text": "ZK Stack",
+                "url": "https://zkstack.io/"
+            }
+        ]
+    },
+    {
+        "title": "Community",
+        "links": [
+            {
+                "text": "Discord",
+                "url": "https://join.zksync.dev/"
+            },
+            {
+                "text": "Twitter",
+                "url": "https://twitter.com/zksync"
+            },
+            {
+                "text": "Blog",
+                "url": "https://zksync.mirror.xyz/"
+            }
+        ]
+    },
+    {
+        "title": "Partners",
+        "links": [
+            {
+                "text": "MetaDock",
+                "url": "https://blocksec.com/metadock"
+            },
+            {
+                "text": "Sourcify",
+                "url": "https://sourcify.dev/"
+            },
+            {
+                "text": "DRPC",
+                "url": "https://drpc.org?ref=559183"
+            },
+            {
+                "text": "BlockSec",
+                "url": "https://blocksec.com/"
+            }
+        ]
+    }
+]
