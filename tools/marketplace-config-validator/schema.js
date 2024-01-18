@@ -1,5 +1,6 @@
 const yup = require('yup')
 const url = require('../utils/validators/url.js')
+const categories = require('../../configs/marketplace-categories/default.json')
 
 const marketplaceAppSchema = yup
     .object({
@@ -13,18 +14,7 @@ const marketplaceAppSchema = yup
             .array()
             .of(yup
                 .string()
-                .oneOf([
-                    'Infra & Dev tooling',
-                    'DeFi',
-                    'Data',
-                    'Bridge',
-                    'NFT',
-                    'Payments',
-                    'Faucet',
-                    'DAO',
-                    'Games',
-                    'Wallet',
-                ])
+                .oneOf(categories.map((category) => category.name))
                 .required()
             )
             .required(),
@@ -35,6 +25,8 @@ const marketplaceAppSchema = yup
         twitter: yup.string().test(url),
         telegram: yup.string().test(url),
         github: yup.string().test(url),
+        internalWallet: yup.boolean(),
+        priority: yup.number(),
     });
 
 const schema = yup
