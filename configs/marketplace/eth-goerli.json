@@ -23,7 +23,8 @@
 		"description": "Token Approval Tracker shows all approvals for any ERC20-compliant tokens and NFTs and lets to revoke them or adjust the approved amount.",
 		"external": false,
 		"url": "https://approval-tracker.apps.blockscout.com/",
-		"internalWallet": false
+		"internalWallet": false,
+		"priority": 0
 	},
 	{
 		"author": "Revoke",
