@@ -1,8 +1,10 @@
 [
   {
-		"title": "Mainnet (soon)",
-		"url": "https://www.zetachain.com/",
-		"group": "Mainnets"
+		"title": "ZetaChain Mainnet",
+		"url": "https://zetachain.blockscout.com/",
+		"group": "Mainnets",
+      "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zetachain.svg",
+		"invertIconInDarkMode": true
 	},
 	{
 		"title": "Official testnet explorer",
