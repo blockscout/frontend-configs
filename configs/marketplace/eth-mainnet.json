@@ -3,13 +3,15 @@
     "author": "Uniswap",
     "id": "uniswap",
     "title": "Uniswap",
-    "description": "A fully decentralized protocol for automated liquidity provision on Ethereum. V2",
-    "shortDescription": "A fully decentralized protocol for automated liquidity provision on Ethereum. V2",
+    "description": "A fully decentralized protocol for automated liquidity provision on Ethereum.",
+    "shortDescription": "A fully decentralized protocol for automated liquidity provision on Ethereum.",
     "site": "https://uniswap.org/",
     "url": "https://app.uniswap.org/",
     "external": false,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/uniswap.png"
+    "categories": ["Swaps", "Liquid Staking"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/uniswap.png",
+
+    "internalWallet": true
   },
   {
     "author": "Curve",
@@ -20,8 +22,10 @@
     "site": "https://curve.fi",
     "url": "https://curve.fi",
     "external": false,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/curve.png"
+    "categories": ["Swaps", "Liquid Staking"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/curve.png",
+
+    "internalWallet": false
   },
   {
     "author": "PancakeSwap",
@@ -32,8 +36,10 @@
     "site": "https://pancakeswap.finance/",
     "url": "https://pancakeswap.finance/",
     "external": false,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/pancake_swap_light.png"
+    "categories": ["Swaps", "Liquid Staking"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/pancake_swap_light.png",
+
+    "internalWallet": true
   },
   {
     "author": "Balancer",
@@ -44,9 +50,10 @@
     "site": "https://balancer.finance/",
     "url": "https://app.balancer.fi/",
     "external": false,
-    "categories": ["DeFi"],
+    "categories": ["Swaps", "Liquid Staking"],
     "logo": "https://blockscout-content.s3.amazonaws.com/balancer_light.png",
-    "logoDarkMode": "https://blockscout-content.s3.amazonaws.com/balancer_dark.png"
+    "logoDarkMode": "https://blockscout-content.s3.amazonaws.com/balancer_dark.png",
+    "internalWallet": true
   },
   {
     "author": "Thorchain",
@@ -57,8 +64,10 @@
     "site": "https://app.thorswap.finance/swap",
     "url": "https://app.thorswap.finance/swap",
     "external": false,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/thorchain.jpg"
+    "categories": ["Swaps"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/thorchain.jpg",
+
+    "internalWallet": false
   },
   {
     "author": "SushiSwap",
@@ -69,8 +78,10 @@
     "site": "https://sushi.com/swap",
     "url": "https://app.sushi.com/swap",
     "external": false,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/sushi_swap.png"
+    "categories": ["Swaps", "Liquid Staking"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/sushi_swap.png",
+
+    "internalWallet": true
   },
   {
     "author": "Loopring",
@@ -81,32 +92,24 @@
     "site": "https://loopring.org/#/",
     "url": "https://loopring.org/#/",
     "external": false,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/loopring.png"
+    "categories": ["Swaps", "Bridges", "Wallets"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/loopring.png",
+
+    "internalWallet": false
   },
   {
-    "author": "Joe V2.1",
-    "id": "joe-v2.1",
-    "title": "Joe V2.1",
-    "description": "Joe V2.1 is an optimized protocol that supports all router and quoter versions, enhancing gas efficiency, events, functions, and providing better transfer options across pair versions",
-    "shortDescription": "Joe V2.1 is an optimized protocol that supports all router and quoter versions, enhancing gas efficiency, events, functions, and providing better transfer options across pair versions",
-    "site": "https://traderjoexyz.com/arbitrum/trade",
-    "url": "https://traderjoexyz.com/arbitrum/trade",
-    "external": true,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/joe-v2.jpg"
-  },
-  {
-    "author": "Frax Swap",
-    "id": "frax-swap",
-    "title": "Frax Swap",
+    "author": "Frax Finanace",
+    "id": "frax-finance",
+    "title": "Frax Finance",
     "description": "Fraxswap is the first constant product automated market maker with an embedded time-weighted average market maker (TWAMM) for conducting large trades over long periods of time trustlessly. It is fully permissionless and the core AMM is based on Uniswap V2.",
     "shortDescription": "Fraxswap is the first constant product automated market maker with an embedded time-weighted average market maker (TWAMM) for conducting large trades over long periods of time trustlessly. It is fully permissionless and the core AMM is based on Uniswap V2.",
     "site": "https://app.frax.finance/swap/main",
     "url": "https://app.frax.finance/swap/main",
     "external": false,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/frax.jpg"
+    "categories": ["Swaps", "Liquid Staking"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/frax.jpg",
+
+    "internalWallet": true
   },
   {
     "author": "Bancor",
@@ -117,8 +120,10 @@
     "site": "https://app.bancor.network/",
     "url": "https://app.bancor.network/",
     "external": false,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/bancor.png"
+    "categories": ["Swaps", "Liquid Staking"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/bancor.png",
+
+    "internalWallet": true
   },
   {
     "author": "Maverick Protocol",
@@ -129,8 +134,10 @@
     "site": "https://app.mav.xyz/?chain=1",
     "url": "https://app.mav.xyz/?chain=1",
     "external": false,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/maverick-protocol.jpg"
+    "categories": ["Swaps", "Liquid Staking"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/maverick-protocol.jpg",
+
+    "internalWallet": false
   },
   {
     "author": "Gyroscope Protocol",
@@ -141,32 +148,10 @@
     "site": "https://app.gyro.finance/",
     "url": "https://app.gyro.finance/",
     "external": false,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/gyroscope-protocol.png"
-  },
-  {
-    "author": "DODO",
-    "id": "dodo",
-    "title": "DODO",
-    "description": "Trade crypto assets with market-leading liquidity",
-    "shortDescription": "Trade crypto assets with market-leading liquidity",
-    "site": "https://app.dodoex.io/?network=mainnet",
-    "url": "https://app.dodoex.io/?network=mainnet",
-    "external": true,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/dodo.png"
-  },
-  {
-    "author": "rhino.fi",
-    "id": "rhino.fi",
-    "title": "rhino.fi",
-    "description": "rhino.fi is the multichain DeFi aggregator that helps you effortlessly explore the best opportunities at the click of a button. Trade. Swap. Invest. Earn. Bridge. All from your Layer 2 wallet",
-    "shortDescription": "rhino.fi is the multichain DeFi aggregator that helps you effortlessly explore the best opportunities at the click of a button. Trade. Swap. Invest. Earn. Bridge. All from your Layer 2 wallet",
-    "site": "https://app.rhino.fi",
-    "url": "https://app.rhino.fi",
-    "external": true,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/rhino-fi.jpg"
+    "categories": ["CDP"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/gyroscope-protocol.png",
+
+    "internalWallet": true
   },
   {
     "author": "Wombat Exchange",
@@ -177,8 +162,10 @@
     "site": "https://app.wombat.exchange/",
     "url": "https://app.wombat.exchange/",
     "external": false,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/wombat-exchange.png"
+    "categories": ["Swaps", "Bridges", "Liquid Staking"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/wombat-exchange.png",
+
+    "internalWallet": true
   },
   {
     "author": "iZiSwap",
@@ -189,8 +176,10 @@
     "site": "https://izumi.finance/trade/swap",
     "url": "https://izumi.finance/trade/swap",
     "external": false,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/iziswap.png"
+    "categories": ["Swaps"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/iziswap.png",
+
+    "internalWallet": true
   },
   {
     "author": "ShibaSwap",
@@ -201,8 +190,10 @@
     "site": "https://shibaswap.com",
     "url": "https://shibaswap.com",
     "external": false,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/shibaswap.jpg"
+    "categories": ["Swaps"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/shibaswap.jpg",
+
+    "internalWallet": false
   },
   {
     "author": "Native",
@@ -213,8 +204,10 @@
     "site": "https://nativex.finance/swap/",
     "url": "https://nativex.finance/swap/",
     "external": false,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/native.jpg"
+    "categories": ["Swaps", "Bridges"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/native.jpg",
+
+    "internalWallet": false
   },
   {
     "author": "SmarDex",
@@ -225,8 +218,10 @@
     "site": "https://smardex.io/swap?chainId=1",
     "url": "https://smardex.io/swap?chainId=1",
     "external": false,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/smardex.png"
+    "categories": ["Swaps"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/smardex.png",
+
+    "internalWallet": true
   },
   {
     "author": "Ambient",
@@ -237,8 +232,10 @@
     "site": "https://ambient.finance/trade/market/chain=0x1",
     "url": "https://ambient.finance/trade/market/chain=0x1",
     "external": false,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/ambient.png"
+    "categories": ["Swaps"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/ambient.png",
+
+    "internalWallet": false
   },
   {
     "author": "WOOFi Swap",
@@ -249,20 +246,10 @@
     "site": "https://fi.woo.org/swap/",
     "url": "https://fi.woo.org/swap/",
     "external": false,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/woofi.png"
-  },
-  {
-    "author": "ApeSwap",
-    "id": "apeswap",
-    "title": "ApeSwap",
-    "description": "ApeSwap is a Decentralized Autonomous Organization (DAO) that offers a full suite of tools to explore and engage with decentralized finance opportunities. Using the products within our DeFi Hub, users and partners can tap into this new wave of financial innovation in a secure, transparent, and globally accessible way.",
-    "shortDescription": "ApeSwap is a Decentralized Autonomous Organization (DAO) that offers a full suite of tools to explore and engage with decentralized finance opportunities",
-    "site": "https://apeswap.finance/swap",
-    "url": "https://app.apeswap.finance/swap",
-    "external": true,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/apeswap-amm.jpg"
+    "categories": ["Swaps", "Bridges"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/woofi.png",
+
+    "internalWallet": false
   },
   {
     "author": "Ouchi Finance",
@@ -273,8 +260,10 @@
     "site": "https://app.ouchi.finance/#/swap",
     "url": "https://app.ouchi.finance/#/swap",
     "external": false,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/ouchi-finance.jpg"
+    "categories": ["Swaps"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/ouchi-finance.jpg",
+
+    "internalWallet": false
   },
   {
     "author": "Clipper",
@@ -285,8 +274,10 @@
     "site": "https://clipper.exchange/app/liquidity",
     "url": "https://clipper.exchange/app/liquidity",
     "external": false,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/clipper.jpg"
+    "categories": ["Swaps"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/clipper.jpg",
+
+    "internalWallet": false
   },
   {
     "author": "CreamSwap",
@@ -297,8 +288,10 @@
     "site": "https://app.cream.finance/",
     "url": "https://app.cream.finance/",
     "external": false,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/creamswap.jpg"
+    "categories": ["Swaps"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/creamswap.jpg",
+
+    "internalWallet": false
   },
   {
     "author": "9inch",
@@ -309,20 +302,10 @@
     "site": "https://app.9inch.io/?chain=eth",
     "url": "https://app.9inch.io/?chain=eth",
     "external": false,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/9inch.jpg"
-  },
-  {
-    "author": "KyberSwap",
-    "id": "kyberswap",
-    "title": "KyberSwap",
-    "description": "KyberSwap is both a decentralized exchange (DEX) aggregator and a liquidity source with capital-efficient liquidity pools that earns fees for liquidity providers",
-    "shortDescription": "KyberSwap is both a decentralized exchange (DEX) aggregator and a liquidity source with capital-efficient liquidity pools that earns fees for liquidity providers",
-    "site": "https://kyberswap.com/#/swap",
-    "url": "https://kyberswap.com/#/swap",
-    "external": true,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/kyberswap.png"
+    "categories": ["Swaps"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/9inch.jpg",
+
+    "internalWallet": true
   },
   {
     "author": "WAGMI",
@@ -333,20 +316,24 @@
     "site": "https://app.wagmi.com/#/trade/swap",
     "url": "https://app.wagmi.com/#/trade/swap",
     "external": false,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/wagmi.png"
+    "categories": ["Swaps"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/wagmi.png",
+
+    "internalWallet": true
   },
   {
     "author": "Stargate",
     "id": "stargate",
     "title": "Stargate",
-    "description": "Stargate is a fully composable liquidity transport protocol that lives at the heart of Omnichain DeFi. With Stargate, users & dApps can transfer native assets cross-chain while accessing the protocol\u2019s unified liquidity pools with instant guaranteed finality.",
+    "description": "Stargate is a fully composable liquidity transport protocol that lives at the heart of Omnichain DeFi. With Stargate, users & dApps can transfer native assets cross-chain while accessing the protocol’s unified liquidity pools with instant guaranteed finality.",
     "shortDescription": "Stargate is a fully composable liquidity transport protocol that lives at the heart of Omnichain DeFi",
     "site": "https://stargate.finance/transfer",
     "url": "https://stargate.finance/transfer",
     "external": false,
-    "categories": ["Bridge"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/stargate.png"
+    "categories": ["Bridges"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/stargate.png",
+
+    "internalWallet": false
   },
   {
     "author": "Synapse",
@@ -357,44 +344,10 @@
     "site": "https://synapseprotocol.com",
     "url": "https://synapseprotocol.com",
     "external": false,
-    "categories": ["Bridge"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/synapse-protocol.png"
-  },
-  {
-    "author": "Across",
-    "id": "across",
-    "title": "Across",
-    "description": "Across protocol is a novel bridging method that combines an optimistic oracle, bonded relayers and single-sided liquidity pools to provide decentralized instant transactions from rollup chains to Ethereum mainnet.",
-    "shortDescription": "Across protocol is a novel bridging method that combines an optimistic oracle, bonded relayers and single-sided liquidity pools to provide decentralized instant transactions from rollup chains to Ethereum mainnet.",
-    "site": "https://across.to/bridge",
-    "url": "https://across.to/bridge",
-    "external": true,
-    "categories": ["Bridge"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/across.png"
-  },
-  {
-    "author": "Hop Protocol",
-    "id": "hop-protocol",
-    "title": "Hop Protocol",
-    "description": "A protocol for sending tokens across rollups and their shared layer-1 network in a quick and trustless manner",
-    "shortDescription": "A protocol for sending tokens across rollups and their shared layer-1 network in a quick and trustless manner",
-    "site": "https://app.hop.exchange/",
-    "url": "https://app.hop.exchange/",
-    "external": true,
-    "categories": ["Bridge"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/hop.png"
-  },
-  {
-    "author": "Connext",
-    "id": "connext",
-    "title": "Connext",
-    "description": "Fast, non-custodial L1-L2 and cross-L2 communication.",
-    "shortDescription": "Fast, non-custodial L1-L2 and cross-L2 communication.",
-    "site": "https://bridge.connext.network/USDC-from-ethereum-to-binance",
-    "url": "https://bridge.connext.network/USDC-from-ethereum-to-binance",
-    "external": true,
-    "categories": ["Bridge"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/connext.png"
+    "categories": ["Bridges"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/synapse-protocol.png",
+
+    "internalWallet": true
   },
   {
     "author": "Messina Bridge",
@@ -405,8 +358,10 @@
     "site": "https://messina.one/bridge",
     "url": "https://messina.one/bridge",
     "external": false,
-    "categories": ["Bridge"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/messina-bridge.jpg"
+    "categories": ["Bridges"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/messina-bridge.jpg",
+
+    "internalWallet": false
   },
   {
     "author": "CrossChain Bridge",
@@ -417,8 +372,10 @@
     "site": "https://app.crosschainbridge.org/bridge/tokens",
     "url": "https://app.crosschainbridge.org/bridge/tokens",
     "external": false,
-    "categories": ["Bridge"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/crosschain-bridge.svg"
+    "categories": ["Bridges"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/crosschain-bridge.svg",
+
+    "internalWallet": false
   },
   {
     "author": "XY Finance",
@@ -429,8 +386,10 @@
     "site": "https://app.xy.finance/",
     "url": "https://app.xy.finance/",
     "external": false,
-    "categories": ["Bridge"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/xy-finance.jpg"
+    "categories": ["Swaps", "Bridges"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/xy-finance.jpg",
+
+    "internalWallet": false
   },
   {
     "author": "Interport Finance",
@@ -441,8 +400,10 @@
     "site": "https://app.interport.fi/1/1/ETH/USDT",
     "url": "https://app.interport.fi/1/1/ETH/USDT",
     "external": false,
-    "categories": ["Bridge"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/interport-finance.png"
+    "categories": ["Swaps", "Bridge"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/interport-finance.png",
+
+    "internalWallet": false
   },
   {
     "author": "Lido",
@@ -453,20 +414,10 @@
     "site": "https://stake.lido.fi/",
     "url": "https://stake.lido.fi/",
     "external": false,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/lido.png"
-  },
-  {
-    "author": "Rocket Pool",
-    "id": "rocket-pool",
-    "title": "Rocket Pool",
-    "description": "Rocket Pool is the first truly decentralised Ethereum staking pool. Liquid Staking, Audited SC, and Minimised Penalty Risk. Unlike solo stakers, who are required to put 32 ETH up for deposit to create a new validator, Rocket Pool nodes only need to deposit 16 ETH per validator. This will be coupled with 16 ETH from the staking pool (which stakers deposited in exchange for rETH) to create a new ETH2 validator.",
-    "shortDescription": "Rocket Pool is the first truly decentralised Ethereum staking pool. Liquid Staking, Audited SC, and Minimised Penalty Risk",
-    "site": "https://stake.rocketpool.net/",
-    "url": "https://stake.rocketpool.net/",
-    "external": true,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/rocket-pool.jpg"
+    "categories": ["Liquid Staking"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/lido.png",
+
+    "internalWallet": true
   },
   {
     "author": "Mantle Staked ETH",
@@ -477,8 +428,10 @@
     "site": "https://meth.mantle.xyz/stake",
     "url": "https://meth.mantle.xyz/stake",
     "external": false,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/mantle-staked-eth.png"
+    "categories": ["Liquid Staking"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/mantle-staked-eth.png",
+
+    "internalWallet": false
   },
   {
     "author": "Stader",
@@ -489,32 +442,10 @@
     "site": "https://www.staderlabs.com/eth/stake/",
     "url": "https://www.staderlabs.com/eth/stake/",
     "external": false,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/stader.jpg"
-  },
-  {
-    "author": "StakeWise",
-    "id": "stakewise",
-    "title": "StakeWise",
-    "description": "Stake your ETH and manage your capital flexibly with the principal and yield tokens from StakeWise.",
-    "shortDescription": "Stake your ETH and manage your capital flexibly with the principal and yield tokens from StakeWise.",
-    "site": "https://app.stakewise.io/",
-    "url": "https://app.stakewise.io/",
-    "external": true,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/stakewise.png"
-  },
-  {
-    "author": "Swell Liquid Staking",
-    "id": "swell-liquid-staking",
-    "title": "Swell Liquid Staking",
-    "description": "Swell is a non-custodial liquid staking protocol",
-    "shortDescription": "Swell is a non-custodial liquid staking protocol",
-    "site": "https://app.swellnetwork.io/",
-    "url": "https://app.swellnetwork.io/",
-    "external": true,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/swell.png"
+    "categories": ["Liquid Staking", "Yield Aggregators"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/stader.jpg",
+
+    "internalWallet": true
   },
   {
     "author": "ether.fi",
@@ -525,32 +456,38 @@
     "site": "https://www.mainnet.ether.fi",
     "url": "https://www.mainnet.ether.fi",
     "external": false,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/ether.fi.jpg"
+    "categories": ["Liquid Staking"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/ether.fi.jpg",
+
+    "internalWallet": false
   },
   {
-    "author": "Ankr Stacking",
-    "id": "ankr-stacking",
-    "title": "Ankr Stacking",
+    "author": "Ankr Staking",
+    "id": "ankr-staking",
+    "title": "Ankr Staking",
     "description": "Liquid, secure, and easy to integrate staking infrastructure.",
     "shortDescription": "Liquid, secure, and easy to integrate staking infrastructure.",
     "site": "https://www.ankr.com/staking/dashboard/",
     "url": "https://www.ankr.com/staking/dashboard/",
     "external": false,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/ankr.jpg"
+    "categories": ["Liquid Staking"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/ankr.jpg",
+
+    "internalWallet": true
   },
   {
     "author": "Bifrost Liquid Staking",
     "id": "bifrost-liquid-staking",
     "title": "Bifrost Liquid Staking",
-    "description": "BIfrost is a substrate developed web3 derivatives protocol that provides decentralized cross-chain liquidity for staked assets. Bifrost\u2019s mission is to provide standardized cross-chain interest-bearing derivatives for Polkadot relay chains, parachains and heterogeneous chains bridged with Polkadot.",
+    "description": "BIfrost is a substrate developed web3 derivatives protocol that provides decentralized cross-chain liquidity for staked assets. Bifrost’s mission is to provide standardized cross-chain interest-bearing derivatives for Polkadot relay chains, parachains and heterogeneous chains bridged with Polkadot.",
     "shortDescription": "BIfrost is a substrate developed web3 derivatives protocol that provides decentralized cross-chain liquidity for staked assets",
     "site": "https://bifrost.app/vstaking",
     "url": "https://bifrost.app/vstaking",
     "external": false,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/bifrost-liquid-staking.png"
+    "categories": ["Liquid Staking", "Swaps", "Bridges"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/bifrost-liquid-staking.png",
+
+    "internalWallet": false
   },
   {
     "author": "TruStake MATIC",
@@ -561,8 +498,10 @@
     "site": "https://app.trufin.io/overview",
     "url": "https://app.trufin.io/overview",
     "external": false,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/trustake-matic.png"
+    "categories": ["Liquid Staking"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/trustake-matic.png",
+
+    "internalWallet": false
   },
   {
     "author": "NodeDAO",
@@ -573,8 +512,10 @@
     "site": "https://neth.hashking.fi/stake/operator/1",
     "url": "https://neth.hashking.fi/stake/operator/1",
     "external": false,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/nodedao.jpg"
+    "categories": ["Liquid Staking"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/nodedao.jpg",
+
+    "internalWallet": false
   },
   {
     "author": "MEV Protocol",
@@ -585,8 +526,10 @@
     "site": "https://www.mev.io/stake",
     "url": "https://www.mev.io/stake",
     "external": false,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/mev-protocol.png"
+    "categories": ["Liquid Staking"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/mev-protocol.png",
+
+    "internalWallet": false
   },
   {
     "author": "stake.link liquid",
@@ -597,8 +540,10 @@
     "site": "https://stake.link/staking-pools",
     "url": "https://app.stake.link/staking-pools",
     "external": false,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/stake-link-liquid.png"
+    "categories": ["Liquid Staking"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/stake-link-liquid.png",
+
+    "internalWallet": false
   },
   {
     "author": "Bedrock uniETH",
@@ -609,8 +554,10 @@
     "site": "https://app.bedrock.technology/unieth",
     "url": "https://app.bedrock.technology/unieth",
     "external": false,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/bedrock-unieth.png"
+    "categories": ["Liquid Staking"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/bedrock-unieth.png",
+
+    "internalWallet": false
   },
   {
     "author": "Tranchess Ether",
@@ -621,8 +568,10 @@
     "site": "https://tranchess.com/liquid-staking",
     "url": "https://tranchess.com/liquid-staking",
     "external": false,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/tranchess-ether.png"
+    "categories": ["Liquid Staking"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/tranchess-ether.png",
+
+    "internalWallet": false
   },
   {
     "author": "Stafi",
@@ -633,8 +582,10 @@
     "site": "https://app.stafi.io/gallery/evm/",
     "url": "https://app.stafi.io/pool/evm/?net=ERC20",
     "external": false,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/stafi.jpg"
+    "categories": ["Liquid Staking"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/stafi.jpg",
+
+    "internalWallet": true
   },
   {
     "author": "Spark",
@@ -645,80 +596,10 @@
     "site": "https://spark.fi/",
     "url": "https://app.spark.fi/",
     "external": false,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/spark.svg"
-  },
-   {
-    "author": "ShapeShift",
-    "id": "shapeshift",
-    "title": "ShapeShift",
-    "description": "Your new multichain crypto home base. Trade, track, buy, and earn permissionlessly with our open-source, community-owned, private, and non-custodial platform. More than a DEX, better than CEX.",
-    "shortDescription": "Your new multichain crypto home base. Trade, track, buy, and earn permissionlessly with our open-source, community-owned, private, and non-custodial platform. More than a DEX, better than CEX.",
-    "site": "https://shapeshift.com",
-    "url": "https://shapeshift.com",
-    "external": true,
-    "categories": ["DeFi", "Bridge", "Wallet"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/shapeshift_dark.svg"
-  },
-  {
-    "author": "Rise Pay",
-    "id": "risepay",
-    "title": "Rise Pay",
-    "description": "Rise simplifies global workforce payments in cash and crypto for web3 companies, DAOs, agencies, and more. Easily fund payroll in USD or USDC and give every team member the flexibility to withdraw earnings directly to their bank account or web3 wallet from a selection fiat currencies and 100+ cryptocurrencies. Rise also automates global onboarding and compliance for international contractors across 190+ countries and provides secure on-chain professional IDs for every team member.",
-    "shortDescription": "Rise simplifies global workforce payments in cash and crypto for web3 companies, DAOs, agencies, and more. Easily fund payroll in USD or USDC and give every team member the flexibility to withdraw earnings directly to their bank account or web3 wallet from a selection fiat currencies and 100+ cryptocurrencies. Rise also automates global onboarding and compliance for international contractors across 190+ countries and provides secure on-chain professional IDs for every team member.",
-    "site": "https://www.riseworks.io/",
-    "url": "https://www.riseworks.io/",
-    "external": true,
-    "categories": ["Payments", "Infra & Dev tooling"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/rise_pay.png"
-  },
-  {
-    "author": "Catapulta",
-    "id": "catapulta",
-    "title": "Catapulta",
-    "description": "A plug-n-play, multi-chain Web3 deployment platform for teams. Deploy with Foundry or Hardhat scripts to more than 10 networks with zero configs, get instantly verified in block explorers and share your deployment reports with your team, or your community.",
-    "shortDescription": "A plug-n-play, multi-chain Web3 deployment platform for teams. Deploy with Foundry or Hardhat scripts to more than 10 networks with zero configs, get instantly verified in block explorers and share your deployment reports with your team, or your community.",
-    "site": "https://catapulta.sh",
-    "url": "https://catapulta.sh",
-    "external": true,
-    "categories": ["Data", "Infra & Dev tooling"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/catapulta.png"
-  },
-   {
-    "author": "MetaDock",
-    "id": "metaDock",
-    "title": "MetaDock",
-    "description": "# Builders’ Swiss Army Knife; 20+ Web3 Pop Tools in 1 Browser Extension; Explain Tx with GPT; 300M+ Address Labels; Built-in Fund Flow Map",
-    "shortDescription": "# Builders’ Swiss Army Knife; 20+ Web3 Pop Tools in 1 Browser Extension; Explain Tx with GPT; 300M+ Address Labels; Built-in Fund Flow Map",
-    "site": "https://blocksec.com/metadock",
-    "url": "https://blocksec.com/metadock",
-    "external": true,
-    "categories": ["Data", "Infra & Dev tooling"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/metadock.jpg"
-  },
-   {
-    "author": "MetaSleuth",
-    "id": "metasleuth",
-    "title": "MetaSleuth",
-    "description": "MetaSleuth is a crypto tracking and investigation platform. It can help monitor market movements, track fund flow of criminal activities, and DYOR to avoid scams.",
-    "shortDescription": "MetaSleuth is a crypto tracking and investigation platform. It can help monitor market movements, track fund flow of criminal activities, and DYOR to avoid scams.",
-    "site": "https://metasleuth.io/",
-    "url": "https://metasleuth.io/",
-    "external": true,
-    "categories": ["Data", "Infra & Dev tooling"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/metasleuth.jpg"
-  },
-  {
-    "author": "Phalcon",
-    "id": "phalcon",
-    "title": "Phalcon",
-    "description": "# Dive into Transactions to Act Wisely Phalcon Explorer helps developers, traders, and researchers intuitively understand complicated transactions to make better descisions. Trusted by 30K users from 160+ countries and regions, it analyzes more than 500K transactions per month.",
-    "shortDescription": "# Dive into Transactions to Act Wisely Phalcon Explorer helps developers, traders, and researchers intuitively understand complicated transactions to make better descisions. Trusted by 30K users from 160+ countries and regions, it analyzes more than 500K transactions per month.",
-    "site": "https://phalcon.xyz/explorer",
-    "url": "https://phalcon.xyz/explorer",
-    "external": true,
-    "categories": ["Data", "Infra & Dev tooling"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/phalcon.jpg"
+    "categories": ["Liquid Staking"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/spark.svg",
+
+    "internalWallet": true
   },
   {
     "author": "Smooth",
@@ -729,8 +610,10 @@
     "site": "https://smooth.dappnode.io/",
     "url": "https://smooth.dappnode.io/",
     "external": false,
-    "categories": ["Infra & Dev tooling"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/smooth.png"
+    "categories": ["Dev tooling"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/smooth.png",
+
+    "internalWallet": false
   },
   {
     "author": "Oku Trade",
@@ -741,10 +624,12 @@
     "site": "https://oku.trade",
     "url": "https://oku.trade/app/ethereum/pool/0x88e6a0c2ddd26feeb64f039a2c41296fcb3f5640",
     "external": false,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/okutrade.png"
+    "categories": ["Swaps", "Data & Analytics"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/okutrade.png",
+
+    "internalWallet": false
   },
-   {
+  {
     "author": "Mellow Protocol",
     "id": "mellowprotocol",
     "title": "Mellow Protocol",
@@ -753,32 +638,10 @@
     "site": "https://mellow.finance/",
     "url": "https://app.mellow.finance/products",
     "external": false,
-    "categories": ["DeFi"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/mellowprotocol.png"
-  },
-   {
-    "author": "Subsquid",
-    "id": "subsquid",
-    "title": "Subsquid",
-    "description": "Subsquid Network is a decentralized data lake and query engine designed to provide developers with performant and permissionless access to on-chain data. The network is secured by ZK proofs, and has a modular architecture which enables unparalleled scalability and dev-friendliness for blockchain indexing, dApp development, and analytics. Subsquid is a response to unscalable and rigid monolithic indexing frameworks that had previously gained popularity and market traction among Web3 developers, but that are failing to stay ahead in a rapidly changing blockchain landscape. Furthermore, the network serves as a tremendously efficient decentralized alternative to centralized infrastructure companies, including large RPC and API providers.",
-    "shortDescription": "Subsquid Network is a decentralized data lake and query engine designed to provide developers with performant and permissionless access to on-chain data.",
-    "site": "https://subsquid.io",
-    "url": "https://subsquid.io",
-    "external": true,
-    "categories": ["Infra & Dev tooling", "Data"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/subsquid.svg"
-  },
-  {
-    "author": "ivendPay",
-    "id": "ivendpay",
-    "title": "ivendPay",
-    "description": "Crypto payment system for vending, retail & e-commerce",
-    "shortDescription": "Crypto payment system for vending, retail & e-commerce",
-    "site": "https://ivendpay.com",
-    "url": "https://ivendpay.com",
-    "external": true,
-    "categories": ["Payments"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/ivendpay.png"
+    "categories": ["Yield Aggregators"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/mellowprotocol.png",
+
+    "internalWallet": false
   },
   {
     "author": "Fileverse",
@@ -789,8 +652,10 @@
     "site": "https://fileverse.io/",
     "url": "https://beta.fileverse.io/",
     "external": false,
-    "categories": ["Data"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/fileverse.png"
+    "categories": ["Data & Analytics", "Dev tooling"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/fileverse.png",
+
+    "internalWallet": false
   },
   {
     "author": "Kleros Court",
@@ -801,7 +666,568 @@
     "site": "https://court.kleros.io/",
     "url": "https://court.kleros.io/",
     "external": false,
-    "categories": ["Infra & Dev tooling"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/kleros-court.png"
+    "categories": ["Dev tooling"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/kleros-court.png",
+
+    "internalWallet": false
+  },
+  {
+    "author": "Joe V2.1",
+    "id": "joe-v2.1",
+    "title": "Joe V2.1",
+    "description": "Joe V2.1 is an optimized protocol that supports all router and quoter versions, enhancing gas efficiency, events, functions, and providing better transfer options across pair versions",
+    "shortDescription": "Joe V2.1 is an optimized protocol that supports all router and quoter versions, enhancing gas efficiency, events, functions, and providing better transfer options across pair versions",
+    "site": "https://traderjoexyz.com/arbitrum/trade",
+    "url": "https://traderjoexyz.com/arbitrum/trade",
+
+    "categories": ["Swaps"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/joe-v2.jpg",
+    "external": true
+  },
+  {
+    "author": "DODO",
+    "id": "dodo",
+    "title": "DODO",
+    "description": "Trade crypto assets with market-leading liquidity",
+    "shortDescription": "Trade crypto assets with market-leading liquidity",
+    "site": "https://app.dodoex.io/?network=mainnet",
+    "url": "https://app.dodoex.io/?network=mainnet",
+
+    "categories": ["Swaps", "Bridges"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/dodo.png",
+    "external": true
+  },
+  {
+    "author": "rhino.fi",
+    "id": "rhino.fi",
+    "title": "rhino.fi",
+    "description": "rhino.fi is the multichain DeFi aggregator that helps you effortlessly explore the best opportunities at the click of a button. Trade. Swap. Invest. Earn. Bridge. All from your Layer 2 wallet",
+    "shortDescription": "rhino.fi is the multichain DeFi aggregator that helps you effortlessly explore the best opportunities at the click of a button. Trade. Swap. Invest. Earn. Bridge. All from your Layer 2 wallet",
+    "site": "https://app.rhino.fi",
+    "url": "https://app.rhino.fi",
+
+    "categories": ["Swaps", "Yield Aggregators"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/rhino-fi.jpg",
+    "external": true
+  },
+  {
+    "author": "ApeSwap",
+    "id": "apeswap",
+    "title": "ApeSwap",
+    "description": "ApeSwap is a Decentralized Autonomous Organization (DAO) that offers a full suite of tools to explore and engage with decentralized finance opportunities. Using the products within our DeFi Hub, users and partners can tap into this new wave of financial innovation in a secure, transparent, and globally accessible way.",
+    "shortDescription": "ApeSwap is a Decentralized Autonomous Organization (DAO) that offers a full suite of tools to explore and engage with decentralized finance opportunities",
+    "site": "https://apeswap.finance/swap",
+    "url": "https://app.apeswap.finance/swap",
+
+    "categories": ["Swaps", "Bridges"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/apeswap-amm.jpg",
+    "external": true
+  },
+  {
+    "author": "KyberSwap",
+    "id": "kyberswap",
+    "title": "KyberSwap",
+    "description": "KyberSwap is both a decentralized exchange (DEX) aggregator and a liquidity source with capital-efficient liquidity pools that earns fees for liquidity providers",
+    "shortDescription": "KyberSwap is both a decentralized exchange (DEX) aggregator and a liquidity source with capital-efficient liquidity pools that earns fees for liquidity providers",
+    "site": "https://kyberswap.com/#/swap",
+    "url": "https://kyberswap.com/#/swap",
+
+    "categories": ["Swaps", "Bridges"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/kyberswap.png",
+    "external": true
+  },
+  {
+    "author": "Across",
+    "id": "across",
+    "title": "Across",
+    "description": "Across protocol is a novel bridging method that combines an optimistic oracle, bonded relayers and single-sided liquidity pools to provide decentralized instant transactions from rollup chains to Ethereum mainnet.",
+    "shortDescription": "Across protocol is a novel bridging method that combines an optimistic oracle, bonded relayers and single-sided liquidity pools to provide decentralized instant transactions from rollup chains to Ethereum mainnet.",
+    "site": "https://across.to/bridge",
+    "url": "https://across.to/bridge",
+
+    "categories": ["Bridges"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/across.png",
+    "external": true
+  },
+  {
+    "author": "Hop Protocol",
+    "id": "hop-protocol",
+    "title": "Hop Protocol",
+    "description": "A protocol for sending tokens across rollups and their shared layer-1 network in a quick and trustless manner",
+    "shortDescription": "A protocol for sending tokens across rollups and their shared layer-1 network in a quick and trustless manner",
+    "site": "https://app.hop.exchange/",
+    "url": "https://app.hop.exchange/",
+
+    "categories": ["Bridges"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/hop.png",
+    "external": true
+  },
+  {
+    "author": "Connext",
+    "id": "connext",
+    "title": "Connext",
+    "description": "Fast, non-custodial L1-L2 and cross-L2 communication.",
+    "shortDescription": "Fast, non-custodial L1-L2 and cross-L2 communication.",
+    "site": "https://bridge.connext.network/USDC-from-ethereum-to-binance",
+    "url": "https://bridge.connext.network/USDC-from-ethereum-to-binance",
+
+    "categories": ["Bridges"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/connext.png",
+    "external": true
+  },
+  {
+    "author": "Rocket Pool",
+    "id": "rocket-pool",
+    "title": "Rocket Pool",
+    "description": "Rocket Pool is the first truly decentralised Ethereum staking pool. Liquid Staking, Audited SC, and Minimised Penalty Risk. Unlike solo stakers, who are required to put 32 ETH up for deposit to create a new validator, Rocket Pool nodes only need to deposit 16 ETH per validator. This will be coupled with 16 ETH from the staking pool (which stakers deposited in exchange for rETH) to create a new ETH2 validator.",
+    "shortDescription": "Rocket Pool is the first truly decentralised Ethereum staking pool. Liquid Staking, Audited SC, and Minimised Penalty Risk",
+    "site": "https://stake.rocketpool.net/",
+    "url": "https://stake.rocketpool.net/",
+
+    "categories": ["Liquid Staking"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/rocket-pool.jpg",
+    "external": true
+  },
+  {
+    "author": "StakeWise",
+    "id": "stakewise",
+    "title": "StakeWise",
+    "description": "Stake your ETH and manage your capital flexibly with the principal and yield tokens from StakeWise.",
+    "shortDescription": "Stake your ETH and manage your capital flexibly with the principal and yield tokens from StakeWise.",
+    "site": "https://app.stakewise.io/",
+    "url": "https://app.stakewise.io/",
+
+    "categories": ["Liquid Staking"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/stakewise.png",
+    "external": true
+  },
+  {
+    "author": "Swell Liquid Staking",
+    "id": "swell-liquid-staking",
+    "title": "Swell Liquid Staking",
+    "description": "Swell is a non-custodial liquid staking protocol",
+    "shortDescription": "Swell is a non-custodial liquid staking protocol",
+    "site": "https://app.swellnetwork.io/",
+    "url": "https://app.swellnetwork.io/",
+
+    "categories": ["Liquid Staking"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/swell.png",
+    "external": true
+  },
+  {
+    "author": "ShapeShift",
+    "id": "shapeshift",
+    "title": "ShapeShift",
+    "description": "Your new multichain crypto home base. Trade, track, buy, and earn permissionlessly with our open-source, community-owned, private, and non-custodial platform. More than a DEX, better than CEX.",
+    "shortDescription": "Your new multichain crypto home base. Trade, track, buy, and earn permissionlessly with our open-source, community-owned, private, and non-custodial platform. More than a DEX, better than CEX.",
+    "site": "https://shapeshift.com",
+    "url": "https://shapeshift.com",
+
+    "categories": ["Swaps", "Bridges", "Wallets"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/shapeshift_dark.svg",
+    "external": true
+  },
+  {
+    "author": "Rise Pay",
+    "id": "risepay",
+    "title": "Rise Pay",
+    "description": "Rise simplifies global workforce payments in cash and crypto for web3 companies, DAOs, agencies, and more. Easily fund payroll in USD or USDC and give every team member the flexibility to withdraw earnings directly to their bank account or web3 wallet from a selection fiat currencies and 100+ cryptocurrencies. Rise also automates global onboarding and compliance for international contractors across 190+ countries and provides secure on-chain professional IDs for every team member.",
+    "shortDescription": "Rise simplifies global workforce payments in cash and crypto for web3 companies, DAOs, agencies, and more. Easily fund payroll in USD or USDC and give every team member the flexibility to withdraw earnings directly to their bank account or web3 wallet from a selection fiat currencies and 100+ cryptocurrencies. Rise also automates global onboarding and compliance for international contractors across 190+ countries and provides secure on-chain professional IDs for every team member.",
+    "site": "https://www.riseworks.io/",
+    "url": "https://www.riseworks.io/",
+
+    "categories": ["Dev tooling"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/rise_pay.png",
+    "external": true
+  },
+  {
+    "author": "Catapulta",
+    "id": "catapulta",
+    "title": "Catapulta",
+    "description": "A plug-n-play, multi-chain Web3 deployment platform for teams. Deploy with Foundry or Hardhat scripts to more than 10 networks with zero configs, get instantly verified in block explorers and share your deployment reports with your team, or your community.",
+    "shortDescription": "A plug-n-play, multi-chain Web3 deployment platform for teams. Deploy with Foundry or Hardhat scripts to more than 10 networks with zero configs, get instantly verified in block explorers and share your deployment reports with your team, or your community.",
+    "site": "https://catapulta.sh",
+    "url": "https://catapulta.sh",
+
+    "categories": ["Data & Analytics", "Dev tooling"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/catapulta.png",
+    "external": true
+  },
+  {
+    "author": "MetaDock",
+    "id": "metaDock",
+    "title": "MetaDock",
+    "description": "# Builders\u2019 Swiss Army Knife; 20+ Web3 Pop Tools in 1 Browser Extension; Explain Tx with GPT; 300M+ Address Labels; Built-in Fund Flow Map",
+    "shortDescription": "# Builders\u2019 Swiss Army Knife; 20+ Web3 Pop Tools in 1 Browser Extension; Explain Tx with GPT; 300M+ Address Labels; Built-in Fund Flow Map",
+    "site": "https://blocksec.com/metadock",
+    "url": "https://blocksec.com/metadock",
+
+    "categories": ["Data & Analytics", "Dev tooling"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/metadock.jpg",
+    "external": true
+  },
+  {
+    "author": "MetaSleuth",
+    "id": "metasleuth",
+    "title": "MetaSleuth",
+    "description": "MetaSleuth is a crypto tracking and investigation platform. It can help monitor market movements, track fund flow of criminal activities, and DYOR to avoid scams.",
+    "shortDescription": "MetaSleuth is a crypto tracking and investigation platform. It can help monitor market movements, track fund flow of criminal activities, and DYOR to avoid scams.",
+    "site": "https://metasleuth.io/",
+    "url": "https://metasleuth.io/",
+
+    "categories": ["Data & Analytics", "Dev tooling"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/metasleuth.jpg",
+    "external": true
+  },
+  {
+    "author": "Phalcon",
+    "id": "phalcon",
+    "title": "Phalcon",
+    "description": "# Dive into Transactions to Act Wisely Phalcon Explorer helps developers, traders, and researchers intuitively understand complicated transactions to make better descisions. Trusted by 30K users from 160+ countries and regions, it analyzes more than 500K transactions per month.",
+    "shortDescription": "# Dive into Transactions to Act Wisely Phalcon Explorer helps developers, traders, and researchers intuitively understand complicated transactions to make better descisions. Trusted by 30K users from 160+ countries and regions, it analyzes more than 500K transactions per month.",
+    "site": "https://phalcon.xyz/explorer",
+    "url": "https://phalcon.xyz/explorer",
+
+    "categories": ["Data & Analytics", "Dev tooling"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/phalcon.jpg",
+    "external": true
+  },
+  {
+    "author": "Subsquid",
+    "id": "subsquid",
+    "title": "Subsquid",
+    "description": "Subsquid Network is a decentralized data lake and query engine designed to provide developers with performant and permissionless access to on-chain data. The network is secured by ZK proofs, and has a modular architecture which enables unparalleled scalability and dev-friendliness for blockchain indexing, dApp development, and analytics. Subsquid is a response to unscalable and rigid monolithic indexing frameworks that had previously gained popularity and market traction among Web3 developers, but that are failing to stay ahead in a rapidly changing blockchain landscape. Furthermore, the network serves as a tremendously efficient decentralized alternative to centralized infrastructure companies, including large RPC and API providers.",
+    "shortDescription": "Subsquid Network is a decentralized data lake and query engine designed to provide developers with performant and permissionless access to on-chain data.",
+    "site": "https://subsquid.io",
+    "url": "https://subsquid.io",
+
+    "categories": ["Dev tooling", "Data & Analytics"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/subsquid.svg",
+    "external": true
+  },
+  {
+    "author": "ivendPay",
+    "id": "ivendpay",
+    "title": "ivendPay",
+    "description": "Crypto payment system for vending, retail & e-commerce",
+    "shortDescription": "Crypto payment system for vending, retail & e-commerce",
+    "site": "https://ivendpay.com",
+    "url": "https://ivendpay.com",
+
+    "categories": ["Dev tooling"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/ivendpay.png",
+    "external": true
+  },
+  {
+    "title": "Tokenlon",
+    "logo": "https://blockscout-content.s3.amazonaws.com/tokenlon.png",
+    "description": "The dragon DEX. Built on the 0xProject, Curve Finance, Uniswap Protocol and Ethereum. Best price from RFQ, Curve, Uniswap.",
+    "shortDescription": "The dragon DEX. Built on the 0xProject, Curve Finance, Uniswap Protocol and Ethereum. Best price from RFQ, Curve, Uniswap.",
+    "categories": ["Bridges", "Swaps"],
+    "site": "https://tokenlon.im/instant",
+    "url": "https://tokenlon.im/instant",
+    "id": "tokenlon",
+    "author": "Tokenlon",
+    "internalWallet": true,
+    "external": false
+  },
+  {
+    "title": "Baby Doge Swap",
+    "logo": "https://blockscout-content.s3.amazonaws.com/babydogeswap.png",
+    "description": "Swap anything. No registration, no hassle! Swap any token on BNB Chain in seconds by just connecting your wallet.",
+    "shortDescription": "Swap anything. No registration, no hassle! Swap any token on BNB Chain in seconds by just connecting your wallet.",
+    "categories": ["Liquid Staking", "Swaps"],
+    "site": "https://babydogeswap.com/",
+    "url": "https://babydogeswap.com/",
+    "id": "baby-doge-swap",
+    "author": "Baby Doge Swap",
+    "internalWallet": true,
+    "external": false
+  },
+  {
+    "title": "0xPlasma Finance",
+    "logo": "https://blockscout-content.s3.amazonaws.com/0xPlasmaFinance.png",
+    "description": "Your Web3 dashboard for all things DeFi and NFT",
+    "shortDescription": "Your Web3 dashboard for all things DeFi and NFT",
+    "categories": ["NFT", "Swaps", "Data & Analytics"],
+    "site": "https://apy.plasma.finance/",
+    "url": "https://apy.plasma.finance/",
+    "id": "0xplasma-finance",
+    "author": "0xPlasma Finance",
+    "internalWallet": true,
+    "external": false
+  },
+  {
+    "title": "Aura Finance",
+    "logo": "https://blockscout-content.s3.amazonaws.com/AURA.png",
+    "description": "Boosting DeFi yield potential and governance power",
+    "shortDescription": "Boosting DeFi yield potential and governance power",
+    "categories": ["Yield Aggregators", "Liquid Staking", "Bridges"],
+    "site": "https://app.aura.finance/",
+    "url": "https://app.aura.finance/",
+    "id": "aura-finance",
+    "author": "Aura Finance",
+    "internalWallet": true,
+    "external": false
+  },
+  {
+    "title": "Bitbond Token Tool",
+    "logo": "https://blockscout-content.s3.amazonaws.com/BitbondTokenTool.png",
+    "description": "Bitbond supports hundreds of customers with leading tokenization infrastructure and expertise",
+    "shortDescription": "Bitbond supports hundreds of customers with leading tokenization infrastructure and expertise",
+    "categories": ["NFT", "Wallets"],
+    "site": "https://tokentool.bitbond.com/",
+    "url": "https://tokentool.bitbond.com/",
+    "id": "bitbond-token-tool",
+    "author": "Bitbond",
+    "internalWallet": true,
+    "external": false
+  },
+  {
+    "title": "Carbon",
+    "logo": "https://blockscout-content.s3.amazonaws.com/Carbon.jpg",
+    "description": "Onchain protocol for advanced trading strategies",
+    "shortDescription": "Onchain protocol for advanced trading strategies",
+    "categories": ["Swaps", "Yield Aggregators"],
+    "site": "https://app.carbondefi.xyz/",
+    "url": "https://app.carbondefi.xyz/",
+    "id": "carbon",
+    "author": "Carbon",
+    "internalWallet": true,
+    "external": false
+  },
+  {
+    "title": "CoW Swap",
+    "logo": "https://blockscout-content.s3.amazonaws.com/CoWSwap.png",
+    "description": "Find the lowest prices from all DEXes and aggregators &amp; save more with p2p trading and MEV protection",
+    "shortDescription": "Find the lowest prices from all DEXes and aggregators &amp; save more with p2p trading and MEV protection",
+    "categories": ["Swaps"],
+    "site": "https://swap.cow.fi/",
+    "url": "https://swap.cow.fi/",
+    "id": "cow-swap",
+    "author": "CoW Swap",
+    "internalWallet": true,
+    "external": false
+  },
+  {
+    "title": "DustSweeper",
+    "logo": "https://blockscout-content.s3.amazonaws.com/DustSweeper.png",
+    "description": "Swap small token balances for ETH with minimal gas",
+    "shortDescription": "Swap small token balances for ETH with minimal gas",
+    "categories": ["Dev tooling"],
+    "site": "https://www.dustsweeper.xyz/",
+    "url": "https://www.dustsweeper.xyz/",
+    "id": "dust-sweeper",
+    "author": "DustSweeper",
+    "internalWallet": true,
+    "external": false
+  },
+  {
+    "title": "Envelop",
+    "logo": "https://blockscout-content.s3.amazonaws.com/Envelop.jpg",
+    "description": "Cross-chain multi-tool protocol providing true value to your NFT",
+    "shortDescription": "Cross-chain multi-tool protocol providing true value to your NFT",
+    "categories": ["NFT"],
+    "site": "https://app.envelop.is/dashboard",
+    "url": "https://app.envelop.is/dashboard",
+    "id": "envelop",
+    "author": "Envelop",
+    "internalWallet": true,
+    "external": false
+  },
+  {
+    "title": "Hedgey",
+    "logo": "https://blockscout-content.s3.amazonaws.com/hedgey.png",
+    "description": "Token vesting, distributions, lockups and core infrastructure as public goods for onchain teams",
+    "shortDescription": "Token vesting, distributions, lockups and core infrastructure as public goods for onchain teams",
+    "categories": ["Wallets"],
+    "site": "https://app.hedgey.finance/",
+    "url": "https://app.hedgey.finance/",
+    "id": "hedgey",
+    "author": "Hedgey",
+    "internalWallet": true,
+    "external": false
+  },
+  {
+    "title": "InsurAce",
+    "logo": "https://blockscout-content.s3.amazonaws.com/InsurAce.png",
+    "description": "Entry to the products and services InsurAce provides to secure your DeFi journey",
+    "shortDescription": "Entry to the products and services InsurAce provides to secure your DeFi journey",
+    "categories": ["Bridges", "Dev tooling", "Data & Analytics"],
+    "site": "https://app.insurace.io/",
+    "url": "https://app.insurace.io/",
+    "id": "insur-ace",
+    "author": "InsurAce",
+    "internalWallet": true,
+    "external": false
+  },
+  {
+    "title": "Jumper Exchange",
+    "logo": "https://blockscout-content.s3.amazonaws.com/JumperExchange.jpg",
+    "description": "Multi-chain bridging &amp; swapping, powered by LI.FI",
+    "shortDescription": "Multi-chain bridging &amp; swapping, powered by LI.FI",
+    "categories": ["Swaps", "Bridges"],
+    "site": "https://jumper.exchange/",
+    "url": "https://jumper.exchange/",
+    "id": "jumper-exchange",
+    "author": "Jumper Exchange",
+    "internalWallet": true,
+    "external": false
+  },
+  {
+    "title": "Kwenta",
+    "logo": "https://blockscout-content.s3.amazonaws.com/Kwenta.svg",
+    "description": "Gain exposure to cryptocurrencies, forex, equities, indices, and commodities on Ethereum with zero slippage",
+    "shortDescription": "Gain exposure to cryptocurrencies, forex, equities, indices, and commodities on Ethereum with zero slippage",
+    "categories": ["Liquid Staking", "Swaps"],
+    "site": "https://kwenta.io/market/?accountType=smart_margin&asset=sETH",
+    "url": "https://kwenta.io/market/?accountType=smart_margin&asset=sETH",
+    "id": "kwenta",
+    "author": "Kwenta",
+    "internalWallet": true,
+    "external": false
+  },
+  {
+    "title": "Mean Finance",
+    "logo": "https://blockscout-content.s3.amazonaws.com/meanfi.png",
+    "description": "DCA from any ERC-20 into any ERC-20 token",
+    "shortDescription": "DCA from any ERC-20 into any ERC-20 token",
+    "categories": ["Liquid Staking", "Yield Aggregators", "Swaps"],
+    "site": "https://mean.finance/create",
+    "url": "https://mean.finance/create",
+    "id": "mean-finance",
+    "author": "Mean Finance",
+    "internalWallet": true,
+    "external": false
+  },
+  {
+    "title": "Smol",
+    "logo": "https://blockscout-content.s3.amazonaws.com/Smol.jpg",
+    "description": "The easiest way to migrate your tokens from one wallet to another.",
+    "shortDescription": "The easiest way to migrate your tokens from one wallet to another.",
+    "categories": ["Dev tooling"],
+    "site": "https://smold.app/",
+    "url": "https://smold.app/",
+    "id": "smol",
+    "author": "Smol",
+    "internalWallet": true,
+    "external": false
+  },
+  {
+    "title": "Morpho Aave App",
+    "logo": "https://blockscout-content.s3.amazonaws.com/Morpho Aave App.png",
+    "description": "A dApp to manage your positions on Morpho-Compound and Morpho-Aave",
+    "shortDescription": "A dApp to manage your positions on Morpho-Compound and Morpho-Aave",
+    "categories": ["Lending"],
+    "site": "https://aavev3.morpho.org/",
+    "url": "https://aavev3.morpho.org/",
+    "id": "morpho-aave-app",
+    "author": "Morpho Aave App",
+    "internalWallet": true,
+    "external": false
+  },
+  {
+    "title": "ParaSwap",
+    "logo": "https://blockscout-content.s3.amazonaws.com/ParaSwap.jpeg",
+    "description": "ParaSwap allows dApps and traders to get the best DEX liquidity by aggregating multiple markets and offering the best rates",
+    "shortDescription": "ParaSwap allows dApps and traders to get the best DEX liquidity by aggregating multiple markets and offering the best rates",
+    "categories": ["Swaps", "Liquid Staking"],
+    "site": "https://app.paraswap.io/",
+    "url": "https://app.paraswap.io/",
+    "id": "para-swap",
+    "author": "ParaSwap",
+    "internalWallet": true,
+    "external": false
+  },
+  {
+    "title": "Pods Yield",
+    "logo": "https://blockscout-content.s3.amazonaws.com/PodsYield.png",
+    "description": "1-click-deposit investment product, making it easy to invest in complex derivatives strategies",
+    "shortDescription": "1-click-deposit investment product, making it easy to invest in complex derivatives strategies",
+    "categories": ["Liquid Staking"],
+    "site": "https://app.pods.finance/",
+    "url": "https://app.pods.finance/",
+    "id": "pods-yield",
+    "author": "Pods Yield",
+    "internalWallet": true,
+    "external": false
+  },
+  {
+    "title": "Reflexer",
+    "logo": "https://blockscout-content.s3.amazonaws.com/Reflexer.png",
+    "description": "Use your crypto collateral to mint stablecoins. Home to RAI, an ETH-backed stablecoin",
+    "shortDescription": "Use your crypto collateral to mint stablecoins. Home to RAI, an ETH-backed stablecoin",
+    "categories": ["Liquid Staking", "Swaps", "Data & Analytics"],
+    "site": "https://app.reflexer.finance/",
+    "url": "https://app.reflexer.finance/",
+    "id": "reflexer",
+    "author": "Reflexer",
+    "internalWallet": true,
+    "external": false
+  },
+  {
+    "title": "Revoke.cash",
+    "logo": "https://blockscout-content.s3.amazonaws.com/revokecash.png",
+    "description": "Manage and revoke your token allowances with Revoke.cash",
+    "shortDescription": "Manage and revoke your token allowances with Revoke.cash",
+    "categories": ["Dev tooling"],
+    "site": "https://revoke.cash/",
+    "url": "https://revoke.cash/",
+    "id": "revoke-cash",
+    "author": "RevokeCash",
+    "internalWallet": true,
+    "external": false
+  },
+  {
+    "title": "Spool App",
+    "logo": "https://blockscout-content.s3.amazonaws.com/SpoolApp.png",
+    "description": "DeFi middleware connecting capital aggregators with DeFi yield generators to efficiently allocate funds and optimize yields",
+    "shortDescription": "DeFi middleware connecting capital aggregators with DeFi yield generators to efficiently allocate funds and optimize yields",
+    "categories": ["Yield Aggregators"],
+    "site": "https://app.spool.fi/smart-vaults",
+    "url": "https://app.spool.fi/smart-vaults",
+    "id": "spool-app",
+    "author": "Spool App",
+    "internalWallet": true,
+    "external": false
+  },
+  {
+    "title": "Squid",
+    "logo": "https://blockscout-content.s3.amazonaws.com/Squid.svg",
+    "description": "Swap tokens across EVM and Cosmos blockchains, and access apps across chains in a single click",
+    "shortDescription": "Swap tokens across EVM and Cosmos blockchains, and access apps across chains in a single click",
+    "categories": ["Bridges"],
+    "site": "https://v2.app.squidrouter.com/",
+    "url": "https://v2.app.squidrouter.com/",
+    "id": "squid",
+    "author": "Squid",
+    "internalWallet": true,
+    "external": false
+  },
+  {
+    "title": "Synthetix",
+    "logo": "https://blockscout-content.s3.amazonaws.com/synthetix.png",
+    "description": "A dApp for SNX holders to earn rewards through staking",
+    "shortDescription": "A dApp for SNX holders to earn rewards through staking",
+    "categories": ["Lending", "Liquid Staking"],
+    "site": "https://staking.synthetix.io/",
+    "url": "https://staking.synthetix.io/",
+    "id": "synthetix",
+    "author": "Synthetix",
+    "internalWallet": true,
+    "external": false
+  },
+  {
+    "title": "yearn.finance",
+    "logo": "https://blockscout-content.s3.amazonaws.com/yearn.finance.svg",
+    "description": "The yield protocol for digital assets",
+    "shortDescription": "The yield protocol for digital assets",
+    "categories": ["Liquid Staking", "Yield Aggregators"],
+    "site": "https://yearn.fi/",
+    "url": "https://yearn.fi/",
+    "id": "yearn-finance",
+    "author": "Yearn",
+    "internalWallet": true,
+    "external": false
   }
 ]
