@@ -158,7 +158,7 @@
     "id": "kredeum-nfts-factory",
     "title": "Kredeum NFTs Factory",
     "logo": "https://blockscout-content.s3.amazonaws.com/kredeum_light.png",
-    "categories": ["NFT", "Walets", "Dev tooling"],
+    "categories": ["NFT", "Wallets", "Dev tooling"],
     "shortDescription": "Kredeum NFTs Factory is an Open Source project that provides an easy-to-use platform for creating and trading NFTs. It includes a Dapp NFT Wallet, a Smartcontracts Library, a WordPress Plugin, and the OpenSky Market, supporting crosschain NFTs on multiple EVM blockchains. The platform offers various customization options, including collection templating, NFT auto-trading and royalty enforcement.",
     "site": "https://www.kredeum.com/",
     "description": "Kredeum NFTs Factory is an Open Source project that provides an easy-to-use platform for creating and trading NFTs. It includes a Dapp NFT Wallet, a Smartcontracts Library, a WordPress Plugin, and the OpenSky Market, supporting crosschain NFTs on multiple EVM blockchains. The platform offers various customization options, including collection templating, NFT auto-trading and royalty enforcement.",
