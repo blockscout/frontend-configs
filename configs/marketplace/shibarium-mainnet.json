@@ -10,7 +10,7 @@
     "external": false,
     "internalWallet": false,
     "categories": ["Swaps", "Liquid Staking", "Games", "NFT"],
-    "logo": "https://blockscout-content.s3.amazonaws.com//marswap.jpg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/marswap.jpg"
   },
   {
     "author": "ChewySwap",
@@ -23,7 +23,7 @@
     "internalWallet": false,
     "external": false,
     "categories": ["Swaps", "Liquid Staking"],
-    "logo": "https://blockscout-content.s3.amazonaws.com//chewyswap.jpg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/chewyswap.jpg"
   },
   {
     "author": "LeetSwap",
@@ -36,7 +36,7 @@
     "internalWallet": false,
     "external": false,
     "categories": ["Swaps", "Liquid Staking"],
-    "logo": "https://blockscout-content.s3.amazonaws.com//leetswap.jpg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/leetswap.jpg"
   },
   {
     "author": "PunkSwap",
@@ -49,7 +49,7 @@
     "internalWallet": false,
     "external": false,
     "categories": ["Swaps", "Liquid Staking", "NFT"],
-    "logo": "https://blockscout-content.s3.amazonaws.com//punkswap.jpg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/punkswap.jpg"
   },
   {
     "author": "WoofSwap",
@@ -62,7 +62,7 @@
     "internalWallet": false,
     "external": false,
     "categories": ["Swaps", "Liquid Staking"],
-    "logo": "https://blockscout-content.s3.amazonaws.com//woofswap.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/woofswap.png"
   },
   {
     "author": "Dalmatian",
@@ -75,7 +75,7 @@
     "internalWallet": false,
     "external": false,
     "categories": ["Swaps", "Liquid Staking"],
-    "logo": "https://blockscout-content.s3.amazonaws.com//dalmatian.jpg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/dalmatian.jpg"
   },
   {
     "author": "ComfySwap",
@@ -88,7 +88,7 @@
     "internalWallet": false,
     "external": false,
     "categories": ["Swaps", "Liquid Staking"],
-    "logo": "https://blockscout-content.s3.amazonaws.com//comfyswap.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/comfyswap.png"
   },
   {
     "author": "Ball Exchange",
@@ -101,7 +101,7 @@
     "internalWallet": false,
     "external": false,
     "categories": ["Swaps", "Liquid Staking", "NFT"],
-    "logo": "https://blockscout-content.s3.amazonaws.com//ball-exchange.png"
+    "logo": "https://blockscout-content.s3.amazonaws.com/ball-exchange.png"
   },
   {
     "author": "Shibarium",
@@ -114,6 +114,6 @@
     "internalWallet": false,
     "external": false,
     "categories": ["Bridges"],
-    "logo": "https://blockscout-content.s3.amazonaws.com//shibarium-bridge.jpg"
+    "logo": "https://blockscout-content.s3.amazonaws.com/shibarium-bridge.jpg"
   }
 ]
