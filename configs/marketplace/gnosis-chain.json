@@ -67,7 +67,7 @@
     "external": false,
     "url": "https://honeyswap-interface-y28mu7.dappling.eth.limo/",
 
-    "internalWallet": false
+    "internalWallet": true
   },
   {
     "author": "1Hive",
@@ -515,6 +515,19 @@
     "id": "squid",
     "author": "Squid",
     "internalWallet": true,
+    "external": false
+  },
+  {
+    "title": "1Hive",
+    "logo": "https://blockscout-content.s3.amazonaws.com/celeste.png",
+    "description": "Celeste is a protocol that produces answers to disputes by incentivizing keepers to respond coherently.",
+    "shortDescription": "Celeste is a protocol that produces answers to disputes by incentivizing keepers to respond coherently.",
+    "categories": ["Data & Analytics"],
+    "site": "https://celeste-dashboard-84wcba.dappling.network/",
+    "url": "https://celeste-dashboard-84wcba.dappling.network/",
+    "id": "celeste",
+    "author": "Celeste",
+    "internalWallet": false,
     "external": false
   }
 ]
