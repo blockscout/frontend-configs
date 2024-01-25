@@ -117,19 +117,6 @@
     "logo": "https://blockscout-content.s3.amazonaws.com/shibarium-bridge.jpg"
   },
   {
-    "author": "Shibarium",
-    "id": "shibarium-bridge",
-    "title": "Shibarium Bridge",
-    "description": "Official Bridge protocol for Shibarium network",
-    "shortDescription": "Official Bridge protocol for Shibarium network",
-    "site": "https://shibarium.shib.io/bridge",
-    "url": "https://shibarium.shib.io/bridge",
-    "internalWallet": false,
-    "external": false,
-    "categories": ["Bridges"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/shibarium-bridge.jpg"
-  },
-  {
     "author": "Beast Shibarium",
     "id": "beast-shibarium",
     "title": "Beast Shibarium",
