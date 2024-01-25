@@ -14,6 +14,19 @@
     "internalWallet": false
   },
   {
+    "author": "Aave",
+    "id": "aave",
+    "title": "Aave",
+    "logo": "https://blockscout-content.s3.amazonaws.com/aave.png",
+    "categories": ["Lending", "Liquid Staking"],
+    "shortDescription": "Aave is a decentralised non-custodial liquidity market protocol where users can participate as suppliers or borrowers. Suppliers provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralised (perpetually) or undercollateralised (one-block liquidity) fashion.",
+    "site": "https://docs.aave.com/faq/",
+    "description": "Aave is a decentralised non-custodial liquidity market protocol where users can participate as suppliers or borrowers. Suppliers provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralised (perpetually) or undercollateralised (one-block liquidity) fashion.",
+    "url": "https://app.aave.com/?marketName=proto_gnosis_v3",
+    "internalWallet": true,
+    "external": false
+  },
+  {
     "author": "Symmetric",
     "id": "symmetric",
     "title": "Symmetric",
