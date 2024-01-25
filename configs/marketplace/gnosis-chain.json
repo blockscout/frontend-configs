@@ -531,31 +531,18 @@
     "external": false
   },
   {
-    "title": "1Hive",
-    "logo": "https://blockscout-content.s3.amazonaws.com/celeste.png",
-    "description": "Celeste is a protocol that produces answers to disputes by incentivizing keepers to respond coherently.",
-    "shortDescription": "Celeste is a protocol that produces answers to disputes by incentivizing keepers to respond coherently.",
-    "categories": ["Data & Analytics"],
-    "site": "https://celeste-dashboard-84wcba.dappling.network/",
-    "url": "https://celeste-dashboard-84wcba.dappling.network/",
-    "id": "celeste",
-    "author": "Celeste",
-    "internalWallet": false,
-    "external": false
-  },
-  {
-      "author":"Fileverse Portal",
-      "id":"fileverse portal",
-      "title":"Fileverse Portal",
+      "author": "Fileverse Portal",
+      "id": "fileverse-portal",
+      "title": "Fileverse Portal",
       "logo": "https://blockscout-content.s3.amazonaws.com/fileverse.png",
       "categories": ["Data & Analytics", "Dev tooling"],
       "shortDescription": "Fileverse Portal is a web3 alternative to Google Workspace, Notion, or any centralized collaboration platform. It is customizable, private by design, and focuses on the healthier side of the internet where users are not the product.",
-      "site":"https://fileverse.io/",
-      "description":"Fileverse Portal is a web3 alternative to Google Workspace, Notion, or any centralized collaboration platform. It is customizable, private by design, and focuses on the healthier side of the internet where users are not the product.",
-      "url":"https://portal.fileverse.io/",
-      "external": "false",
-        "internalWallet": false
-},
+      "site": "https://fileverse.io/",
+      "description": "Fileverse Portal is a web3 alternative to Google Workspace, Notion, or any centralized collaboration platform. It is customizable, private by design, and focuses on the healthier side of the internet where users are not the product.",
+      "url": "https://portal.fileverse.io?code=BLOCKSCOUT",
+      "external": false,
+      "internalWallet": false
+  },
   {
       "author":"Furucombo",
       "id":"furucombo",
@@ -568,5 +555,18 @@
       "url":"https://furucombo.app/",
       "external": true,
       "internalWallet": false
-}
+  },
+  {
+      "author": "1Hive",
+      "id": "celeste",
+      "title": "Celeste",
+      "logo": "https://blockscout-content.s3.amazonaws.com/celeste.png",
+      "categories": ["Data & Analytics"],
+      "shortDescription": "Celeste is a protocol that produces answers to disputes by incentivizing keepers to respond coherently.",
+      "site":"https://celeste.1hive.org",
+      "description":"Celeste is a protocol that produces answers to disputes by incentivizing keepers to respond coherently.",
+      "url":"https://celeste.1hive.org",
+      "external": false,
+      "internalWallet": false
+  }
 ]
