@@ -115,5 +115,66 @@
     "external": false,
     "categories": ["Bridges"],
     "logo": "https://blockscout-content.s3.amazonaws.com/shibarium-bridge.jpg"
+  },
+  {
+    "author": "Shibarium",
+    "id": "shibarium-bridge",
+    "title": "Shibarium Bridge",
+    "description": "Official Bridge protocol for Shibarium network",
+    "shortDescription": "Official Bridge protocol for Shibarium network",
+    "site": "https://shibarium.shib.io/bridge",
+    "url": "https://shibarium.shib.io/bridge",
+    "internalWallet": false,
+    "external": false,
+    "categories": ["Bridges"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/shibarium-bridge.jpg"
+  },
+  {
+    "author": "Beast Shibarium",
+    "id": "beast-shibarium",
+    "title": "Beast Shibarium",
+    "categories": ["Bridges", "Games", "NFT", "Liquid Staking"],
+    "site": "https://www.beastshib.tech/",
+    "url": "https://www.beastshib.tech/swap",
+    "external": false,
+    "shortDescription": "Elevate your digital asset portfolio with our distinctive NFTs. Earn by staking, with rewards to enhance your investment journey. Engage in our interactive roulette games for a chance to win big",
+    "description": "Elevate your digital asset portfolio with our distinctive NFTs. Earn by staking, with rewards to enhance your investment journey. Engage in our interactive roulette games for a chance to win big",
+    "logo": "https://blockscout-content.s3.amazonaws.com/beast-shibarium.png"
+  },
+  {
+    "author": "shib.club",
+    "id": "shib-club",
+    "title": "Shib Club",
+    "shortDescription": "Shibarium Inscription Market. Inscribe, buy, and sell inscriptions & Shibmap on Shibarium.",
+    "description": "Shibarium Inscription Market. Inscribe, buy, and sell inscriptions & Shibmap on Shibarium.",
+    "site": "https://shib.club/",
+    "url": "https://shib.club/",
+    "external": false,
+    "categories": ["NFT", "Dev tooling"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/shib-club.png"
+  },
+  {
+    "author": "ShibaPunkz Staking",
+    "id":"shibapunkz-staking",
+    "title": "ShibaPunkz Staking",
+    "shortDescription": "ShibaPunkz NFT Collection has the first NFT Staking Dapp of Shibarium. 3 Pools currently running: Stake your ShibaPunkz NFTs and get $SPUNK, $LEASH, and $SHIB as rewards",
+    "description": "ShibaPunkz NFT Collection has the first NFT Staking Dapp of Shibarium. 3 Pools currently running: Stake your ShibaPunkz NFTs and get $SPUNK, $LEASH, and $SHIB as rewards",
+    "site": "https://shibapunkz.art/",
+    "url": "https://shibapunkzstaking.art/wrap",
+    "external": true,
+    "categories": ["NFT", "Liquid Staking", "Swaps"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/shibapunkz.png"
+  },
+  {
+    "author": "NestX",
+    "id": "nestx",
+    "title": "NestX",
+    "shortDescription": "The NestX Marketplace is a growing community and the one-stop NFT Marketplace that brings a level of utility for many projects and individuals to trade, launch, and utilize their NFTs in and easy to use environment.",
+    "description": "The NestX Marketplace is a growing community and the one-stop NFT Marketplace that brings a level of utility for many projects and individuals to trade, launch, and utilize their NFTs in and easy to use environment.",
+    "site": "https://nestx.io",
+    "url": "https://nestx.io/launchpad",
+    "external": false,
+    "categories": ["NFT", "Games"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/nestx.png"
   }
 ]
