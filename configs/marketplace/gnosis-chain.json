@@ -539,8 +539,8 @@
       "shortDescription": "Fileverse Portal is a web3 alternative to Google Workspace, Notion, or any centralized collaboration platform. It is customizable, private by design, and focuses on the healthier side of the internet where users are not the product.",
       "site": "https://fileverse.io/",
       "description": "Fileverse Portal is a web3 alternative to Google Workspace, Notion, or any centralized collaboration platform. It is customizable, private by design, and focuses on the healthier side of the internet where users are not the product.",
-      "url": "https://portal.fileverse.io?code=BLOCKSCOUT",
-      "external": false,
+      "url": "https://portal.fileverse.io/#/create?code=BLOCKSCOUT",
+      "external": true,
       "internalWallet": false
   },
   {
