@@ -1268,5 +1268,18 @@
       "url":"https://mintpad.co/",
       "external": false,
      "internalWallet": false
+},
+  {
+      "author":"Etherspot",
+      "id":"etherspot",
+      "title":"Etherspot",
+      "logo": "https://blockscout-content.s3.amazonaws.com/etherspot.png",
+      "categories": ["Dev tooling"],
+      "shortDescription": "Etherspot is a multi-chain ERC-4337 development platform that provides solutions for dApps, wallets, games, operating EVM-compatible rollups, or L1/L2 chains to deliver frictionless Web3 UX by removing usability pain points. Etherspot leverages Account Abstraction to enable smooth onboarding for new users and abstract away complex blockchain operations.In addition to providing Account Abstraction features, Etherspot helps developers to make their projects compatible with ERC-4337 by offering a wide range of cutting-edge services such as Bundler & Paymaster Services, APIs, and more.",
+      "site":"https://etherspot.io/",
+      "description":"Etherspot is a multi-chain ERC-4337 development platform that provides solutions for dApps, wallets, games, operating EVM-compatible rollups, or L1/L2 chains to deliver frictionless Web3 UX by removing usability pain points. Etherspot leverages Account Abstraction to enable smooth onboarding for new users and abstract away complex blockchain operations. In addition to providing Account Abstraction features, Etherspot helps developers to make their projects compatible with ERC-4337 by offering a wide range of cutting-edge services such as Bundler & Paymaster Services, APIs, and more.",
+      "url":"https://etherspot.io/",
+      "external": false,
+      "internalWallet": false
 }
 ]
