@@ -14,7 +14,7 @@ const marketplaceAppSchema = yup
             .array()
             .of(yup
                 .string()
-                .oneOf(categories.map((category) => category.name))
+                .oneOf(categories)
                 .required()
             )
             .required(),
