@@ -756,20 +756,6 @@
     "internalWallet": false
   },
   {
-    "author": "Furucombo",
-    "id": "furucombo",
-    "title": "Furucombo",
-    "logo": "https://blockscout-content.s3.amazonaws.com/Furucombo.png",
-    "categories": ["Lending"],
-    "shortDescription": "Furucombo is a tool built for end users to optimize their DeFi strategies visualized by drag and drop cubes to perform transactions.",
-    "site": "https://furucombo.app/",
-    "description": "Furucombo is a tool built for end users to optimize their DeFi strategies visualized by drag and drop cubes to perform transactions.",
-    "external": false,
-    "url": "https://furucombo.app/combo",
-
-    "internalWallet": false
-  },
-  {
     "author": "Gamma",
     "id": "gamma",
     "title": "Gamma",
@@ -2440,18 +2426,6 @@
     "description": "Metronome is multi-collateral, multi synthetic app that allows users to mint/trade synthetic assets and multiply yield on existing productive assets.",
     "external": true,
     "url": "https://app.metronome.io"
-  },
-  {
-    "author": "Mintpad",
-    "id": "mintpad",
-    "title": "Mintpad",
-    "logo": "https://blockscout-content.s3.amazonaws.com/mintpad.png",
-    "categories": ["NFT"],
-    "shortDescription": "No code NFT collection launch platform.",
-    "site": "https://mintpad.co/",
-    "description": "No code NFT collection launch platform.",
-    "external": true,
-    "url": "https://app.mintpad.co/"
   },
   {
     "author": "Nansen",
