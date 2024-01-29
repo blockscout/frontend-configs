@@ -1036,18 +1036,17 @@
     "internalWallet": true
   },
   {
-    "author": "Mean Finance",
-    "id": "mean-finance",
     "title": "Mean Finance",
     "logo": "https://blockscout-content.s3.amazonaws.com/meanfi.png",
-    "categories": ["Swaps"],
-    "shortDescription": "Protocol that enables users to Decentralize Cost Average (DCA) any ERC20 into any ERC20 with their preferred period frequency.",
-    "site": "https://mean.finance/",
-    "description": "Protocol that enables users to Decentralize Cost Average (DCA) any ERC20 into any ERC20 with their preferred period frequency.",
-    "external": false,
-    "url": "https://mean.finance/",
-
-    "internalWallet": true
+    "description": "Mean Finance is your home for accessing decentralized finance as it was meant to be: safe, open and intuitive. Swap your assets at the best price and create recurring investments (DCA) into your favorite tokens with ease — One place for everything you need to take control of your financial future.",
+    "shortDescription": "Mean Finance is your home for accessing decentralized finance as it was meant to be: safe, open and intuitive. Swap your assets at the best price and create recurring investments (DCA) into your favorite tokens with ease — One place for everything you need to take control of your financial future.",
+    "categories": ["Liquid Staking", "Yield Aggregators", "Swaps"],
+    "site": "https://mean.finance/create",
+    "url": "https://mean.finance/create",
+    "id": "mean-finance",
+    "author": "Mean Finance",
+    "internalWallet": true,
+    "external": false
   },
   {
     "author": "MES Protocol",
