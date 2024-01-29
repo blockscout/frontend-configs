@@ -1103,8 +1103,8 @@
   {
     "title": "Mean Finance",
     "logo": "https://blockscout-content.s3.amazonaws.com/meanfi.png",
-    "description": "DCA from any ERC-20 into any ERC-20 token",
-    "shortDescription": "DCA from any ERC-20 into any ERC-20 token",
+    "description": "Mean Finance is your home for accessing decentralized finance as it was meant to be: safe, open and intuitive. Swap your assets at the best price and create recurring investments (DCA) into your favorite tokens with ease — One place for everything you need to take control of your financial future.",
+    "shortDescription": "Mean Finance is your home for accessing decentralized finance as it was meant to be: safe, open and intuitive. Swap your assets at the best price and create recurring investments (DCA) into your favorite tokens with ease — One place for everything you need to take control of your financial future.",
     "categories": ["Liquid Staking", "Yield Aggregators", "Swaps"],
     "site": "https://mean.finance/create",
     "url": "https://mean.finance/create",
