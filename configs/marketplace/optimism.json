@@ -14,6 +14,32 @@
     "internalWallet": false
   },
   {
+      "author": "Fileverse Portal",
+      "id": "fileverse-portal",
+      "title": "Fileverse Portal",
+      "logo": "https://blockscout-content.s3.amazonaws.com/fileverse.png",
+      "categories": ["Data & Analytics", "Dev tooling"],
+      "shortDescription": "Fileverse Portal is a web3 alternative to Google Workspace, Notion, or any centralized collaboration platform. It is customizable, private by design, and focuses on the healthier side of the internet where users are not the product.",
+      "site": "https://fileverse.io/",
+      "description": "Fileverse Portal is a web3 alternative to Google Workspace, Notion, or any centralized collaboration platform. It is customizable, private by design, and focuses on the healthier side of the internet where users are not the product.",
+      "url": "https://portal.fileverse.io/#/create?code=BLOCKSCOUT",
+      "external": false,
+      "internalWallet": false
+  },
+  {
+    "author": "Fileverse",
+    "id": "fileverse",
+    "title": "Fileverse",
+    "description": "Your onchain space for collaboration and productivity. Use it to write, create a knowledge-base, sketch ideas, share files, make a public webpage and more - individually or as a group.",
+    "shortDescription": "Your onchain space for collaboration and productivity. Use it to write, create a knowledge-base, sketch ideas, share files, make a public webpage and more - individually or as a group.",
+    "site": "https://fileverse.io/",
+    "url": "https://beta.fileverse.io/",
+    "external": false,
+    "categories": ["Data & Analytics", "Dev tooling"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/fileverse.png",
+    "internalWallet": false
+  },
+  {
     "author": "Aave",
     "id": "aave",
     "title": "Aave",
