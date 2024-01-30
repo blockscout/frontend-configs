@@ -73,10 +73,8 @@
     "shortDescription": "CoLinks is a network of professionals and friends in the web3 ecosystem",
     "site": "https://colinks.coordinape.com/start",
     "description": "CoLinks is a network of professionals and friends in the web3 ecosystem",
-    "external": false,
-    "url": "https://colinks.coordinape.com/start",
-
-    "internalWallet": false
+    "external": true,
+    "url": "https://colinks.coordinape.com/start"
   },
   {
     "author": "Beefy",
