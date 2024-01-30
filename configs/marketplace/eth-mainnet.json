@@ -14,6 +14,31 @@
     "internalWallet": true
   },
   {
+    "author": "Gearbox Protocol",
+    "id": "gearbox-protocol",
+    "title": "Gearbox Protocol",
+    "categories": ["Yield Aggregator", "Data & Analytics", "Swaps"],
+    "shortDescription": "Gearbox Protocol brings you composable leverage, allowing anyone to margin trade on Uniswap, leverage farm on Curve, leverage stake on Lido, and use 10X more capital on protocols you love. Making decentralized leverage a reality thanks to Credit Account abstraction!",
+    "site":" https://gearbox.fi/",
+    "description": "Gearbox Protocol brings you composable leverage, allowing anyone to margin trade on Uniswap, leverage farm on Curve, leverage stake on Lido, and use 10X more capital on protocols you love. Making decentralized leverage a reality thanks to Credit Account abstraction!",
+    "url": "https://app.gearbox.fi/",
+    "internalWallet": true,
+    "external": true,
+    "logo": "https://blockscout-content.s3.amazonaws.com/gearbox.png",
+  },
+  {
+      "author": "Giveth",
+      "id": "giveth",
+      "title": "Giveth",
+      "categories": ["Wallets", "NFT"],
+      "shortDescription": "Giveth is a crypto donation platform, that is building a culture and economy that rewards and empowers those who give",
+      "site": "https://giveth.io/",
+      "url": "https://giveth.io/",
+      "description": "Giveth is a crypto donation platform, that is building a culture and economy that rewards and empowers those who give",
+      "external": true,
+      "logo": "https://blockscout-content.s3.amazonaws.com/giveth.png"
+  },
+  {
     "author": "Mai Finance",
     "id": "mai-finance",
     "title": "Mai Finance",
