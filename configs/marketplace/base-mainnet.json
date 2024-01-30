@@ -14,6 +14,19 @@
     "internalWallet": true
   },
   {
+    "author": "Mai Finance",
+    "id": "mai-finance",
+    "title": "Mai Finance",
+    "logo": "https://blockscout-content.s3.amazonaws.com/mai-finance.png",
+    "categories": ["CDP", "Bridges", "Liquid Staking"],
+    "shortDescription": "Mint stablecoins against your crypto assets at 0% interest.",
+    "site": "https://www.mai.finance/",
+    "description": "Mint stablecoins against your crypto assets at 0% interest.",
+    "external": false,
+    "url": "https://app.mai.finance/",
+    "internalWallet": true
+  },
+  {
       "author": "Fileverse Portal",
       "id": "fileverse-portal",
       "title": "Fileverse Portal",
