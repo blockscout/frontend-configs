@@ -14,6 +14,18 @@
     "internalWallet": false
   },
   {
+      "author": "Giveth",
+      "id": "giveth",
+      "title": "Giveth",
+      "categories": ["NFT"],
+      "shortDescription": "Giveth is a crypto donation platform, that is building a culture and economy that rewards and empowers those who give",
+      "site": "https://giveth.io/",
+      "url": "https://giveth.io/",
+      "description": "Giveth is a crypto donation platform, that is building a culture and economy that rewards and empowers those who give",
+      "external": true,
+      "logo": "https://blockscout-content.s3.amazonaws.com/giveth.png"
+  },
+  {
     "author": "Mai Finance",
     "id": "mai-finance",
     "title": "Mai Finance",
