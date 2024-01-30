@@ -1038,7 +1038,7 @@
     "id": "mai-finance",
     "title": "Mai Finance",
     "logo": "https://blockscout-content.s3.amazonaws.com/mai-finance.png",
-    "categories": ["CDP"],
+    "categories": ["CDP", "Bridges", "Liquid Staking"],
     "shortDescription": "Mint stablecoins against your crypto assets at 0% interest.",
     "site": "https://www.mai.finance/",
     "description": "Mint stablecoins against your crypto assets at 0% interest.",
