@@ -14,6 +14,44 @@
     "internalWallet": false
   },
   {
+      "author": "Giveth",
+      "id": "giveth",
+      "title": "Giveth",
+      "categories": ["NFT"],
+      "shortDescription": "Giveth is a crypto donation platform, that is building a culture and economy that rewards and empowers those who give",
+      "site": "https://giveth.io/",
+      "url": "https://giveth.io/",
+      "description": "Giveth is a crypto donation platform, that is building a culture and economy that rewards and empowers those who give",
+      "external": true,
+      "logo": "https://blockscout-content.s3.amazonaws.com/giveth.png"
+  },
+  {
+      "author": "Fileverse Portal",
+      "id": "fileverse-portal",
+      "title": "Fileverse Portal",
+      "logo": "https://blockscout-content.s3.amazonaws.com/fileverse.png",
+      "categories": ["Data & Analytics", "Dev tooling"],
+      "shortDescription": "Fileverse Portal is a web3 alternative to Google Workspace, Notion, or any centralized collaboration platform. It is customizable, private by design, and focuses on the healthier side of the internet where users are not the product.",
+      "site": "https://fileverse.io/",
+      "description": "Fileverse Portal is a web3 alternative to Google Workspace, Notion, or any centralized collaboration platform. It is customizable, private by design, and focuses on the healthier side of the internet where users are not the product.",
+      "url": "https://portal.fileverse.io/#/create?code=BLOCKSCOUT",
+      "external": false,
+      "internalWallet": false
+  },
+  {
+    "author": "Fileverse",
+    "id": "fileverse",
+    "title": "Fileverse",
+    "description": "Your onchain space for collaboration and productivity. Use it to write, create a knowledge-base, sketch ideas, share files, make a public webpage and more - individually or as a group.",
+    "shortDescription": "Your onchain space for collaboration and productivity. Use it to write, create a knowledge-base, sketch ideas, share files, make a public webpage and more - individually or as a group.",
+    "site": "https://fileverse.io/",
+    "url": "https://beta.fileverse.io/",
+    "external": false,
+    "categories": ["Data & Analytics", "Dev tooling"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/fileverse.png",
+    "internalWallet": false
+  },
+  {
     "author": "Aave",
     "id": "aave",
     "title": "Aave",
@@ -35,10 +73,8 @@
     "shortDescription": "CoLinks is a network of professionals and friends in the web3 ecosystem",
     "site": "https://colinks.coordinape.com/start",
     "description": "CoLinks is a network of professionals and friends in the web3 ecosystem",
-    "external": false,
-    "url": "https://colinks.coordinape.com/start",
-
-    "internalWallet": false
+    "external": true,
+    "url": "https://colinks.coordinape.com/start"
   },
   {
     "author": "Beefy",
@@ -424,12 +460,12 @@
     "id": "celer-cbridge",
     "title": "Celer cBridge",
     "logo": "https://blockscout-content.s3.amazonaws.com/celer.png",
-    "categories": ["Bridges"],
+    "categories": ["Bridges", "Liquid Staking", "NFT"],
     "shortDescription": "Celer cBridge is a decentralized and non-custodial asset bridge that supports 130+ different tokens across 30+ blockchains and layer-2 rollups.",
     "site": "https://cbridge.celer.network/",
     "description": "Celer cBridge is a decentralized and non-custodial asset bridge that supports 130+ different tokens across 30+ blockchains and layer-2 rollups.",
     "external": false,
-    "url": "https://cbridge.celer.network/100/1/SOS",
+    "url": "https://cbridge.celer.network/10/1/ETH",
 
     "internalWallet": false
   },
@@ -1012,7 +1048,7 @@
     "id": "mai-finance",
     "title": "Mai Finance",
     "logo": "https://blockscout-content.s3.amazonaws.com/mai-finance.png",
-    "categories": ["CDP"],
+    "categories": ["CDP", "Bridges", "Liquid Staking"],
     "shortDescription": "Mint stablecoins against your crypto assets at 0% interest.",
     "site": "https://www.mai.finance/",
     "description": "Mint stablecoins against your crypto assets at 0% interest.",
@@ -2882,12 +2918,12 @@
       "id":"furucombo",
       "title":"Furucombo",
       "logo": "https://blockscout-content.s3.amazonaws.com/furucombo.webp",
-      "categories": ["Dev tooling", "Yield Aggregators", "Swaps"],
+      "categories": ["Dev tooling", "Yield Aggregators", "Swaps", "Liquid Staking"],
       "shortDescription": "Furucombo is a DeFi aggregator that allows a user to perform trading actions from our easy to use drag-and-drop interface. This includes multi-swap, multi-send, or managing their positions using our flashloan functionality. Our most recent product, our Lending Dashboard, allows anyone to manage their position from our intuitive interface which allows for one click position management. This includes debt swaps, collateral swaps, leverage, and deleverage without any upfront funds using our Flashloan functionality. Additionally we just launched Protocolink, our public API and SDK that allows developers to easily create products utilizing the composability of Furucombo.",
       "site":"https://furucombo.app/",
       "description":"Furucombo is a DeFi aggregator that allows a user to perform trading actions from our easy to use drag-and-drop interface. This includes multi-swap, multi-send, or managing their positions using our flashloan functionality. Our most recent product, our Lending Dashboard, allows anyone to manage their position from our intuitive interface which allows for one click position management. This includes debt swaps, collateral swaps, leverage, and deleverage without any upfront funds using our Flashloan functionality. Additionally we just launched Protocolink, our public API and SDK that allows developers to easily create products utilizing the composability of Furucombo.",
       "url":"https://furucombo.app/",
-      "external": true,
+      "external": false,
       "internalWallet": false
 },
   {
@@ -2900,7 +2936,7 @@
       "site":"https://mintpad.co/",
       "description":"Mintpad, your go-to free to use, NFT launchpad, simplifies the process of introducing your unique collection to the digital world. With just your artwork and a cryptocurrency wallet, you're ready to go. Our platform handles all the intricacies, offering an NFT creator tool that supports multiple chains and features a user-friendly, no-code solution. Our primary aim is to empower creators by seamlessly bringing their artwork, passes, tickets, and more onto the blockchain!",
       "url":"https://mintpad.co/",
-      "external": false,
+      "external": true,
      "internalWallet": false
 },
   {
