@@ -163,5 +163,17 @@
     "external": false,
     "categories": ["NFT", "Games"],
     "logo": "https://blockscout-content.s3.amazonaws.com/nestx.png"
+  },
+  {
+    "author": "CryptiQ",
+    "id": "safe-wallet-cryptiq",
+    "title": "CryptiQ Safe Wallet",
+    "shortDescription": "The Safe Ecosystems Multi-Signature wallets to Shibarium, Powered and integrated by the CryptiQ WEB3 Ecosystem. Create Multi-Sig Wallets for FREE, with Sponsored transactions, covered by the CryptiQ Ecosystem.",
+    "description": "The Safe Ecosystems Multi-Signature wallets to Shibarium, Powered and integrated by the CryptiQ WEB3 Ecosystem. Create Multi-Sig Wallets for FREE, with Sponsored transactions, covered by the CryptiQ Ecosystem.",
+    "site": "https://wallet.cryptiq.online/",
+    "url": "https://wallet.cryptiq.online/",
+    "external": false,
+    "categories": ["Wallets", "Data & Analytics"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/safe-wallet-cryptiq.png"
   }
 ]
