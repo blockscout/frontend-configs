@@ -1326,11 +1326,11 @@
       "title":"Mintpad",
       "logo": "https://blockscout-content.s3.amazonaws.com/mintpad.png",
       "categories": ["NFT"],
-      "shortDescription": "Mintpad, your go-to free to use, NFT launchpad, simplifies the process of introducing your unique collection to the digital world. With just your artwork and a cryptocurrency wallet, you're ready to go. Our platform handles all the intricacies, offering an NFT creator tool that supports multiple chains and features a user-friendly, no-code solution. Our primary aim is to empower creators by seamlessly bringing their artwork, passes, tickets, and more onto the blockchain!",
+      "shortDescription": "Mintpad, your go-to free-to-use, NFT launchpad, simplifies the process of introducing your unique collection to the digital world. With just your artwork and a cryptocurrency wallet, you are ready to go!",
       "site":"https://mintpad.co/",
-      "description":"Mintpad, your go-to free to use, NFT launchpad, simplifies the process of introducing your unique collection to the digital world. With just your artwork and a cryptocurrency wallet, you're ready to go. Our platform handles all the intricacies, offering an NFT creator tool that supports multiple chains and features a user-friendly, no-code solution. Our primary aim is to empower creators by seamlessly bringing their artwork, passes, tickets, and more onto the blockchain!",
+      "description":"Mintpad, your go-to free-to-use, NFT launchpad, simplifies the process of introducing your unique collection to the digital world. With just your artwork and a cryptocurrency wallet, you are ready to go!",
       "url":"https://mintpad.co/",
-      "external": false,
+      "external": true,
       "internalWallet": false
   },
   {
@@ -1339,9 +1339,9 @@
       "title":"Etherspot",
       "logo": "https://blockscout-content.s3.amazonaws.com/etherspot.png",
       "categories": ["Dev tooling"],
-      "shortDescription": "Etherspot is a multi-chain ERC-4337 development platform that provides solutions for dApps, wallets, games, operating EVM-compatible rollups, or L1/L2 chains to deliver frictionless Web3 UX by removing usability pain points. Etherspot leverages Account Abstraction to enable smooth onboarding for new users and abstract away complex blockchain operations.In addition to providing Account Abstraction features, Etherspot helps developers to make their projects compatible with ERC-4337 by offering a wide range of cutting-edge services such as Bundler & Paymaster Services, APIs, and more.",
+      "shortDescription": "Etherspot is a multi-chain ERC-4337 development platform that provides solutions for dApps, wallets, games, operating EVM-compatible rollups, or L1/L2 chains to deliver frictionless Web3 UX by removing usability pain points.",
       "site":"https://etherspot.io/",
-      "description":"Etherspot is a multi-chain ERC-4337 development platform that provides solutions for dApps, wallets, games, operating EVM-compatible rollups, or L1/L2 chains to deliver frictionless Web3 UX by removing usability pain points. Etherspot leverages Account Abstraction to enable smooth onboarding for new users and abstract away complex blockchain operations. In addition to providing Account Abstraction features, Etherspot helps developers to make their projects compatible with ERC-4337 by offering a wide range of cutting-edge services such as Bundler & Paymaster Services, APIs, and more.",
+      "description":"Etherspot is a multi-chain ERC-4337 development platform that provides solutions for dApps, wallets, games, operating EVM-compatible rollups, or L1/L2 chains to deliver frictionless Web3 UX by removing usability pain points.",
       "url":"https://etherspot.io/",
       "external": true,
       "internalWallet": false
