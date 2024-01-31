@@ -317,20 +317,6 @@
     "internalWallet": false
   },
   {
-    "author": "Ouchi Finance",
-    "id": "ouchi-finance",
-    "title": "Ouchi Finance",
-    "description": "Ouchi Finance aims to make people's concept of living, renting, and staying easier and more automatic. We provides user-friendly NFT platform and DEX functions (Swap, Liquidity, etc.) to realize the goal.",
-    "shortDescription": "Ouchi Finance aims to make people's concept of living, renting, and staying easier and more automatic",
-    "site": "https://app.ouchi.finance/#/swap",
-    "url": "https://app.ouchi.finance/#/swap",
-    "external": false,
-    "categories": ["Swaps"],
-    "logo": "https://blockscout-content.s3.amazonaws.com/ouchi-finance.jpg",
-
-    "internalWallet": false
-  },
-  {
     "author": "Clipper",
     "id": "clipper",
     "title": "Clipper",
@@ -465,7 +451,7 @@
     "site": "https://app.interport.fi/1/1/ETH/USDT",
     "url": "https://app.interport.fi/1/1/ETH/USDT",
     "external": false,
-    "categories": ["Swaps", "Bridge"],
+    "categories": ["Swaps", "Bridges"],
     "logo": "https://blockscout-content.s3.amazonaws.com/interport-finance.png",
 
     "internalWallet": false
