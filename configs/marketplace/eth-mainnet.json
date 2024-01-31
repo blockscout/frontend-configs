@@ -1313,13 +1313,13 @@
       "title":"Furucombo",
       "logo": "https://blockscout-content.s3.amazonaws.com/furucombo.webp",
       "categories": ["Dev tooling", "Yield Aggregators", "Swaps"],
-      "shortDescription": "Furucombo is a DeFi aggregator that allows a user to perform trading actions from our easy to use drag-and-drop interface. This includes multi-swap, multi-send, or managing their positions using our flashloan functionality. Our most recent product, our Lending Dashboard, allows anyone to manage their position from our intuitive interface which allows for one click position management. This includes debt swaps, collateral swaps, leverage, and deleverage without any upfront funds using our Flashloan functionality. Additionally we just launched Protocolink, our public API and SDK that allows developers to easily create products utilizing the composability of Furucombo.",
+      "shortDescription": "Furucombo is a DeFi aggregator that allows a user to perform trading actions from our easy-to-use drag-and-drop interface. This includes multi-swap, multi-send, or managing their positions using our flashloan functionality. Our most recent product, our Lending Dashboard, allows anyone to manage their position from our intuitive interface which allows for one click position management. This includes debt swaps, collateral swaps, leverage, and deleverage without any upfront funds using our Flashloan functionality. Additionally, we just launched Protocolink, our public API and SDK that allows developers to easily create products utilizing the composability of Furucombo.",
       "site":"https://furucombo.app/",
-      "description":"Furucombo is a DeFi aggregator that allows a user to perform trading actions from our easy to use drag-and-drop interface. This includes multi-swap, multi-send, or managing their positions using our flashloan functionality. Our most recent product, our Lending Dashboard, allows anyone to manage their position from our intuitive interface which allows for one click position management. This includes debt swaps, collateral swaps, leverage, and deleverage without any upfront funds using our Flashloan functionality. Additionally we just launched Protocolink, our public API and SDK that allows developers to easily create products utilizing the composability of Furucombo.",
-      "url":"https://furucombo.app/",
+      "description":"Furucombo is a DeFi aggregator that allows a user to perform trading actions from our easy-to-use drag-and-drop interface. This includes multi-swap, multi-send, or managing their positions using our flashloan functionality. Our most recent product, our Lending Dashboard, allows anyone to manage their position from our intuitive interface which allows for one click position management. This includes debt swaps, collateral swaps, leverage, and deleverage without any upfront funds using our Flashloan functionality. Additionally, we just launched Protocolink, our public API and SDK that allows developers to easily create products utilizing the composability of Furucombo.",
+      "url": "https://furucombo.app/lending",
       "external": true,
       "internalWallet": false
-},
+  },
   {
       "author":"Mintpad",
       "id":"mintpad",
@@ -1332,7 +1332,7 @@
       "url":"https://mintpad.co/",
       "external": false,
      "internalWallet": false
-},
+  },
   {
       "author":"Etherspot",
       "id":"etherspot",
@@ -1345,5 +1345,5 @@
       "url":"https://etherspot.io/",
       "external": true,
       "internalWallet": false
-}
+  }
 ]
