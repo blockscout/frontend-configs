@@ -10,8 +10,18 @@
     "external": false,
     "categories": ["Swaps", "Liquid Staking"],
     "logo": "https://blockscout-content.s3.amazonaws.com/uniswap.png",
-
     "internalWallet": true
+  },
+  {
+    "author": "Pillar Wallet",
+    "id": "pillar-wallet",
+    "title": "Pillar Wallet",
+    "categories": ["Wallets", "Swaps", "Bridges"],
+    "shortDescription": "Self-custodial Smart Wallet enabling low fees, cross-chain swaps & gasless transactions, all in a unified multichain DeFi experience.",
+    "site": "https://www.pillar.fi/",
+    "description": "Self-custodial Smart Wallet enabling low fees, cross-chain swaps & gasless transactions, all in a unified multichain DeFi experience.",
+    "external": true,
+    "logo": "https://blockscout-content.s3.amazonaws.com/pillar-wallet.png"
   },
   {
     "author": "Gearbox Protocol",
