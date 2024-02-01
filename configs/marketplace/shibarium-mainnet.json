@@ -175,5 +175,17 @@
     "external": false,
     "categories": ["Wallets", "Data & Analytics"],
     "logo": "https://blockscout-content.s3.amazonaws.com/safe-wallet-cryptiq.png"
+  },
+  {
+    "author": "ShibaPunkz Coinflip",
+    "id": "shibapunkz-coinflip",
+    "title": "ShibaPunkz Coinflip",
+    "categories": ["Games"],
+    "shortDescription": "ShibaPunkz Coinflip Dapp is a game on Shibarium where you can play with Wrapped $SPUNK! It will contribute to the burning of $SPUNK the official token of ShibaPunkz",
+    "site": "https://shibapunkz.art",
+    "description": "ShibaPunkz Coinflip Dapp is a game on Shibarium where you can play with Wrapped $SPUNK! It will contribute to the burning of $SPUNK the official token of ShibaPunkz",
+    "url": "https://coinflip.shibapunkzstaking.art/",
+    "external": false,
+    "logo": "https://blockscout-content.s3.amazonaws.com/shiba-punkz.png"
   }
 ]
