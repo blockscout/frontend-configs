@@ -1303,7 +1303,7 @@
     "site": "https://furucombo.app/",
     "description": "Furucombo is a DeFi aggregator that allows a user to perform trading actions from our easy-to-use drag-and-drop interface. This includes multi-swap, multi-send, or managing their positions using our flashloan functionality.",
     "url": "https://furucombo.app/lending",
-    "external": true,
+    "external": false,
     "internalWallet": false
   },
   {
