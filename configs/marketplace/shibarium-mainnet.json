@@ -252,7 +252,7 @@
       "author":"CryptiQ",
       "id": "cryptiq-social-network",
       "title": "CryptiQ Social Network",
-      "logo": 👉"https://blockscout-content.s3.amazonaws.com/cryptiq-social-network.png"👈,
+      "logo": "https://blockscout-content.s3.amazonaws.com/cryptiq-social-network.png",
       "categories": ["Data & Analytics", "NFT", "Games", "Dev tooling"],
       "shortDescription": "CryptiQ Chat - Providing a secure and feature rich platform for Shibarium users around the globe. ",
       "site": "https://cryptiq.online",
