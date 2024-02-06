@@ -1128,7 +1128,7 @@
     "shortDescription": "Token vesting, distributions, lockups and core infrastructure as public goods for onchain teams",
     "categories": ["Wallets"],
     "site": "https://app.hedgey.finance/",
-    "url": "https://app.hedgey.finance/",
+    "url": "https://hedgey-app-git-blockscout-testing-hedgey-finance.vercel.app/",
     "id": "hedgey",
     "author": "Hedgey",
     "internalWallet": true,
