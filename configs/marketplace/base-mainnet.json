@@ -442,7 +442,7 @@
       "description":"Mintpad, your go-to free to use, NFT launchpad, simplifies the process of introducing your unique collection to the digital world. With just your artwork and a cryptocurrency wallet, you're ready to go. Our platform handles all the intricacies, offering an NFT creator tool that supports multiple chains and features a user-friendly, no-code solution. Our primary aim is to empower creators by seamlessly bringing their artwork, passes, tickets, and more onto the blockchain!",
       "url":"https://mintpad.co/",
       "external": false,
-     "internalWallet": false
+      "internalWallet": false
 },
   {
       "author":"Etherspot",
@@ -456,5 +456,18 @@
       "url":"https://etherspot.io/",
       "external": true,
       "internalWallet": false
-}
+  },
+  {
+      "author":"PRINT3R",
+      "id":"print3r",
+      "title":"PRINT3R",
+      "logo": "https://blockscout-content.s3.amazonaws.com/print3r-logo.jpeg",
+      "categories": ["Swaps"],
+      "shortDescription": "PRINT3R aims to shake-up the existing derivatives market by fully gamifying the trading experience, creating an immersive and addictive experience for traders at any level",
+      "description": "PRINT3R aims to shake-up the existing derivatives market by fully gamifying the trading experience, creating an immersive and addictive experience for traders at any level",
+      "site":"https://print3r.xyz/#/home",
+      "url":"https://app.print3r.xyz/#/trade",
+      "external": true,
+      "internalWallet": false
+  }
 ]
