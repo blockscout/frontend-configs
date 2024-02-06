@@ -461,7 +461,7 @@
       "author":"PRINT3R",
       "id":"print3r",
       "title":"PRINT3R",
-      "logo": 👉"https://blockscout-content.s3.amazonaws.com/print3r-logo.jpeg"👈,
+      "logo": "https://blockscout-content.s3.amazonaws.com/print3r-logo.jpeg",
       "categories": ["Swaps"],
       "shortDescription": "PRINT3R aims to shake-up the existing derivatives market by fully gamifying the trading experience, creating an immersive and addictive experience for traders at any level",
       "description": "PRINT3R aims to shake-up the existing derivatives market by fully gamifying the trading experience, creating an immersive and addictive experience for traders at any level",
