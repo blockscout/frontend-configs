@@ -13,6 +13,18 @@
     "internalWallet": true
   },
   {
+    "author": "Rails Network",
+    "id": "rails-network-depot",
+    "title": "Rails Network Depot",
+    "description": "Rails Network Depot is the official one-stop-shop dApp for all of the Rails Network tools.",
+    "shortDescription": "Rails Network Depot is the official one-stop-shop dApp for all of the Rails Network tools.",
+    "site": "https://steamexchange.io/",
+    "url": "https://depot.steamexchange.io",
+    "external": false,
+    "categories": ["Bridges", "Dev tooling", "Swaps"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/rails-network-depot.jpg"
+  },
+  {
     "author": "Pillar Wallet",
     "id": "pillar-wallet",
     "title": "Pillar Wallet",
