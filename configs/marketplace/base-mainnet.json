@@ -124,14 +124,13 @@
     "author": "Base Name Service",
     "id": "base-name-service",
     "title": "Base Name Service",
-    "logo": "https://blockscout-content.s3.amazonaws.com/basenameservice_light.png",
+    "logo": "https://blockscout-content.s3.amazonaws.com/basenameservice-app.png",
     "categories": ["NFT", "Dev tooling"],
     "shortDescription": "Web3 naming (.base) for the next billion+ users on Base. Native Name Service",
     "site": "https://basename.app/",
     "description": "Web3 naming (.base) for the next billion+ users on Base. Native Name Service",
     "url": "https://basename.app/",
     "external": false,
-    "logoDarkMode": "https://blockscout-content.s3.amazonaws.com/basenameservice_dark.png",
     "internalWallet": true
   },
   {
