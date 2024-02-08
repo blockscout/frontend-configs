@@ -10,8 +10,19 @@
     "description": "This dApp allows users to efficiently send thousands of tokens to multiple addresses by batching the transfers and automating the process. This tool enables users to save time by automatically generating transactions using MetaMask or other smart wallet software. Multisender is also completely safe in terms of account security since private keys and other sensitive data are all handled by the user's wallet software.",
     "external": false,
     "url": "https://classic.multisender.app/",
-
     "internalWallet": false
+  },
+  {
+    "author": "Bounce",
+    "id": "bounce-auction",
+    "title": "Bounce Auction",
+    "logo": "https://blockscout-content.s3.amazonaws.com/bounce-auction.png",
+    "categories": ["Dev tooling"],
+    "shortDescription": "Bounce Auction is a Saas platform, that helps enterprises and individuals access a range of services, such as user registration and verification, that make setting up digital auctions simpler and more efficient. Auction setup can also be fully customized to meet the specific needs of the auction host while maintaining the decentralized, on-chain, security that sets Bounce apart from other digital auctioneers",
+    "site": "https://auction.bounce.finance/",
+    "description": "Bounce Auction is a Saas platform, that helps enterprises and individuals access a range of services, such as user registration and verification, that make setting up digital auctions simpler and more efficient. Auction setup can also be fully customized to meet the specific needs of the auction host while maintaining the decentralized, on-chain, security that sets Bounce apart from other digital auctioneers",
+    "external": true,
+    "url": "https://app.bounce.finance/market"
   },
   {
     "author": "Pillar Wallet",

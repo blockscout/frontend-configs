@@ -13,6 +13,18 @@
     "internalWallet": true
   },
   {
+    "author": "Bounce",
+    "id": "bounce-auction",
+    "title": "Bounce Auction",
+    "logo": "https://blockscout-content.s3.amazonaws.com/bounce-auction.png",
+    "categories": ["Dev tooling"],
+    "shortDescription": "Bounce Auction is a Saas platform, that helps enterprises and individuals access a range of services, such as user registration and verification, that make setting up digital auctions simpler and more efficient. Auction setup can also be fully customized to meet the specific needs of the auction host while maintaining the decentralized, on-chain, security that sets Bounce apart from other digital auctioneers",
+    "site": "https://auction.bounce.finance/",
+    "description": "Bounce Auction is a Saas platform, that helps enterprises and individuals access a range of services, such as user registration and verification, that make setting up digital auctions simpler and more efficient. Auction setup can also be fully customized to meet the specific needs of the auction host while maintaining the decentralized, on-chain, security that sets Bounce apart from other digital auctioneers",
+    "external": true,
+    "url": "https://app.bounce.finance/market"
+  },
+  {
     "author": "Rails Network",
     "id": "rails-network-depot",
     "title": "Rails Network Depot",
@@ -45,7 +57,7 @@
     "site": " https://gearbox.fi/",
     "description": "Gearbox Protocol brings you composable leverage, allowing anyone to margin trade on Uniswap, leverage farm on Curve, leverage stake on Lido, and use 10X more capital on protocols you love. Making decentralized leverage a reality thanks to Credit Account abstraction!",
     "url": "https://app.gearbox.fi/",
-    "internalWallet": true,
+    "internalWallet": false,
     "external": false,
     "logo": "https://blockscout-content.s3.amazonaws.com/gearbox.png"
   },
