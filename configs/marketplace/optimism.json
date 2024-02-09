@@ -26,18 +26,6 @@
     "url": "https://app.bounce.finance/market"
   },
   {
-    "author": "Pillar Wallet",
-    "id": "pillar-wallet",
-    "title": "Pillar Wallet",
-    "categories": ["Wallets", "Swaps", "Bridges"],
-    "shortDescription": "Self-custodial Smart Wallet enabling low fees, cross-chain swaps & gasless transactions, all in a unified multichain DeFi experience.",
-    "site": "https://www.pillar.fi/",
-    "url": "https://www.pillar.fi/",
-    "description": "Self-custodial Smart Wallet enabling low fees, cross-chain swaps & gasless transactions, all in a unified multichain DeFi experience.",
-    "external": true,
-    "logo": "https://blockscout-content.s3.amazonaws.com/pillar-wallet.png"
-  },
-  {
       "author": "Giveth",
       "id": "giveth",
       "title": "Giveth",
@@ -2874,7 +2862,7 @@
   },
   {
     "title": "Kwenta",
-    "logo": "https://blockscout-content.s3.amazonaws.com/Kwenta.svg",
+    "logo": "https://blockscout-content.s3.amazonaws.com/kwenta-app.jpeg",
     "description": "Gain exposure to cryptocurrencies, forex, equities, indices, and commodities on Ethereum with zero slippage",
     "shortDescription": "Gain exposure to cryptocurrencies, forex, equities, indices, and commodities on Ethereum with zero slippage",
     "categories": ["Liquid Staking", "Swaps"],
