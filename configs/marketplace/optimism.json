@@ -482,20 +482,6 @@
     "internalWallet": false
   },
   {
-    "author": "ChainHop",
-    "id": "chainhop",
-    "title": "ChainHop",
-    "logo": "https://blockscout-content.s3.amazonaws.com/ChainHop.png",
-    "categories": ["Swaps", "Bridges"],
-    "shortDescription": "ChainHop is a cross-chain, one-click swap protocol that offers deep liquidity from top DEXs and bridges with fast transactions and the best rates.",
-    "site": "https://chainhop.exchange/",
-    "description": "ChainHop is a cross-chain, one-click swap protocol that offers deep liquidity from top DEXs and bridges with fast transactions and the best rates.",
-    "external": false,
-    "url": "https://app.chainhop.exchange/",
-
-    "internalWallet": false
-  },
-  {
     "author": "Clipper",
     "id": "clipper",
     "title": "Clipper",
