@@ -26,18 +26,6 @@
     "url": "https://app.bounce.finance/market"
   },
   {
-    "author": "Pillar Wallet",
-    "id": "pillar-wallet",
-    "title": "Pillar Wallet",
-    "categories": ["Wallets", "Swaps", "Bridges"],
-    "shortDescription": "Self-custodial Smart Wallet enabling low fees, cross-chain swaps & gasless transactions, all in a unified multichain DeFi experience.",
-    "site": "https://www.pillar.fi/",
-    "url": "https://www.pillar.fi/",
-    "description": "Self-custodial Smart Wallet enabling low fees, cross-chain swaps & gasless transactions, all in a unified multichain DeFi experience.",
-    "external": true,
-    "logo": "https://blockscout-content.s3.amazonaws.com/pillar-wallet.png"
-  },
-  {
       "author": "Giveth",
       "id": "giveth",
       "title": "Giveth",
@@ -490,20 +478,6 @@
     "description": "Celer cBridge is a decentralized and non-custodial asset bridge that supports 130+ different tokens across 30+ blockchains and layer-2 rollups.",
     "external": false,
     "url": "https://cbridge.celer.network/10/1/ETH",
-
-    "internalWallet": false
-  },
-  {
-    "author": "ChainHop",
-    "id": "chainhop",
-    "title": "ChainHop",
-    "logo": "https://blockscout-content.s3.amazonaws.com/ChainHop.png",
-    "categories": ["Swaps", "Bridges"],
-    "shortDescription": "ChainHop is a cross-chain, one-click swap protocol that offers deep liquidity from top DEXs and bridges with fast transactions and the best rates.",
-    "site": "https://chainhop.exchange/",
-    "description": "ChainHop is a cross-chain, one-click swap protocol that offers deep liquidity from top DEXs and bridges with fast transactions and the best rates.",
-    "external": false,
-    "url": "https://app.chainhop.exchange/",
 
     "internalWallet": false
   },
@@ -2874,7 +2848,7 @@
   },
   {
     "title": "Kwenta",
-    "logo": "https://blockscout-content.s3.amazonaws.com/Kwenta.svg",
+    "logo": "https://blockscout-content.s3.amazonaws.com/kwenta-app.jpeg",
     "description": "Gain exposure to cryptocurrencies, forex, equities, indices, and commodities on Ethereum with zero slippage",
     "shortDescription": "Gain exposure to cryptocurrencies, forex, equities, indices, and commodities on Ethereum with zero slippage",
     "categories": ["Liquid Staking", "Swaps"],
