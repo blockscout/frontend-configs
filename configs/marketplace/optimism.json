@@ -163,14 +163,13 @@
     "id": "lyra",
     "title": "Lyra",
     "logo": "https://blockscout-content.s3.amazonaws.com/lyra.png",
-    "categories": ["Swaps"],
+    "categories": ["Wallets"],
     "shortDescription": "Lyra is an automated market maker (AMM) for options trading.",
     "site": "https://app.lyra.finance/",
     "description": "Lyra is an automated market maker (AMM) for options trading.",
     "external": false,
-    "url": "https://app.lyra.finance/",
-
-    "internalWallet": true
+    "url": "https://www.lyra.finance/portfolio",
+    "internalWallet": false
   },
   {
     "author": "Curve",
