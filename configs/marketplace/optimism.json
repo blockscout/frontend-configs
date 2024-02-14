@@ -163,14 +163,13 @@
     "id": "lyra",
     "title": "Lyra",
     "logo": "https://blockscout-content.s3.amazonaws.com/lyra.png",
-    "categories": ["Swaps"],
+    "categories": ["Wallets"],
     "shortDescription": "Lyra is an automated market maker (AMM) for options trading.",
     "site": "https://app.lyra.finance/",
     "description": "Lyra is an automated market maker (AMM) for options trading.",
     "external": false,
-    "url": "https://app.lyra.finance/",
-
-    "internalWallet": true
+    "url": "https://www.lyra.finance/portfolio",
+    "internalWallet": false
   },
   {
     "author": "Curve",
@@ -1015,12 +1014,12 @@
   },
   {
     "author": "LI.FI",
-    "id": "li-fi",
+    "id": "jumper-exchange",
     "title": "Jumper Exchange",
     "logo": "https://blockscout-content.s3.amazonaws.com/lifi.png",
     "categories": ["Swaps", "Bridges"],
     "shortDescription": "Provides bridge aggregation with DEX-connectivity.",
-    "site": "https://li.fi/",
+    "site": "https://jumper.exchange/",
     "description": "Provides bridge aggregation with DEX-connectivity.",
     "external": false,
     "url": "https://jumper.exchange/",
