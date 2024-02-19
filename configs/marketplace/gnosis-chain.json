@@ -566,19 +566,6 @@
     "external": false
   },
   {
-    "title": "Squid",
-    "logo": "https://blockscout-content.s3.amazonaws.com/Squid.svg",
-    "description": "Swap tokens across EVM and Cosmos blockchains, and access apps across chains in a single click",
-    "shortDescription": "Swap tokens across EVM and Cosmos blockchains, and access apps across chains in a single click",
-    "categories": ["Bridges"],
-    "site": "https://v2.app.squidrouter.com/",
-    "url": "https://v2.app.squidrouter.com/",
-    "id": "squid",
-    "author": "Squid",
-    "internalWallet": true,
-    "external": false
-  },
-  {
       "author": "Fileverse Portal",
       "id": "fileverse-portal",
       "title": "Fileverse Portal",

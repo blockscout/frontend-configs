@@ -13,6 +13,19 @@
     "logo": "https://blockscout-content.s3.amazonaws.com/marswap.jpg"
   },
   {
+      "author": "Shibas on the moon ",
+      "id": "shibas-on-the-moon",
+      "title": "Shibas on the moon ",
+      "logo": "https://blockscout-content.s3.amazonaws.com/shibas-on-the-moon.png",
+      "categories": ["Games"],
+      "shortDescription": "Multiplayer CRASH GAME for the Shiba Inu Community!!",
+      "site": "http://shibasonthemoon.com/",
+      "description": "Multiplayer CRASH GAME for the Shiba Inu Community!!",
+      "url": "http://shibasonthemoon.com/game/",
+      "internalWallet": false,
+      "external": true
+  },
+  {
     "author": "ChewySwap",
     "id": "chewyswap",
     "title": "ChewySwap",
