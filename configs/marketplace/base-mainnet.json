@@ -14,6 +14,72 @@
     "internalWallet": true
   },
   {
+    "author": "Mai Finance",
+    "id": "mai-finance",
+    "title": "Mai Finance",
+    "logo": "https://blockscout-content.s3.amazonaws.com/mai-finance.png",
+    "categories": ["CDP", "Bridges", "Liquid Staking"],
+    "shortDescription": "Mint stablecoins against your crypto assets at 0% interest.",
+    "site": "https://www.mai.finance/",
+    "description": "Mint stablecoins against your crypto assets at 0% interest.",
+    "external": false,
+    "url": "https://app.mai.finance/",
+    "internalWallet": true
+  },
+  {
+      "author": "Fileverse Portal",
+      "id": "fileverse-portal",
+      "title": "Fileverse Portal",
+      "logo": "https://blockscout-content.s3.amazonaws.com/fileverse.png",
+      "categories": ["Data & Analytics", "Dev tooling"],
+      "shortDescription": "Fileverse Portal is a web3 alternative to Google Workspace, Notion, or any centralized collaboration platform. It is customizable, private by design, and focuses on the healthier side of the internet where users are not the product.",
+      "site": "https://fileverse.io/",
+      "description": "Fileverse Portal is a web3 alternative to Google Workspace, Notion, or any centralized collaboration platform. It is customizable, private by design, and focuses on the healthier side of the internet where users are not the product.",
+      "url": "https://portal.fileverse.io/#/create?code=BLOCKSCOUT",
+      "external": false,
+      "internalWallet": false
+  },
+  {
+    "author": "Fileverse",
+    "id": "fileverse",
+    "title": "Fileverse",
+    "description": "Your onchain space for collaboration and productivity. Use it to write, create a knowledge-base, sketch ideas, share files, make a public webpage and more - individually or as a group.",
+    "shortDescription": "Your onchain space for collaboration and productivity. Use it to write, create a knowledge-base, sketch ideas, share files, make a public webpage and more - individually or as a group.",
+    "site": "https://fileverse.io/",
+    "url": "https://beta.fileverse.io/",
+    "external": false,
+    "categories": ["Data & Analytics", "Dev tooling"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/fileverse.png",
+    "internalWallet": false
+  },
+  {
+    "author": "Celer cBridge",
+    "id": "celer-cbridge",
+    "title": "Celer cBridge",
+    "logo": "https://blockscout-content.s3.amazonaws.com/celer.png",
+    "categories": ["Bridges", "Liquid Staking", "NFT"],
+    "shortDescription": "Celer cBridge is a decentralized and non-custodial asset bridge that supports 130+ different tokens across 30+ blockchains and layer-2 rollups.",
+    "site": "https://cbridge.celer.network/",
+    "description": "Celer cBridge is a decentralized and non-custodial asset bridge that supports 130+ different tokens across 30+ blockchains and layer-2 rollups.",
+    "external": false,
+    "url": "https://cbridge.celer.network/8453/10/USDC",
+
+    "internalWallet": false
+  },
+  {
+    "title": "Mean Finance",
+    "logo": "https://blockscout-content.s3.amazonaws.com/meanfi.png",
+    "description": "Mean Finance is your home for accessing decentralized finance as it was meant to be: safe, open and intuitive. Swap your assets at the best price and create recurring investments (DCA) into your favorite tokens with ease — One place for everything you need to take control of your financial future.",
+    "shortDescription": "Mean Finance is your home for accessing decentralized finance as it was meant to be: safe, open and intuitive. Swap your assets at the best price and create recurring investments (DCA) into your favorite tokens with ease — One place for everything you need to take control of your financial future.",
+    "categories": ["Liquid Staking", "Yield Aggregators", "Swaps"],
+    "site": "https://mean.finance/create",
+    "url": "https://mean.finance/create",
+    "id": "mean-finance",
+    "author": "Mean Finance",
+    "internalWallet": true,
+    "external": false
+  },
+  {
     "author": "Nether",
     "id": "nether",
     "title": "Nether",
@@ -26,6 +92,19 @@
     "external": false,
 
     "internalWallet": false
+  },
+  {
+    "author": "Aave",
+    "id": "aave",
+    "title": "Aave",
+    "logo": "https://blockscout-content.s3.amazonaws.com/aave.png",
+    "categories": ["Lending", "Liquid Staking"],
+    "shortDescription": "Aave is a decentralised non-custodial liquidity market protocol where users can participate as suppliers or borrowers. Suppliers provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralised (perpetually) or undercollateralised (one-block liquidity) fashion.",
+    "site": "https://docs.aave.com/faq/",
+    "description": "Aave is a decentralised non-custodial liquidity market protocol where users can participate as suppliers or borrowers. Suppliers provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralised (perpetually) or undercollateralised (one-block liquidity) fashion.",
+    "url": "https://app.aave.com/?marketName=proto_base_v3",
+    "internalWallet": true,
+    "external": false
   },
   {
     "author": "Quick Intel",
@@ -45,14 +124,13 @@
     "author": "Base Name Service",
     "id": "base-name-service",
     "title": "Base Name Service",
-    "logo": "https://blockscout-content.s3.amazonaws.com/basenameservice_light.png",
+    "logo": "https://blockscout-content.s3.amazonaws.com/basenameservice-app.png",
     "categories": ["NFT", "Dev tooling"],
     "shortDescription": "Web3 naming (.base) for the next billion+ users on Base. Native Name Service",
     "site": "https://basename.app/",
     "description": "Web3 naming (.base) for the next billion+ users on Base. Native Name Service",
     "url": "https://basename.app/",
     "external": false,
-    "logoDarkMode": "https://blockscout-content.s3.amazonaws.com/basenameservice_dark.png",
     "internalWallet": true
   },
   {
@@ -68,20 +146,6 @@
     "external": false,
 
     "internalWallet": false
-  },
-  {
-    "author": "Aave",
-    "id": "aave",
-    "title": "Aave",
-    "logo": "https://blockscout-content.s3.amazonaws.com/aave.png",
-    "categories": ["Lending"],
-    "shortDescription": "Aave is a decentralised non-custodial liquidity market protocol where users can participate as suppliers or borrowers. Suppliers provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralised (perpetually) or undercollateralised (one-block liquidity) fashion.",
-    "site": "https://docs.aave.com/faq/",
-    "description": "Aave is a decentralised non-custodial liquidity market protocol where users can participate as suppliers or borrowers. Suppliers provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralised (perpetually) or undercollateralised (one-block liquidity) fashion.",
-    "url": "https://app.aave.com/",
-    "external": false,
-
-    "internalWallet": true
   },
   {
     "author": "Uniswap",
@@ -352,5 +416,57 @@
     "author": "RevokeCash",
     "internalWallet": true,
     "external": false
+  },
+   {
+      "author":"Furucombo",
+      "id":"furucombo",
+      "title":"Furucombo",
+      "logo": "https://blockscout-content.s3.amazonaws.com/furucombo.webp",
+      "categories": ["Dev tooling", "Yield Aggregators", "Swaps"],
+      "shortDescription": "Furucombo is a DeFi aggregator that allows a user to perform trading actions from our easy to use drag-and-drop interface. This includes multi-swap, multi-send, or managing their positions using our flashloan functionality. Our most recent product, our Lending Dashboard, allows anyone to manage their position from our intuitive interface which allows for one click position management. This includes debt swaps, collateral swaps, leverage, and deleverage without any upfront funds using our Flashloan functionality. Additionally we just launched Protocolink, our public API and SDK that allows developers to easily create products utilizing the composability of Furucombo.",
+      "site":"https://furucombo.app/",
+      "description":"Furucombo is a DeFi aggregator that allows a user to perform trading actions from our easy to use drag-and-drop interface. This includes multi-swap, multi-send, or managing their positions using our flashloan functionality. Our most recent product, our Lending Dashboard, allows anyone to manage their position from our intuitive interface which allows for one click position management. This includes debt swaps, collateral swaps, leverage, and deleverage without any upfront funds using our Flashloan functionality. Additionally we just launched Protocolink, our public API and SDK that allows developers to easily create products utilizing the composability of Furucombo.",
+      "url":"https://furucombo.app/lending",
+      "external": false,
+      "internalWallet": true
+},
+  {
+      "author":"Mintpad",
+      "id":"mintpad",
+      "title":"Mintpad",
+      "logo": "https://blockscout-content.s3.amazonaws.com/mintpad.png",
+      "categories": ["NFT"],
+      "shortDescription": "Mintpad, your go-to free to use, NFT launchpad, simplifies the process of introducing your unique collection to the digital world. With just your artwork and a cryptocurrency wallet, you're ready to go. Our platform handles all the intricacies, offering an NFT creator tool that supports multiple chains and features a user-friendly, no-code solution. Our primary aim is to empower creators by seamlessly bringing their artwork, passes, tickets, and more onto the blockchain!",
+      "site":"https://mintpad.co/",
+      "description":"Mintpad, your go-to free to use, NFT launchpad, simplifies the process of introducing your unique collection to the digital world. With just your artwork and a cryptocurrency wallet, you're ready to go. Our platform handles all the intricacies, offering an NFT creator tool that supports multiple chains and features a user-friendly, no-code solution. Our primary aim is to empower creators by seamlessly bringing their artwork, passes, tickets, and more onto the blockchain!",
+      "url":"https://mintpad.co/",
+      "external": false,
+      "internalWallet": false
+},
+  {
+      "author":"Etherspot",
+      "id":"etherspot",
+      "title":"Etherspot",
+      "logo": "https://blockscout-content.s3.amazonaws.com/etherspot.png",
+      "categories": ["Dev tooling"],
+      "shortDescription": "Etherspot is a multi-chain ERC-4337 development platform that provides solutions for dApps, wallets, games, operating EVM-compatible rollups, or L1/L2 chains to deliver frictionless Web3 UX by removing usability pain points. Etherspot leverages Account Abstraction to enable smooth onboarding for new users and abstract away complex blockchain operations.In addition to providing Account Abstraction features, Etherspot helps developers to make their projects compatible with ERC-4337 by offering a wide range of cutting-edge services such as Bundler & Paymaster Services, APIs, and more.",
+      "site":"https://etherspot.io/",
+      "description":"Etherspot is a multi-chain ERC-4337 development platform that provides solutions for dApps, wallets, games, operating EVM-compatible rollups, or L1/L2 chains to deliver frictionless Web3 UX by removing usability pain points. Etherspot leverages Account Abstraction to enable smooth onboarding for new users and abstract away complex blockchain operations. In addition to providing Account Abstraction features, Etherspot helps developers to make their projects compatible with ERC-4337 by offering a wide range of cutting-edge services such as Bundler & Paymaster Services, APIs, and more.",
+      "url":"https://etherspot.io/",
+      "external": true,
+      "internalWallet": false
+  },
+  {
+      "author":"PRINT3R",
+      "id":"print3r",
+      "title":"PRINT3R",
+      "logo": "https://blockscout-content.s3.amazonaws.com/print3r-logo.jpeg",
+      "categories": ["Swaps"],
+      "shortDescription": "PRINT3R aims to shake-up the existing derivatives market by fully gamifying the trading experience, creating an immersive and addictive experience for traders at any level",
+      "description": "PRINT3R aims to shake-up the existing derivatives market by fully gamifying the trading experience, creating an immersive and addictive experience for traders at any level",
+      "site":"https://print3r.xyz/#/home",
+      "url":"https://app.print3r.xyz/#/trade",
+      "external": true,
+      "internalWallet": false
   }
 ]
