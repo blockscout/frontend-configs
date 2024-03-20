@@ -1,0 +1,86 @@
+[
+    {
+      "title": "Creditcoin",
+      "links": [
+        {
+          "text": "Home",
+          "url": "https://creditcoin.org/"
+        },
+        {
+          "text": "GatewayDAO",
+          "url": "https://creditcoin.org/GatewayDAO/"
+        },
+        {
+          "text": "Institutions",
+          "url": "https://creditcoin.org/Institutions/"
+        },
+        {
+          "text": "Roadmap",
+          "url": "https://creditcoin.org/RoadmapFAQ/"
+        },
+        {
+          "text": "Stake",
+          "url": "https://creditcoin.org/Stake/"
+        },
+        {
+          "text": "Swap",
+          "url": "https://creditcoin.org/swap/intro"
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "links": [
+        {
+          "text": "Whitepaper",
+          "url": "https://docsend.com/view/2zwzxde"
+        },
+        {
+          "text": "Documentation",
+          "url": "https://docs.creditcoin.org/"
+        },
+        {
+          "text": "Press kit",
+          "url": "https://gluwa.notion.site/Creditcoin-Press-Kit-66cdf3afe532406684897e157397a425"
+        },
+        {
+          "text": "Career",
+          "url": "https://www.linkedin.com/company/gluwa/jobs/"
+        }
+      ]
+    },
+    {
+      "title": "Community",
+      "links": [
+        {
+          "text": "Forum",
+          "url": "https://community.creditcoin.org/"
+        },
+        {
+          "text": "Blog",
+          "url": "https://creditcoin.org/blog/"
+        }
+      ]
+    },
+    {
+    "title": "Partners",
+    "links": [
+      {
+        "text": "MetaDock",
+        "url": "https://blocksec.com/metadock"
+      },
+      {
+        "text": "Sourcify",
+        "url": "https://sourcify.dev/"
+      },
+      {
+        "text": "DRPC",
+        "url": "https://drpc.org?ref=559183"
+      },
+      {
+        "text": "BlockSec",
+        "url": "https://blocksec.com/"
+      }
+    ]
+  }
+  ]

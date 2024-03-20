@@ -1,0 +1,62 @@
+[
+    {
+        "author": "Stability",
+        "id": "linkme",
+        "title": "LinkMe",
+        "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/stability_light.png",
+        "logoDarkMode": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/stability_dark.png",
+        "categories": [
+            "Infra & Dev tooling"
+        ],
+        "shortDescription": "Demo app for Stability blockchain.",
+        "site": "https://github.com/devRupa/LinkMe-on-Stability-Blockchain",
+        "description": "LinkMe is a sample demonstration of the capability of applications that can be built on the Stability blockchain today that cannot be replicated on any other public blockchain. Users join a social network, or create their own, and the data is recorded and stored on the blockchain through a single click of a button - no wallet, no cryptocurrency, and no gas fees.",
+        "url": "https://stblchain.app/",
+        "external": false
+    },
+    {
+        "author": "Account",
+        "id": "stabilityportal",
+        "title": "Account",
+        "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/stability_light.png",
+        "logoDarkMode": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/stability_dark.png",
+        "categories": [
+            "Infra & Dev tooling"
+        ],
+        "shortDescription": "Track, optimize and utilize zero gas transactions. A User and Developer tool for accessing the Stability blockchain.",
+        "site": "https://github.com/stabilityprotocol/zero-gas-transactions",
+        "description": "Track, optimize and utilize zero gas transactions. A User and Developer tool for accessing the Stability blockchain.",
+        "url": "https://portal.stble.io/",
+        "external": false
+    },
+    {
+        "author": "Mintify",
+        "id": "mintify",
+        "title": "Mintify",
+        "logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/mintify.png",
+        "logoDarkMode": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/mintify.png",
+        "categories": [
+            "Infra & Dev tooling"
+        ],
+        "shortDescription": "Mintify, a proof of simplicity. No third-party plugins are needed to interact with a blockchain—just a few simple actions, and your data is securely uploaded to the blockchain. Experience seamless interactions with smart contracts like never before. Mintify: where simplicity meets blockchain brilliance.",
+        "site": "https://github.com/stabilityprotocol/demo-fungibles/",
+        "description": "Mintify, a proof of simplicity. No third-party plugins are needed to interact with a blockchain—just a few simple actions, and your data is securely uploaded to the blockchain. Experience seamless interactions with smart contracts like never before. Mintify: where simplicity meets blockchain brilliance.",
+        "url": "https://mintify.stabilityprotocol.com/",
+        "external": false
+    }
+    ,
+    {
+        "author": "Paynow",
+        "id": "paynow",
+        "title": "Paynow",
+        "logo": "https://blockscout-content.s3.amazonaws.com/paynow-logo-stability.png",
+        "categories": [
+            "DeFi"
+        ],
+        "shortDescription": "Paynow is a demo application built on the Stability blockchain, demonstrating the practical use of blockchain technology for secure and efficient transactions. Utilizing Magiclink for user authentication, Paynow eliminates the need for traditional databases, showcasing a streamlined, blockchain-based approach to digital payments and user management.",
+        "site": "https://paynow.stabilityprotocol.com/",
+        "description": "Paynow is a demo application built on the Stability blockchain, demonstrating the practical use of blockchain technology for secure and efficient transactions. Utilizing Magiclink for user authentication, Paynow eliminates the need for traditional databases, showcasing a streamlined, blockchain-based approach to digital payments and user management.",
+        "url": "https://paynow.stabilityprotocol.com",
+        "external": true
+    }
+]

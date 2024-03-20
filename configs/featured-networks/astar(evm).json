@@ -1,0 +1,77 @@
+[
+    {
+        "title": "Astar (EVM)",
+        "url": "https://astar.blockscout.com",
+        "group": "Mainnets",
+        "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/astar.svg",
+        "isActive": true
+    },
+    {
+        "title": "Astar (Subscan)",
+        "url": "https://astar.subscan.io/",
+        "group": "Mainnets",
+        "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/astar.svg"
+    },
+    {
+        "title": "Shiden (EVM)",
+        "url": "https://shiden.blockscout.com",
+        "group": "Mainnets",
+        "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/shiden.svg"
+    },
+    {
+        "title": "Shiden (Subscan)",
+        "url": "https://shiden.subscan.io/",
+        "group": "Mainnets",
+        "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/shiden.svg"
+    },
+    {
+        "title": "Ethereum",
+        "url": "https://eth.blockscout.com/",
+        "group": "Mainnets",
+        "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg"
+    },
+    {
+        "title": "Shibuya (EVM)",
+        "url": "https://shibuya.blockscout.com",
+        "group": "Testnets",
+        "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/shibuya.svg",
+        "invertIconInDarkMode": true
+    },
+    {
+        "title": "Shibuya (Subscan)",
+        "url": "https://shibuya.subscan.io/",
+        "group": "Testnets",
+        "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/shibuya.svg",
+        "invertIconInDarkMode": true
+    },
+    {
+        "title": "Göerli",
+        "url": "https://eth-goerli.blockscout.com/",
+        "group": "Testnets",
+        "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/goerli.svg",
+        "invertIconInDarkMode": true
+    },
+    {
+        "title": "Sepolia",
+        "url": "https://eth-sepolia.blockscout.com/",
+        "group": "Testnets",
+        "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/sepolia.png"
+    },
+    {
+        "title": "Holesky",
+        "url": "https://eth-holesky.blockscout.com/",
+        "group": "Testnets"
+    },
+    {
+        "title": "Kusama",
+        "url": "https://kusama.subscan.io/",
+        "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/kusama.svg",
+        "group": "Other"
+    },
+    {
+        "title": "Polkadot",
+        "url": "https://polkadot.subscan.io/",
+        "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/polkadot.svg",
+        "group": "Other"
+    }
+]
