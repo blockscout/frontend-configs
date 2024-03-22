@@ -30,6 +30,9 @@ jobs:
       - name: Validate marketplace config schema
         run: yarn validate:marketplace
 
+      - name: Validate marketplace security reports schema
+        run: yarn validate:marketplace-security-reports
+
       - name: Validate featured networks config schema
         run: yarn validate:featured-networks
 
