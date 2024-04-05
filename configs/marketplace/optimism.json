@@ -14,18 +14,79 @@
     "internalWallet": false
   },
   {
+    "author": "Bounce",
+    "id": "bounce-auction",
+    "title": "Bounce Auction",
+    "logo": "https://blockscout-content.s3.amazonaws.com/bounce-auction.png",
+    "categories": ["Dev tooling"],
+    "shortDescription": "Bounce Auction is a Saas platform, that helps enterprises and individuals access a range of services, such as user registration and verification, that make setting up digital auctions simpler and more efficient. Auction setup can also be fully customized to meet the specific needs of the auction host while maintaining the decentralized, on-chain, security that sets Bounce apart from other digital auctioneers",
+    "site": "https://auction.bounce.finance/",
+    "description": "Bounce Auction is a Saas platform, that helps enterprises and individuals access a range of services, such as user registration and verification, that make setting up digital auctions simpler and more efficient. Auction setup can also be fully customized to meet the specific needs of the auction host while maintaining the decentralized, on-chain, security that sets Bounce apart from other digital auctioneers",
+    "external": true,
+    "url": "https://app.bounce.finance/market"
+  },
+  {
+      "author": "Giveth",
+      "id": "giveth",
+      "title": "Giveth",
+      "categories": ["NFT"],
+      "shortDescription": "Giveth is a crypto donation platform, that is building a culture and economy that rewards and empowers those who give",
+      "site": "https://giveth.io/",
+      "url": "https://giveth.io/",
+      "description": "Giveth is a crypto donation platform, that is building a culture and economy that rewards and empowers those who give",
+      "external": true,
+      "logo": "https://blockscout-content.s3.amazonaws.com/giveth.png"
+  },
+  {
+      "author": "Fileverse Portal",
+      "id": "fileverse-portal",
+      "title": "Fileverse Portal",
+      "logo": "https://blockscout-content.s3.amazonaws.com/fileverse.png",
+      "categories": ["Data & Analytics", "Dev tooling"],
+      "shortDescription": "Fileverse Portal is a web3 alternative to Google Workspace, Notion, or any centralized collaboration platform. It is customizable, private by design, and focuses on the healthier side of the internet where users are not the product.",
+      "site": "https://fileverse.io/",
+      "description": "Fileverse Portal is a web3 alternative to Google Workspace, Notion, or any centralized collaboration platform. It is customizable, private by design, and focuses on the healthier side of the internet where users are not the product.",
+      "url": "https://portal.fileverse.io/#/create?code=BLOCKSCOUT",
+      "external": false,
+      "internalWallet": false
+  },
+  {
+    "author": "Fileverse",
+    "id": "fileverse",
+    "title": "Fileverse",
+    "description": "Your onchain space for collaboration and productivity. Use it to write, create a knowledge-base, sketch ideas, share files, make a public webpage and more - individually or as a group.",
+    "shortDescription": "Your onchain space for collaboration and productivity. Use it to write, create a knowledge-base, sketch ideas, share files, make a public webpage and more - individually or as a group.",
+    "site": "https://fileverse.io/",
+    "url": "https://beta.fileverse.io/",
+    "external": false,
+    "categories": ["Data & Analytics", "Dev tooling"],
+    "logo": "https://blockscout-content.s3.amazonaws.com/fileverse.png",
+    "internalWallet": false
+  },
+  {
+    "author": "Aave",
+    "id": "aave",
+    "title": "Aave",
+    "logo": "https://blockscout-content.s3.amazonaws.com/aave.png",
+    "categories": ["Lending", "Liquid Staking"],
+    "shortDescription": "Aave is a decentralised non-custodial liquidity market protocol where users can participate as suppliers or borrowers. Suppliers provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralised (perpetually) or undercollateralised (one-block liquidity) fashion.",
+    "site": "https://docs.aave.com/faq/",
+    "description": "Aave is a decentralised non-custodial liquidity market protocol where users can participate as suppliers or borrowers. Suppliers provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralised (perpetually) or undercollateralised (one-block liquidity) fashion.",
+    "url": "https://app.aave.com/?marketName=proto_optimism_v3",
+    "internalWallet": true,
+    "external": false
+  },
+  {
     "author": "Coordinape",
-    "id": "colink",
-    "title": "CoLink",
+    "id": "colinks",
+    "title": "CoLinks",
     "logo": "https://blockscout-content.s3.amazonaws.com/colinks.png",
     "categories": ["NFT"],
     "shortDescription": "CoLinks is a network of professionals and friends in the web3 ecosystem",
     "site": "https://colinks.coordinape.com/start",
     "description": "CoLinks is a network of professionals and friends in the web3 ecosystem",
-    "external": false,
-    "url": "https://colinks.coordinape.com/start",
-
-    "internalWallet": false
+    "external": true,
+    "url": "https://colinks.coordinape.com/start"
   },
   {
     "author": "Beefy",
@@ -102,14 +163,13 @@
     "id": "lyra",
     "title": "Lyra",
     "logo": "https://blockscout-content.s3.amazonaws.com/lyra.png",
-    "categories": ["Swaps"],
+    "categories": ["Wallets"],
     "shortDescription": "Lyra is an automated market maker (AMM) for options trading.",
     "site": "https://app.lyra.finance/",
     "description": "Lyra is an automated market maker (AMM) for options trading.",
     "external": false,
-    "url": "https://app.lyra.finance/",
-
-    "internalWallet": true
+    "url": "https://www.lyra.finance/portfolio",
+    "internalWallet": false
   },
   {
     "author": "Curve",
@@ -411,26 +471,12 @@
     "id": "celer-cbridge",
     "title": "Celer cBridge",
     "logo": "https://blockscout-content.s3.amazonaws.com/celer.png",
-    "categories": ["Bridges"],
+    "categories": ["Bridges", "Liquid Staking", "NFT"],
     "shortDescription": "Celer cBridge is a decentralized and non-custodial asset bridge that supports 130+ different tokens across 30+ blockchains and layer-2 rollups.",
     "site": "https://cbridge.celer.network/",
     "description": "Celer cBridge is a decentralized and non-custodial asset bridge that supports 130+ different tokens across 30+ blockchains and layer-2 rollups.",
     "external": false,
-    "url": "https://cbridge.celer.network/100/1/SOS",
-
-    "internalWallet": false
-  },
-  {
-    "author": "ChainHop",
-    "id": "chainhop",
-    "title": "ChainHop",
-    "logo": "https://blockscout-content.s3.amazonaws.com/ChainHop.png",
-    "categories": ["Swaps", "Bridges"],
-    "shortDescription": "ChainHop is a cross-chain, one-click swap protocol that offers deep liquidity from top DEXs and bridges with fast transactions and the best rates.",
-    "site": "https://chainhop.exchange/",
-    "description": "ChainHop is a cross-chain, one-click swap protocol that offers deep liquidity from top DEXs and bridges with fast transactions and the best rates.",
-    "external": false,
-    "url": "https://app.chainhop.exchange/",
+    "url": "https://cbridge.celer.network/10/1/ETH",
 
     "internalWallet": false
   },
@@ -743,20 +789,6 @@
     "internalWallet": false
   },
   {
-    "author": "Furucombo",
-    "id": "furucombo",
-    "title": "Furucombo",
-    "logo": "https://blockscout-content.s3.amazonaws.com/Furucombo.png",
-    "categories": ["Lending"],
-    "shortDescription": "Furucombo is a tool built for end users to optimize their DeFi strategies visualized by drag and drop cubes to perform transactions.",
-    "site": "https://furucombo.app/",
-    "description": "Furucombo is a tool built for end users to optimize their DeFi strategies visualized by drag and drop cubes to perform transactions.",
-    "external": false,
-    "url": "https://furucombo.app/combo",
-
-    "internalWallet": false
-  },
-  {
     "author": "Gamma",
     "id": "gamma",
     "title": "Gamma",
@@ -982,12 +1014,12 @@
   },
   {
     "author": "LI.FI",
-    "id": "li-fi",
+    "id": "jumper-exchange",
     "title": "Jumper Exchange",
     "logo": "https://blockscout-content.s3.amazonaws.com/lifi.png",
     "categories": ["Swaps", "Bridges"],
     "shortDescription": "Provides bridge aggregation with DEX-connectivity.",
-    "site": "https://li.fi/",
+    "site": "https://jumper.exchange/",
     "description": "Provides bridge aggregation with DEX-connectivity.",
     "external": false,
     "url": "https://jumper.exchange/",
@@ -1013,7 +1045,7 @@
     "id": "mai-finance",
     "title": "Mai Finance",
     "logo": "https://blockscout-content.s3.amazonaws.com/mai-finance.png",
-    "categories": ["CDP"],
+    "categories": ["CDP", "Bridges", "Liquid Staking"],
     "shortDescription": "Mint stablecoins against your crypto assets at 0% interest.",
     "site": "https://www.mai.finance/",
     "description": "Mint stablecoins against your crypto assets at 0% interest.",
@@ -1037,18 +1069,17 @@
     "internalWallet": true
   },
   {
-    "author": "Mean Finance",
-    "id": "mean-finance",
     "title": "Mean Finance",
     "logo": "https://blockscout-content.s3.amazonaws.com/meanfi.png",
-    "categories": ["Swaps"],
-    "shortDescription": "Protocol that enables users to Decentralize Cost Average (DCA) any ERC20 into any ERC20 with their preferred period frequency.",
-    "site": "https://mean.finance/",
-    "description": "Protocol that enables users to Decentralize Cost Average (DCA) any ERC20 into any ERC20 with their preferred period frequency.",
-    "external": false,
-    "url": "https://mean.finance/",
-
-    "internalWallet": true
+    "description": "Mean Finance is your home for accessing decentralized finance as it was meant to be: safe, open and intuitive. Swap your assets at the best price and create recurring investments (DCA) into your favorite tokens with ease — One place for everything you need to take control of your financial future.",
+    "shortDescription": "Mean Finance is your home for accessing decentralized finance as it was meant to be: safe, open and intuitive. Swap your assets at the best price and create recurring investments (DCA) into your favorite tokens with ease — One place for everything you need to take control of your financial future.",
+    "categories": ["Liquid Staking", "Yield Aggregators", "Swaps"],
+    "site": "https://mean.finance/create",
+    "url": "https://mean.finance/create",
+    "id": "mean-finance",
+    "author": "Mean Finance",
+    "internalWallet": true,
+    "external": false
   },
   {
     "author": "MES Protocol",
@@ -2429,18 +2460,6 @@
     "url": "https://app.metronome.io"
   },
   {
-    "author": "Mintpad",
-    "id": "mintpad",
-    "title": "Mintpad",
-    "logo": "https://blockscout-content.s3.amazonaws.com/mintpad.png",
-    "categories": ["NFT"],
-    "shortDescription": "No code NFT collection launch platform.",
-    "site": "https://mintpad.co/",
-    "description": "No code NFT collection launch platform.",
-    "external": true,
-    "url": "https://app.mintpad.co/"
-  },
-  {
     "author": "Nansen",
     "id": "nansen",
     "title": "Nansen",
@@ -2759,10 +2778,10 @@
     "logo": "https://blockscout-content.s3.amazonaws.com/metadock.jpg",
     "categories": ["Data & Analytics", "Dev tooling"],
     "shortDescription": "# Builders\u2019 Swiss Army Knife; 20+ Web3 Pop Tools in 1 Browser Extension; Explain Tx with GPT; 300M+ Address Labels; Built-in Fund Flow Map",
-    "site": "https://blocksec.com/metadock",
+    "site": "https://blocksec.com/metasuites",
     "description": "# Builders\u2019 Swiss Army Knife; 20+ Web3 Pop Tools in 1 Browser Extension; Explain Tx with GPT; 300M+ Address Labels; Built-in Fund Flow Map",
     "external": true,
-    "url": "https://blocksec.com/metadock"
+    "url": "https://blocksec.com/metasuites"
   },
   {
     "author": "MetaSleuth",
@@ -2828,7 +2847,7 @@
   },
   {
     "title": "Kwenta",
-    "logo": "https://blockscout-content.s3.amazonaws.com/Kwenta.svg",
+    "logo": "https://blockscout-content.s3.amazonaws.com/kwenta-app.jpeg",
     "description": "Gain exposure to cryptocurrencies, forex, equities, indices, and commodities on Ethereum with zero slippage",
     "shortDescription": "Gain exposure to cryptocurrencies, forex, equities, indices, and commodities on Ethereum with zero slippage",
     "categories": ["Liquid Staking", "Swaps"],
@@ -2890,5 +2909,44 @@
     "author": "Velodrome",
     "internalWallet": true,
     "external": false
-  }
+  },
+  {
+      "author":"Furucombo",
+      "id":"furucombo",
+      "title":"Furucombo",
+      "logo": "https://blockscout-content.s3.amazonaws.com/furucombo.webp",
+      "categories": ["Dev tooling", "Yield Aggregators", "Swaps", "Liquid Staking"],
+      "shortDescription": "Furucombo is a DeFi aggregator that allows a user to perform trading actions from our easy to use drag-and-drop interface. This includes multi-swap, multi-send, or managing their positions using our flashloan functionality. Our most recent product, our Lending Dashboard, allows anyone to manage their position from our intuitive interface which allows for one click position management. This includes debt swaps, collateral swaps, leverage, and deleverage without any upfront funds using our Flashloan functionality. Additionally we just launched Protocolink, our public API and SDK that allows developers to easily create products utilizing the composability of Furucombo.",
+      "site":"https://furucombo.app/",
+      "description":"Furucombo is a DeFi aggregator that allows a user to perform trading actions from our easy to use drag-and-drop interface. This includes multi-swap, multi-send, or managing their positions using our flashloan functionality. Our most recent product, our Lending Dashboard, allows anyone to manage their position from our intuitive interface which allows for one click position management. This includes debt swaps, collateral swaps, leverage, and deleverage without any upfront funds using our Flashloan functionality. Additionally we just launched Protocolink, our public API and SDK that allows developers to easily create products utilizing the composability of Furucombo.",
+      "url":"https://furucombo.app/lending",
+      "external": false,
+      "internalWallet": true
+},
+  {
+      "author":"Mintpad",
+      "id":"mintpad",
+      "title":"Mintpad",
+      "logo": "https://blockscout-content.s3.amazonaws.com/mintpad.png",
+      "categories": ["NFT"],
+      "shortDescription": "Mintpad, your go-to free to use, NFT launchpad, simplifies the process of introducing your unique collection to the digital world. With just your artwork and a cryptocurrency wallet, you're ready to go. Our platform handles all the intricacies, offering an NFT creator tool that supports multiple chains and features a user-friendly, no-code solution. Our primary aim is to empower creators by seamlessly bringing their artwork, passes, tickets, and more onto the blockchain!",
+      "site":"https://mintpad.co/",
+      "description":"Mintpad, your go-to free to use, NFT launchpad, simplifies the process of introducing your unique collection to the digital world. With just your artwork and a cryptocurrency wallet, you're ready to go. Our platform handles all the intricacies, offering an NFT creator tool that supports multiple chains and features a user-friendly, no-code solution. Our primary aim is to empower creators by seamlessly bringing their artwork, passes, tickets, and more onto the blockchain!",
+      "url":"https://mintpad.co/",
+      "external": true,
+     "internalWallet": false
+},
+  {
+      "author":"Etherspot",
+      "id":"etherspot",
+      "title":"Etherspot",
+      "logo": "https://blockscout-content.s3.amazonaws.com/etherspot.png",
+      "categories": ["Dev tooling"],
+      "shortDescription": "Etherspot is a multi-chain ERC-4337 development platform that provides solutions for dApps, wallets, games, operating EVM-compatible rollups, or L1/L2 chains to deliver frictionless Web3 UX by removing usability pain points. Etherspot leverages Account Abstraction to enable smooth onboarding for new users and abstract away complex blockchain operations.In addition to providing Account Abstraction features, Etherspot helps developers to make their projects compatible with ERC-4337 by offering a wide range of cutting-edge services such as Bundler & Paymaster Services, APIs, and more.",
+      "site":"https://etherspot.io/",
+      "description":"Etherspot is a multi-chain ERC-4337 development platform that provides solutions for dApps, wallets, games, operating EVM-compatible rollups, or L1/L2 chains to deliver frictionless Web3 UX by removing usability pain points. Etherspot leverages Account Abstraction to enable smooth onboarding for new users and abstract away complex blockchain operations. In addition to providing Account Abstraction features, Etherspot helps developers to make their projects compatible with ERC-4337 by offering a wide range of cutting-edge services such as Bundler & Paymaster Services, APIs, and more.",
+      "url":"https://etherspot.io/",
+      "external": true,
+      "internalWallet": false
+}
 ]

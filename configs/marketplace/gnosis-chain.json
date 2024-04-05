@@ -10,8 +10,69 @@
     "description": "This dApp allows users to efficiently send thousands of tokens to multiple addresses by batching the transfers and automating the process. This tool enables users to save time by automatically generating transactions using MetaMask or other smart wallet software. Multisender is also completely safe in terms of account security since private keys and other sensitive data are all handled by the user's wallet software.",
     "external": false,
     "url": "https://classic.multisender.app/",
-
     "internalWallet": false
+  },
+  {
+    "author": "Bounce",
+    "id": "bounce-auction",
+    "title": "Bounce Auction",
+    "logo": "https://blockscout-content.s3.amazonaws.com/bounce-auction.png",
+    "categories": ["Dev tooling"],
+    "shortDescription": "Bounce Auction is a Saas platform, that helps enterprises and individuals access a range of services, such as user registration and verification, that make setting up digital auctions simpler and more efficient. Auction setup can also be fully customized to meet the specific needs of the auction host while maintaining the decentralized, on-chain, security that sets Bounce apart from other digital auctioneers",
+    "site": "https://auction.bounce.finance/",
+    "description": "Bounce Auction is a Saas platform, that helps enterprises and individuals access a range of services, such as user registration and verification, that make setting up digital auctions simpler and more efficient. Auction setup can also be fully customized to meet the specific needs of the auction host while maintaining the decentralized, on-chain, security that sets Bounce apart from other digital auctioneers",
+    "external": true,
+    "url": "https://app.bounce.finance/market"
+  },
+  {
+    "author": "Pillar Wallet",
+    "id": "pillar-wallet",
+    "title": "Pillar Wallet",
+    "categories": ["Wallets", "Swaps", "Bridges"],
+    "shortDescription": "Self-custodial Smart Wallet enabling low fees, cross-chain swaps & gasless transactions, all in a unified multichain DeFi experience.",
+    "site": "https://www.pillar.fi/",
+    "url": "https://www.pillar.fi/",
+    "description": "Self-custodial Smart Wallet enabling low fees, cross-chain swaps & gasless transactions, all in a unified multichain DeFi experience.",
+    "external": true,
+    "logo": "https://blockscout-content.s3.amazonaws.com/pillar-wallet.png"
+  },
+  {
+      "author": "Giveth",
+      "id": "giveth",
+      "title": "Giveth",
+      "categories": ["NFT"],
+      "shortDescription": "Giveth is a crypto donation platform, that is building a culture and economy that rewards and empowers those who give",
+      "site": "https://giveth.io/",
+      "url": "https://giveth.io/",
+      "description": "Giveth is a crypto donation platform, that is building a culture and economy that rewards and empowers those who give",
+      "external": true,
+      "logo": "https://blockscout-content.s3.amazonaws.com/giveth.png"
+  },
+  {
+    "author": "Mai Finance",
+    "id": "mai-finance",
+    "title": "Mai Finance",
+    "logo": "https://blockscout-content.s3.amazonaws.com/mai-finance.png",
+    "categories": ["CDP", "Bridges", "Liquid Staking"],
+    "shortDescription": "Mint stablecoins against your crypto assets at 0% interest.",
+    "site": "https://www.mai.finance/",
+    "description": "Mint stablecoins against your crypto assets at 0% interest.",
+    "external": false,
+    "url": "https://app.mai.finance/",
+    "internalWallet": true
+  },
+  {
+    "author": "Aave",
+    "id": "aave",
+    "title": "Aave",
+    "logo": "https://blockscout-content.s3.amazonaws.com/aave.png",
+    "categories": ["Lending", "Liquid Staking"],
+    "shortDescription": "Aave is a decentralised non-custodial liquidity market protocol where users can participate as suppliers or borrowers. Suppliers provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralised (perpetually) or undercollateralised (one-block liquidity) fashion.",
+    "site": "https://docs.aave.com/faq/",
+    "description": "Aave is a decentralised non-custodial liquidity market protocol where users can participate as suppliers or borrowers. Suppliers provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralised (perpetually) or undercollateralised (one-block liquidity) fashion.",
+    "url": "https://app.aave.com/?marketName=proto_gnosis_v3",
+    "internalWallet": true,
+    "external": false
   },
   {
     "author": "Symmetric",
@@ -67,7 +128,7 @@
     "external": false,
     "url": "https://honeyswap-interface-y28mu7.dappling.eth.limo/",
 
-    "internalWallet": false
+    "internalWallet": true
   },
   {
     "author": "1Hive",
@@ -382,10 +443,10 @@
     "logo": "https://blockscout-content.s3.amazonaws.com/metadock.jpg",
     "categories": ["Data & Analytics", "Dev tooling"],
     "shortDescription": "# Builders\u2019 Swiss Army Knife; 20+ Web3 Pop Tools in 1 Browser Extension; Explain Tx with GPT; 300M+ Address Labels; Built-in Fund Flow Map",
-    "site": "https://blocksec.com/metadock",
+    "site": "https://blocksec.com/metasuites",
     "description": "# Builders\u2019 Swiss Army Knife; 20+ Web3 Pop Tools in 1 Browser Extension; Explain Tx with GPT; 300M+ Address Labels; Built-in Fund Flow Map",
     "external": true,
-    "url": "https://blocksec.com/metadock"
+    "url": "https://blocksec.com/metasuites"
   },
   {
     "author": "GUStakes",
@@ -455,8 +516,8 @@
   {
     "title": "Mean Finance",
     "logo": "https://blockscout-content.s3.amazonaws.com/meanfi.png",
-    "description": "DCA from any ERC-20 into any ERC-20 token",
-    "shortDescription": "DCA from any ERC-20 into any ERC-20 token",
+    "description": "Mean Finance is your home for accessing decentralized finance as it was meant to be: safe, open and intuitive. Swap your assets at the best price and create recurring investments (DCA) into your favorite tokens with ease — One place for everything you need to take control of your financial future.",
+    "shortDescription": "Mean Finance is your home for accessing decentralized finance as it was meant to be: safe, open and intuitive. Swap your assets at the best price and create recurring investments (DCA) into your favorite tokens with ease — One place for everything you need to take control of your financial future.",
     "categories": ["Liquid Staking", "Yield Aggregators", "Swaps"],
     "site": "https://mean.finance/create",
     "url": "https://mean.finance/create",
@@ -505,16 +566,55 @@
     "external": false
   },
   {
-    "title": "Squid",
-    "logo": "https://blockscout-content.s3.amazonaws.com/Squid.svg",
-    "description": "Swap tokens across EVM and Cosmos blockchains, and access apps across chains in a single click",
-    "shortDescription": "Swap tokens across EVM and Cosmos blockchains, and access apps across chains in a single click",
-    "categories": ["Bridges"],
-    "site": "https://v2.app.squidrouter.com/",
-    "url": "https://v2.app.squidrouter.com/",
-    "id": "squid",
-    "author": "Squid",
-    "internalWallet": true,
-    "external": false
-  }
+      "author": "Fileverse Portal",
+      "id": "fileverse-portal",
+      "title": "Fileverse Portal",
+      "logo": "https://blockscout-content.s3.amazonaws.com/fileverse.png",
+      "categories": ["Data & Analytics", "Dev tooling"],
+      "shortDescription": "Fileverse Portal is a web3 alternative to Google Workspace, Notion, or any centralized collaboration platform. It is customizable, private by design, and focuses on the healthier side of the internet where users are not the product.",
+      "site": "https://fileverse.io/",
+      "description": "Fileverse Portal is a web3 alternative to Google Workspace, Notion, or any centralized collaboration platform. It is customizable, private by design, and focuses on the healthier side of the internet where users are not the product.",
+      "url": "https://portal.fileverse.io/#/create?code=BLOCKSCOUT",
+      "external": false,
+      "internalWallet": false
+  },
+  {
+      "author":"Furucombo",
+      "id":"furucombo",
+      "title":"Furucombo",
+      "logo": "https://blockscout-content.s3.amazonaws.com/furucombo.webp",
+      "categories": ["Dev tooling", "Yield Aggregators", "Swaps"],
+      "shortDescription": "Furucombo is a DeFi aggregator that allows a user to perform trading actions from our easy to use drag-and-drop interface. This includes multi-swap, multi-send, or managing their positions using our flashloan functionality. Our most recent product, our Lending Dashboard, allows anyone to manage their position from our intuitive interface which allows for one click position management. This includes debt swaps, collateral swaps, leverage, and deleverage without any upfront funds using our Flashloan functionality. Additionally we just launched Protocolink, our public API and SDK that allows developers to easily create products utilizing the composability of Furucombo.",
+      "site":"https://furucombo.app/",
+      "description":"Furucombo is a DeFi aggregator that allows a user to perform trading actions from our easy to use drag-and-drop interface. This includes multi-swap, multi-send, or managing their positions using our flashloan functionality. Our most recent product, our Lending Dashboard, allows anyone to manage their position from our intuitive interface which allows for one click position management. This includes debt swaps, collateral swaps, leverage, and deleverage without any upfront funds using our Flashloan functionality. Additionally we just launched Protocolink, our public API and SDK that allows developers to easily create products utilizing the composability of Furucombo.",
+      "url":"https://furucombo.app/lending",
+      "external": false,
+      "internalWallet": true
+  },
+  {
+      "author": "1Hive",
+      "id": "celeste",
+      "title": "Celeste",
+      "logo": "https://blockscout-content.s3.amazonaws.com/celeste.png",
+      "categories": ["Data & Analytics"],
+      "shortDescription": "Celeste is a protocol that produces answers to disputes by incentivizing keepers to respond coherently.",
+      "site":"https://celeste.1hive.org",
+      "description":"Celeste is a protocol that produces answers to disputes by incentivizing keepers to respond coherently.",
+      "url":"https://celeste.1hive.org",
+      "external": false,
+      "internalWallet": false
+  },
+  {
+      "author":"Etherspot",
+      "id":"etherspot",
+      "title":"Etherspot",
+      "logo": "https://blockscout-content.s3.amazonaws.com/etherspot.png",
+      "categories": ["Dev tooling"],
+      "shortDescription": "Etherspot is a multi-chain ERC-4337 development platform that provides solutions for dApps, wallets, games, operating EVM-compatible rollups, or L1/L2 chains to deliver frictionless Web3 UX by removing usability pain points. Etherspot leverages Account Abstraction to enable smooth onboarding for new users and abstract away complex blockchain operations.In addition to providing Account Abstraction features, Etherspot helps developers to make their projects compatible with ERC-4337 by offering a wide range of cutting-edge services such as Bundler & Paymaster Services, APIs, and more.",
+      "site":"https://etherspot.io/",
+      "description":"Etherspot is a multi-chain ERC-4337 development platform that provides solutions for dApps, wallets, games, operating EVM-compatible rollups, or L1/L2 chains to deliver frictionless Web3 UX by removing usability pain points. Etherspot leverages Account Abstraction to enable smooth onboarding for new users and abstract away complex blockchain operations. In addition to providing Account Abstraction features, Etherspot helps developers to make their projects compatible with ERC-4337 by offering a wide range of cutting-edge services such as Bundler & Paymaster Services, APIs, and more.",
+      "url":"https://etherspot.io/",
+      "external": true,
+     "internalWallet": false
+}
 ]
