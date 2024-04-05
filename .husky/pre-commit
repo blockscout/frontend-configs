@@ -10,6 +10,9 @@ echo ''
 echo 🧿 Running marketplace config validator...
 yarn validate:marketplace
 
+echo 🧿 Running marketplace security reports validator...
+yarn validate:marketplace-security-reports
+
 echo 🧿 Running featured networks config validator...
 yarn validate:featured-networks
 
@@ -19,9 +22,9 @@ yarn validate:footer-links
 # format svg
 echo 🧿 Running svg formatter...
 for file in `git diff --diff-filter=ACMRT --cached --name-only | grep ".svg\$"`
-    do 
-        echo "Formatting $file" 
-        npx svgo -q $file 
+    do
+        echo "Formatting $file"
+        npx svgo -q $file
         git add $file
     done
 
