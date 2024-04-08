@@ -46684,14 +46684,14 @@
         "overallInfo": {
           "verifiedNumber": 1,
           "totalContractsNumber": 1,
-          "solidityScanContractsNumber": 0,
-          "securityScore": 0,
+          "solidityScanContractsNumber": 1,
+          "securityScore": 80.99,
           "issueSeverityDistribution": {
             "critical": 4,
-            "gas": 0,
+            "gas": 2,
             "high": 0,
-            "informational": 0,
-            "low": 0,
+            "informational": 3,
+            "low": 9,
             "medium": 0
           }
         },
@@ -46699,7 +46699,34 @@
           {
             "address": "0x0bCa65bf4b4c8803d2f0B49353ed57CAAF3d66Dc",
             "isVerified": true,
-            "solidityScanReport": null
+            "solidityScanReport": {
+        "connection_id": "",
+        "contract_address": "0x0bCa65bf4b4c8803d2f0B49353ed57CAAF3d66Dc",
+        "contract_chain": "optimism",
+        "contract_platform": "blockscout",
+        "contract_url": "https://optimism.blockscout.com/address/0x0bCa65bf4b4c8803d2f0B49353ed57CAAF3d66Dc",
+        "contractname": "TransparentUpgradeableProxy",
+        "is_quick_scan": true,
+        "node_reference_id": null,
+        "request_type": "threat_scan",
+        "scanner_reference_url": "https://solidityscan.com/quickscan/0x0bCa65bf4b4c8803d2f0B49353ed57CAAF3d66Dc/blockscout/optimism?ref=blockscout",
+        "scan_status": "scan_done",
+        "scan_summary": {
+            "issue_severity_distribution": {
+                "critical": 0,
+                "gas": 2,
+                "high": 0,
+                "informational": 3,
+                "low": 9,
+                "medium": 0
+            },
+            "lines_analyzed_count": 121,
+            "scan_time_taken": 0,
+            "score": "4.05",
+            "score_v2": "80.99",
+            "threat_score": "94.74"
+        }
+    }
           }
         ]
       },
