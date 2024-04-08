@@ -46,12 +46,12 @@
 			}
 		]
 	},
-    {
+     {
     "title": "Partners",
     "links": [
       {
-        "text": "MetaDock",
-        "url": "https://blocksec.com/metadock"
+        "text": "MetaSuites",
+        "url": "https://blocksec.com/metasuites"
       },
       {
         "text": "Sourcify",
@@ -60,6 +60,10 @@
       {
         "text": "DRPC",
         "url": "https://drpc.org?ref=559183"
+      },
+      {
+        "text": "BlockSec",
+        "url": "https://blocksec.com/"
       }
     ]
   }

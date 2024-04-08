@@ -1,0 +1,14 @@
+[{
+		"title": "Immutable",
+		"url": "https://explorer.immutable.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/immutable-short.svg"
+	},
+	{
+		"title": "Immutable Testnet",
+		"url": "https://explorer.testnet.immutable.com/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/immutable-short.svg",
+		"isActive": true
+	}
+]

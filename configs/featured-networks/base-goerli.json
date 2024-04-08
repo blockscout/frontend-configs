@@ -87,6 +87,12 @@
         "group": "Testnets",
         "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/sepolia.png"
     },
+	{
+		"title": "Holesky",
+		"url": "https://eth-holesky.blockscout.com/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg"
+	},
     {
         "title": "Optimism Goerli",
         "url": "https://optimism-goerli.blockscout.com/",

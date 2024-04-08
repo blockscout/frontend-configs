@@ -1,0 +1,78 @@
+[{
+		"title": "General",
+		"links": [{
+				"text": "Contact Us",
+				"url": "https://stake.co.jp/en/contact/"
+			},
+			{
+				"text": "Careers",
+				"url": "https://wellfound.com/company/astar-network"
+			}
+		]
+	},
+	{
+		"title": "Repositories",
+		"links": [{
+				"text": "Astar (Plasm)",
+				"url": "https://github.com/AstarNetwork/Astar"
+			},
+			{
+				"text": "Plasm Lockdrop",
+				"url": "https://github.com/PlasmNetwork/lockdrop-ui"
+			},
+			{
+				"text": "Astar (Plasm) Documentation",
+				"url": "https://docs.astar.network/"
+			},
+			{
+				"text": "Astar (Plasm) Homepage",
+				"url": "https://astar.network/"
+			}
+		]
+	},
+	{
+		"title": "Community",
+		"links": [{
+				"text": "Twitter",
+				"url": "https://twitter.com/astarNetwork"
+			},
+			{
+				"text": "Discord",
+				"url": "https://discord.com/invite/astarnetwork"
+			},
+          {
+				"text": "Telegram",
+				"url": "https://t.me/PlasmOfficial"
+			},
+           {
+				"text": "Medium",
+				"url": "https://medium.com/astar-network"
+			},
+           {
+				"text": "Whitepaper",
+				"url": "https://github.com/AstarNetwork/plasmdocs/blob/master/wp/en.pdf"
+			}
+		]
+	},
+     {
+    "title": "Partners",
+    "links": [
+      {
+        "text": "MetaSuites",
+        "url": "https://blocksec.com/metasuites"
+      },
+      {
+        "text": "Sourcify",
+        "url": "https://sourcify.dev/"
+      },
+      {
+        "text": "DRPC",
+        "url": "https://drpc.org?ref=559183"
+      },
+      {
+        "text": "BlockSec",
+        "url": "https://blocksec.com/"
+      }
+    ]
+  }
+]
