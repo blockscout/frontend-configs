@@ -60781,9 +60781,9 @@
                     },
                     "lines_analyzed_count": 464,
                     "scan_time_taken": 1,
-                    "score": "",
+                    "score": "89.22",
                     "score_v2": "89.22",
-                    "threat_score": "",
+                    "threat_score": "100.00",
                     "score_rating": "Average"
                 }
             }
@@ -60847,9 +60847,9 @@
                     },
                     "lines_analyzed_count": 468,
                     "scan_time_taken": 1,
-                    "score": "",
+                    "score": "89.89",
                     "score_v2": "88.89",
-                    "threat_score": "",
+                    "threat_score": "100.00",
                     "score_rating": "Average"
                 }
             }
@@ -60880,9 +60880,9 @@
                     },
                     "lines_analyzed_count": 122,
                     "scan_time_taken": 1,
-                    "score": "",
+                    "score": "72.13",
                     "score_v2": "72.13",
-                    "threat_score": "",
+                    "threat_score": "90.00",
                     "score_rating": "Average"
                 }
             }
@@ -60913,9 +60913,9 @@
                     },
                     "lines_analyzed_count": 706,
                     "scan_time_taken": 1,
-                    "score": "",
+                    "score": "93.06",
                     "score_v2": "93.06",
-                    "threat_score": "",
+                    "threat_score": "100.00",
                     "score_rating": "Average"
                 }
             }
