@@ -11,12 +11,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Setup node
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: 20
           cache: 'yarn'
 
       - name: Install dependencies
@@ -29,6 +29,9 @@ jobs:
 
       - name: Validate marketplace config schema
         run: yarn validate:marketplace
+
+      - name: Validate marketplace security reports schema
+        run: yarn validate:marketplace-security-reports
 
       - name: Validate featured networks config schema
         run: yarn validate:featured-networks
