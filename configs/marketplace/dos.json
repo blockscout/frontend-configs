@@ -57,10 +57,13 @@
 		"logoDarkMode": "https://raw.githubusercontent.com/DOSLabs/DOScan-Frontend-Configs/main/configs/marketplace-logos/overmint.png",
 		"categories": ["NFT", "Games", "DAO"],
 		"shortDescription": "OverMint is building the global hub for NFT activity.",
-		"site": "https://overmint.io/",
+		"site": "https://overmint.com",
 		"external": true,
 		"description": "OverMint is building the global hub for NFT activity.",
-		"url": "https://overmint.io/"
+		"url": "https://overmint.com/",
+		"twitter":"https://x.com/OverMint",
+		"telegram":"https://t.me/OverMintOfficial",
+		"github":"https://github.com/OverMint"
 	},
 	{
 		"author": "DOS.Me",
