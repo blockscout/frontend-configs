@@ -59,6 +59,12 @@
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/shiden.svg"
 	},
 	{
+		"title": "Redstone",
+		"url": "https://redstone.blockscout.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/redstone-light.svg"
+	},
+	{
 		"title": "Goerli",
 		"url": "https://eth-goerli.blockscout.com/",
 		"group": "Testnets",
@@ -142,6 +148,12 @@
 		"group": "Testnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/shibuya.svg",
 		"invertIconInDarkMode": true
+	},
+	{
+		"title": "Garnet Testnet",
+		"url": "https://redstone-garnet.blockscout.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/redstone-light.svg"
 	},
 	{
 		"title": "Optimism Opcraft",

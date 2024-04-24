@@ -1,0 +1,14 @@
+[{
+		"title": "Redstone",
+		"url": "https://redstone.blockscout.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/redstone-light.svg"
+	},
+	{
+		"title": "Garnet Testnet",
+		"url": "https://redstone-garnet.blockscout.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/redstone-light.svg",
+		"isActive": true
+	}
+]
