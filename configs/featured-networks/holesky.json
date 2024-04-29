@@ -153,7 +153,7 @@
 		"title": "Garnet Testnet",
 		"url": "https://garnet.blockscout.com/",
 		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/redstone-light.svg"
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/garnet.svg"
 	},
     {
         "title": "Optimism Opcraft",
