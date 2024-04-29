@@ -37,8 +37,8 @@
 				"url": "https://firefly.iota.org/"
 			},
 			{
-				"text": "EVM Toolkit",
-				"url": " https://evm-toolkit.evm.iotaledger.net/"
+				"text": "EVM Toolkit and Faucet",
+				"url": "https://evm-toolkit.evm.testnet.iotaledger.net/"
 			}
 		]
 	},
