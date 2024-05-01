@@ -2,7 +2,7 @@
 		"title": "IOTA EVM Mainnet",
 		"url": "https://explorer.evm.iota.org",
 		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/shimmer-short.svg"
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/iota-evm-ico.svg"
 	},
   {
 		"title": "IOTA L1 Mainnet",
@@ -14,7 +14,7 @@
 		"title": "IOTA EVM Testnet",
 		"url": "https://explorer.evm.testnet.iotaledger.net",
 		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/shimmer-short.svg",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/iota-evm-ico.svg",
 		"isActive": true
 	},
   {
