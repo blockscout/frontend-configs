@@ -6,7 +6,7 @@
 	},
 	{
 		"title": "Garnet Testnet",
-		"url": "https://garnet.blockscout.com/",
+		"url": "https://explorer.garnetchain.com/",
 		"group": "Mainnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/garnet.svg",
 		"isActive": true

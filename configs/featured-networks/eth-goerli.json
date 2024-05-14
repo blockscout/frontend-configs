@@ -151,7 +151,7 @@
 	},
 	{
 		"title": "Garnet Testnet",
-		"url": "https://garnet.blockscout.com/",
+		"url": "https://explorer.garnetchain.com/",
 		"group": "Testnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/garnet.svg"
 	},
