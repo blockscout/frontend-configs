@@ -1,0 +1,14 @@
+[{
+		"title": "Reya Mainnet",
+		"url": "https://explorer.reya.network/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/reya-cronos-icon-light.svg"
+	},
+	{
+		"title": "Reya Cronos",
+		"url": "https://reya-cronos.blockscout.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/reya-cronos-icon-light.svg",
+		"isActive": true
+	}
+]

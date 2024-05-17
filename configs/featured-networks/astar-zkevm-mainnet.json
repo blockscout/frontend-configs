@@ -1,0 +1,14 @@
+[{
+		"title": "Astar zkEVM",
+		"url": "https://astar-zkevm.blockscout.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/astar.svg",
+		"isActive": true
+	},
+	{
+		"title": "Astar zKyoto",
+		"url": "https://astar-zkyoto.blockscout.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/astar.svg"
+	}
+]
