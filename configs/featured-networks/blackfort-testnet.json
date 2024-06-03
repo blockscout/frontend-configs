@@ -1,0 +1,14 @@
+[{
+		"title": "Blackfort",
+		"url": "https://blackfort.blockscout.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/blackfort.svg"
+	},
+	{
+		"title": "Blackfort Testnet",
+		"url": "https://blackfort-testnet.blockscout.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/blackfort.svg",
+		"isActive": true
+	}
+]

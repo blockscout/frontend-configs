@@ -1,0 +1,14 @@
+[{
+		"title": "Redstone",
+		"url": "https://explorer.redstone.xyz/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/redstone-light.svg",
+		"isActive": true
+	},
+	{
+		"title": "Garnet Testnet",
+		"url": "https://explorer.garnetchain.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/garnet.svg"
+	}
+]
