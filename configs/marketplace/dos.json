@@ -72,11 +72,11 @@
 		"logo": "https://raw.githubusercontent.com/DOSLabs/DOScan-Frontend-Configs/main/configs/marketplace-logos/dos.svg",
 		"logoDarkMode": "https://raw.githubusercontent.com/DOSLabs/DOScan-Frontend-Configs/main/configs/marketplace-logos/dos.svg",
 		"categories": ["Social", "NFT", "DeFi"],
-		"shortDescription": "Building a decentralized metaverse game based on L2 Token",
+		"shortDescription": "Building your Web3 Indentity with security",
 		"site": "https://dos.me/",
 		"external": true,
-		"description": "Building a decentralized metaverse game based on L2 Token",
-		"url": "https://www.dos.me"
+		"description": "Building your own Web3 Indentity with decentralization and top security",
+		"url": "https://dos.me"
 	},
 	{
 		"author": "DOS Name Service",
@@ -114,9 +114,14 @@
 			"Gaming"
 		],
 		"shortDescription": "Next-gen battle royale game using TIME-as-currency concept supporting up to 100 players.",
-		"site": "https://metados.com",
 		"description": "Next-gen battle royale game using TIME-as-currency concept supporting up to 100 players.",
+		"author": "DOS Labs",
 		"url": "https://metados.com",
+		"site": "https://metados.com",
+		"twitter": "https://x.com/MetaDOS",
+		"telegram": "https://t.me/PlayMetaDOS",
+		"github": "https://github.com/MetaDOS",
+		"priority": 7,
 		"external": true
 	},
 	{
