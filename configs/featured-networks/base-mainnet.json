@@ -48,6 +48,12 @@
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/gnosis.svg"
 	},
 	{
+		"title": "Zora",
+		"url": "https://explorer.zora.energy/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zora.svg"
+	},
+	{
 		"title": "Astar (EVM)",
 		"url": "https://blockscout.com/astar",
 		"group": "Mainnets",
@@ -141,6 +147,12 @@
 		"url": "https://gnosis-chiado.blockscout.com/",
 		"group": "Testnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/gnosis_chiado.svg"
+	},
+	{
+		"title": "Zora Sepolia",
+		"url": "https://sepolia.explorer.zora.energy/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zora.svg"
 	},
 	{
 		"title": "Shibuya (EVM)",
