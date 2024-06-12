@@ -8,7 +8,7 @@
 	{
 		"title": "Zora Sepolia",
 		"url": "https://sepolia.explorer.zora.energy/",
-		"group": "Testnets",
+		"group": "Mainnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zora.svg"
 	}
 ]
