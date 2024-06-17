@@ -1,9 +1,9 @@
 [
-  {
+	{
 		"title": "ZetaChain Mainnet",
 		"url": "https://zetachain.blockscout.com/",
 		"group": "Mainnets",
-      "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zetachain.svg",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zetachain.svg",
 		"invertIconInDarkMode": true
 	},
 	{

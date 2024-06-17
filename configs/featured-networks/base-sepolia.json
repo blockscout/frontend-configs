@@ -197,5 +197,12 @@
         "url": "https://blockscout.com/poa/sokol",
         "group": "Other",
         "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/poa-sokol.svg"
-    }
+    },
+    {
+		"title": "ZetaChain Mainnet",
+		"url": "https://zetachain.blockscout.com/",
+		"group": "Mainnets",
+        "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zetachain.svg",
+		"invertIconInDarkMode": true
+	}
 ]
