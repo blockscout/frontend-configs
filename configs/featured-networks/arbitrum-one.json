@@ -6,6 +6,13 @@
     "isActive": true
 },
 {
+    "title": "Arbitrum Nova",
+    "url": "https://arbitrum-nova.blockscout.com/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/arbitrum-nova.svg",
+    "isActive": false
+},
+{
     "title": "Arbitrum Sepolia",
     "url": "https://arbitrum-sepolia.blockscout.com/",
     "group": "Testnets",
