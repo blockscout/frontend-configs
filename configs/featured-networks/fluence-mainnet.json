@@ -1,0 +1,12 @@
+[{
+		"title": "Fluence",
+		"url": "https://blockscout.mainnet.fluence.dev/",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/fluence-light.svg",
+		"isActive": true
+	},
+	{
+		"title": "Fluence Testnet",
+		"url": "https://blockscout.testnet.fluence.dev/",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/fluence-light.svg"
+	}
+]
