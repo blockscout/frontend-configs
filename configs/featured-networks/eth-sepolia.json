@@ -47,6 +47,12 @@
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/gnosis.svg"
 	},
 	{
+		"title": "Zora",
+		"url": "https://explorer.zora.energy/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zora.svg"
+	},
+	{
 		"title": "Astar (EVM)",
 		"url": "https://blockscout.com/astar",
 		"group": "Mainnets",
@@ -143,6 +149,12 @@
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/gnosis_chiado.svg"
 	},
 	{
+		"title": "Zora Sepolia",
+		"url": "https://sepolia.explorer.zora.energy/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zora.svg"
+	},
+	{
 		"title": "Shibuya (EVM)",
 		"url": "https://blockscout.com/shibuya",
 		"group": "Testnets",
@@ -184,5 +196,12 @@
 		"url": "https://blockscout.com/poa/sokol",
 		"group": "Other",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/poa-sokol.svg"
+	},
+	{
+		"title": "ZetaChain Mainnet",
+		"url": "https://zetachain.blockscout.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zetachain.svg",
+		"invertIconInDarkMode": true
 	}
 ]

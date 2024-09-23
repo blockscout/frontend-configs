@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Arena-Z",
+        "links": [
+            {
+                "text": "Platform",
+                "url": "https://arena-z.gg/"
+            },
+            {
+                "text": "Community-X",
+                "url": "https://communityx.xyz/"
+            }
+        ]
+    },
+    {
+        "title": "Developers",
+        "links": [
+            {
+                "text": "Network explorer",
+                "url": "https://blockscout.arena-z.com/"
+            }
+        ]
+    },
+    {
+        "title": "Community",
+        "links": [
+            {
+                "text": "Twitter",
+                "url": "https://x.com/OfficialArenaZ"
+            },
+            {
+                "text": "Telegram",
+                "url": "https://t.me/Arena_Z"
+            }
+        ]
+    }
+]

@@ -1,6 +1,12 @@
-[{
-		"title": "EVM Network",
-		"links": [{
+[
+	{
+		"title": "IOTA EVM",
+		"links": [
+			{
+				"text": "IOTA EVM",
+				"url": "https://explorer.evm.iota.org/"
+			},
+			{
 				"text": "Homepage",
 				"url": "https://www.iota.org/"
 			},
@@ -20,7 +26,8 @@
 	},
 	{
 		"title": "Resources",
-		"links": [{
+		"links": [
+			{
 				"text": "Developer",
 				"url": "https://www.iota.org/get-started/for-developers"
 			},
@@ -44,7 +51,8 @@
 	},
 	{
 		"title": "Connect",
-		"links": [{
+		"links": [
+			{
 				"text": "Twitter",
 				"url": "https://twitter.com/iota"
 			},
@@ -70,25 +78,25 @@
 			}
 		]
 	},
-    {
-    "title": "Partners",
-    "links": [
-      {
-        "text": "MetaSuites",
-        "url": "https://blocksec.com/metasuites"
-      },
-      {
-        "text": "Sourcify",
-        "url": "https://sourcify.dev/"
-      },
-      {
-        "text": "DRPC",
-        "url": "https://drpc.org?ref=559183"
-      },
-      {
-        "text": "BlockSec",
-        "url": "https://blocksec.com/"
-      }
-    ]
-  }
+	{
+		"title": "Partners",
+		"links": [
+			{
+				"text": "MetaSuites",
+				"url": "https://blocksec.com/metasuites"
+			},
+			{
+				"text": "Sourcify",
+				"url": "https://sourcify.dev/"
+			},
+			{
+				"text": "DRPC",
+				"url": "https://drpc.org?ref=559183"
+			},
+			{
+				"text": "BlockSec",
+				"url": "https://blocksec.com/"
+			}
+		]
+	}
 ]
