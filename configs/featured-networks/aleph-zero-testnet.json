@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Aleph Zero EVM",
+        "url": "https://evm-explorer.alephzero.org/",
+        "group": "Mainnets",
+        "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/aleph-zero-icon-light.svg",
+        "isActive": false
+    },
+    {
+        "title": "Aleph Zero Testnet",
+        "url": "https://evm-explorer-testnet.alephzero.org/",
+        "group": "Mainnets",
+        "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/aleph-zero-icon-light.svg",
+        "isActive": true
+    }
+]

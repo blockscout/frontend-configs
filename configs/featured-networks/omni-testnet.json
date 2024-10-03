@@ -1,0 +1,19 @@
+[
+    {
+       "title":"Omni Testnet",
+       "url":"https://omni-testnet.blockscout.com/",
+       "group":"Testnets",
+       "isActive":true,
+       "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/omni.svg",
+       "invertIconInDarkMode": false
+    },
+    {
+       "title":"Omni X-Explorer",
+       "url":"https://explorer.testnet.omni.network/",
+       "group":"Testnets",
+       "isActive":false,
+       "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/omni.svg",
+       "invertIconInDarkMode": false
+    }
+ ]
+ 

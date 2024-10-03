@@ -1,0 +1,102 @@
+[
+	{
+		"title": "IOTA EVM",
+		"links": [
+			{
+				"text": "IOTA EVM",
+				"url": "https://explorer.evm.iota.org/"
+			},
+			{
+				"text": "Homepage",
+				"url": "https://www.iota.org/"
+			},
+			{
+				"text": "Technology",
+				"url": "https://www.iota.org/solutions/technologies"
+			},
+			{
+				"text": "Ecosystem",
+				"url": "https://www.iota.org/develop/ecosystem"
+			},
+			{
+				"text": "Blog",
+				"url": "https://blog.iota.org/"
+			}
+		]
+	},
+	{
+		"title": "Resources",
+		"links": [
+			{
+				"text": "Developer",
+				"url": "https://www.iota.org/get-started/for-developers"
+			},
+			{
+				"text": "Wiki",
+				"url": "https://wiki.iota.org/"
+			},
+			{
+				"text": "Touchpoint",
+				"url": "https://wiki.iota.org/get-started/programs/touchpoint/"
+			},
+			{
+				"text": "Firefly Shimmer Wallet",
+				"url": "https://firefly.iota.org/"
+			},
+			{
+				"text": "EVM Toolkit",
+				"url": " https://evm-toolkit.evm.iotaledger.net/"
+			}
+		]
+	},
+	{
+		"title": "Connect",
+		"links": [
+			{
+				"text": "Twitter",
+				"url": "https://twitter.com/iota"
+			},
+			{
+				"text": "Discord",
+				"url": "https://discord.iota.org/"
+			},
+			{
+				"text": "Linkedin",
+				"url": "https://www.linkedin.com/company/iotafoundation/"
+			},
+			{
+				"text": "Coinmarketcap",
+				"url": "https://coinmarketcap.com/community/profile/IOTA/"
+			},
+			{
+				"text": "Reddit",
+				"url": "https://www.reddit.com/r/Iota/"
+			},
+			{
+				"text": "Github",
+				"url": "https://github.com/iotaledger/"
+			}
+		]
+	},
+	{
+		"title": "Partners",
+		"links": [
+			{
+				"text": "MetaSuites",
+				"url": "https://blocksec.com/metasuites"
+			},
+			{
+				"text": "Sourcify",
+				"url": "https://sourcify.dev/"
+			},
+			{
+				"text": "DRPC",
+				"url": "https://drpc.org?ref=559183"
+			},
+			{
+				"text": "BlockSec",
+				"url": "https://blocksec.com/"
+			}
+		]
+	}
+]

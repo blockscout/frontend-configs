@@ -1,0 +1,14 @@
+[{
+		"title": "Zora",
+		"url": "https://explorer.zora.energy/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zora.svg",
+		"isActive": true
+	},
+	{
+		"title": "Zora Sepolia",
+		"url": "https://sepolia.explorer.zora.energy/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zora.svg"
+	}
+]

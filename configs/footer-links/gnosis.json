@@ -33,19 +33,19 @@
     "links": [
       {
         "text": "Gnosis Docs",
-        "url": "https://docs.gnosischain.com/node/"
+        "url": "https://docs.gnosischain.com/"
       },
       {
         "text": "xDai Faucet",
-        "url": "https://gnosisfaucet.com/"
+        "url": "https://faucet.gnosischain.com/"
       },
       {
         "text": "Buy xDAI",
-        "url": "https://buyxdai.com/"
+        "url": "https://docs.gnosischain.com/about/tokens/xdai"
       },
       {
         "text": "Buy GNO",
-        "url": "https://buyxdai.com/gno"
+        "url": "https://docs.gnosischain.com/about/tokens/gno#get-gno-tokens"
       },
       {
         "text": "Gnosis Metrics",

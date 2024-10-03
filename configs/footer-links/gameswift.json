@@ -1,0 +1,69 @@
+[{
+		"title": "Ecosystem",
+		"links": [{
+				"text": "GameSwift Platform",
+				"url": "https://platform.gameswift.io/"
+			},
+			{
+				"text": "GameSwift Launcher",
+				"url": "https://launcher.gameswift.io/"
+			},
+			{
+				"text": "GSWIFT Community",
+				"url": "https://gswift.community/"
+			}
+		]
+	},
+	{
+		"title": "Build with us",
+		"links": [{
+				"text": "Documentation",
+				"url": "https://docs.gameswift.io/"
+			},
+			{
+				"text": "Unreal SDK",
+				"url": "https://unreal-sdk.gameswift.io/"
+			},
+			{
+				"text": "Unity SDK",
+				"url": "https://unity-sdk.gameswift.io/"
+			},
+			{
+				"text": "Service Status",
+				"url": "https://status.gameswift.io/"
+			}
+		]
+	},
+	{
+		"title": "General",
+		"links": [{
+				"text": "Litepaper",
+				"url": "https://cdn.gameswift.io/gameswift/documents/gameswift/GameSwift%20-%20Litepaper.pdf"
+			},
+			{
+				"text": "Branding",
+				"url": "https://drive.google.com/drive/folders/1WVK2xDlQdKXpjNlVxrGAx3mUghrE81i0?usp=sharing"
+			}
+		]
+	},
+    {
+		"title": "Social Media",
+		"links": [{
+				"text": "X",
+				"url": "https://x.com/GameSwift_io"
+			},
+			{
+				"text": "Discord",
+				"url": "https://discord.com/invite/gameswift"
+			},
+			{
+				"text": "Telegram",
+				"url": "https://t.me/gameswift_announcements"
+			},
+			{
+				"text": "Medium",
+				"url": "https://medium.com/@GameSwift"
+			}
+		]
+	}
+]
