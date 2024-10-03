@@ -1,0 +1,30 @@
+{
+	"balancer": [
+		{
+			"title": "Balancer Gnosis Chain V2",
+			"url": "https://thegraph.com/explorer/subgraphs/EJezH1Cp31QkKPaBDerhVPRWsKVZLrDfzjrLqpmv6cGg?view=Query&chain=arbitrum-one&utm_source=blockscout"
+		},
+		{
+			"title": "Balancer CoW AMM Gnosis",
+			"url": "https://thegraph.com/explorer/subgraphs/4U58PZMVdUF6Kk7gW5wh78kHyr9pZ2pdxAEQeEh1EY9f?view=Query&chain=arbitrum-one&utm_source=blockscout"
+		},
+		{
+			"title": "Balancer Gauges Gnosis Chain",
+			"url": "https://thegraph.com/explorer/subgraphs/HW5XpZBi2iYDLBqqEEMiRJFx8ZJAQak9uu5TzyH9BBxy?view=Query&chain=arbitrum-one&utm_source=blockscout"
+		},
+		{
+			"title": "Balancer Gnosis Chain V2 Beta",
+			"url": "https://thegraph.com/explorer/subgraphs/DbLA3sjx4QfjuzuiMukZeB7zS6XGZ73ETastJUqygx7a?view=Query&chain=arbitrum-one&utm_source=blockscout"
+		},
+		{
+			"title": "Balancer Gauges Gnosis Chain B",
+			"url": "https://thegraph.com/explorer/subgraphs/4nTERBBaGRc1PgLcGvtvvqupSFu7y8Ee2xKZFNM5aw56?view=Query&chain=arbitrum-one&utm_source=blockscout"
+		}
+	],
+	"spark": [
+		{
+			"title": "Spark Lend Gnosis",
+			"url": "https://thegraph.com/explorer/subgraphs/Bw4RH37UbbGEhHo4FaWwT1dn9QJzm1XSZCyK1cbr6ZKM?view=Query&chain=arbitrum-one&utm_source=blockscout"
+		}
+	]
+}
