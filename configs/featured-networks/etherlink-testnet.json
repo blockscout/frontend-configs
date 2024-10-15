@@ -6,7 +6,7 @@
 	},
 	{
 		"title": "Etherlink Testnet",
-		"url": "https://testnet-explorer.etherlink.com/",
+		"url": "https://testnet.explorer.etherlink.com/",
 		"group": "Mainnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/etherlink.svg",
 		"isActive": true
