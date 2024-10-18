@@ -3,13 +3,13 @@
 		"title": "Shape Mainnet",
 		"url": "https://shapescan.xyz/",
 		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/shape.svg"
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/shape.svg",
+		"isActive": true
 	},
 	{
 		"title": "Shape Sepolia",
 		"url": "https://explorer-sepolia.shape.network/",
 		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/shape.svg",
-		"isActive": true
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/shape.svg"
 	}
 ]
