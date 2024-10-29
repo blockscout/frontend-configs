@@ -2,13 +2,13 @@
 	{
 		"title": "Filecoin",
 		"url": "https://filecoin.blockscout.com/",
-		"group": "Networks",
+		"group": "Mainnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/filecoin-icon-light.svg"
 	},
 	{
 		"title": "Filecoin Testnet",
 		"url": "https://filecoin-testnet.blockscout.com/",
-		"group": "Networks",
+		"group": "Mainnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/filecoin-icon-light.svg",
 		"isActive": true
 	}
