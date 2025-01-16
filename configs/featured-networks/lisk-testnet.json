@@ -2,13 +2,15 @@
 		"title": "Lisk Mainnet",
 		"url": "https://blockscout.lisk.com/",
 		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/lisk.svg"
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/lisk.svg",
+		"invertIconInDarkMode": true
 	},
 	{
 		"title": "Lisk Sepolia Testnet",
 		"url": "https://sepolia-blockscout.lisk.com/",
 		"group": "Mainnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/lisk.svg",
+		"invertIconInDarkMode": true,
 		"isActive": true
 	}
 ]

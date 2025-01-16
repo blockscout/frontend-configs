@@ -4,6 +4,7 @@
         "url": "https://evm-explorer.alephzero.org/",
         "group": "Mainnets",
         "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/aleph-zero-icon-light.svg",
+        "invertIconInDarkMode": true,
         "isActive": false
     },
     {
@@ -11,6 +12,7 @@
         "url": "https://evm-explorer-testnet.alephzero.org/",
         "group": "Mainnets",
         "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/aleph-zero-icon-light.svg",
+        "invertIconInDarkMode": true,
         "isActive": true
     }
 ]

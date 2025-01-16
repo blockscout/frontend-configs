@@ -3,12 +3,14 @@
 		"url": "https://zksync.blockscout.com/",
 		"group": "Mainnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zksync-short.svg",
+		"invertIconInDarkMode": true,
 		"isActive": true
 	},
 	{
 		"title": "zkSync Sepolia",
 		"url": "https://zksync-sepolia.blockscout.com/",
 		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zksync-short.svg"
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zksync-short.svg",
+		"invertIconInDarkMode": true
 	}
 ]
