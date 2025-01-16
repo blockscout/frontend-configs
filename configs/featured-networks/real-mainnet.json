@@ -3,12 +3,14 @@
     "url": "https://explorer.re.al/",
     "group": "Mainnets",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/real-icon.png",
+    "invertIconInDarkMode": true,
     "isActive": true
 },
 {
     "title": "Unreal",
     "url": "https://unreal.blockscout.com/",
-    "group": "Testnets",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/unreal-icon.png"
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/unreal-icon.png",
+    "invertIconInDarkMode": true
 }
 ]

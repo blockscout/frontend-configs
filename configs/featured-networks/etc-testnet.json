@@ -8,7 +8,7 @@
 	{
 		"title": "ETC Mordor",
 		"url": "https://etc-mordor.blockscout.com/",
-		"group": "Testnets",
+		"group": "Mainnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/etc-mainnet-short.svg",
 		"isActive": true
 	}

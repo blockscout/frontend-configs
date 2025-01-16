@@ -4,12 +4,14 @@
 		"url": "https://worldchain-mainnet.explorer.alchemy.com/",
 		"group": "Mainnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/worldchain.svg",
+		"invertIconInDarkMode": true,
 		"isActive": true
 	},
 	{
 		"title": "World Chain Sepolia",
 		"url": "https://worldchain-sepolia.explorer.alchemy.com/",
 		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/worldchain.svg"
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/worldchain.svg",
+		"invertIconInDarkMode": true
 	}
 ]
