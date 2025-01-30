@@ -132,7 +132,7 @@
 		"description": "zkBob simplifies secure, limited-value, and anonymous token transfers for everyday users. The application accepts WETH, ETH, USDC. Once one of the tokens is deposited in the zkBob app, pool participants can transfer tokens amongst themselves in a private, secure manner. The shielded zkBob pool uses zkproofs to limit public data exposure",
 		"external": false,
 		"url": "https://staging--zkbob.netlify.app/transfer",
-		"twitter": "https://twitter.com/zkBob_",
+		"twitter": "https://x.com/zkBob_",
 		"telegram": "https://t.me/zkbobcommunity",
 		"internalWallet": false
 	},
