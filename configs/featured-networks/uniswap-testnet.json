@@ -1,0 +1,17 @@
+[
+	{
+		"title": "Unichain",
+		"url": "https://unichain.blockscout.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/unichain-icon.svg",
+		"invertIconInDarkMode": true
+	},
+	{
+		"title": "Unichain Sepolia",
+		"url": "https://unichain-sepolia.blockscout.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/unichain-icon.svg",
+		"invertIconInDarkMode": true,
+		"isActive": true
+	}
+]
