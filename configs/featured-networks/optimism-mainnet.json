@@ -1,4 +1,5 @@
-[{
+[
+	{
 		"title": "Optimism",
 		"url": "https://optimism.blockscout.com/",
 		"group": "Mainnets",
@@ -14,6 +15,18 @@
 	{
 		"title": "Optimism Goerli",
 		"url": "https://optimism-goerli.blockscout.com/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg"
+	},
+	{
+		"title": "Interop Devnet 0",
+		"url": "https://optimism-interop-alpha-0.blockscout.com/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg"
+	},
+	{
+		"title": "Interop Devnet 1",
+		"url": "https://optimism-interop-alpha-1.blockscout.com/",
 		"group": "Testnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg"
 	}
