@@ -9,7 +9,7 @@
 	},
 	{
 		"title": "Story Aeneid",
-		"url": "https://story-aeneid.blockscout.com/",
+		"url": "https://aeneid.storyscan.xyz/",
 		"group": "Testnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/story.svg",
 		"invertIconInDarkMode": true
