@@ -7,7 +7,7 @@
 	{
 		"title": "ICB Testnet",
 		"url": "https://testnet.icbscan.io/",
-		"group": "Testnets",
+		"group": "Mainnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/icb.png",
 		"isActive": true
 	}
