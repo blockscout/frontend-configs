@@ -40,6 +40,14 @@
 		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/Miggles1@2x.png"
 	},
 	{
+		"chain": "Ethereum",
+		"chainLogo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg",
+		"url": "https://eth.blockscout.com/token/0x524cAB2ec69124574082676e6F654a18df49A048?utm_source=multichain-landing&utm_medium=nfts-feature",
+		"name": "LilPudgys",
+		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/LilPudgys2@1x.png",
+		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/LilPudgys2@2x.png"
+	},
+	{
 		"chain": "Optimism",
 		"chainLogo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg",
 		"url": "https://optimism.blockscout.com/token/0xEb5A14a0a5A9e36aD20CFFFFa4a8797015F25EAE?utm_source=multichain-landing&utm_medium=nfts-feature",
@@ -118,13 +126,5 @@
 		"name": "Varonve",
 		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/Varonve2@1x.png",
 		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/Varonve2@2x.png"
-	},
-	{
-		"chain": "Ethereum",
-		"chainLogo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg",
-		"url": "https://eth.blockscout.com/token/0x524cAB2ec69124574082676e6F654a18df49A048?utm_source=multichain-landing&utm_medium=nfts-feature",
-		"name": "LilPudgys",
-		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/LilPudgys2@1x.png",
-		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/LilPudgys2@2x.png"
 	}
 ]
