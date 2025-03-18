@@ -13,7 +13,7 @@
 	},
 	{
 		"title": "Pyrope Testnet",
-		"url": "https://pyrope.blockscout.com/",
+		"url": "https://explorer.pyropechain.com/",
 		"group": "Mainnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/pyrope.svg"
 	}
