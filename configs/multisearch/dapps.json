@@ -1,7 +1,7 @@
 [
 	{
 		"chain": "Shibarium",
-		"chainLogo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/shibarium.svg",
+		"chainLogo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/shibarium-short.png",
 		"url": "https://www.shibariumscan.io/apps/smol-refuel?utm_source=multichain-landing&utm_medium=dappscout-feature",
 		"name": "SmolRefuel",
 		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/SmolRefuel@1x.png",
@@ -57,7 +57,7 @@
 	},
 	{
 		"chain": "Shibarium",
-		"chainLogo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/shibarium.svg",
+		"chainLogo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/shibarium-short.png",
 		"url": "https://www.shibariumscan.io/apps/shibaswap?utm_source=multichain-landing&utm_medium=dappscout-feature",
 		"name": "Shiba swap",
 		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/ShibaSwap@1x.png",
@@ -81,7 +81,7 @@
 	},
 	{
 		"chain": "Shibarium",
-		"chainLogo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/shibarium.svg",
+		"chainLogo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/shibarium-short.png",
 		"url": "https://www.shibariumscan.io/apps/shibarium-bridge?utm_source=multichain-landing&utm_medium=dappscout-feature",
 		"name": "Shibarium bridge",
 		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/ShibariumBridge@1x.png",
@@ -97,7 +97,7 @@
 	},
 	{
 		"chain": "Redstone",
-		"chainLogo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/redstone.svg",
+		"chainLogo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/redstone-light.svg",
 		"url": "https://explorer.redstone.xyz/apps/redswap?utm_source=multichain-landing&utm_medium=dappscout-feature",
 		"name": "Redswap",
 		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Redswap@1x.png",
@@ -153,7 +153,7 @@
 	},
 	{
 		"chain": "Polygon",
-		"chainLogo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/polygon.svg",
+		"chainLogo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/polygon-short.svg",
 		"url": "https://polygon.blockscout.com/apps/quickswap?utm_source=multichain-landing&utm_medium=dappscout-feature",
 		"name": "Quickswap",
 		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Quickswap@1x.png",
