@@ -1,130 +1,50 @@
 [
 	{
-		"chain": "Scroll",
-		"chainLogo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/scroll.svg",
+		"chainName": "Scroll",
+		"chainId": "534352",
 		"url": "https://scroll.blockscout.com/token/0x10A01d14853fEAc05114C057CddD826B78acb3FA?utm_source=multichain-landing&utm_medium=nfts-feature",
 		"name": "Scrowls",
 		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/Scrowls1@1x.png",
 		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/Scrowls1@2x.png"
 	},
 	{
-		"chain": "Ethereum",
-		"chainLogo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg",
+		"chainName": "Ethereum",
+		"chainId": "11155111",
 		"url": "https://eth.blockscout.com/token/0x524cAB2ec69124574082676e6F654a18df49A048?utm_source=multichain-landing&utm_medium=nfts-feature",
 		"name": "LilPudgys",
 		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/LilPudgys1@1x.png",
 		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/LilPudgys1@2x.png"
 	},
 	{
-		"chain": "Ethereum",
-		"chainLogo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg",
-		"url": "https://eth.blockscout.com/token/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e?utm_source=multichain-landing&utm_medium=nfts-feature",
-		"name": "Doodles",
-		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/Doodles1@1x.png",
-		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/Doodles1@2x.png"
+		"chainName": "Zora",
+		"chainId": "7777777",
+		"url": "https://explorer.zora.energy/token/0x5050E328A4E297d067C53d6fA0a58d7e2e5b8a1c?utm_source=multichain-landing&utm_medium=nfts-feature",
+		"name": "Nouns",
+		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/Nouns1@1x.png",
+		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/Nouns1@2x.png"
 	},
 	{
-		"chain": "Zora",
-		"chainLogo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zora.svg",
-		"url": "https://explorer.zora.energy/token/0xDC41A43c425363Dc8dd368219417b76aFa12BA7a/instance/1?utm_source=multichain-landing&utm_medium=nfts-feature",
-		"name": "Blockscout Fren badge",
-		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/BSfren@1x.png",
-		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/BSfren@2x.png"
+		"chainName": "Base",
+		"chainId": "84532",
+		"url": "https://base.blockscout.com/token/0x7d5861cfe1c74aaa0999b7e2651bf2ebd2a62d89?utm_source=multichain-landing&utm_medium=nfts-feature",
+		"name": "Friend",
+		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/Friend1@1x.png",
+		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/Friend1@2x.png"
 	},
 	{
-		"chain": "Base",
-		"chainLogo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/base.svg",
-		"url": "https://base.blockscout.com/token/0x71cfBEbb61a42d2E5ccFf0831663Cd58d2E442d9?utm_source=multichain-landing&utm_medium=nfts-feature",
-		"name": "Miggles",
-		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/Miggles1@1x.png",
-		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/Miggles1@2x.png"
+		"chainName": "Optimism",
+		"chainId": "11155420",
+		"url": "https://optimism.blockscout.com/token/0x5a7749f83b81B301cAb5f48EB8516B986DAef23D?utm_source=multichain-landing&utm_medium=nfts-feature",
+		"name": "Optimism Quest",
+		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/OptimismQuest1@1x.png",
+		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/OptimismQuest1@2x.png"
 	},
 	{
-		"chain": "Ethereum",
-		"chainLogo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg",
-		"url": "https://eth.blockscout.com/token/0x524cAB2ec69124574082676e6F654a18df49A048?utm_source=multichain-landing&utm_medium=nfts-feature",
-		"name": "LilPudgys",
-		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/LilPudgys2@1x.png",
-		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/LilPudgys2@2x.png"
-	},
-	{
-		"chain": "Optimism",
-		"chainLogo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg",
-		"url": "https://optimism.blockscout.com/token/0xEb5A14a0a5A9e36aD20CFFFFa4a8797015F25EAE?utm_source=multichain-landing&utm_medium=nfts-feature",
-		"name": "Deggkies",
-		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/Deggkies1@1x.png",
-		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/Deggkies1@2x.png"
-	},
-	{
-		"chain": "Arbitrum",
-		"chainLogo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/arbitrum.svg",
-		"url": "https://arbitrum.blockscout.com/token/0xaC59F7E7e5da0dC4f416A7aEfF7a49aC284f10Ca?utm_source=multichain-landing&utm_medium=nfts-feature",
-		"name": "HungryBera",
-		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/HungryBera1@1x.png",
-		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/HungryBera1@2x.png"
-	},
-	{
-		"chain": "Arbitrum",
-		"chainLogo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/arbitrum.svg",
-		"url": "https://arbitrum.blockscout.com/token/0x2e660787BcECCd39f67b8190A5bc4fc3Ad3B64F7?utm_source=multichain-landing&utm_medium=nfts-feature",
-		"name": "Yeetard",
-		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/Yeetard1@1x.png",
-		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/Yeetard1@2x.png"
-	},
-	{
-		"chain": "Base",
-		"chainLogo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/base.svg",
-		"url": "https://eth.blockscout.com/token/0x524cAB2ec69124574082676e6F654a18df49A048?utm_source=multichain-landing&utm_medium=nfts-feature",
-		"name": "Merit Christmas badge",
-		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/Merit1@1x.png",
-		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/Merit1@2x.png"
-	},
-	{
-		"chain": "Base",
-		"chainLogo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/base.svg",
-		"url": "https://base.blockscout.com/token/0x71cfBEbb61a42d2E5ccFf0831663Cd58d2E442d9?utm_source=multichain-landing&utm_medium=nfts-feature",
-		"name": "Miggles",
-		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/Miggles2@1x.png",
-		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/Miggles2@2x.png"
-	},
-	{
-		"chain": "Zora",
-		"chainLogo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zora.svg",
-		"url": "https://explorer.zora.energy/token/0xDC41A43c425363Dc8dd368219417b76aFa12BA7a/instance/1?utm_source=multichain-landing&utm_medium=nfts-feature",
-		"name": "BFarcaster OG",
-		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/Farcaster@1x.png",
-		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/Farcaster@2x.png"
-	},
-	{
-		"chain": "Arbitrum",
-		"chainLogo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/arbitrum.svg",
-		"url": "https://arbitrum.blockscout.com/token/0xaC59F7E7e5da0dC4f416A7aEfF7a49aC284f10Ca?utm_source=multichain-landing&utm_medium=nfts-feature",
-		"name": "HungryBera",
-		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/HungryBera2@1x.png",
-		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/HungryBera2@2x.png"
-	},
-	{
-		"chain": "Scroll",
-		"chainLogo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/scroll.svg",
-		"url": "https://scroll.blockscout.com/token/0x315Bcef30f7C9d136f1FFE083E22bBC244ffD9c5?utm_source=multichain-landing&utm_medium=nfts-feature",
-		"name": "Varonve",
-		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/Varonve1@1x.png",
-		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/Varonve1@2x.png"
-	},
-	{
-		"chain": "Scroll",
-		"chainLogo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/scroll.svg",
-		"url": "https://scroll.blockscout.com/token/0x10A01d14853fEAc05114C057CddD826B78acb3FA?utm_source=multichain-landing&utm_medium=nfts-feature",
-		"name": "Scrowls",
-		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/Scrowls2@1x.png",
-		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/Scrowls2@2x.png"
-	},
-	{
-		"chain": "Scroll",
-		"chainLogo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/scroll.svg",
-		"url": "https://scroll.blockscout.com/token/0x315Bcef30f7C9d136f1FFE083E22bBC244ffD9c5?utm_source=multichain-landing&utm_medium=nfts-feature",
-		"name": "Varonve",
-		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/Varonve2@1x.png",
-		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/Varonve2@2x.png"
+		"chainName": "Arbitrum",
+		"chainId": "42161",
+		"url": "https://arbitrum.blockscout.com/token/0x2953399124F0cBB46d2CbACD8A89cF0599974963?utm_source=multichain-landing&utm_medium=nfts-feature",
+		"name": "OpenSea",
+		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/OpenSea1@1x.png",
+		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/OpenSea1@2x.png"
 	}
 ]
