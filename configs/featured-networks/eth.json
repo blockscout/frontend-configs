@@ -1,8 +1,8 @@
-[{
+[
+	{
 		"title": "Ethereum",
 		"url": "https://eth.blockscout.com/",
 		"group": "Mainnets",
-		"isActive": true,
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg"
 	},
 	{
@@ -87,6 +87,12 @@
 	{
 		"title": "Holesky",
 		"url": "https://eth-holesky.blockscout.com/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg"
+	},
+	{
+		"title": "Hoodi",
+		"url": "https://eth-hoodi.blockscout.com/",
 		"group": "Testnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg"
 	},
