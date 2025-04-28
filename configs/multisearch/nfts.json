@@ -9,7 +9,7 @@
 	},
 	{
 		"chainName": "Ethereum",
-		"chainId": "11155111",
+		"chainId": "1",
 		"url": "https://eth.blockscout.com/token/0x524cAB2ec69124574082676e6F654a18df49A048?utm_source=multichain-landing&utm_medium=nfts-feature",
 		"name": "LilPudgys",
 		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/LilPudgys1@1x.png",
@@ -17,7 +17,7 @@
 	},
 	{
 		"chainName": "Ethereum",
-		"chainId": "11155111",
+		"chainId": "1",
 		"url": "https://eth.blockscout.com/token/0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e?utm_source=multichain-landing&utm_medium=nfts-feature",
 		"name": "Doodles",
 		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/Doodles1@1x.png",
@@ -33,7 +33,7 @@
 	},
 	{
 		"chainName": "Base",
-		"chainId": "84532",
+		"chainId": "8453",
 		"url": "https://base.blockscout.com/token/0x71cfBEbb61a42d2E5ccFf0831663Cd58d2E442d9?utm_source=multichain-landing&utm_medium=nfts-feature",
 		"name": "Miggles",
 		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/Miggles1@1x.png",
@@ -41,7 +41,7 @@
 	},
 	{
 		"chainName": "Ethereum",
-		"chainId": "11155111",
+		"chainId": "1",
 		"url": "https://eth.blockscout.com/token/0x524cAB2ec69124574082676e6F654a18df49A048?utm_source=multichain-landing&utm_medium=nfts-feature",
 		"name": "LilPudgys",
 		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/LilPudgys2@1x.png",
@@ -49,7 +49,7 @@
 	},
 	{
 		"chainName": "Optimism",
-		"chainId": "11155420",
+		"chainId": "10",
 		"url": "https://optimism.blockscout.com/token/0xEb5A14a0a5A9e36aD20CFFFFa4a8797015F25EAE?utm_source=multichain-landing&utm_medium=nfts-feature",
 		"name": "Deggkies",
 		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/Deggkies1@1x.png",
@@ -73,7 +73,7 @@
 	},
 	{
 		"chainName": "Base",
-		"chainId": "84532",
+		"chainId": "8453",
 		"url": "https://eth.blockscout.com/token/0x524cAB2ec69124574082676e6F654a18df49A048?utm_source=multichain-landing&utm_medium=nfts-feature",
 		"name": "Merit Christmas badge",
 		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/Merit1@1x.png",
@@ -81,7 +81,7 @@
 	},
 	{
 		"chainName": "Base",
-		"chainId": "84532",
+		"chainId": "8453",
 		"url": "https://base.blockscout.com/token/0x71cfBEbb61a42d2E5ccFf0831663Cd58d2E442d9?utm_source=multichain-landing&utm_medium=nfts-feature",
 		"name": "Miggles",
 		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/Miggles2@1x.png",
