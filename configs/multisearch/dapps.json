@@ -25,7 +25,7 @@
 	},
 	{
 		"chainName": "Gnosis",
-		"chainId": "10200",
+		"chainId": "100",
 		"url": "https://gnosis.blockscout.com/apps/peanut-protocol?utm_source=multichain-landing&utm_medium=dappscout-feature",
 		"name": "Peanut",
 		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Peanut@1x.png",
@@ -41,7 +41,7 @@
 	},
 	{
 		"chainName": "Base",
-		"chainId": "84532",
+		"chainId": "8453",
 		"url": "https://base.blockscout.com/apps/rubic?utm_source=multichain-landing&utm_medium=dappscout-feature",
 		"name": "Rubic",
 		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Rubic@1x.png",
@@ -105,7 +105,7 @@
 	},
 	{
 		"chainName": "Base",
-		"chainId": "84532",
+		"chainId": "8453",
 		"url": "https://base.blockscout.com/apps/astraswap?utm_source=multichain-landing&utm_medium=dappscout-feature",
 		"name": "Astra swap",
 		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/AstraSwap@1x.png",
@@ -113,7 +113,7 @@
 	},
 	{
 		"chainName": "Base",
-		"chainId": "84532",
+		"chainId": "8453",
 		"url": "https://base.blockscout.com/apps/aerodrome?utm_source=multichain-landing&utm_medium=dappscout-feature",
 		"name": "Aerodrome",
 		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Aerodrome@1x.png",
@@ -121,7 +121,7 @@
 	},
 	{
 		"chainName": "Gnosis",
-		"chainId": "10200",
+		"chainId": "100",
 		"url": "https://gnosis.blockscout.com/apps/cow-swap?utm_source=multichain-landing&utm_medium=dappscout-feature",
 		"name": "Cow swap",
 		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/CowSwap@1x.png",
@@ -129,7 +129,7 @@
 	},
 	{
 		"chainName": "Eth",
-		"chainId": "11155111",
+		"chainId": "1",
 		"url": "https://eth.blockscout.com/apps/1inch?utm_source=multichain-landing&utm_medium=dappscout-feature",
 		"name": "1inch",
 		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/1inch@1x.png",
@@ -145,7 +145,7 @@
 	},
 	{
 		"chainName": "Optimism",
-		"chainId": "11155420",
+		"chainId": "10",
 		"url": "https://optimism.blockscout.com/apps/velodrome?utm_source=multichain-landing&utm_medium=dappscout-feature",
 		"name": "Velodrome",
 		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Velodrome@1x.png",
