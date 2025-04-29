@@ -16,9 +16,9 @@
 		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Swapscout@2x.png"
 	},
 	{
-		"chainName": "World chain",
-		"chainId": "480",
-		"url": "https://worldchain-mainnet.explorer.alchemy.com/apps/uniswap?utm_source=multichain-landing&utm_medium=dappscout-feature",
+		"chainName": "Unichain",
+		"chainId": "130",
+		"url": "https://unichain.blockscout.com/apps/uniswap?utm_source=multichain-landing&utm_medium=dappscout-feature",
 		"name": "Uniswap",
 		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Uniswap@1x.png",
 		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Uniswap@2x.png"
@@ -34,26 +34,34 @@
 	{
 		"chainName": "Zora",
 		"chainId": "7777777",
-		"url": "https://explorer.zora.energy/apps/zora-swap?utm_source=multichain-landing&utm_medium=dappscout-feature",
-		"name": "Zora swap",
-		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/ZoraSwap@1x.png",
-		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/ZoraSwap@2x.png"
+		"url": "https://explorer.zora.energy/apps/cryptosenderutm_source=multichain-landing&utm_medium=dappscout-feature",
+		"name": "Cryptosender",
+		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Cryptosender@1x.png",
+		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Cryptosender@2x.png"
 	},
-	{
+  {
 		"chainName": "Base",
 		"chainId": "8453",
-		"url": "https://base.blockscout.com/apps/rubic?utm_source=multichain-landing&utm_medium=dappscout-feature",
-		"name": "Rubic",
-		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Rubic@1x.png",
-		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Rubic@2x.png"
+		"url": "https://base.blockscout.com/apps/astraswap?utm_source=multichain-landing&utm_medium=dappscout-feature",
+		"name": "Astra swap",
+		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/AstraSwap@1x.png",
+		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/AstraSwap@2x.png"
 	},
 	{
-		"chainName": "Degen",
-		"chainId": "666666666",
+		"chainName": "Soneium",
+		"chainId": "1868",
+		"url": "https://soneium.blockscout.com/apps/quickswap?utm_source=multichain-landing&utm_medium=dappscout-feature",
+		"name": "Quickswap",
+		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Quickswap@1x.png",
+		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Quickswap@2x.png"
+	},
+	{
+		"chainName": "Berachain",
+		"chainId": "80094",
 		"url": "https://explorer.degen.tips/apps/proxyswap?utm_source=multichain-landing&utm_medium=dappscout-feature",
-		"name": "Proxy swap",
-		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/ProxySwap@1x.png",
-		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/ProxySwap@2x.png"
+		"name": "Revokescout",
+		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Revokescout@1x.png",
+		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Revokescout@2x.png"
 	},
 	{
 		"chainName": "Shibarium",
@@ -64,12 +72,12 @@
 		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/ShibaSwap@2x.png"
 	},
 	{
-		"chainName": "World chain",
-		"chainId": "480",
-		"url": "https://worldchain-mainnet.explorer.alchemy.com/apps/zerion?utm_source=multichain-landing&utm_medium=dappscout-feature",
-		"name": "Zerion",
-		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Zerion@1x.png",
-		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Zerion@2x.png"
+		"chainName": "Blast",
+		"chainId": "81457",
+		"url": "https://blast.blockscout.com/apps/orbiter?utm_source=multichain-landing&utm_medium=dappscout-feature",
+		"name": "Orbiter",
+		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Orbiter@1x.webp",
+		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Orbiter@2x.webp"
 	},
 	{
 		"chainName": "Scroll",
@@ -80,36 +88,28 @@
 		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/SyncSwap@2x.png"
 	},
 	{
-		"chainName": "Shibarium",
-		"chainId": "109",
-		"url": "https://www.shibariumscan.io/apps/shibarium-bridge?utm_source=multichain-landing&utm_medium=dappscout-feature",
-		"name": "Shibarium bridge",
-		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/ShibariumBridge@1x.png",
-		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/ShibariumBridge@2x.png"
-	},
-	{
-		"chainName": "World chain",
-		"chainId": "480",
-		"url": "https://worldchain-mainnet.explorer.alchemy.com/apps/degenerator?utm_source=multichain-landing&utm_medium=dappscout-feature",
-		"name": "Degenerator",
-		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Degenerator@1x.png",
-		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Degenerator@2x.png"
-	},
-	{
-		"chainName": "Redstone",
-		"chainId": "690",
-		"url": "https://explorer.redstone.xyz/apps/redswap?utm_source=multichain-landing&utm_medium=dappscout-feature",
-		"name": "Redswap",
-		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Redswap@1x.png",
-		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Redswap@2x.png"
+		"chainName": "zkSync",
+		"chainId": "324",
+		"url": "https://zksync.blockscout.com/apps/zerion?utm_source=multichain-landing&utm_medium=dappscout-feature",
+		"name": "Zerion",
+		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Zerion@1x.png",
+		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Zerion@2x.png"
 	},
 	{
 		"chainName": "Base",
 		"chainId": "8453",
-		"url": "https://base.blockscout.com/apps/astraswap?utm_source=multichain-landing&utm_medium=dappscout-feature",
-		"name": "Astra swap",
-		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/AstraSwap@1x.png",
-		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/AstraSwap@2x.png"
+		"url": "https://base.blockscout.com/apps/multisender.app?utm_source=multichain-landing&utm_medium=dappscout-feature",
+		"name": "Multisender",
+		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Multisender@1x.png",
+		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Multisender@2x.png"
+	},
+  {
+		"chainName": "Shibarium",
+		"chainId": "109",
+		"url": "https://www.shibariumscan.io/apps/revoke-cash?utm_source=multichain-landing&utm_medium=dappscout-feature",
+		"name": "Revoke.cash",
+		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/RevokeCash@1x.png",
+		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/RevokeCash@2x.png"
 	},
 	{
 		"chainName": "Base",
@@ -146,17 +146,17 @@
 	{
 		"chainName": "Optimism",
 		"chainId": "10",
-		"url": "https://optimism.blockscout.com/apps/velodrome?utm_source=multichain-landing&utm_medium=dappscout-feature",
+		"url": "https://optimism.blockscout.com/apps/velodrome",
 		"name": "Velodrome",
 		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Velodrome@1x.png",
 		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Velodrome@2x.png"
 	},
 	{
-		"chainName": "Polygon",
-		"chainId": "137",
-		"url": "https://polygon.blockscout.com/apps/quickswap?utm_source=multichain-landing&utm_medium=dappscout-feature",
-		"name": "Quickswap",
-		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Quickswap@1x.png",
-		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Quickswap@2x.png"
+		"chainName": "Ink",
+		"chainId": "57073",
+		"url": "https://explorer.inkonchain.com/apps/curve?utm_source=multichain-landing&utm_medium=dappscout-feature",
+		"name": "Curve",
+		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Curve@1x.png",
+		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Curve@2x.png"
 	}
 ]
