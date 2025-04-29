@@ -36,8 +36,8 @@
 		"chainId": "7777777",
 		"url": "https://explorer.zora.energy/apps/cryptosenderutm_source=multichain-landing&utm_medium=dappscout-feature",
 		"name": "Cryptosender",
-		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Cryptosender@1x.png",
-		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Cryptosender@2x.png"
+		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Cryptosender@1x.jpg",
+		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Cryptosender@2x.jpg"
 	},
   {
 		"chainName": "Base",
