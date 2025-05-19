@@ -72,11 +72,50 @@
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/redstone-light.svg"
 	},
 	{
-		"title": "ZetaChain Mainnet",
+		"title": "ZetaChain",
 		"url": "https://zetachain.blockscout.com/",
 		"group": "Mainnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zetachain.svg",
 		"invertIconInDarkMode": true
+	},
+	{
+		"title": "Cronos",
+		"url": "https://cronos.org/explorer/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/cronos.png",
+		"invertIconInDarkMode": true
+	},
+	{
+		"title": "HyperEVM",
+		"url": "https://www.hyperscan.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/hyperliquid.svg",
+		"invertIconInDarkMode": true
+	},
+	{
+		"title": "BOB",
+		"url": "https://explorer.gobob.xyz/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/bob.svg"
+	},
+	{
+		"title": "Mantle",
+		"url": "https://explorer.mantle.xyz/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/mantle.png",
+		"invertIconInDarkMode": true
+	},
+	{
+		"title": "Hemi",
+		"url": "https://explorer.hemi.xyz/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/hemi.png"
+	},
+	{
+		"title": "View all",
+		"url": "https://chains.blockscout.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/blockscout.svg"
 	},
 	{
 		"title": "Sepolia",
@@ -182,6 +221,19 @@
 		"group": "Testnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zetachain.svg",
 		"invertIconInDarkMode": true
+	},
+	{
+		"title": "Mantle Sepolia",
+		"url": "https://explorer.sepolia.mantle.xyz/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/mantle.png",
+		"invertIconInDarkMode": true
+	},
+	{
+		"title": "View all",
+		"url": "https://chains.blockscout.com/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/blockscout.svg"
 	},
 	{
 		"title": "POA",
