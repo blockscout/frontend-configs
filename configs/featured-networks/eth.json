@@ -234,17 +234,5 @@
 		"url": "https://chains.blockscout.com/",
 		"group": "Testnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/blockscout.svg"
-	},
-	{
-		"title": "POA",
-		"url": "https://blockscout.com/poa/core",
-		"group": "Other",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/poa.svg"
-	},
-	{
-		"title": "POA Sokol",
-		"url": "https://blockscout.com/poa/sokol",
-		"group": "Other",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/poa-sokol.svg"
 	}
 ]
