@@ -1,0 +1,54 @@
+{
+  "talentprotocol": {
+    "name": "Talent Protocol",
+    "url": "https://app.talentprotocol.com/:address?utm_source=blockscout",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/talent_protocol.svg",
+    "title": "Builder Score",
+    "hint": "Builder Score is a numerical value that represents a user's reputation as an onchain builder",
+    "value": "score.points"
+  },
+  "efp": {
+    "name": "EFP",
+    "url": "https://efp.app/:address?utm_source=blockscout",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/ethfollow.svg",
+    "title": "Followers",
+    "hint": "EFP is an onchain social graph protocol for Ethereum accounts that complements ENS",
+    "value": "followers_count"
+  },
+  "webacy": {
+    "name": "Webacy",
+    "url": "https://dapp.webacy.com/dyor/address/:address?utm_source=blockscout",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/webacy.svg",
+    "title": "Risk score",
+    "value": "risk_score"
+  },
+  "deepdao": {
+    "name": "DeepDAO",
+    "url": "https://deepdao.io/user/:address/verified_dao_experience?utm_source=blockscout",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/deepdao.svg",
+    "title": "G-score rank",
+    "value": "rank"
+  },
+  "humanpassport": {
+    "name": "Human Passport",
+    "url": "https://app.passport.xyz?utm_source=blockscout",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/passport.svg",
+    "title": "Humanity score",
+    "hint": "Prove your unique humanity by verifying Stamps within the Passport app. A score of 20+ signifies that you are a unique human",
+    "value": "score"
+  },
+  "trustblock": {
+    "name": "Trustblock",
+    "url": "https://app.trustblock.run/?utm_source=blockscout",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/trustblock.svg",
+    "title": "Audits",
+    "value": "audits.length"
+  },
+  "bankless": {
+    "name": "Bankless",
+    "url": "https://www.bankless.com/claimables/:address?utm_source=blockscout",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/bankless.svg",
+    "title": "Claimables",
+    "value": "length"
+  }
+}
