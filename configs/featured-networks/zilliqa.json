@@ -1,0 +1,14 @@
+[
+	{
+		"title": "Zilliqa proto-testnet",
+		"url": "https://zilliqa-prototestnet.blockscout.com",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zilliqa.svg"
+	},
+	{
+		"title": "Zilliqa proto-mainnet",
+		"url": "https://zilliqa-protomainnet.blockscout.com",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zilliqa.svg"
+	}
+]
