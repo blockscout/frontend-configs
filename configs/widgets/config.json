@@ -20,7 +20,7 @@
     "url": "https://dapp.webacy.com/dyor/address/:address?utm_source=blockscout",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/webacy.svg",
     "title": "Risk score",
-    "value": "risk_score"
+    "value": "overallRisk"
   },
   "deepdao": {
     "name": "DeepDAO",
