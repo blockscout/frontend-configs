@@ -5,7 +5,8 @@
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/talent_protocol.svg",
     "title": "Builder Score",
     "hint": "Builder Score is a numerical value that represents a user's reputation as an onchain builder",
-    "value": "score.points"
+    "value": "score.points",
+    "pages": ["eoa"]
   },
   "efp": {
     "name": "EFP",
@@ -13,7 +14,8 @@
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/ethfollow.svg",
     "title": "Followers",
     "hint": "EFP is an onchain social graph protocol for Ethereum accounts that complements ENS",
-    "value": "followers_count"
+    "value": "followers_count",
+    "pages": ["eoa"]
   },
   "webacy": {
     "name": "DD.xyz by Webacy",
@@ -22,6 +24,7 @@
     "title": "Risk score",
     "hint": "Real-time crypto risk analysis using 400+ signals across code, compliance, behavior, economics, and more",
     "value": "overallRisk",
+    "pages": ["eoa", "contract", "token"],
     "chainIds": {
       "1": "eth",
       "10": "opt",
@@ -37,7 +40,8 @@
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/deepdao.svg",
     "title": "G-score rank",
     "hint": "G-score measures and ranks the governance activities of DAO People",
-    "value": "data.gScoreRanking"
+    "value": "rank",
+    "pages": ["eoa"]
   },
   "humanpassport": {
     "name": "Human Passport",
@@ -45,7 +49,8 @@
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/passport.svg",
     "title": "Humanity score",
     "hint": "Humanity score from Human Passport, a Sybil-resistant identity protocol. A score of 20+ signifies that you are a unique human",
-    "value": "score"
+    "value": "score",
+    "pages": ["eoa"]
   },
   "trustblock": {
     "name": "Trustblock",
@@ -53,7 +58,8 @@
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/trustblock.svg",
     "title": "Audits",
     "hint": "Shows smart contract audits verified and recorded on-chain via Trustblock, a Web3 protocol for audit transparency",
-    "value": "audits.length"
+    "value": "audits.length",
+    "pages": ["contract", "token"]
   },
   "bankless": {
     "name": "Bankless",
@@ -61,6 +67,7 @@
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/bankless.svg",
     "title": "Claimables",
     "hint": "Unclaimed airdrops, POAPs, governance rewards via Bankless Claimables — tracks eligible crypto assets across multiple chains",
-    "value": "length"
+    "value": "length",
+    "pages": ["eoa"]
   }
 }
