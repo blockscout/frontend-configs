@@ -18,6 +18,24 @@
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/base.svg"
 	},
 	{
+		"title": "Arbitrum One",
+		"url": "https://arbitrum.blockscout.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/arbitrum-one-icon-light.svg"
+	},
+	{
+		"title": "Arbitrum Nova",
+		"url": "https://arbitrum-nova.blockscout.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/arbitrum-nova.svg"
+	},
+	{
+		"title": "Polygon",
+		"url": "https://polygon.blockscout.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/polygon-short.svg"
+	},
+	{
 		"title": "Rootstock",
 		"url": "https://rootstock.blockscout.com/",
 		"group": "Mainnets",
@@ -58,12 +76,6 @@
 		"url": "https://astar.blockscout.com/",
 		"group": "Mainnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/astar.svg"
-	},
-	{
-		"title": "Shiden (EVM)",
-		"url": "https://shiden.blockscout.com/",
-		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/shiden.svg"
 	},
 	{
 		"title": "Redstone",
@@ -165,6 +177,12 @@
 		"url": "https://base-goerli.blockscout.com/",
 		"group": "Testnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/base.svg"
+	},
+	{
+		"title": "Arbitrum Sepolia",
+		"url": "https://arbitrum-sepolia.blockscout.com/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/arbitrum-sepolia.svg"
 	},
 	{
 		"title": "Rootstock Testnet",
