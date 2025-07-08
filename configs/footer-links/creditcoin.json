@@ -7,24 +7,24 @@
           "url": "https://creditcoin.org/"
         },
         {
-          "text": "GatewayDAO",
-          "url": "https://creditcoin.org/GatewayDAO/"
+          "text": "Build",
+          "url": "https://creditcoin.org/Build/"
         },
         {
-          "text": "Institutions",
-          "url": "https://creditcoin.org/Institutions/"
+          "text": "CEIP",
+          "url": "https://creditcoin.org/CEIP/"
         },
         {
-          "text": "Roadmap",
-          "url": "https://creditcoin.org/RoadmapFAQ/"
+          "text": "Wallet",
+          "url": "https://creditcoin.org/Wallet/"
         },
         {
-          "text": "Stake",
-          "url": "https://creditcoin.org/Stake/"
+          "text": "Apps",
+          "url": "https://creditcoin.org/Apps/"
         },
         {
-          "text": "Swap",
-          "url": "https://creditcoin.org/swap/intro"
+          "text": "Get CTC",
+          "url": "https://docs.creditcoin.org/what-is-creditcoin/acquiring-creditcoin-assets"
         }
       ]
     },
@@ -53,12 +53,28 @@
       "title": "Community",
       "links": [
         {
-          "text": "Forum",
-          "url": "https://community.creditcoin.org/"
+          "text": "X",
+          "url": "https://x.com/Creditcoin"
+        },
+        {
+          "text": "Youtube",
+          "url": "https://www.youtube.com/@CreditcoinNetwork"
         },
         {
           "text": "Blog",
           "url": "https://creditcoin.org/blog/"
+        },
+        {
+          "text": "Telegram",
+          "url": "https://t.me/CreditcoinOfficial"
+        },
+        {
+          "text": "Discord",
+          "url": "https://discord.com/invite/creditcoin"
+        },
+        {
+          "text": "Forum",
+          "url": "https://community.creditcoin.org/"
         }
       ]
     },

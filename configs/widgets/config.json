@@ -1,0 +1,73 @@
+{
+  "talentprotocol": {
+    "name": "Talent Protocol",
+    "url": "https://app.talentprotocol.com/{address}?utm_source=blockscout",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/talent_protocol.svg",
+    "title": "Builder Score",
+    "hint": "Builder Score is a numerical value that represents a user's reputation as an onchain builder",
+    "valuePath": "score.points",
+    "pages": ["eoa"]
+  },
+  "efp": {
+    "name": "EFP",
+    "url": "https://efp.app/{addressLowercase}?utm_source=blockscout",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/ethfollow.svg",
+    "title": "Followers",
+    "hint": "EFP is an onchain social graph protocol for Ethereum accounts that complements ENS",
+    "valuePath": "followers_count",
+    "pages": ["eoa"]
+  },
+  "webacy": {
+    "name": "DD.xyz by Webacy",
+    "url": "https://dapp.webacy.com/dyor/address/{address}?chain={chainId}&utm_source=blockscout",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/webacy.svg",
+    "title": "Risk score",
+    "hint": "Real-time crypto risk analysis using 400+ signals across code, compliance, behavior, economics, and more",
+    "valuePath": "overallRisk",
+    "pages": ["eoa", "contract", "token"],
+    "chainIds": {
+      "1": "eth",
+      "10": "opt",
+      "137": "pol",
+      "1329": "sei",
+      "8453": "base",
+      "42161": "arb"
+    }
+  },
+  "deepdao": {
+    "name": "DeepDAO",
+    "url": "https://deepdao.io/user/{address}/verified_dao_experience?utm_source=blockscout",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/deepdao.svg",
+    "title": "G-score rank",
+    "hint": "G-score measures and ranks the governance activities of DAO People",
+    "valuePath": "rank",
+    "pages": ["eoa"]
+  },
+  "humanpassport": {
+    "name": "Human Passport",
+    "url": "https://app.passport.xyz?utm_source=blockscout",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/passport.svg",
+    "title": "Humanity score",
+    "hint": "Humanity score from Human Passport, a Sybil-resistant identity protocol. A score of 20+ signifies that you are a unique human",
+    "valuePath": "score",
+    "pages": ["eoa"]
+  },
+  "trustblock": {
+    "name": "Trustblock",
+    "url": "https://app.trustblock.run?utm_source=blockscout",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/trustblock.svg",
+    "title": "Audits",
+    "hint": "Shows smart contract audits verified and recorded on-chain via Trustblock, a Web3 protocol for audit transparency",
+    "valuePath": "audits.length",
+    "pages": ["contract", "token"]
+  },
+  "bankless": {
+    "name": "Bankless",
+    "url": "https://www.bankless.com/claimables/{address}?utm_source=blockscout",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/bankless.svg",
+    "title": "Claimables",
+    "hint": "Unclaimed airdrops, POAPs, governance rewards via Bankless Claimables — tracks eligible crypto assets across multiple chains",
+    "valuePath": "length",
+    "pages": ["eoa"]
+  }
+}
