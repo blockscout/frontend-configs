@@ -52,6 +52,24 @@
     "valuePath": "score",
     "pages": ["eoa"]
   },
+  "bankless": {
+    "name": "Bankless",
+    "url": "https://www.bankless.com/claimables/{address}?utm_source=blockscout",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/bankless.svg",
+    "title": "Claimables",
+    "hint": "Unclaimed airdrops, POAPs, governance rewards via Bankless Claimables — tracks eligible crypto assets across multiple chains",
+    "valuePath": "length",
+    "pages": ["eoa"]
+  },
+  "blockscoutbadges": {
+    "name": "Blockscout",
+    "url": "https://merits.blockscout.com/?tab=badges&utm_source=blockscout",
+    "icon": "https://cdn.prod.website-files.com/65f94dfd53db8b337c808067/686e6b14cd50a1ceede7c019_blockscout-widgets-logo.png",
+    "title": "Badges",
+    "hint": "All minted Blockscout badges for different activities",
+    "valuePath": "data",
+    "pages": ["eoa"]
+  },
   "trustblock": {
     "name": "Trustblock",
     "url": "https://app.trustblock.run?utm_source=blockscout",
@@ -61,13 +79,12 @@
     "valuePath": "audits.length",
     "pages": ["contract", "token"]
   },
-  "bankless": {
-    "name": "Bankless",
-    "url": "https://www.bankless.com/claimables/{address}?utm_source=blockscout",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/bankless.svg",
-    "title": "Claimables",
-    "hint": "Unclaimed airdrops, POAPs, governance rewards via Bankless Claimables — tracks eligible crypto assets across multiple chains",
-    "valuePath": "length",
-    "pages": ["eoa"]
+  "smartmuv": {
+    "name": "SmartMuv",
+    "url": "https://smartmuv.app?utm_source=blockscout",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/smartmuv.png",
+    "title": "Complexity score",
+    "valuePath": "data.complexity_score",
+    "pages": ["contract", "token"]
   }
 }
