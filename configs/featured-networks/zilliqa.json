@@ -1,13 +1,13 @@
 [
 	{
-		"title": "Zilliqa proto-testnet",
-		"url": "https://zilliqa-prototestnet.blockscout.com",
+		"title": "Zilliqa 2 Testnet",
+		"url": "https://zq2-testnet.blockscout.com",
 		"group": "Testnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zilliqa.svg"
 	},
 	{
-		"title": "Zilliqa proto-mainnet",
-		"url": "https://zilliqa-protomainnet.blockscout.com",
+		"title": "Zilliqa 2 Mainnet",
+		"url": "https://zq2-mainnet.blockscout.com",
 		"group": "Mainnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zilliqa.svg"
 	}
