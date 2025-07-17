@@ -86,5 +86,13 @@
     "title": "Complexity score",
     "valuePath": "data.complexity_score",
     "pages": ["contract", "token"]
+  },
+    "etherscore": {
+    "name": "Etherscore",
+    "url": "https://etherscore.network/?utm_source=blockscout",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/etherscore.svg",
+    "title": "Reputation Tier",
+    "valuePath": "data.user_metrics.user_profile.user_tier",
+    "pages": ["eoa"]
   }
 }
