@@ -1,0 +1,152 @@
+[
+	{
+		"chain_id": "97",
+		"chain_name": "bsc_testnet",
+		"network": "bsc",
+		"network_type": "testnet",
+		"vm": "evm",
+		"consensus": "ethereum",
+		"is_external": true,
+		"cctx_gateway": "observers",
+		"name": "bsc_testnet"
+	},
+	{
+		"chain_id": "7001",
+		"chain_name": "zeta_testnet",
+		"network": "zeta",
+		"network_type": "testnet",
+		"vm": "evm",
+		"consensus": "tendermint",
+		"is_external": false,
+		"cctx_gateway": "zevm",
+		"name": "zeta_testnet"
+	},
+	{
+		"chain_id": "11155111",
+		"chain_name": "Sepolia Testnet",
+		"chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/sepolia.png",
+		"instance_url": "https://eth-sepolia.blockscout.com",
+		"native_currency": {
+			"symbol": "ETH",
+			"decimals": 18
+		},
+		"network": "eth",
+		"network_type": "testnet",
+		"vm": "evm",
+		"consensus": "ethereum",
+		"is_external": true,
+		"cctx_gateway": "observers",
+		"name": "sepolia_testnet"
+	},
+	{
+		"chain_id": "80002",
+		"chain_name": "amoy_testnet",
+		"network": "polygon",
+		"network_type": "testnet",
+		"vm": "evm",
+		"consensus": "ethereum",
+		"is_external": true,
+		"cctx_gateway": "observers",
+		"name": "amoy_testnet"
+	},
+	{
+		"chain_id": "84532",
+		"chain_name": "Base Sepolia",
+		"chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/base.svg",
+		"instance_url": "https://base-sepolia.blockscout.com",
+		"native_currency": {
+			"symbol": "ETH",
+			"decimals": 18
+		},
+		"network": "base",
+		"network_type": "testnet",
+		"vm": "evm",
+		"consensus": "ethereum",
+		"is_external": true,
+		"cctx_gateway": "observers",
+		"name": "base_sepolia"
+	},
+	{
+		"chain_id": "901",
+		"chain_name": "solana_devnet",
+		"network": "solana",
+		"network_type": "testnet",
+		"vm": "svm",
+		"consensus": "solana_consensus",
+		"is_external": true,
+		"cctx_gateway": "observers",
+		"name": "solana_devnet"
+	},
+	{
+		"chain_id": "18333",
+		"chain_name": "empty",
+		"network": "btc",
+		"network_type": "testnet",
+		"vm": "no_vm",
+		"consensus": "bitcoin",
+		"is_external": true,
+		"cctx_gateway": "observers",
+		"name": "btc_signet_testnet"
+	},
+	{
+		"chain_id": "18334",
+		"chain_name": "empty",
+		"network": "btc",
+		"network_type": "testnet",
+		"vm": "no_vm",
+		"consensus": "bitcoin",
+		"is_external": true,
+		"cctx_gateway": "observers",
+		"name": "btc_testnet4"
+	},
+	{
+		"chain_id": "421614",
+		"chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/arbitrum_sepolia.svg",
+		"chain_name": "Arbitrum Sepolia",
+		"instance_url": "https://arbitrum-sepolia.blockscout.com/",
+		"native_currency": {
+			"symbol": "ETH",
+			"decimals": 18
+		},
+		"network": "arbitrum",
+		"network_type": "testnet",
+		"vm": "evm",
+		"consensus": "ethereum",
+		"is_external": true,
+		"cctx_gateway": "observers",
+		"name": "arbitrum_sepolia"
+	},
+	{
+		"chain_id": "43113",
+		"chain_name": "empty",
+		"network": "avalanche",
+		"network_type": "testnet",
+		"vm": "evm",
+		"consensus": "ethereum",
+		"is_external": true,
+		"cctx_gateway": "observers",
+		"name": "avalanche_testnet"
+	},
+	{
+		"chain_id": "2015141",
+		"chain_name": "empty",
+		"network": "ton",
+		"network_type": "testnet",
+		"vm": "tvm",
+		"consensus": "catchain_consensus",
+		"is_external": true,
+		"cctx_gateway": "observers",
+		"name": "ton_testnet"
+	},
+	{
+		"chain_id": "103",
+		"chain_name": "empty",
+		"network": "sui",
+		"network_type": "testnet",
+		"vm": "mvm_sui",
+		"consensus": "sui_consensus",
+		"is_external": true,
+		"cctx_gateway": "observers",
+		"name": "sui_testnet"
+	}
+]
