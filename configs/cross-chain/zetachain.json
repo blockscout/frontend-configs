@@ -2,6 +2,11 @@
 	{
 		"chain_id": "97",
 		"chain_name": "bsc_testnet",
+		"chain_logo": "https://github.com/blockscout/frontend-configs/blob/c05daee91048cb63b1dddc4beb0b58c8e8e539ee/configs/network-icons/bsc-logo.svg",
+		"native_currency": {
+			"symbol": "BNB",
+			"decimals": 18
+		},
 		"network": "bsc",
 		"network_type": "testnet",
 		"vm": "evm",
@@ -14,6 +19,10 @@
 		"chain_id": "7001",
 		"chain_name": "zeta_testnet",
 		"network": "zeta",
+		"native_currency": {
+			"symbol": "tZETA",
+			"decimals": 18
+		},
 		"network_type": "testnet",
 		"vm": "evm",
 		"consensus": "tendermint",
@@ -42,6 +51,10 @@
 		"chain_id": "80002",
 		"chain_name": "amoy_testnet",
 		"network": "polygon",
+		"native_currency": {
+			"symbol": "MATIC",
+			"decimals": 18
+		},
 		"network_type": "testnet",
 		"vm": "evm",
 		"consensus": "ethereum",
@@ -70,6 +83,10 @@
 		"chain_id": "901",
 		"chain_name": "solana_devnet",
 		"network": "solana",
+		"native_currency": {
+			"symbol": "SOL",
+			"decimals": 9
+		},
 		"network_type": "testnet",
 		"vm": "svm",
 		"consensus": "solana_consensus",
@@ -79,8 +96,12 @@
 	},
 	{
 		"chain_id": "18333",
-		"chain_name": "empty",
+		"chain_name": "Bitcoin testnet",
 		"network": "btc",
+		"native_currency": {
+			"symbol": "tBTC",
+			"decimals": 8
+		},
 		"network_type": "testnet",
 		"vm": "no_vm",
 		"consensus": "bitcoin",
@@ -92,6 +113,10 @@
 		"chain_id": "18334",
 		"chain_name": "empty",
 		"network": "btc",
+		"native_currency": {
+			"symbol": "tBTC",
+			"decimals": 8
+		},
 		"network_type": "testnet",
 		"vm": "no_vm",
 		"consensus": "bitcoin",
@@ -118,8 +143,12 @@
 	},
 	{
 		"chain_id": "43113",
-		"chain_name": "empty",
+		"chain_name": "Avalanche Fuji testnet",
 		"network": "avalanche",
+		"native_currency": {
+			"symbol": "AVAX",
+			"decimals": 18
+		},
 		"network_type": "testnet",
 		"vm": "evm",
 		"consensus": "ethereum",
@@ -129,8 +158,12 @@
 	},
 	{
 		"chain_id": "2015141",
-		"chain_name": "empty",
+		"chain_name": "Avalanche Fuji testnet",
 		"network": "ton",
+		"native_currency": {
+			"symbol": "AVAX",
+			"decimals": 18
+		},
 		"network_type": "testnet",
 		"vm": "tvm",
 		"consensus": "catchain_consensus",
@@ -140,8 +173,12 @@
 	},
 	{
 		"chain_id": "103",
-		"chain_name": "empty",
+		"chain_name": "Sui Testnet",
 		"network": "sui",
+		"native_currency": {
+			"symbol": "TSUI",
+			"decimals": 18
+		},
 		"network_type": "testnet",
 		"vm": "mvm_sui",
 		"consensus": "sui_consensus",
