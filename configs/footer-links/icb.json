@@ -4,19 +4,31 @@
     "links": [
       {
         "text": "Telegram",
-        "url": "https://t.me/icbnetwork_official"
+        "url": "https://t.me/icbnetwork_official",
+        "iconUrl": [
+          "https://github.com/blockscout/frontend-configs/blob/1c97eafa6eefc6d1d01d056b0c51a0ffd84a9b9e/configs/footer-icons/telegram2.svg"
+        ]
       },
       {
         "text": "X",
-        "url": "https://x.com/icbx_network?mx=2"
+        "url": "https://x.com/icbx_network?mx=2",
+        "iconUrl": [
+          "https://github.com/blockscout/frontend-configs/blob/1c97eafa6eefc6d1d01d056b0c51a0ffd84a9b9e/configs/footer-icons/twitter2.svg"
+        ]
       },
       {
         "text": "Medium",
-        "url": "https://readicbnetwork.medium.com/"
+        "url": "https://readicbnetwork.medium.com/",
+        "iconUrl": [
+          "https://github.com/blockscout/frontend-configs/blob/1c97eafa6eefc6d1d01d056b0c51a0ffd84a9b9e/configs/footer-icons/medium.svg"
+        ]
       },
       {
         "text": "Discord",
-        "url": "https://discord.com/invite/baGw2Kkz"
+        "url": "https://discord.com/invite/baGw2Kkz",
+        "iconUrl": [
+          "https://github.com/blockscout/frontend-configs/blob/1c97eafa6eefc6d1d01d056b0c51a0ffd84a9b9e/configs/footer-icons/discord2.svg"
+        ]
       }
     ]
   }
