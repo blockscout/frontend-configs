@@ -4,19 +4,31 @@
     "links": [
       {
         "text": "Telegram",
-        "url": "https://t.me/icbnetwork_official"
+        "url": "https://t.me/icbnet",
+        "iconUrl": [
+          "https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/footer-icons/telegram2.svg"
+        ]
       },
       {
         "text": "X",
-        "url": "https://x.com/icbx_network?mx=2"
+        "url": "https://x.com/icbx_network?mx=2",
+        "iconUrl": [
+          "https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/footer-icons/twitter2.svg"
+        ]
       },
       {
         "text": "Medium",
-        "url": "https://readicbnetwork.medium.com/"
+        "url": "https://icblabs.medium.com/",
+        "iconUrl": [
+          "https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/footer-icons/medium.svg"
+        ]
       },
       {
         "text": "Discord",
-        "url": "https://discord.com/invite/baGw2Kkz"
+        "url": "https://discord.com/invite/baGw2Kkz",
+        "iconUrl": [
+          "https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/footer-icons/discord2.svg"
+        ]
       }
     ]
   }
