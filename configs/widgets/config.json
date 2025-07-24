@@ -81,13 +81,13 @@
   },
   "smartmuv": {
     "name": "SmartMuv",
-    "url": "https://smartmuv.app?utm_source=blockscout",
+    "url": "https://explorer.smartmuv.app/?utm_source=blockscout",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/smartmuv.png",
     "title": "Complexity score",
     "valuePath": "data.complexity_score",
     "pages": ["contract", "token"]
   },
-    "etherscore": {
+  "etherscore": {
     "name": "Etherscore",
     "url": "https://beta.etherscore.network/{address}?utm_source=blockscout",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/etherscore.svg",
