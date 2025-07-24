@@ -91,8 +91,8 @@
     "name": "Etherscore",
     "url": "https://beta.etherscore.network/{address}?utm_source=blockscout",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/etherscore.svg",
-    "title": "Reputation Tier",
-    "valuePath": "data.user_metrics.user_profile.user_tier",
+    "title": "Total Badges",
+    "valuePath": "data.user_metrics.user_profile.user_badge_count",
     "pages": ["eoa"]
   }
 }
