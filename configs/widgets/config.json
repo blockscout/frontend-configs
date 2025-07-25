@@ -72,7 +72,7 @@
   },
   "trustblock": {
     "name": "Trustblock",
-    "url": "https://app.trustblock.run?utm_source=blockscout",
+    "url": "https://app.trustblock.run/?utm_source=blockscout&searchTerm={address}",   
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/trustblock.svg",
     "title": "Audits",
     "hint": "Shows smart contract audits verified and recorded on-chain via Trustblock, a Web3 protocol for audit transparency",
