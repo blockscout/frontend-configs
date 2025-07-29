@@ -16,5 +16,11 @@
         "url": "https://celo-baklava.blockscout.com/",
         "group": "Testnets",
         "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/celo-icon-light.svg"
+    },
+    {
+        "title": "Celo Sepolia",
+        "url": "https://celo-sepolia.blockscout.com/",
+        "group": "Testnets",
+        "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/celo-icon-light.svg"
     }
 ]
