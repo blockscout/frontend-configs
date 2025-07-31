@@ -1,6 +1,6 @@
 [
 	{
-		"chain_id": "97",
+		"chain_id": 97,
 		"chain_name": "bsc_testnet",
 		"chain_logo": "https://github.com/blockscout/frontend-configs/blob/c05daee91048cb63b1dddc4beb0b58c8e8e539ee/configs/network-icons/bsc-logo.svg",
 		"native_currency": {
@@ -16,7 +16,7 @@
 		"name": "bsc_testnet"
 	},
 	{
-		"chain_id": "7001",
+		"chain_id": 7001,
 		"chain_name": "zeta_testnet",
 		"network": "zeta",
 		"native_currency": {
@@ -31,7 +31,7 @@
 		"name": "zeta_testnet"
 	},
 	{
-		"chain_id": "11155111",
+		"chain_id": 11155111,
 		"chain_name": "Sepolia Testnet",
 		"chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/sepolia.png",
 		"instance_url": "https://eth-sepolia.blockscout.com",
@@ -48,7 +48,7 @@
 		"name": "sepolia_testnet"
 	},
 	{
-		"chain_id": "80002",
+		"chain_id": 80002,
 		"chain_name": "amoy_testnet",
 		"network": "polygon",
 		"native_currency": {
@@ -63,7 +63,7 @@
 		"name": "amoy_testnet"
 	},
 	{
-		"chain_id": "84532",
+		"chain_id": 84532,
 		"chain_name": "Base Sepolia",
 		"chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/base.svg",
 		"instance_url": "https://base-sepolia.blockscout.com",
@@ -80,7 +80,7 @@
 		"name": "base_sepolia"
 	},
 	{
-		"chain_id": "901",
+		"chain_id": 901,
 		"chain_name": "solana_devnet",
 		"network": "solana",
 		"native_currency": {
@@ -95,8 +95,8 @@
 		"name": "solana_devnet"
 	},
 	{
-		"chain_id": "18333",
-		"chain_name": "Bitcoin testnet",
+		"chain_id": 18333,
+		"chain_name": "empty",
 		"network": "btc",
 		"native_currency": {
 			"symbol": "tBTC",
@@ -110,7 +110,7 @@
 		"name": "btc_signet_testnet"
 	},
 	{
-		"chain_id": "18334",
+		"chain_id": 18334,
 		"chain_name": "empty",
 		"network": "btc",
 		"native_currency": {
@@ -125,7 +125,7 @@
 		"name": "btc_testnet4"
 	},
 	{
-		"chain_id": "421614",
+		"chain_id": 421614,
 		"chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/arbitrum_sepolia.svg",
 		"chain_name": "Arbitrum Sepolia",
 		"instance_url": "https://arbitrum-sepolia.blockscout.com/",
@@ -142,8 +142,8 @@
 		"name": "arbitrum_sepolia"
 	},
 	{
-		"chain_id": "43113",
-		"chain_name": "Avalanche Fuji testnet",
+		"chain_id": 43113,
+		"chain_name": "empty",
 		"network": "avalanche",
 		"native_currency": {
 			"symbol": "AVAX",
@@ -157,8 +157,8 @@
 		"name": "avalanche_testnet"
 	},
 	{
-		"chain_id": "2015141",
-		"chain_name": "Avalanche Fuji testnet",
+		"chain_id": 2015141,
+		"chain_name": "empty",
 		"network": "ton",
 		"native_currency": {
 			"symbol": "AVAX",
@@ -172,8 +172,8 @@
 		"name": "ton_testnet"
 	},
 	{
-		"chain_id": "103",
-		"chain_name": "Sui Testnet",
+		"chain_id": 103,
+		"chain_name": "empty",
 		"network": "sui",
 		"native_currency": {
 			"symbol": "TSUI",
