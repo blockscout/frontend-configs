@@ -107,5 +107,26 @@
       "137": "pol",
       "8453": "base"
     }
+  },
+  "goplus": {
+    "name": "GoPlus",
+    "url": "https://gopluslabs.io/token-security/{chainId}/{address}?utm_source=blockscout",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/goplus.svg",
+    "title": "Total Risks Detected",
+    "valuePath": "totalRisk",
+    "pages": ["token"],
+    "chainIds": {
+      "1": "eth",
+      "10": "opt",
+      "100": "gno",
+      "137": "pol",
+      "130": "uni",
+      "480": "world",
+      "1514": "story",
+      "1868": "sony",
+      "8453": "base",
+      "42161": "arb",
+      "534352": "scroll"
+    }
   }
 }
