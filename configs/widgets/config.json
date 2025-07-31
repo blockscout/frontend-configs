@@ -94,5 +94,18 @@
     "title": "Total Badges",
     "valuePath": "data.user_metrics.user_profile.user_badge_count",
     "pages": ["eoa"]
+  },
+    "bubblemaps": {
+    "name": "Bubblemaps",
+    "url": "https://app.bubblemaps.io/{chainId}/token/{address}?utm_source=blockscout",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/bubblemaps.svg",
+    "title": "Decentralization Score",
+    "valuePath": "decentralization_score",
+    "pages": ["token"],
+    "chainIds": {
+      "1": "eth",
+      "137": "pol",
+      "8453": "base"
+    }
   }
 }
