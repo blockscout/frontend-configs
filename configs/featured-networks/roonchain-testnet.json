@@ -1,0 +1,17 @@
+[
+   {
+      "title":"Roonchain Mainnet",
+      "url":"https://explorer.roonchain.com",
+      "group":"Mainnets",
+      "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/roonchain-short.svg",
+      "invertIconInDarkMode": true
+   },
+   {
+      "title":"Roonchain Testnet",
+      "url":"https://testnet.explorer.roonchain.com/",
+      "group":"Testnets",
+      "isActive":true,
+      "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/roonchain-short.svg",
+      "invertIconInDarkMode": true
+   }
+]
