@@ -3,9 +3,9 @@
     "name": "Talent Protocol",
     "url": "https://app.talentprotocol.com/{address}?utm_source=blockscout",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/talent_protocol.svg",
-    "title": "Builder Score",
-    "hint": "Builder Score is a numerical value that represents a user's reputation as an onchain builder",
-    "valuePath": "score.points",
+    "title": "Creator Score",
+    "hint": "Creator Score is a reputation system that recognizes and rewards the most impactful onchain creators",
+    "valuePath": "score[1].points",
     "pages": ["eoa"]
   },
   "efp": {
@@ -134,7 +134,7 @@
     "url": "https://www.gitpoap.io/p/{address}?utm_source=blockscout",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/gitpoap.svg",
     "title": "Total GitPOAPs",
-    "valuePath": "totalgitpoaps",
+    "valuePath": "length",
     "pages": ["eoa"]
   }
 }
