@@ -49,7 +49,8 @@
 	},
 	{
 		"chain_id": 80002,
-		"chain_name": "amoy_testnet",
+		"chain_name": "Polygon Amoy",
+		"chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/network-icons/polygon-amoy.svg",
 		"network": "polygon",
 		"native_currency": {
 			"symbol": "MATIC",
@@ -83,6 +84,7 @@
 		"chain_id": 901,
 		"chain_name": "solana_devnet",
 		"network": "solana",
+		"chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/network-icons/solana.svg",
 		"native_currency": {
 			"symbol": "SOL",
 			"decimals": 9
@@ -143,8 +145,9 @@
 	},
 	{
 		"chain_id": 43113,
-		"chain_name": "empty",
+		"chain_name": "Avalanche Fuji",
 		"network": "avalanche",
+		"chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/avalanche.png",
 		"native_currency": {
 			"symbol": "AVAX",
 			"decimals": 18
@@ -173,7 +176,8 @@
 	},
 	{
 		"chain_id": 103,
-		"chain_name": "empty",
+		"chain_name": "Sui",
+		"chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/sui.svg",
 		"network": "sui",
 		"native_currency": {
 			"symbol": "TSUI",
