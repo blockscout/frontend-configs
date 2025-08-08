@@ -1,0 +1,24 @@
+	{
+		"title": "Community",
+		"links": [{
+				"text": "Twitter",
+				"url": "https://x.com/RoonChain"
+			},
+			{
+				"text": "Discord",
+				"url": "https://discord.com/invite/roonchain"
+			},
+          {
+				"text": "Telegram",
+				"url": "https://t.me/RoonChain"
+			},
+           {
+				"text": "Medium",
+				"url": "https://medium.com/@RoonChain"
+			},
+           {
+				"text": "Website",
+				"url": "https://roonchain.com"
+			}
+		]
+	}
