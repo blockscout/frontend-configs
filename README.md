@@ -26,3 +26,7 @@ Preview state for these assets is not available. So, follow next steps:
 7. Create Pull Request in the Github UI from `<your-branch-name>` to `main` branch
 8. Wait until all checks are passed; make fixes if needed
 9. Merge Pull Request to `main` branch
+
+# How to convert JSON to a single string value for ENV variable value
+
+Run command in the terminal `node ./tools/json-converter/index.js <path-to-file>` and copy the output.
