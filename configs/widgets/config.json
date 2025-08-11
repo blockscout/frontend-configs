@@ -52,15 +52,6 @@
     "valuePath": "score",
     "pages": ["eoa"]
   },
-  "bankless": {
-    "name": "Bankless",
-    "url": "https://www.bankless.com/claimables/{address}?utm_source=blockscout",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/bankless.svg",
-    "title": "Claimables",
-    "hint": "Unclaimed airdrops, POAPs, governance rewards via Bankless Claimables — tracks eligible crypto assets across multiple chains",
-    "valuePath": "length",
-    "pages": ["eoa"]
-  },
   "blockscoutbadges": {
     "name": "Blockscout",
     "url": "https://merits.blockscout.com/?tab=badges&utm_source=blockscout",
@@ -135,6 +126,22 @@
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/gitpoap.svg",
     "title": "Total GitPOAPs",
     "valuePath": "length",
+    "pages": ["eoa"]
+  },
+    "kwikclaim": {
+    "name": "KwikClaim",
+    "url": "https://app.kwikclaim.com/opportunities/{address}?utm_source=blockscout",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/kwikclaim.svg",
+    "title": "Total Airdrop Opportunities",
+    "valuePath": "length",
+    "pages": ["eoa"]
+  },
+      "dropsbot": {
+    "name": "Drops",
+    "url": "https://www.drops.bot/address/{address}?utm_source=blockscout",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/drops.svg",
+    "title": "Total Airdrops Found",
+    "valuePath": "value",
     "pages": ["eoa"]
   }
 }
