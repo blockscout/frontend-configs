@@ -141,6 +141,7 @@
     "url": "https://www.drops.bot/address/{address}?utm_source=blockscout",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/drops.svg",
     "title": "Total Airdrops Found",
+    "hint": "Shows the amount in Dollars of airdrops found for the address. *Dollar amount not found",
     "valuePath": "value",
     "pages": ["eoa"]
   }
