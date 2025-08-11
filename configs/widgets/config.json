@@ -36,7 +36,7 @@
   },
   "deepdao": {
     "name": "DeepDAO",
-    "url": "https://deepdao.io/user/{address}/verified_dao_experience?utm_source=blockscout",
+    "url": "https://deepdao.io/?utm_source=blockscout",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/deepdao.svg",
     "title": "G-score rank",
     "hint": "G-score measures and ranks the governance activities of DAO People",
