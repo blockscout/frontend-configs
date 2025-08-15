@@ -144,5 +144,14 @@
     "hint": "Shows the amount in Dollars of airdrops found for the address. *Dollar amount not found",
     "valuePath": "value",
     "pages": ["eoa"]
+  },
+  "humanode": {
+    "name": "Humanode",
+    "url": "https://www.humancheck.app?utm_source=blockscout",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/humanode.svg",
+    "title": "Verified Human Status",
+    "hint": "Shows if a user has verified their humanity on Humanode",
+    "valuePath": "status",
+    "pages": ["eoa"]
   }
 }
