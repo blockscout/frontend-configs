@@ -1,7 +1,7 @@
 [
 	{
 		"chain_id": 97,
-		"chain_name": "bsc_testnet",
+		"chain_name": "BSC Testnet",
 		"chain_logo": "https://github.com/blockscout/frontend-configs/blob/c05daee91048cb63b1dddc4beb0b58c8e8e539ee/configs/network-icons/bsc-logo.svg",
 		"native_currency": {
 			"symbol": "BNB",
@@ -17,8 +17,9 @@
 	},
 	{
 		"chain_id": 7001,
-		"chain_name": "zeta_testnet",
+		"chain_name": "ZetaChain Testnet",
 		"network": "zeta",
+		"chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/network-icons/zetachain.svg",
 		"native_currency": {
 			"symbol": "tZETA",
 			"decimals": 18
@@ -82,7 +83,7 @@
 	},
 	{
 		"chain_id": 901,
-		"chain_name": "solana_devnet",
+		"chain_name": "Solana devnet",
 		"network": "solana",
 		"chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/network-icons/solana.svg",
 		"native_currency": {
@@ -98,8 +99,9 @@
 	},
 	{
 		"chain_id": 18333,
-		"chain_name": "empty",
+		"chain_name": "Bitcoin testnet",
 		"network": "btc",
+		"chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/network-icons/btc.svg",
 		"native_currency": {
 			"symbol": "tBTC",
 			"decimals": 8
@@ -113,8 +115,9 @@
 	},
 	{
 		"chain_id": 18334,
-		"chain_name": "empty",
+		"chain_name": "Bitcoin",
 		"network": "btc",
+		"chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/network-icons/btc.svg",
 		"native_currency": {
 			"symbol": "tBTC",
 			"decimals": 8
@@ -161,8 +164,9 @@
 	},
 	{
 		"chain_id": 2015141,
-		"chain_name": "empty",
+		"chain_name": "Avalanche",
 		"network": "ton",
+		"chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/avalanche.png",
 		"native_currency": {
 			"symbol": "AVAX",
 			"decimals": 18
