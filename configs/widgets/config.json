@@ -120,7 +120,7 @@
       "534352": "scroll"
     }
   },
-    "gitpoap": {
+  "gitpoap": {
     "name": "GitPOAP",
     "url": "https://www.gitpoap.io/p/{address}?utm_source=blockscout",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/gitpoap.svg",
@@ -128,7 +128,7 @@
     "valuePath": "length",
     "pages": ["eoa"]
   },
-    "kwikclaim": {
+  "kwik": {
     "name": "KwikClaim",
     "url": "https://app.kwikclaim.com/opportunities/{address}?utm_source=blockscout",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/kwikclaim.svg",
@@ -136,7 +136,7 @@
     "valuePath": "length",
     "pages": ["eoa"]
   },
-      "dropsbot": {
+  "drops": {
     "name": "Drops",
     "url": "https://www.drops.bot/address/{address}?utm_source=blockscout",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/drops.svg",
