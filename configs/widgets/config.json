@@ -34,15 +34,6 @@
       "42161": "arb"
     }
   },
-  "deepdao": {
-    "name": "DeepDAO",
-    "url": "https://deepdao.io/?utm_source=blockscout",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/deepdao.svg",
-    "title": "G-score rank",
-    "hint": "G-score measures and ranks the governance activities of DAO People",
-    "valuePath": "data.gScoreRanking",
-    "pages": ["eoa"]
-  },
   "humanpassport": {
     "name": "Human Passport",
     "url": "https://app.passport.xyz?utm_source=blockscout",
@@ -152,6 +143,15 @@
     "title": "Verified Human Status",
     "hint": "Shows if a user has verified their humanity on Humanode",
     "valuePath": "status",
+    "pages": ["eoa"]
+  },
+  "deepdao": {
+    "name": "DeepDAO",
+    "url": "https://deepdao.io/?utm_source=blockscout",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/deepdao.svg",
+    "title": "G-score rank",
+    "hint": "G-score measures and ranks the governance activities of DAO People",
+    "valuePath": "data.gScoreRanking",
     "pages": ["eoa"]
   }
 }
