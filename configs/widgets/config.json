@@ -5,7 +5,7 @@
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/talent_protocol.svg",
     "title": "Creator Score",
     "hint": "Creator Score is a reputation system that recognizes and rewards the most impactful onchain creators",
-    "valuePath": "score[1].points",
+    "valuePath": "score.points",
     "pages": ["eoa"]
   },
   "efp": {
