@@ -1,8 +1,8 @@
 [
 	{
-		"chainName": "Shibarium",
-		"chainId": "109",
-		"url": "https://www.shibariumscan.io/apps/smol-refuel?utm_source=multichain-landing&utm_medium=dappscout-feature",
+		"chainName": "Ethereum",
+		"chainId": "1",
+		"url": "https://eth.blockscout.com/apps/smol-refuel?utm_source=multichain-landing&utm_medium=dappscout-feature",
 		"name": "SmolRefuel",
 		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/SmolRefuel@1x.png",
 		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/SmolRefuel@2x.png"
@@ -48,9 +48,9 @@
 		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Quickswap@2x.png"
 	},
 	{
-		"chainName": "Berachain",
-		"chainId": "80094",
-		"url": "https://explorer.degen.tips/apps/proxyswap?utm_source=multichain-landing&utm_medium=dappscout-feature",
+		"chainName": "Ethereum",
+		"chainId": "1",
+		"url": "https://eth.blockscout.com/apps/revokescout?utm_source=multichain-landing&utm_medium=dappscout-feature",
 		"name": "Revokescout",
 		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Revokescout@1x.png",
 		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Revokescout@2x.png"
@@ -64,9 +64,9 @@
 		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/ShibaSwap@2x.png"
 	},
 	{
-		"chainName": "Blast",
-		"chainId": "81457",
-		"url": "https://blast.blockscout.com/apps/orbiter?utm_source=multichain-landing&utm_medium=dappscout-feature",
+		"chainName": "Soneium",
+		"chainId": "1868",
+		"url": "https://soneium.blockscout.com/apps/orbiter?utm_source=multichain-landing&utm_medium=dappscout-feature",
 		"name": "Orbiter",
 		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Orbiter@1x.webp",
 		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Orbiter@2x.webp"
