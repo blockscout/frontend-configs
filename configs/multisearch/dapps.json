@@ -64,9 +64,9 @@
 		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/ShibaSwap@2x.png"
 	},
 	{
-		"chainName": "Soneium",
-		"chainId": "1868",
-		"url": "https://soneium.blockscout.com/apps/orbiter?utm_source=multichain-landing&utm_medium=dappscout-feature",
+		"chainName": "Ethereum",
+		"chainId": "1",
+		"url": "https://eth.blockscout.com/apps/orbiter?utm_source=multichain-landing&utm_medium=dappscout-feature",
 		"name": "Orbiter",
 		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Orbiter@1x.webp",
 		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/multisearch/dappsIcons/Orbiter@2x.webp"
