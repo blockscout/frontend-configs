@@ -13,7 +13,9 @@
 		"consensus": "ethereum",
 		"is_external": true,
 		"cctx_gateway": "observers",
-		"name": "bsc_testnet"
+		"name": "bsc_testnet",
+		"tx_url_template": "https://testnet.bscscan.com/tx/{hash}",
+		"address_url_template":"https://testnet.bscscan.com/address/{hash}" 
 	},
 	{
 		"chain_id": 7001,
@@ -62,7 +64,9 @@
 		"consensus": "ethereum",
 		"is_external": true,
 		"cctx_gateway": "observers",
-		"name": "amoy_testnet"
+		"name": "amoy_testnet",
+		"tx_url_template": "https://amoy.polygonscan.com/tx/{hash}",
+		"address_url_template":"https://amoy.polygonscan.com/address/{hash}" 
 	},
 	{
 		"chain_id": 84532,
@@ -95,7 +99,9 @@
 		"consensus": "solana_consensus",
 		"is_external": true,
 		"cctx_gateway": "observers",
-		"name": "solana_devnet"
+		"name": "solana_devnet",
+		"tx_url_template": "https://explorer.solana.com/tx/{hash}?cluster=devnet",
+		"address_url_template":"https://explorer.solana.com/address/{hash}?cluster=devnet" 
 	},
 	{
 		"chain_id": 18333,
@@ -111,7 +117,9 @@
 		"consensus": "bitcoin",
 		"is_external": true,
 		"cctx_gateway": "observers",
-		"name": "btc_signet_testnet"
+		"name": "btc_signet_testnet",
+		"tx_url_template": "https://blockstream.info/testnet/tx/{hash}",
+		"address_url_template":"https://blockstream.info/testnet/address/{hash}" 
 	},
 	{
 		"chain_id": 18334,
@@ -127,7 +135,9 @@
 		"consensus": "bitcoin",
 		"is_external": true,
 		"cctx_gateway": "observers",
-		"name": "btc_testnet4"
+		"name": "btc_testnet4",
+		"tx_url_template": "https://blockstream.info/testnet/tx/{hash}",
+		"address_url_template":"https://blockstream.info/testnet/address/{hash}" 
 	},
 	{
 		"chain_id": 421614,
@@ -160,15 +170,17 @@
 		"consensus": "ethereum",
 		"is_external": true,
 		"cctx_gateway": "observers",
-		"name": "avalanche_testnet"
+		"name": "avalanche_testnet",
+		"tx_url_template": "https://testnet.snowtrace.io/tx/{hash}?chainid=43113",
+		"address_url_template":"https://testnet.snowtrace.io/address/{hash}" 
 	},
 	{
 		"chain_id": 2015141,
-		"chain_name": "Avalanche",
+		"chain_name": "TON Testnet",
 		"network": "ton",
-		"chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/avalanche.png",
+		"chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ton.svg",
 		"native_currency": {
-			"symbol": "AVAX",
+			"symbol": "TON",
 			"decimals": 18
 		},
 		"network_type": "testnet",
@@ -176,7 +188,9 @@
 		"consensus": "catchain_consensus",
 		"is_external": true,
 		"cctx_gateway": "observers",
-		"name": "ton_testnet"
+		"name": "ton_testnet",
+		"tx_url_template": "https://testnet.tonscan.org/tx/{hash}",
+		"address_url_template":"https://testnet.tonscan.org/address/{hash}" 
 	},
 	{
 		"chain_id": 103,
@@ -192,6 +206,8 @@
 		"consensus": "sui_consensus",
 		"is_external": true,
 		"cctx_gateway": "observers",
-		"name": "sui_testnet"
+		"name": "sui_testnet",
+		"tx_url_template": "https://suiscan.xyz/testnet/tx/{hash}",
+		"address_url_template":"https://suiscan.xyz/testnet/account/{hash}" 
 	}
 ]
