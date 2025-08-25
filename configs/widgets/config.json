@@ -142,7 +142,7 @@
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/humanode.svg",
     "title": "Verified Human Status",
     "hint": "Shows if a user has verified their humanity on Humanode",
-    "valuePath": "status",
+    "valuePath": "vresult",
     "pages": ["eoa"]
   },
   "deepdao": {
