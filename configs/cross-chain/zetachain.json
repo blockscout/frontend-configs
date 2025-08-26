@@ -100,8 +100,8 @@
 		"is_external": true,
 		"cctx_gateway": "observers",
 		"name": "solana_devnet",
-		"tx_url_template": "https://explorer.solana.com/tx/{hash}?cluster=devnet",
-		"address_url_template":"https://explorer.solana.com/address/{hash}?cluster=devnet" 
+		"tx_url_template": "https://solscan.io/tx/{hash}?cluster=devnet",
+		"address_url_template":"https://solscan.io/account/{hash}?cluster=devnet" 
 	},
 	{
 		"chain_id": 18333,
@@ -118,8 +118,8 @@
 		"is_external": true,
 		"cctx_gateway": "observers",
 		"name": "btc_signet_testnet",
-		"tx_url_template": "https://blockstream.info/testnet/tx/{hash}",
-		"address_url_template":"https://blockstream.info/testnet/address/{hash}" 
+		"tx_url_template": "https://mempool.space/signet/tx/{hash}",
+		"address_url_template":"https://mempool.space/signet/address/{hash}" 
 	},
 	{
 		"chain_id": 18334,
@@ -136,8 +136,8 @@
 		"is_external": true,
 		"cctx_gateway": "observers",
 		"name": "btc_testnet4",
-		"tx_url_template": "https://blockstream.info/testnet/tx/{hash}",
-		"address_url_template":"https://blockstream.info/testnet/address/{hash}" 
+		"tx_url_template": "https://mempool.space/testnet/tx/{hash}",
+		"address_url_template":"https://mempool.space/testnet/address/{hash}"
 	},
 	{
 		"chain_id": 421614,
