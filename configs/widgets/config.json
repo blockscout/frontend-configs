@@ -3,8 +3,8 @@
     "name": "Talent Protocol",
     "url": "https://app.talentprotocol.com/{address}?utm_source=blockscout",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/talent_protocol.svg",
-    "title": "Creator Score",
-    "hint": "Creator Score is a reputation system that recognizes and rewards the most impactful onchain creators",
+    "title": "Creator score",
+    "hint": "Creator score is a reputation system that recognizes and rewards the most impactful onchain creators",
     "valuePath": "score.points",
     "pages": ["eoa"]
   },
@@ -73,7 +73,7 @@
     "name": "Etherscore",
     "url": "https://beta.etherscore.network/{address}?utm_source=blockscout",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/etherscore.svg",
-    "title": "Total Badges",
+    "title": "Total badges",
     "valuePath": "data.user_metrics.user_profile.user_badge_count",
     "pages": ["eoa"]
   },
@@ -123,7 +123,7 @@
     "name": "KwikClaim",
     "url": "https://app.kwikclaim.com/opportunities/{address}?utm_source=blockscout",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/kwikclaim.svg",
-    "title": "Total Airdrop Opportunities",
+    "title": "Total airdrop opportunities",
     "valuePath": "length",
     "pages": ["eoa"]
   },
@@ -131,7 +131,7 @@
     "name": "Drops",
     "url": "https://www.drops.bot/address/{address}?utm_source=blockscout",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/drops.svg",
-    "title": "Total Airdrops Found",
+    "title": "Total airdrops found",
     "hint": "Shows the amount in Dollars of airdrops found for the address. *Dollar amount not found",
     "valuePath": "value",
     "pages": ["eoa"]
@@ -140,7 +140,7 @@
     "name": "Humanode",
     "url": "https://www.humancheck.app?utm_source=blockscout",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/humanode.svg",
-    "title": "Verified Human Status",
+    "title": "Verified human status",
     "hint": "Shows if a user has verified their humanity on Humanode",
     "valuePath": "vresult",
     "pages": ["eoa"]
