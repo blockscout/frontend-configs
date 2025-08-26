@@ -8,13 +8,55 @@
     "valuePath": "score.points",
     "pages": ["eoa"]
   },
-  "efp": {
+    "drops": {
+    "name": "Drops",
+    "url": "https://www.drops.bot/address/{address}?utm_source=blockscout",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/drops.svg",
+    "title": "Total airdrops found",
+    "hint": "Shows the amount in Dollars of airdrops found for the address. *Dollar amount not found",
+    "valuePath": "value",
+    "pages": ["eoa"]
+  },
+    "kwik": {
+    "name": "KwikClaim",
+    "url": "https://app.kwikclaim.com/opportunities/{address}?utm_source=blockscout",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/kwikclaim.svg",
+    "title": "Total airdrop opportunities",
+    "valuePath": "length",
+    "pages": ["eoa"]
+  },
+    "blockscoutbadges": {
+    "name": "Blockscout",
+    "url": "https://merits.blockscout.com/?tab=badges&utm_source=blockscout",
+    "icon": "https://cdn.prod.website-files.com/65f94dfd53db8b337c808067/686e6b14cd50a1ceede7c019_blockscout-widgets-logo.png",
+    "title": "Badges",
+    "hint": "All minted Blockscout badges for different activities",
+    "valuePath": "data",
+    "pages": ["eoa"]
+  },
+    "gitpoap": {
+    "name": "GitPOAP",
+    "url": "https://www.gitpoap.io/p/{address}?utm_source=blockscout",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/gitpoap.svg",
+    "title": "Total GitPOAPs",
+    "valuePath": "length",
+    "pages": ["eoa"]
+  },
+    "efp": {
     "name": "EFP",
     "url": "https://efp.app/{addressLowercase}?utm_source=blockscout",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/ethfollow.svg",
     "title": "Followers",
     "hint": "EFP is an onchain social graph protocol for Ethereum accounts that complements ENS",
     "valuePath": "followers_count",
+    "pages": ["eoa"]
+  },
+    "etherscore": {
+    "name": "Etherscore",
+    "url": "https://beta.etherscore.network/{address}?utm_source=blockscout",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/etherscore.svg",
+    "title": "Total badges",
+    "valuePath": "data.user_metrics.user_profile.user_badge_count",
     "pages": ["eoa"]
   },
   "webacy": {
@@ -43,15 +85,6 @@
     "valuePath": "score",
     "pages": ["eoa"]
   },
-  "blockscoutbadges": {
-    "name": "Blockscout",
-    "url": "https://merits.blockscout.com/?tab=badges&utm_source=blockscout",
-    "icon": "https://cdn.prod.website-files.com/65f94dfd53db8b337c808067/686e6b14cd50a1ceede7c019_blockscout-widgets-logo.png",
-    "title": "Badges",
-    "hint": "All minted Blockscout badges for different activities",
-    "valuePath": "data",
-    "pages": ["eoa"]
-  },
   "trustblock": {
     "name": "Trustblock",
     "url": "https://app.trustblock.run/?utm_source=blockscout&searchTerm={address}",   
@@ -68,14 +101,6 @@
     "title": "Complexity score",
     "valuePath": "data.complexity_score",
     "pages": ["contract", "token"]
-  },
-  "etherscore": {
-    "name": "Etherscore",
-    "url": "https://beta.etherscore.network/{address}?utm_source=blockscout",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/etherscore.svg",
-    "title": "Total badges",
-    "valuePath": "data.user_metrics.user_profile.user_badge_count",
-    "pages": ["eoa"]
   },
     "bubblemaps": {
     "name": "Bubblemaps",
@@ -110,31 +135,6 @@
       "42161": "arb",
       "534352": "scroll"
     }
-  },
-  "gitpoap": {
-    "name": "GitPOAP",
-    "url": "https://www.gitpoap.io/p/{address}?utm_source=blockscout",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/gitpoap.svg",
-    "title": "Total GitPOAPs",
-    "valuePath": "length",
-    "pages": ["eoa"]
-  },
-  "kwik": {
-    "name": "KwikClaim",
-    "url": "https://app.kwikclaim.com/opportunities/{address}?utm_source=blockscout",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/kwikclaim.svg",
-    "title": "Total airdrop opportunities",
-    "valuePath": "length",
-    "pages": ["eoa"]
-  },
-  "drops": {
-    "name": "Drops",
-    "url": "https://www.drops.bot/address/{address}?utm_source=blockscout",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/drops.svg",
-    "title": "Total airdrops found",
-    "hint": "Shows the amount in Dollars of airdrops found for the address. *Dollar amount not found",
-    "valuePath": "value",
-    "pages": ["eoa"]
   },
   "humanode": {
     "name": "Humanode",
