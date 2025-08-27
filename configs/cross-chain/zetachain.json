@@ -141,7 +141,7 @@
 	},
 	{
 		"chain_id": 421614,
-		"chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/arbitrum_sepolia.svg",
+		"chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/arbitrum-sepolia.svg",
 		"chain_name": "Arbitrum Sepolia",
 		"instance_url": "https://arbitrum-sepolia.blockscout.com/",
 		"native_currency": {
@@ -160,7 +160,7 @@
 		"chain_id": 43113,
 		"chain_name": "Avalanche Fuji",
 		"network": "avalanche",
-		"chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/avalanche.png",
+		"chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/avalanche.svg",
 		"native_currency": {
 			"symbol": "AVAX",
 			"decimals": 18
