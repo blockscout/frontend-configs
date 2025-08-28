@@ -2,7 +2,7 @@
 	{
 		"chain_id": 97,
 		"chain_name": "BSC Testnet",
-		"chain_logo": "https://github.com/blockscout/frontend-configs/blob/c05daee91048cb63b1dddc4beb0b58c8e8e539ee/configs/network-icons/bsc-logo.svg",
+		"chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/c05daee91048cb63b1dddc4beb0b58c8e8e539ee/configs/network-icons/bsc-logo.svg",
 		"native_currency": {
 			"symbol": "BNB",
 			"decimals": 18
