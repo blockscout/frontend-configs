@@ -42,6 +42,18 @@
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/rootstock-short.svg"
 	},
 	{
+		"title": "Soneium",
+		"url": "https://soneium.blockscout.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/soneium.svg"
+	},
+	{
+		"title": "Scroll",
+		"url": "https://scroll.blockscout.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/scroll.svg"
+	},
+	{
 		"title": "LightLink Phoenix",
 		"url": "https://phoenix.lightlink.io/",
 		"group": "Mainnets",
@@ -124,12 +136,6 @@
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/hemi.png"
 	},
 	{
-		"title": "View all",
-		"url": "https://chains.blockscout.com/",
-		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/blockscout.svg"
-	},
-	{
 		"title": "Sepolia",
 		"url": "https://eth-sepolia.blockscout.com/",
 		"group": "Testnets",
@@ -191,6 +197,18 @@
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/rootstock-short.svg"
 	},
 	{
+		"title": "Soneium Minato",
+		"url": "https://soneium-minato.blockscout.com/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/soneium.svg"
+	},
+	{
+		"title": "Scroll Sepolia",
+		"url": "https://scroll-sepolia.blockscout.com/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/scroll.svg"
+	},
+	{
 		"title": "LightLink Pegasus",
 		"url": "https://pegasus.lightlink.io/",
 		"group": "Testnets",
@@ -246,11 +264,5 @@
 		"group": "Testnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/mantle.png",
 		"invertIconInDarkMode": true
-	},
-	{
-		"title": "View all",
-		"url": "https://chains.blockscout.com/",
-		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/blockscout.svg"
 	}
 ]
