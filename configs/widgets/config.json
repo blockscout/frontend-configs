@@ -17,14 +17,6 @@
     "valuePath": "value",
     "pages": ["eoa"]
   },
-    "kwik": {
-    "name": "KwikClaim",
-    "url": "https://app.kwikclaim.com/opportunities/{address}?utm_source=blockscout",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/kwikclaim.svg",
-    "title": "Total airdrop opportunities",
-    "valuePath": "length",
-    "pages": ["eoa"]
-  },
     "blockscoutbadges": {
     "name": "Blockscout",
     "url": "https://merits.blockscout.com/?tab=badges&utm_source=blockscout",
