@@ -138,7 +138,7 @@
   },
   "humanode": {
     "name": "Humanode",
-    "url": "https://www.humancheck.app?utm_source=blockscout",
+    "url": "https://mainnet.biomapper.hmnd.app/dashboard?utm_source=blockscout",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/humanode.svg",
     "title": "Verified human status",
     "hint": "Shows if a user has verified their humanity on Humanode",
