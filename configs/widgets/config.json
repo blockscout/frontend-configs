@@ -1,7 +1,7 @@
 {
   "talentprotocol": {
     "name": "Talent Protocol",
-    "url": "https://app.talentprotocol.com/{address}?utm_source=blockscout",
+    "url": "https://www.creatorscore.app/{address}/stats?utm_source=blockscout",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/talent_protocol.svg",
     "title": "Creator score",
     "hint": "Creator score is a reputation system that recognizes and rewards the most impactful onchain creators",
