@@ -1,6 +1,6 @@
 {
 	"background": [
-		"no-repeat center/auto 100% url(https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-skins/mega-eth.png)"
+		"repeat center/auto 100% url(https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-skins/mega-eth.png)"
 	],
 	"text_color": ["rgba(255,255,255,0.8)"],
 	"search": {
