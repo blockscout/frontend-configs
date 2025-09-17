@@ -4,7 +4,8 @@
 		"url": "https://zetascan.com/",
 		"group": "Mainnets",
      	"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zetachain.svg",
-		"invertIconInDarkMode": true
+		"invertIconInDarkMode": true,
+		"isActive": true
 	},
 	{
 		"title": "ZetaChain testnet explorer",
@@ -12,6 +13,5 @@
 		"group": "Testnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zetachain.svg",
 		"invertIconInDarkMode": true,
-		"isActive": true
 	}
 ]
