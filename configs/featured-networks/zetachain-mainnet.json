@@ -1,17 +1,17 @@
 [
 	{
-		"title": "ZetaChain Mainnet",
-		"url": "https://zetascan.com/",
-		"group": "Mainnets",
-     	"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zetachain.svg",
-		"invertIconInDarkMode": true,
-		"isActive": true
+		"title":"ZetaChainMainnet",
+		"url":"https://zetascan.com/",
+		"group":"Mainnets",
+	    "icon":"https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zetachain.svg",
+		"invertIconInDarkMode":true
 	},
 	{
-		"title": "ZetaChain testnet explorer",
-		"url": "https://testnet.zetascan.com/",
-		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zetachain.svg",
-		"invertIconInDarkMode": true,
+		"title":"ZetaChaintestnetexplorer",
+		"url":"https://testnet.zetascan.com/",
+		"group":"Testnets",
+		"icon":"https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zetachain.svg",
+		"invertIconInDarkMode":true,
+		"isActive":true
 	}
 ]
