@@ -1,32 +1,17 @@
 [
 	{
-		"title": "Official Mainnet Explorer",
-		"url": "https://explorer.zetachain.com/",
+		"title": "ZetaChain Mainnet",
+		"url": "https://zetascan.com/",
 		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zetachain.svg",
-		"invertIconInDarkMode": true,
-		"isActive": false
+     	"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zetachain.svg",
+		"invertIconInDarkMode": true
 	},
 	{
-		"title": "Blockscout Mainnet Explorer",
-		"url": "https://zetachain.blockscout.com/",
-		"group": "Mainnets",
+		"title": "ZetaChain testnet explorer",
+		"url": "https://testnet.zetascan.com/",
+		"group": "Testnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zetachain.svg",
 		"invertIconInDarkMode": true,
 		"isActive": true
-	},
-	{
-		"title": "Official Testnet explorer",
-		"url": "https://athens.explorer.zetachain.com/",
-		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zetachain.svg",
-		"invertIconInDarkMode": true
-	},
-	{
-		"title": "Blockscout Athens-3 Explorer",
-		"url": "https://zetachain-athens-3.blockscout.com/",
-		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zetachain.svg",
-		"invertIconInDarkMode": true
 	}
 ]
