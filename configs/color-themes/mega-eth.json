@@ -2,7 +2,7 @@
 	"bg": {
 		"primary": {
 			"_light": {
-				"value": "rgba(254, 253, 253)"
+				"value": "rgba(250, 249, 249)"
 			},
 			"_dark": {
 				"value": "rgba(25, 25, 26)"
@@ -12,27 +12,27 @@
 	"text": {
 		"primary": {
 			"_light": {
-				"value": "rgba(16, 17, 18, 0.80)"
+				"value": "rgba(25, 25, 26)"
 			},
 			"_dark": {
-				"value": "rgba(222, 217, 217)"
+				"value": "rgba(236, 232, 232)"
 			}
 		},
 		"secondary": {
 			"_light": {
-				"value": "rgba(138, 136, 136)"
+				"value": "rgba(25, 25, 26)"
 			},
 			"_dark": {
-				"value": "rgba(133, 133, 133)"
+				"value": "rgba(223, 217, 217)"
 			}
 		}
 	},
 	"hover": {
 		"_light": {
-			"value": "rgba(104, 200, 158)"
+			"value": "rgba(245, 175, 148)"
 		},
 		"_dark": {
-			"value": "rgba(104, 200, 158)"
+			"value": "rgba(114, 215, 159)"
 		}
 	},
 	"selected": {
@@ -47,7 +47,7 @@
 			},
 			"bg": {
 				"_light": {
-					"value": "rgba(242, 239, 239)"
+					"value": "rgba(236, 232, 232)"
 				},
 				"_dark": {
 					"value": "rgba(255, 255, 255, 0.06)"
@@ -68,10 +68,10 @@
 	"icon": {
 		"primary": {
 			"_light": {
-				"value": "rgba(138, 136, 136)"
+				"value": "rgba(25, 25, 26)"
 			},
 			"_dark": {
-				"value": "rgba(133, 133, 133)"
+				"value": "rgba(223, 217, 217)"
 			}
 		},
 		"secondary": {
@@ -86,20 +86,20 @@
 	"button": {
 		"primary": {
 			"_light": {
-				"value": "rgba(105, 103, 103)"
+				"value": "rgba(25, 25, 26)"
 			},
 			"_dark": {
-				"value": "rgba(133, 133, 133)"
+				"value": "rgba(105, 103, 103)"
 			}
 		}
 	},
 	"link": {
 		"primary": {
 			"_light": {
-				"value": "rgba(57, 146, 108)"
+				"value": "rgba(25, 25, 26)"
 			},
 			"_dark": {
-				"value": "rgba(57, 146, 108)"
+				"value": "rgba(109, 208, 169)"
 			}
 		}
 	},
@@ -109,7 +109,7 @@
 				"value": "rgba(105, 103, 103)"
 			},
 			"_dark": {
-				"value": "rgba(57, 146, 108)"
+				"value": "rgba(109, 208, 169)"
 			}
 		},
 		"gradient": {
@@ -118,7 +118,7 @@
 					"value": "rgba(105, 103, 103, 0.3)"
 				},
 				"_dark": {
-					"value": "rgba(57, 146, 108, 0.3)"
+					"value": "rgba(109, 208, 169, 0.3)"
 				}
 			},
 			"stop": {
@@ -126,7 +126,7 @@
 					"value": "rgba(105, 103, 103, 0)"
 				},
 				"_dark": {
-					"value": "rgba(57, 146, 108, 0)"
+					"value": "rgba(109, 208, 169, 0)"
 				}
 			}
 		}
@@ -134,7 +134,7 @@
 	"stats": {
 		"bg": {
 			"_light": {
-				"value": "rgba(242, 239, 239)"
+				"value": "rgba(236, 232, 232)"
 			},
 			"_dark": {
 				"value": "rgba(255, 255, 255, 0.06)"
@@ -144,7 +144,7 @@
 	"topbar": {
 		"bg": {
 			"_light": {
-				"value": "rgba(242, 239, 239)"
+				"value": "rgba(236, 232, 232)"
 			},
 			"_dark": {
 				"value": "rgba(255, 255, 255, 0.06)"
@@ -165,7 +165,7 @@
 		"bg": {
 			"selected": {
 				"_light": {
-					"value": "rgba(242, 239, 239)"
+					"value": "rgba(236, 232, 232)"
 				},
 				"_dark": {
 					"value": "rgba(255, 255, 255, 0.06)"
@@ -180,7 +180,7 @@
 					"value": "rgba(25, 25, 26)"
 				},
 				"_dark": {
-					"value": "rgba(222, 217, 217)"
+					"value": "rgba(236, 232, 232)"
 				}
 			}
 		}
