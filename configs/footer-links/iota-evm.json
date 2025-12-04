@@ -1,118 +1,126 @@
 [
-	{
-		"title": "IOTA EVM",
-		"links": [
-			{
-				"text": "IOTA EVM",
-				"url": "https://explorer.evm.iota.org/"
-			},
-			{
-				"text": "Homepage",
-				"url": "https://www.iota.org/"
-			},
-			{
-				"text": "Technology",
-				"url": "https://www.iota.org/solutions/technologies"
-			},
-			{
-				"text": "Ecosystem",
-				"url": "https://www.iota.org/develop/ecosystem"
-			},
-			{
-				"text": "Blog",
-				"url": "https://blog.iota.org/"
-			}
-		]
-	},
-	{
-		"title": "Resources",
-		"links": [
-			{
-				"text": "Developer",
-				"url": "https://www.iota.org/get-started/for-developers"
-			},
-			{
-				"text": "Wiki",
-				"url": "https://wiki.iota.org/"
-			},
-			{
-				"text": "Touchpoint",
-				"url": "https://wiki.iota.org/get-started/programs/touchpoint/"
-			},
-			{
-				"text": "Firefly Shimmer Wallet",
-				"url": "https://firefly.iota.org/"
-			},
-			{
-				"text": "EVM Toolkit",
-				"url": " https://evm-toolkit.evm.iotaledger.net/"
-			}
-		]
-	},
-	{
-		"title": "Connect",
-		"links": [
-			{
-				"text": "Twitter",
-				"url": "https://twitter.com/iota"
-			},
-			{
-				"text": "Discord",
-				"url": "https://discord.iota.org/"
-			},
-			{
-				"text": "Linkedin",
-				"url": "https://www.linkedin.com/company/iotafoundation/"
-			},
-			{
-				"text": "Coinmarketcap",
-				"url": "https://coinmarketcap.com/community/profile/IOTA/"
-			},
-			{
-				"text": "Reddit",
-				"url": "https://www.reddit.com/r/Iota/"
-			},
-			{
-				"text": "Github",
-				"url": "https://github.com/iotaledger/"
-			}
-		]
-	},
-	{
-		"title": "Partners",
-		"links": [
-			{
-				"text": "MetaSuites",
-				"url": "https://blocksec.com/metasuites",
-				"iconUrl": [
-					"https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/footer-icons/metasuites.svg",
-					"https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/footer-icons/metasuites-dark.svg"
-				]
-			},
-			{
-				"text": "Sourcify",
-				"url": "https://sourcify.dev/",
-				"iconUrl": [
-					"https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/footer-icons/sourcify.svg",
-					"https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/footer-icons/sourcify-dark.svg"
-				]
-			},
-			{
-				"text": "DRPC",
-				"url": "https://drpc.org?ref=559183",
-				"iconUrl": [
-					"https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/footer-icons/drpc.svg",
-					"https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/footer-icons/drpc-dark.svg"
-				]
-			},
-			{
-				"text": "BlockSec",
-				"url": "https://blocksec.com/",
-				"iconUrl": [
-					"https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/footer-icons/blocksec.svg",
-					"https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/footer-icons/blocksec-dark.svg"
-				]
-			}
-		]
-	}
+  {
+    "title": "IOTA EVM",
+    "links": [
+      {
+        "text": "IOTA EVM",
+        "url": "https://explorer.evm.iota.org/"
+      },
+      {
+        "text": "Homepage",
+        "url": "https://www.iota.org/"
+      },
+      {
+        "text": "Technology",
+        "url": "https://www.iota.org/solutions/technologies"
+      },
+      {
+        "text": "Ecosystem",
+        "url": "https://www.iota.org/develop/ecosystem"
+      },
+      {
+        "text": "Blog",
+        "url": "https://blog.iota.org/"
+      }
+    ]
+  },
+  {
+    "title": "Resources",
+    "links": [
+      {
+        "text": "Developer",
+        "url": "https://www.iota.org/get-started/for-developers"
+      },
+      {
+        "text": "Wiki",
+        "url": "https://wiki.iota.org/"
+      },
+      {
+        "text": "Touchpoint",
+        "url": "https://wiki.iota.org/get-started/programs/touchpoint/"
+      },
+      {
+        "text": "Firefly Shimmer Wallet",
+        "url": "https://firefly.iota.org/"
+      },
+      {
+        "text": "EVM Toolkit",
+        "url": " https://evm-toolkit.evm.iotaledger.net/"
+      }
+    ]
+  },
+  {
+    "title": "Connect",
+    "links": [
+      {
+        "text": "Twitter",
+        "url": "https://twitter.com/iota"
+      },
+      {
+        "text": "Discord",
+        "url": "https://discord.iota.org/"
+      },
+      {
+        "text": "Linkedin",
+        "url": "https://www.linkedin.com/company/iotafoundation/"
+      },
+      {
+        "text": "Coinmarketcap",
+        "url": "https://coinmarketcap.com/community/profile/IOTA/"
+      },
+      {
+        "text": "Reddit",
+        "url": "https://www.reddit.com/r/Iota/"
+      },
+      {
+        "text": "Github",
+        "url": "https://github.com/iotaledger/"
+      }
+    ]
+  },
+  {
+    "title": "Partners",
+    "links": [
+      {
+        "text": "Sourcify",
+        "url": "https://sourcify.dev/",
+        "iconUrl": [
+          "https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/footer-icons/sourcify.svg",
+          "https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/footer-icons/sourcify-dark.svg"
+        ]
+      },
+      {
+        "text": "DRPC",
+        "url": "https://drpc.org?ref=559183",
+        "iconUrl": [
+          "https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/footer-icons/drpc.svg",
+          "https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/footer-icons/drpc-dark.svg"
+        ]
+      },
+      {
+        "text": "BlockSec",
+        "url": "https://blocksec.com/",
+        "iconUrl": [
+          "https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/footer-icons/blocksec.svg",
+          "https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/footer-icons/blocksec-dark.svg"
+        ]
+      },
+      {
+        "text": "OLI",
+        "url": "https://www.openlabelsinitiative.org?utm_source=blockscout",
+        "iconUrl": [
+          "https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/footer-icons/oli.svg",
+          "https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/footer-icons/oli-dark.svg"
+        ]
+      },
+      {
+        "text": "Growthepie",
+        "url": "https://www.growthepie.com?utm_source=blockscout",
+        "iconUrl": [
+          "https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/footer-icons/growthepie.svg",
+          "https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/footer-icons/growthepie-dark.svg"
+        ]
+      }
+    ]
+  }
 ]

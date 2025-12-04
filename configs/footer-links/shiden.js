@@ -1,0 +1,63 @@
+import partners from './common/partners.js'
+export default [
+  {
+    title: 'General',
+    links: [
+      {
+        text: 'Contact Us',
+        url: 'https://stake.co.jp/en/contact/',
+      },
+      {
+        text: 'Careers',
+        url: 'https://wellfound.com/company/astar-network',
+      },
+    ],
+  },
+  {
+    title: 'Repositories',
+    links: [
+      {
+        text: 'Astar (Plasm)',
+        url: 'https://github.com/AstarNetwork/Astar',
+      },
+      {
+        text: 'Plasm Lockdrop',
+        url: 'https://github.com/PlasmNetwork/lockdrop-ui',
+      },
+      {
+        text: 'Astar (Plasm) Documentation',
+        url: 'https://docs.astar.network/',
+      },
+      {
+        text: 'Astar (Plasm) Homepage',
+        url: 'https://astar.network/',
+      },
+    ],
+  },
+  {
+    title: 'Community',
+    links: [
+      {
+        text: 'Twitter',
+        url: 'https://twitter.com/ShidenNetwork',
+      },
+      {
+        text: 'Discord',
+        url: 'https://discord.com/invite/wMaGD52Pdb',
+      },
+      {
+        text: 'Telegram',
+        url: 'https://t.me/PlasmOfficial',
+      },
+      {
+        text: 'Medium',
+        url: 'https://medium.com/astar-network',
+      },
+      {
+        text: 'Whitepaper',
+        url: 'https://github.com/AstarNetwork/plasmdocs/blob/master/wp/en.pdf',
+      },
+    ],
+  },
+  partners,
+]
