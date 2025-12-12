@@ -24,12 +24,12 @@
 		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/Doodles1@2x.png"
 	},
 	{
-		"chainName": "Zora",
-		"chainId": "7777777",
-		"url": "https://explorer.zora.energy/token/0xDC41A43c425363Dc8dd368219417b76aFa12BA7a/instance/1?utm_source=multichain-landing&utm_medium=nfts-feature",
-		"name": "Blockscout Fren badge",
-		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/BSfren@1x.png",
-		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/BSfren@2x.png"
+		"chainName": "Ethereum",
+		"chainId": "1",
+		"url": "https://eth.blockscout.com/token/0xED5AF388653567Af2F388E6224dC7C4b3241C544?utm_source=multichain-landing&utm_medium=nfts-feature",
+		"name": "Azuki",
+		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/Azuki@1x.png",
+		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/Azuki@2x.png"
 	},
 	{
 		"chainName": "Base",
@@ -88,12 +88,12 @@
 		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/Miggles2@2x.png"
 	},
 	{
-		"chainName": "Zora",
-		"chainId": "7777777",
-		"url": "https://explorer.zora.energy/token/0xDC41A43c425363Dc8dd368219417b76aFa12BA7a/instance/1?utm_source=multichain-landing&utm_medium=nfts-feature",
-		"name": "BFarcaster OG",
-		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/Farcaster@1x.png",
-		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/Farcaster@2x.png"
+		"chainName": "Ethereum",
+		"chainId": "1",
+		"url": "https://eth.blockscout.com/token/0xb47e3cd837dDF8e4c57F05d70Ab865de6e193BBB?utm_source=multichain-landing&utm_medium=nfts-feature",
+		"name": "CryptoPunks",
+		"image1x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/Cryptopunks@1x.png",
+		"image2x": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/nft-images/Cryptopunks@2x.png"
 	},
 	{
 		"chainName": "Arbitrum",
