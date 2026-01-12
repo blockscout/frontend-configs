@@ -2,6 +2,7 @@
   {
     "id": "8021",
     "name": "Numine",
+    "logo": "https://imgproxy-mainnet.routescan.io/Q4nngby7mK8KK-lL-I8mgEvy-BvFyEmmVxHBncUg9_w/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvcm91dGVzY2FuLW5ldy41ZmY1OWI4M2MwZGEuc3Zn",
     "explorer_url": "https://numine.blockscout.com"
   },
   {
@@ -345,12 +346,6 @@
     "name": "Memoria",
     "logo": "https://imgproxy-mainnet.routescan.io/Q4nngby7mK8KK-lL-I8mgEvy-BvFyEmmVxHBncUg9_w/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvcm91dGVzY2FuLW5ldy41ZmY1OWI4M2MwZGEuc3Zn",
     "explorer_url": "https://avascan.info/blockchain/memoria"
-  },
-  {
-    "id": "8021",
-    "name": "Numine",
-    "logo": "https://imgproxy-mainnet.routescan.io/Q4nngby7mK8KK-lL-I8mgEvy-BvFyEmmVxHBncUg9_w/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvcm91dGVzY2FuLW5ldy41ZmY1OWI4M2MwZGEuc3Zn",
-    "explorer_url": "https://avascan.info/blockchain/numine"
   },
   {
     "id": "5040",

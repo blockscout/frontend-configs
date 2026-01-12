@@ -53,7 +53,22 @@ async function main() {
   const nonSupportedChains = await getNonSupportedChains()
 
   const json = JSON.stringify(
-    [...supportedChains, ...nonSupportedChains],
+    [
+      ...supportedChains.map((chain) => ({
+        ...chain,
+        logo:
+          chain.logo ??
+          nonSupportedChains.find(
+            (nonSupportedChain) => nonSupportedChain.id === chain.id
+          )?.logo,
+      })),
+      ...nonSupportedChains.filter(
+        (chain) =>
+          !supportedChains.some(
+            (supportedChain) => supportedChain.id === chain.id
+          )
+      ),
+    ],
     null,
     2
   )
