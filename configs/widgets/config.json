@@ -1,4 +1,25 @@
 {
+  "enscribe": {
+    "name": "Enscribe",
+    "url": "https://app.enscribe.xyz/nameContract?contract={address}&{chainId}&utm_source=blockscout",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/enscribe.svg",
+    "title": "Enscribe",
+    "hint": "Click to manage ENS names and metadata for smart contracts to improve discoverability and trust.",
+    "valuePath": "label",
+    "pages": ["contract"],
+    "chainIds": {
+      "1": "eth",
+      "11155111": "sep",
+      "10": "opt",
+      "11155420": "opt-testnet",
+      "8453": "base",
+      "845320": "base-testnet",
+      "42161": "arb",
+      "421614": "arb-testnet",
+      "534352": "scroll",
+      "534351": "scroll-testnet"
+    }
+  },
   "talentprotocol": {
     "name": "Talent Protocol",
     "url": "https://www.creatorscore.app/{address}/stats?utm_source=blockscout",
@@ -8,7 +29,7 @@
     "valuePath": "score.points",
     "pages": ["eoa"]
   },
-    "drops": {
+  "drops": {
     "name": "Drops",
     "url": "https://www.drops.bot/address/{address}?utm_source=blockscout",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/drops.svg",
@@ -17,7 +38,7 @@
     "valuePath": "value",
     "pages": ["eoa"]
   },
-    "kwik": {
+  "kwik": {
     "name": "KwikClaim",
     "url": "https://app.kwikclaim.com/opportunities/{address}?utm_source=blockscout",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/kwikclaim.svg",
@@ -25,7 +46,7 @@
     "valuePath": "length",
     "pages": ["eoa"]
   },
-    "blockscoutbadges": {
+  "blockscoutbadges": {
     "name": "Blockscout",
     "url": "https://merits.blockscout.com/?tab=badges&utm_source=blockscout",
     "icon": "https://cdn.prod.website-files.com/65f94dfd53db8b337c808067/686e6b14cd50a1ceede7c019_blockscout-widgets-logo.png",
@@ -34,7 +55,7 @@
     "valuePath": "data",
     "pages": ["eoa"]
   },
-    "gitpoap": {
+  "gitpoap": {
     "name": "GitPOAP",
     "url": "https://www.gitpoap.io/p/{address}?utm_source=blockscout",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/gitpoap.svg",
@@ -42,7 +63,7 @@
     "valuePath": "length",
     "pages": ["eoa"]
   },
-    "efp": {
+  "efp": {
     "name": "EFP",
     "url": "https://efp.app/{addressLowercase}?utm_source=blockscout",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/ethfollow.svg",
@@ -51,7 +72,7 @@
     "valuePath": "followers_count",
     "pages": ["eoa"]
   },
-    "etherscore": {
+  "etherscore": {
     "name": "Etherscore",
     "url": "https://beta.etherscore.network/{address}?utm_source=blockscout",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/etherscore.svg",
@@ -87,7 +108,7 @@
   },
   "trustblock": {
     "name": "Trustblock",
-    "url": "https://app.trustblock.run/?utm_source=blockscout&searchTerm={address}",   
+    "url": "https://app.trustblock.run/?utm_source=blockscout&searchTerm={address}",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/trustblock.svg",
     "title": "Audits",
     "hint": "Shows smart contract audits verified and recorded on-chain via Trustblock, a Web3 protocol for audit transparency",
@@ -102,7 +123,7 @@
     "valuePath": "data.complexity_score",
     "pages": ["contract", "token"]
   },
-    "bubblemaps": {
+  "bubblemaps": {
     "name": "Bubblemaps",
     "url": "https://app.bubblemaps.io/{chainId}/token/{address}?utm_source=blockscout",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/bubblemaps.svg",
