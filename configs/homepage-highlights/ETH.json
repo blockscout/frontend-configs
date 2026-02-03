@@ -38,7 +38,7 @@
       "linear-gradient(287deg, #D3E4FF 16.34%, #FEFEFF 55.42%, #DFE4FC 88.71%)",
       "linear-gradient(73deg, #1D2E4B 0.64%, #3B5A82 49.79%, #3378B0 98.93%)"
     ],
-    "page_path": "/account/merits?utm_source=blockscout&utm_medium=highlight-banner",
+    "redirect_url": "https://merits.blockscout.com?utm_source=highlights-banner&utm_medium=merits-banner",
     "side_img_url": [
       "https://blockscout-marketing-banners.s3.us-east-1.amazonaws.com/highlights-banners/%5Bhighlights-banner%5D__merits-promo__light.svg",
       "https://blockscout-marketing-banners.s3.us-east-1.amazonaws.com/highlights-banners/%5Bhighlights-banner%5D__merits-promo__dark.svg"
