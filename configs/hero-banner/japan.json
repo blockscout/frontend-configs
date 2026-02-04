@@ -1,0 +1,14 @@
+{
+  "background": [
+    "no-repeat center 100% url(https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-skins/japan.png)"
+  ],
+  "text_color": ["rgba(31,43,52)"],
+  "button": {
+    "_default": {
+      "background": ["rgba(63,193,153)"]
+    },
+    "_hover": {
+      "background": ["rgba(31,43,52)"]
+    }
+  }
+}

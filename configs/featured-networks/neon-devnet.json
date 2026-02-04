@@ -9,7 +9,7 @@
    {
       "title":"Neon Devnet",
       "url":"https://neon-devnet.blockscout.com/",
-      "group":"Testnets",
+      "group":"Mainnets",
      "isActive":true,
       "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/neon-short.svg",
       "invertIconInDarkMode": true

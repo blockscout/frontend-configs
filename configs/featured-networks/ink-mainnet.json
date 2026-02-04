@@ -1,0 +1,15 @@
+[
+	{
+		"title": "Ink Mainnet",
+		"url": "https://explorer.inkonchain.com",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ink.svg",
+		"isActive": true
+	},
+	{
+		"title": "Ink Sepolia",
+		"url": "https://explorer-sepolia.inkonchain.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ink.svg"
+	}
+]

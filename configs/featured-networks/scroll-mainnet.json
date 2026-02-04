@@ -1,0 +1,15 @@
+[
+	{
+		"title": "Scroll Mainnet",
+		"url": "https://scroll.blockscout.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/scroll.svg",
+		"isActive": true
+	},
+	{
+		"title": "Scroll Sepolia",
+		"url": "https://scroll-sepolia.blockscout.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/scroll.svg"
+	}
+]

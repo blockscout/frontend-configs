@@ -1,0 +1,122 @@
+{
+  "hover": {
+    "_light": {
+      "value": "rgba(255, 141, 215, 1)"
+    },
+    "_dark": {
+      "value": "rgba(255, 141, 215, 1)"
+    }
+  },
+  "selected": {
+    "control": {
+      "text": {
+        "_light": {
+          "value": "rgba(16, 17, 18, 1)"
+        },
+        "_dark": {
+          "value": "rgba(247, 250, 252, 1)"
+        }
+      },
+      "bg": {
+        "_light": {
+          "value": "rgba(228, 233, 234, 1)"
+        },
+        "_dark": {
+          "value": "rgba(255, 255, 255, 0.06)"
+        }
+      }
+    },
+    "option": {
+      "bg": {
+        "_light": {
+          "value": "rgba(16, 17, 18, 1)"
+        },
+        "_dark": {
+          "value": "rgba(97, 69, 87, 1)"
+        }
+      }
+    }
+  },
+  "button": {
+    "primary": {
+      "_light": {
+        "value": "rgba(217, 64, 164, 1)"
+      },
+      "_dark": {
+        "value": "rgba(217, 64, 164, 1)"
+      }
+    }
+  },
+  "link": {
+    "primary": {
+      "_light": {
+        "value": "rgba(217, 64, 164, 1)"
+      },
+      "_dark": {
+        "value": "rgba(217, 64, 164, 1)"
+      }
+    }
+  },
+  "graph": {
+    "line": {
+      "_light": {
+        "value": "rgba(239, 97, 180, 1)"
+      },
+      "_dark": {
+        "value": "rgba(239, 97, 180, 1)"
+      }
+    },
+    "gradient": {
+      "start": {
+        "_light": {
+          "value": "rgba(239, 97, 180, 0.3)"
+        },
+        "_dark": {
+          "value": "rgba(239, 97, 180, 0.3)"
+        }
+      },
+      "stop": {
+        "_light": {
+          "value": "rgba(239, 97, 180, 0)"
+        },
+        "_dark": {
+          "value": "rgba(239, 97, 180, 0)"
+        }
+      }
+    }
+  },
+  "navigation": {
+    "text": {
+      "selected": {
+        "_light": {
+          "value": "rgba(16, 17, 18, 1)"
+        },
+        "_dark": {
+          "value": "rgba(247, 250, 252, 1)"
+        }
+      }
+    },
+    "bg": {
+      "selected": {
+        "_light": {
+          "value": "rgba(228, 233, 234, 1)"
+        },
+        "_dark": {
+          "value": "rgba(255, 255, 255, 0.06)"
+        }
+      }
+    }
+  },
+  "tabs": {
+    "text": {
+      "primary": {
+        "_light": {
+          "value": "rgba(181, 181, 181, 1)"
+        },
+        "_dark": {
+          "value": "rgba(181, 181, 181, 1)"
+        }
+      }
+    }
+  }
+}

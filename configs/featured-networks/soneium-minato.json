@@ -1,0 +1,15 @@
+[
+    {
+        "title": "Soneium",
+        "url": "https://soneium.blockscout.com/",
+        "group": "Mainnets",
+        "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/soneium.svg"
+    },
+    {
+        "title": "Soneium Minato",
+        "url": "https://soneium-minato.blockscout.com/",
+        "group": "Testnets",
+        "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/soneium.svg",
+        "isActive": true
+    }
+]

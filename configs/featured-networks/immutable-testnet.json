@@ -2,13 +2,15 @@
 		"title": "Immutable",
 		"url": "https://explorer.immutable.com/",
 		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/immutable-short.svg"
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/immutable-short.svg",
+		"invertIconInDarkMode": true
 	},
 	{
 		"title": "Immutable Testnet",
 		"url": "https://explorer.testnet.immutable.com/",
-		"group": "Testnets",
+		"group": "Mainnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/immutable-short.svg",
+		"invertIconInDarkMode": true,
 		"isActive": true
 	}
 ]

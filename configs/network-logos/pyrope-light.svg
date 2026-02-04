@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 102 24">
+  <g clip-path="url(#pyrope-light_svg__a)">
+    <mask id="pyrope-light_svg__b" width="24" height="24" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+      <path fill="#fff" d="M24 0H0v24h24V0Z"/>
+    </mask>
+    <g fill="#CA3142" mask="url(#pyrope-light_svg__b)">
+      <path fill-rule="evenodd" d="M6.03 6.03v11.94h11.94V6.03H6.03ZM12 9.015H9.015v5.97h5.97v-5.97H12Z" clip-rule="evenodd"/>
+      <path fill-opacity=".25" d="M3.045 3.045V0h5.91v3.045h-5.91Zm12 0V0h5.91v3.045h-5.91ZM3.045 24v-3.045h5.91V24h-5.91Zm12 0v-3.045h5.91V24h-5.91ZM0 3.045h3.045v5.91H0v-5.91Zm0 12h3.045v5.91H0v-5.91Zm24-12h-3.045v5.91H24v-5.91Zm0 12h-3.045v5.91H24v-5.91Z"/>
+      <path fill-opacity=".5" fill-rule="evenodd" d="M9.015 3.045h-5.97v17.91h17.91V3.045H9.015Zm0 2.985H6.03v11.94h11.94V6.03H9.015Z" clip-rule="evenodd"/>
+    </g>
+    <path fill="#101112" fill-rule="evenodd" d="M41.8 8.6c0-2-1.6-3.6-3.6-3.6H33v14h2v-5.6h3.2c2 0 3.6-1.6 3.6-3.6V8.6Zm-2 0v1.2c0 .9-.7 1.6-1.6 1.6H35V7h3.2c.9 0 1.6.7 1.6 1.6ZM51.792 5h2v4.56l-3.4 4.46V19h-2v-4.98l-3.4-4.22V5h2v4.08l2.36 2.94h.04l2.4-3.14V5Zm11.372 8.26a3.57 3.57 0 0 0 2.62-3.46V8.6c0-2-1.6-3.6-3.6-3.6h-5.2v14h2v-5.6h2.06l2.54 5.6h2.2l-2.62-5.74Zm.62-4.66v1.2c0 .9-.7 1.6-1.6 1.6h-3.2V7h3.2c.9 0 1.6.7 1.6 1.6ZM74.177 19h-1.6c-1.98 0-3.6-1.64-3.6-3.62V8.6c0-2 1.62-3.6 3.6-3.6h1.6c2 0 3.6 1.6 3.6 3.6v6.78c0 1.98-1.6 3.62-3.6 3.62Zm0-2.02c.88 0 1.6-.72 1.6-1.6V8.6c0-.9-.7-1.6-1.6-1.6h-1.6c-.9 0-1.6.72-1.6 1.6v6.78c0 .88.72 1.6 1.6 1.6h1.6ZM89.769 8.6c0-2-1.6-3.6-3.6-3.6h-5.2v14h2v-5.6h3.2c2 0 3.6-1.6 3.6-3.6V8.6Zm-2 0v1.2c0 .9-.7 1.6-1.6 1.6h-3.2V7h3.2c.9 0 1.6.7 1.6 1.6ZM94.96 7h6.8V5h-8.8v14h8.8v-2h-6.8v-4.34h6v-2h-6V7Z" clip-rule="evenodd"/>
+  </g>
+  <defs>
+    <clipPath id="pyrope-light_svg__a">
+      <path fill="#fff" d="M0 0h102v24H0z"/>
+    </clipPath>
+  </defs>
+</svg>

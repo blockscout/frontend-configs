@@ -1,0 +1,17 @@
+[
+	{
+		"title": "Story",
+		"url": "https://www.storyscan.xyz/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/story.svg",
+		"isActive": true,
+		"invertIconInDarkMode": true
+	},
+	{
+		"title": "Story Aeneid",
+		"url": "https://aeneid.storyscan.xyz/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/story.svg",
+		"invertIconInDarkMode": true
+	}
+]

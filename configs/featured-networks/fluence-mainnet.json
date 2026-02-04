@@ -4,12 +4,14 @@
 		"url": "https://blockscout.mainnet.fluence.dev/",
 		"group": "Mainnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/fluence-light.svg",
+		"invertIconInDarkMode": true,
 		"isActive": true
 	},
 	{
 		"title": "Fluence Testnet",
 		"url": "https://blockscout.testnet.fluence.dev/",
 		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/fluence-light.svg"
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/fluence-light.svg",
+		"invertIconInDarkMode": true
 	}
 ]

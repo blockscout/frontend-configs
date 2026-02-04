@@ -1,0 +1,194 @@
+[
+    {
+        "chain_id": 1,
+        "chain_name": "Ethereum",
+        "chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/network-icons/ethereum.svg",
+        "instance_url": "https://eth.blockscout.com",	
+        "native_currency": {
+            "symbol": "BNB",
+            "decimals": 18
+        },
+        "network": "eth",
+        "network_type": "mainnet",
+        "vm": "evm",
+        "consensus": "ethereum",
+        "is_external": true,
+        "cctx_gateway": "observers",
+        "name": "eth_mainnet"
+    },
+    {
+        "chain_id": 56,
+        "chain_name": "BSC",
+        "chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/c05daee91048cb63b1dddc4beb0b58c8e8e539ee/configs/network-icons/bsc-logo.svg",
+        "native_currency": {
+            "symbol": "BNB",
+            "decimals": 18
+        },
+        "network": "bsc",
+        "network_type": "mainnet",
+        "vm": "evm",
+        "consensus": "ethereum",
+        "is_external": true,
+        "cctx_gateway": "observers",
+        "name": "bsc_mainnet",
+        "tx_url_template": "https://bscscan.com/tx/{hash}",
+		"address_url_template":"https://bscscan.com/address/{hash}" 
+    },
+    {
+        "chain_id": 8332,
+        "chain_name": "Bitcoin",
+        "chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/network-icons/btc.svg",
+		"native_currency": {
+			"symbol": "BTC",
+			"decimals": 8
+		},
+        "network": "btc",
+        "network_type": "mainnet",
+        "vm": "no_vm",
+        "consensus": "bitcoin",
+        "is_external": true,
+        "cctx_gateway": "observers",
+        "name": "btc_mainnet",
+        "tx_url_template": "https://mempool.space/tx/{hash}",
+		"address_url_template":"https://mempool.space/address/{hash}" 
+    },
+    {
+        "chain_id": 7000,
+        "chain_name": "Zetachain",
+        "chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/network-icons/zetachain.svg",
+		"native_currency": {
+			"symbol": "ZETA",
+			"decimals": 18
+		},
+        "network": "zeta",
+        "network_type": "mainnet",
+        "vm": "evm",
+        "consensus": "tendermint",
+        "is_external": false,
+        "cctx_gateway": "zevm",
+        "name": "zeta_mainnet"
+    },
+    {
+        "chain_id": 137,
+        "chain_name": "Polygon",
+        "chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/network-icons/polygon-short.svg",
+        "instance_url": "https://polygon.blockscout.com",		
+		"native_currency": {
+			"symbol": "MATIC",
+			"decimals": 18
+		},        
+        "network": "polygon",
+        "network_type": "mainnet",
+        "vm": "evm",
+        "consensus": "ethereum",
+        "is_external": true,
+        "cctx_gateway": "observers",
+        "name": "polygon_mainnet"
+    },
+    {
+        "chain_id": 8453,
+        "chain_name": "Base",
+        "chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/base.svg",
+		"instance_url": "https://base-sepolia.blockscout.com",
+		"native_currency": {
+			"symbol": "ETH",
+			"decimals": 18
+		},
+        "network": "base",
+        "network_type": "mainnet",
+        "vm": "evm",
+        "consensus": "ethereum",
+        "is_external": true,
+        "cctx_gateway": "observers",
+        "name": "base_mainnet"
+    },
+    {
+        "chain_id": 900,
+        "chain_name": "Solana",
+        "chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/network-icons/solana.svg",
+		"native_currency": {
+			"symbol": "SOL",
+			"decimals": 9
+		},
+        "network": "solana",
+        "network_type": "mainnet",
+        "vm": "svm",
+        "consensus": "solana_consensus",
+        "is_external": true,
+        "cctx_gateway": "observers",
+        "name": "solana_mainnet",
+        "tx_url_template": "https://solscan.io/tx/{hash}",
+		"address_url_template":"https://solscan.io/account/{hash}" 
+    },
+    {
+        "chain_id": 42161,
+        "chain_name": "Arbitrum One",
+        "chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/arbitrum-one-icon-light.svg",		
+		"instance_url": "https://arbitrum.blockscout.com/",        
+		"native_currency": {
+			"symbol": "ETH",
+			"decimals": 18
+		},
+        "network": "arbitrum",
+        "network_type": "mainnet",
+        "vm": "evm",
+        "consensus": "ethereum",
+        "is_external": true,
+        "cctx_gateway": "observers",
+        "name": "arbitrum_mainnet"
+    },
+    {
+        "chain_id": 43114,
+        "chain_name": "Avalanche",
+        "chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/avalanche.svg",
+		"native_currency": {
+			"symbol": "AVAX",
+			"decimals": 18
+		},
+        "network": "avalanche",
+        "network_type": "mainnet",
+        "vm": "evm",
+        "consensus": "ethereum",
+        "is_external": true,
+        "cctx_gateway": "observers",
+        "name": "avalanche_mainnet",
+        "tx_url_template": "https://snowtrace.io/tx/{hash}?chainid=43113",
+		"address_url_template":"https://snowtrace.io/address/{hash}" 
+    },
+    {
+        "chain_id": 105,
+        "chain_name": "SUI",
+        "chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/sui.svg",
+        "native_currency": {
+			"symbol": "TSUI",
+			"decimals": 18
+		},
+        "network": "sui",
+        "network_type": "mainnet",
+        "vm": "mvm_sui",
+        "consensus": "sui_consensus",
+        "is_external": true,
+        "cctx_gateway": "observers",
+        "name": "sui_mainnet",
+        "tx_url_template": "https://suiscan.xyz/mainnet/tx/{hash}",
+		"address_url_template":"https://suiscan.xyz/mainnet/account/{hash}" 
+    },
+    {
+        "chain_id": 2015140,
+        "chain_name": "TON",
+        "chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ton.svg",
+		"native_currency": {
+			"symbol": "TON",
+			"decimals": 18
+		},
+        "network": "ton",
+        "network_type": "mainnet",
+        "vm": "tvm",
+        "consensus": "catchain_consensus",
+        "is_external": true,
+        "cctx_gateway": "observers",
+        "name": "ton_mainnet",
+        "tx_url_template": "https://tonscan.org/tx/{hash}",
+		"address_url_template":"https://tonscan.org/address/{hash}" 
+    }
+]
