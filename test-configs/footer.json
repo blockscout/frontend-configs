@@ -1,0 +1,30 @@
+[
+    {
+    "title": "Partners",
+    "links": [
+      {
+        "text": "MetaSuites",
+        "url": "https://blocksec.com/metasuites"
+      },
+      {
+        "text": "Sourcify",
+        "url": "https://sourcify.dev/",
+        "iconUrl": [
+          "https://sourcify.dev/static/media/logo-rounded.954a486592f0d451905745d96a84c91d.svg"
+        ]
+      },
+      {
+        "text": "DRPC",
+        "url": "https://drpc.org?ref=559183"
+      },
+      {
+        "text": "BlockSec",
+        "url": "https://blocksec.com/",
+        "iconUrl": [
+          "https://img.cryptorank.io/coins/block_sec1665484619381.png",
+          "https://pbs.twimg.com/profile_images/1683846520272228352/kFkhG8Er_400x400.jpg"
+        ]
+      }
+    ]
+  }
+]

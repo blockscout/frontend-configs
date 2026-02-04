@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Your DeFi toolbox",
+    "description": "Simplify your DeFi with essential dapps",
+    "title_color": ["#101112", "#F8FCFF"],
+    "description_color": ["#616F83", "#CBD0D7"],
+    "background": [
+      "linear-gradient(83deg, #FDDCEF 0.08%, #FAF5FB 51.54%, #FFFBDB 104.15%)",
+      "linear-gradient(83deg, #4F2D6A 0.08%, #3D425A 51.54%, #3A6024 104.15%)"
+    ],
+    "page_path": "/apps?utm_source=blockscout&utm_medium=highlight-banner",
+    "side_img_url": [
+      "https://blockscout-marketing-banners.s3.us-east-1.amazonaws.com/highlights-banners/%5Bhighlights-banner%5D__essential-dapps__light.svg",
+      "https://blockscout-marketing-banners.s3.us-east-1.amazonaws.com/highlights-banners/%5Bhighlights-banner%5D__essential-dapps__dark.svg"
+    ]
+  },
+  {
+    "title": "Ready, Set, Launch",
+    "description": "Launch your explorer in under 10 minutes",
+    "title_color": ["#101112", "#F8FCFF"],
+    "description_color": ["#616F83", "#CBD0D7"],
+    "background": [
+      "linear-gradient(239deg, #E1F1FF 31.07%, #FBFBFF 66.76%, #F7E3FE 102.44%)",
+      "linear-gradient(239deg, #2F4F69 31.07%, #403C73 66.76%, #412A49 102.44%)"
+    ],
+    "redirect_url": "https://deploy.blockscout.com?utm_source=blockscout&utm_medium=highlight-banner",
+    "side_img_url": [
+      "https://blockscout-marketing-banners.s3.us-east-1.amazonaws.com/highlights-banners/%5Bhighlights-banner%5D__autoscout__light.svg",
+      "https://blockscout-marketing-banners.s3.us-east-1.amazonaws.com/highlights-banners/%5Bhighlights-banner%5D__autoscout__dark.svg"
+    ]
+  }
+]

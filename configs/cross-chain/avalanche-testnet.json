@@ -1,0 +1,524 @@
+[
+  {
+    "id": "43113",
+    "name": "C-Chain Fuji",
+    "logo": "https://imgproxy-testnet.routescan.io/pUZEJz4HqbCuCglHoQEa8GRcZ7zCRyumpoAaUnDCiFQ/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvQXZhbGFuY2hlQXZheC40N2JlNjJlOGFiZmYuc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/c"
+  },
+  {
+    "id": "432201",
+    "name": "Dexalot",
+    "logo": "https://imgproxy-testnet.routescan.io/7N_035PPjETftUQAXV0Bfx-NpLYf_gIMJX7x2SC_Z3U/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvNDMyMjAxX2xvZ28uNDk1ZDRiNjk1OWFkLnN2Zw",
+    "explorer_url": "https://testnet.avascan.info/blockchain/dexalot"
+  },
+  {
+    "id": "335",
+    "name": "DFK",
+    "logo": "https://imgproxy-testnet.routescan.io/yp20qwVkXK5YNT_Px_RqZO-Dlkn7jDOwjgb0EvTlQ30/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvMzM1X2xvZ28uOWE0ZWRkZTg1ZjllLnN2Zw",
+    "explorer_url": "https://testnet.avascan.info/blockchain/dfk"
+  },
+  {
+    "id": "3012",
+    "name": "PLAYA3ULL Games",
+    "logo": "https://imgproxy-testnet.routescan.io/cV4WZnAdY1eBePj5riJ9KBqmoWj92Nsj2eaY9D25Kmk/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvMzAxMl9sb2dvLmNlYTdjN2U1NmYzNS5zdmc",
+    "explorer_url": "https://testnet.avascan.info/blockchain/playa3ull"
+  },
+  {
+    "id": "3939",
+    "name": "DOS",
+    "logo": "https://imgproxy-testnet.routescan.io/y5TcHXRBbXiNkDxKpoT80qlg8NtAafn3EcpwLd2cFT4/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL0RPU19sb2dvX0NpcmNsZV80NDZkMDQwZjRmLnN2Zw",
+    "explorer_url": "https://testnet.avascan.info/blockchain/dos"
+  },
+  {
+    "id": "16",
+    "name": "Coston",
+    "logo": "https://imgproxy-testnet.routescan.io/aZBJ_oLM6uREebdt3ceb6acG_7t9i_rWk3hjSrn61Jw/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvMTZfbG9nby40Zjg4NzNlN2MxM2Yuc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/coston"
+  },
+  {
+    "id": "114",
+    "name": "Coston2",
+    "logo": "https://imgproxy-testnet.routescan.io/rSQmwS4N7j1oUc3KJ9XIOxE5UIPikGGCbQyvG_OLNoM/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvMTE0X2xvZ28uNzdiZDhkNzM1NDFiLnN2Zw",
+    "explorer_url": "https://testnet.avascan.info/blockchain/coston2"
+  },
+  {
+    "id": "88882",
+    "name": "Chiliz Spicy",
+    "logo": "https://imgproxy-testnet.routescan.io/JErSyL7xfKBedQ-u2Db0T3WNWwfbULkqCMatwWoJpoc/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvODg4ODJfbG9nby5kOWI4NzVjNDA0MWMuc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/chiliz"
+  },
+  {
+    "id": "167008",
+    "name": "Taiko Katla",
+    "logo": "https://imgproxy-testnet.routescan.io/g1HWrqB3B92s7dH8Su4CcZbHPRf2qNW8BQ5m0f-moDw/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvMTY3MDA4X2xvZ28uNzVjZTY3NWI3OGM1LnN2Zw",
+    "explorer_url": "https://testnet.avascan.info/blockchain/taiko-katla"
+  },
+  {
+    "id": "17000",
+    "name": "Holesky",
+    "logo": "https://imgproxy-testnet.routescan.io/aVBLLlMT7m6EkJoaddrIAfTUQt7neCdueAF8pGEBzXQ/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvMTExNTUxMTFfbG9nby4wZWM1ODZhMTczMTguc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/holesky"
+  },
+  {
+    "id": "80085",
+    "name": "Artio Testnet",
+    "logo": "https://imgproxy-testnet.routescan.io/lCsmI9VCZIoqTWNkAbHBiao7mVo528d8f9ZagL6A9Fs/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvODAwMDBfbG9nby4yZDU2YzdlYjc4ZWQuc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/artio-testnet"
+  },
+  {
+    "id": "11155111",
+    "name": "Sepolia",
+    "logo": "https://imgproxy-testnet.routescan.io/aVBLLlMT7m6EkJoaddrIAfTUQt7neCdueAF8pGEBzXQ/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvMTExNTUxMTFfbG9nby4wZWM1ODZhMTczMTguc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/sepolia"
+  },
+  {
+    "id": "168587773",
+    "name": "Blast Sepolia",
+    "logo": "https://imgproxy-testnet.routescan.io/SnlTS0JjxCcPwhgnquNYLrKIYHbYL4JdxprFsj83ShE/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvMTY4NTg3NzczX2xvZ28uZThiZjA3MWM5MDZiLnN2Zw",
+    "explorer_url": "https://testnet.avascan.info/blockchain/blast-testnet"
+  },
+  {
+    "id": "919",
+    "name": "Mode",
+    "logo": "https://imgproxy-testnet.routescan.io/p6cROrt9_v43AwTjcBgb8euDhJafDO-hAZsGWzpAme8/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvOTE5X2xvZ28uMjg1N2EyNDc3ZDU0LnN2Zw",
+    "explorer_url": "https://testnet.avascan.info/blockchain/mode"
+  },
+  {
+    "id": "4202",
+    "name": "Lisk",
+    "logo": "https://imgproxy-testnet.routescan.io/Ypa99ja3s0rBsa-YmZ9KqMfzZG9QywA6f15sOScsoJU/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvNDIwMl9sb2dvLjFlYzA2OGE5YmJmMC5zdmc",
+    "explorer_url": "https://testnet.avascan.info/blockchain/lisk"
+  },
+  {
+    "id": "4460",
+    "name": "Orderly",
+    "logo": "https://imgproxy-testnet.routescan.io/Si4BUz3FxOCdw_HXiAE8_INyUMBAubPe5O6nORPHEhA/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvNDQ2MF9sb2dvLjhkNzg5YTgxNTc5Ny5zdmc",
+    "explorer_url": "https://testnet.avascan.info/blockchain/orderly"
+  },
+  {
+    "id": "999999999",
+    "name": "Zora Sepolia",
+    "logo": "https://imgproxy-testnet.routescan.io/YvNad843Hro-_RWCtDllzb1v9Mt3AolxKTeFdvk36Vk/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvOTk5OTk5OTk5X2xvZ28uNTA5OGRiNjA2NzllLnN2Zw",
+    "explorer_url": "https://testnet.avascan.info/blockchain/zora"
+  },
+  {
+    "id": "49321",
+    "name": "GUNZ",
+    "logo": "https://imgproxy-testnet.routescan.io/iffkHg8FslS-gJ8zYKchMiIE7rIGcGlR9qgPiu_htD8/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvNDkzMjFfbG9nby4xNzgxYjAyMTFmNjAuc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/gunz"
+  },
+  {
+    "id": "779672",
+    "name": "Dispatch",
+    "logo": "https://imgproxy-testnet.routescan.io/cQVEMHqGz8YFu_astAurrtAPUUdLMD8IZsQOdYi9SHE/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvNzc5NjcyX2xvZ28uNmY0YjQxODlkNDRjLnN2Zw",
+    "explorer_url": "https://testnet.avascan.info/blockchain/dispatch"
+  },
+  {
+    "id": "173750",
+    "name": "Echo",
+    "logo": "https://imgproxy-testnet.routescan.io/xGoQfJGL4E6EgHoemw5ez0nOEK4-4Ha266rwIqDyDwI/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvMTczNzUwX2xvZ28uODUyMDEwNTU5MTg1LnN2Zw",
+    "explorer_url": "https://testnet.avascan.info/blockchain/echo"
+  },
+  {
+    "id": "28882",
+    "name": "Boba Sepolia",
+    "logo": "https://imgproxy-testnet.routescan.io/jXGUwIJOmS6nOiMrW-dQJoX58_b2DEQwKul6h-lZo_E/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvMjg4ODJfbG9nby5hMTM1OGM2Yjc0Y2Uuc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/boba-sepolia"
+  },
+  {
+    "id": "167009",
+    "name": "Taiko Hekla",
+    "logo": "https://imgproxy-testnet.routescan.io/-DcFWes5xwA_7dxQSTcFNMo2TZHuaz_QKU_MuzDcLPQ/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvMTY3MDA5X2xvZ28uMmE0MzRkZDA2NDQwLnN2Zw",
+    "explorer_url": "https://testnet.avascan.info/blockchain/taiko-hekla"
+  },
+  {
+    "id": "20241133",
+    "name": "Proxima",
+    "logo": "https://imgproxy-testnet.routescan.io/J0N2_1lUlwUzL8ndRjhCHtX7MA0JXXOPUIKB076qARc/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvMjAyNDExMzNfbG9nby44NGEzMjFmOWNhNjcuc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/proxima"
+  },
+  {
+    "id": "2522",
+    "name": "Fraxtal",
+    "logo": "https://imgproxy-testnet.routescan.io/z19RYofozazbDpaYaMMnTQBSDZZ6DPtvC1SpM5DppMo/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvMjUyMl9sb2dvLjE3ODdiZmUxODI5OC5zdmc",
+    "explorer_url": "https://testnet.avascan.info/blockchain/fraxtal"
+  },
+  {
+    "id": "84532",
+    "name": "Base Sepolia",
+    "logo": "https://imgproxy-testnet.routescan.io/pGmkLeGXc1LGd2BIxTTOdkHJGv-bRe0NvfppYe38mlU/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvODQ1MzJfbG9nby45NjcxZjkzY2YwZjIuc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/base"
+  },
+  {
+    "id": "11155420",
+    "name": "OP Sepolia",
+    "logo": "https://imgproxy-testnet.routescan.io/tTB1HDmdgh2vCqGunx-eUlRBLl7WGcbu6Rt_YD8A2Cs/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvMTExNTU0MjBfbG9nby5lNDkxYjJiNDI4Zjguc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/optimism"
+  },
+  {
+    "id": "1687",
+    "name": "Mint Sepolia",
+    "logo": "https://imgproxy-testnet.routescan.io/geW4Yaw-6mwEv_luh6CA2Pv_mbTnB7Zbl6Eak7uyp3Q/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvMTY4N19sb2dvLjM1MmNhMGI4YjE5OC5zdmc",
+    "explorer_url": "https://testnet.avascan.info/blockchain/mint"
+  },
+  {
+    "id": "80008",
+    "name": "Polynomial Sepolia",
+    "logo": "https://imgproxy-testnet.routescan.io/rMY0--ezV8WkOqvjhvFePp4ib6rlvjS0Mhz6mmH5FgQ/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvODAwMDhfbG9nby44ZDJlMzNjNzM5Y2Uuc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/polynomial"
+  },
+  {
+    "id": "164_4",
+    "name": "Nomina",
+    "logo": "https://imgproxy-testnet.routescan.io/NL92kAtGlnvys9iX9Ldz9OpwlktJVK49T_ZfsXsFqSs/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvMTY0XzRfbG9nby43ZmU5Y2ZmYWExMmMuc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/nomina"
+  },
+  {
+    "id": "2233",
+    "name": "Chainbase",
+    "logo": "https://imgproxy-testnet.routescan.io/6w2STj4imcToLQOdAtVtqf_7TFhqWxjw6EJVmptuICQ/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvMjIzM19sb2dvLjhlMTgxMjI3ZTliYS5zdmc",
+    "explorer_url": "https://testnet.avascan.info/blockchain/chainbase"
+  },
+  {
+    "id": "153_2",
+    "name": "Redbelly",
+    "logo": "https://imgproxy-testnet.routescan.io/ridhe_CPyoUNZjUybr_4_6q7tE1M3eiu3q-F9pfs-bY/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvMTUzXzJfbG9nby4zZTI0MzRkYWQ1ZGIuc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/redbelly"
+  },
+  {
+    "id": "421614",
+    "name": "Arbitrum Sepolia",
+    "logo": "https://imgproxy-testnet.routescan.io/YwrH5fZoNUwbf5FCXFpPZCQmPHWBp0CHfvOUcQW155k/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvNDIxNjE0X2xvZ28uNWZlODgwYzNlM2QzLnN2Zw",
+    "explorer_url": "https://testnet.avascan.info/blockchain/arbitrum"
+  },
+  {
+    "id": "10888",
+    "name": "GameSwift",
+    "logo": "https://imgproxy-testnet.routescan.io/ljds1Kwk46B8Po7WnrZHhSS2gr5jPYh09Wmed6y4PEw/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvMTA4ODhfbG9nby40ZTM2ODk4NjJhOGUuc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/gameswift"
+  },
+  {
+    "id": "1946",
+    "name": "Minato",
+    "logo": "https://imgproxy-testnet.routescan.io/tGt3q4PX7Dwd4GF2gA3n0f-aqUhyalYo3ep0haKXXnI/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvMTk0Nl9sb2dvLjU1Y2Y0ZTNjZWE3ZS5zdmc",
+    "explorer_url": "https://testnet.avascan.info/blockchain/minato"
+  },
+  {
+    "id": "70805_2",
+    "name": "Cloud",
+    "logo": "https://imgproxy-testnet.routescan.io/0VphiDRDan78JBr4ncHpSBT1qnQqPHgWSRQQSrOeRvY/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvNzA4MDBfbG9nby5lNjEzMGU5ZWNlZjQuc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/cloud"
+  },
+  {
+    "id": "70800",
+    "name": "Barret",
+    "logo": "https://imgproxy-testnet.routescan.io/0VphiDRDan78JBr4ncHpSBT1qnQqPHgWSRQQSrOeRvY/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvNzA4MDBfbG9nby5lNjEzMGU5ZWNlZjQuc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/barret"
+  },
+  {
+    "id": "555666",
+    "name": "Eclipse",
+    "logo": "https://imgproxy-testnet.routescan.io/fIDPEKUwUOiwHbhetXqz5-7hvBDkU-0fpQgOPRImG6Y/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvNTU1NjY2X2xvZ28uMjhiMGVlNzhmMTE5LnN2Zw",
+    "explorer_url": "https://testnet.avascan.info/blockchain/eclipse"
+  },
+  {
+    "id": "1301",
+    "name": "Unichain",
+    "logo": "https://imgproxy-testnet.routescan.io/dU0r_iZjpQpw6M4hj_gmzuqlE6uKAFU5wIRnyFllftg/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvMTMwMV9sb2dvLmZkODY0YjdhMzA5NC5zdmc",
+    "explorer_url": "https://testnet.avascan.info/blockchain/unichain"
+  },
+  {
+    "id": "763373",
+    "name": "Ink",
+    "logo": "https://imgproxy-testnet.routescan.io/M3CZ8LORkKQTSboOUstnKKVbboVRYl4uqtrHPGyEsr4/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvNzYzMzczX2xvZ28uMDc3NTA5MzIwMzRmLnN2Zw",
+    "explorer_url": "https://testnet.avascan.info/blockchain/ink"
+  },
+  {
+    "id": "3636",
+    "name": "Botanix",
+    "logo": "https://imgproxy-testnet.routescan.io/doMFW_Ri2p3_GBBkzWXefKcJiPL4hyRH_I8I43brQyc/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvYm90YW5peF9sb2dvLjNjYWUyZjEwZTk3OC5zdmc",
+    "explorer_url": "https://testnet.avascan.info/blockchain/botanix"
+  },
+  {
+    "id": "2037",
+    "name": "Kiwi",
+    "logo": "https://imgproxy-testnet.routescan.io/iv0B0xNtyks49-0WqC_psBF2P-W7a68YZqaKSJpa7YI/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvMjAzN19sb2dvLjZiOWMyM2NmNDBjZi5zdmc",
+    "explorer_url": "https://testnet.avascan.info/blockchain/kiwi"
+  },
+  {
+    "id": "21000001",
+    "name": "Corn",
+    "logo": "https://imgproxy-testnet.routescan.io/1mJSApbFl9FfKi-AW4uxVQRP7SsAHi7bsoGCbV2Fjjw/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvMjEwMDAwMDFfbG9nby5kMjczYmU3MGI4Y2Quc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/corn"
+  },
+  {
+    "id": "48795",
+    "name": "Space",
+    "logo": "https://imgproxy-testnet.routescan.io/SPgsc9ELmApcGjmyR2IH2oMAtMe52B2HDNJvAbM5Ey8/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvNDg3OTVfbG9nby5kYzA3ZjJhZDg2ODguc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/space"
+  },
+  {
+    "id": "420120000",
+    "name": "Alpha 0",
+    "logo": "https://imgproxy-testnet.routescan.io/9uNSt0cvXHRZsTsQwy0wURkXL_08Vybxc0yqkvK5P-c/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvcm91dGVzY2FuLjQzMmRmOWM4MGRkNy5zdmc",
+    "explorer_url": "https://testnet.avascan.info/blockchain/alpha0"
+  },
+  {
+    "id": "420120001",
+    "name": "Alpha 1",
+    "logo": "https://imgproxy-testnet.routescan.io/9uNSt0cvXHRZsTsQwy0wURkXL_08Vybxc0yqkvK5P-c/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvcm91dGVzY2FuLjQzMmRmOWM4MGRkNy5zdmc",
+    "explorer_url": "https://testnet.avascan.info/blockchain/alpha1"
+  },
+  {
+    "id": "53302",
+    "name": "Superseed",
+    "logo": "https://imgproxy-testnet.routescan.io/MQaQssrNfbuvBd-PVPbYc_CUdLKY7M5L6TwY2aCyLzs/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvNTMzMDJfbG9nby40Njg1OWM0M2Y3MTguc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/superseed"
+  },
+  {
+    "id": "6911",
+    "name": "Nibiru Testnet-2",
+    "logo": "https://imgproxy-testnet.routescan.io/B0XyuO7NnzSAHpIkczClPsJ0trn8FmBr4qzcmSyIwCM/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvNjkxMV9sb2dvLjRkY2RhNDViZTRjOS5zdmc",
+    "explorer_url": "https://testnet.avascan.info/blockchain/nibiru-2"
+  },
+  {
+    "id": "80069",
+    "name": "Berachain bepolia",
+    "logo": "https://imgproxy-testnet.routescan.io/lCsmI9VCZIoqTWNkAbHBiao7mVo528d8f9ZagL6A9Fs/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvODAwMDBfbG9nby4yZDU2YzdlYjc4ZWQuc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/berachain-bepolia"
+  },
+  {
+    "id": "5115",
+    "name": "Citrea",
+    "logo": "https://imgproxy-testnet.routescan.io/7BbJZzD-ylwwztu7pL5sfUElHvcOVXdVkviR1JXfFJU/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvNTExNV9sb2dvLmFkZjU3YzgyMzc1NS5zdmc",
+    "explorer_url": "https://testnet.avascan.info/blockchain/citrea"
+  },
+  {
+    "id": "76736",
+    "name": "Hiss",
+    "logo": "https://imgproxy-testnet.routescan.io/hH2guk15PyRiPoD-hTuiMBTYf0sP9ofMZOqhyBBI5aA/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvNzY3MzZfbG9nby5mYmEwNTBlY2VhMDEuc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/hiss"
+  },
+  {
+    "id": "560048",
+    "name": "Hoodi",
+    "logo": "https://imgproxy-testnet.routescan.io/PACeHkE1w-HwyAcH0SOVqvX5MlbZclA2rsOPgqhCMXc/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2V0aGVyZXVtX2ViODk5MDZlNWIucG5n",
+    "explorer_url": "https://testnet.avascan.info/blockchain/hoodi"
+  },
+  {
+    "id": "132008",
+    "name": "BitcoinL1",
+    "logo": "https://imgproxy-testnet.routescan.io/F58MUlVuRWG5xcZSqd_1SzkN2eTU5vLX26IIliuXuEk/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvYnRjTDFfc3VibmV0LmQxNmZhYzVmZTIwOS5wbmc",
+    "explorer_url": "https://testnet.avascan.info/blockchain/bitcoinl1"
+  },
+  {
+    "id": "420420421",
+    "name": "Westend",
+    "logo": "https://imgproxy-testnet.routescan.io/xEhmQJ5YgGnhsJdw60GbVzhLCkDoxsdZrNa4QXXTt54/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvd2VzdGVuZF9jaGFpbi4zMzg3ZTBhYTY4ZTkuc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/westend"
+  },
+  {
+    "id": "47208",
+    "name": "Armada",
+    "logo": "https://imgproxy-testnet.routescan.io/Q4nngby7mK8KK-lL-I8mgEvy-BvFyEmmVxHBncUg9_w/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvcm91dGVzY2FuLW5ldy41ZmY1OWI4M2MwZGEuc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/armada"
+  },
+  {
+    "id": "13337",
+    "name": "Beam",
+    "logo": "https://imgproxy-testnet.routescan.io/socd5RDJUt-ug-C5H7sQHON7l-bCQXACqFppmEREWeM/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvNDMzN190b2tlbi5mY2I3ZWZjZDNiOTguc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/beam"
+  },
+  {
+    "id": "69696",
+    "name": "Ceden",
+    "logo": "https://imgproxy-testnet.routescan.io/Q4nngby7mK8KK-lL-I8mgEvy-BvFyEmmVxHBncUg9_w/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvcm91dGVzY2FuLW5ldy41ZmY1OWI4M2MwZGEuc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/ceden"
+  },
+  {
+    "id": "53188",
+    "name": "DSRV2",
+    "logo": "https://imgproxy-testnet.routescan.io/Q4nngby7mK8KK-lL-I8mgEvy-BvFyEmmVxHBncUg9_w/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvcm91dGVzY2FuLW5ldy41ZmY1OWI4M2MwZGEuc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/dsrv2"
+  },
+  {
+    "id": "55197",
+    "name": "Egmtester",
+    "logo": "https://imgproxy-testnet.routescan.io/Q4nngby7mK8KK-lL-I8mgEvy-BvFyEmmVxHBncUg9_w/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvcm91dGVzY2FuLW5ldy41ZmY1OWI4M2MwZGEuc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/egmtester"
+  },
+  {
+    "id": "21816",
+    "name": "Frqtal",
+    "logo": "https://imgproxy-testnet.routescan.io/Q4nngby7mK8KK-lL-I8mgEvy-BvFyEmmVxHBncUg9_w/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvcm91dGVzY2FuLW5ldy41ZmY1OWI4M2MwZGEuc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/frqtal"
+  },
+  {
+    "id": "4227",
+    "name": "Hashfire",
+    "logo": "https://imgproxy-testnet.routescan.io/Q4nngby7mK8KK-lL-I8mgEvy-BvFyEmmVxHBncUg9_w/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvcm91dGVzY2FuLW5ldy41ZmY1OWI4M2MwZGEuc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/hashfire"
+  },
+  {
+    "id": "54414",
+    "name": "Innovomark",
+    "logo": "https://imgproxy-testnet.routescan.io/Q4nngby7mK8KK-lL-I8mgEvy-BvFyEmmVxHBncUg9_w/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvcm91dGVzY2FuLW5ldy41ZmY1OWI4M2MwZGEuc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/innovomark"
+  },
+  {
+    "id": "59932",
+    "name": "Insomnia",
+    "logo": "https://imgproxy-testnet.routescan.io/Q4nngby7mK8KK-lL-I8mgEvy-BvFyEmmVxHBncUg9_w/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvcm91dGVzY2FuLW5ldy41ZmY1OWI4M2MwZGEuc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/insomnia"
+  },
+  {
+    "id": "11227",
+    "name": "Jiritsutes",
+    "logo": "https://imgproxy-testnet.routescan.io/Q4nngby7mK8KK-lL-I8mgEvy-BvFyEmmVxHBncUg9_w/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvcm91dGVzY2FuLW5ldy41ZmY1OWI4M2MwZGEuc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/jiritsutes"
+  },
+  {
+    "id": "378",
+    "name": "Koroshi",
+    "logo": "https://imgproxy-testnet.routescan.io/Q4nngby7mK8KK-lL-I8mgEvy-BvFyEmmVxHBncUg9_w/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvcm91dGVzY2FuLW5ldy41ZmY1OWI4M2MwZGEuc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/koroshi"
+  },
+  {
+    "id": "59409",
+    "name": "Lifeaiv1",
+    "logo": "https://imgproxy-testnet.routescan.io/Q4nngby7mK8KK-lL-I8mgEvy-BvFyEmmVxHBncUg9_w/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvcm91dGVzY2FuLW5ldy41ZmY1OWI4M2MwZGEuc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/lifeaiv1"
+  },
+  {
+    "id": "7894",
+    "name": "Mintus",
+    "logo": "https://imgproxy-testnet.routescan.io/Q4nngby7mK8KK-lL-I8mgEvy-BvFyEmmVxHBncUg9_w/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvcm91dGVzY2FuLW5ldy41ZmY1OWI4M2MwZGEuc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/mintus"
+  },
+  {
+    "id": "79685",
+    "name": "Modex",
+    "logo": "https://imgproxy-testnet.routescan.io/Q4nngby7mK8KK-lL-I8mgEvy-BvFyEmmVxHBncUg9_w/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvcm91dGVzY2FuLW5ldy41ZmY1OWI4M2MwZGEuc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/modex"
+  },
+  {
+    "id": "13576",
+    "name": "Mythgames",
+    "logo": "https://imgproxy-testnet.routescan.io/Q4nngby7mK8KK-lL-I8mgEvy-BvFyEmmVxHBncUg9_w/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvcm91dGVzY2FuLW5ldy41ZmY1OWI4M2MwZGEuc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/mythgames"
+  },
+  {
+    "id": "5039",
+    "name": "Onigiri",
+    "logo": "https://imgproxy-testnet.routescan.io/Q4nngby7mK8KK-lL-I8mgEvy-BvFyEmmVxHBncUg9_w/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvcm91dGVzY2FuLW5ldy41ZmY1OWI4M2MwZGEuc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/onigiri"
+  },
+  {
+    "id": "987",
+    "name": "Orange",
+    "logo": "https://imgproxy-testnet.routescan.io/Q4nngby7mK8KK-lL-I8mgEvy-BvFyEmmVxHBncUg9_w/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvcm91dGVzY2FuLW5ldy41ZmY1OWI4M2MwZGEuc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/orange"
+  },
+  {
+    "id": "62831",
+    "name": "Plyr",
+    "logo": "https://imgproxy-testnet.routescan.io/Q4nngby7mK8KK-lL-I8mgEvy-BvFyEmmVxHBncUg9_w/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvcm91dGVzY2FuLW5ldy41ZmY1OWI4M2MwZGEuc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/plyr"
+  },
+  {
+    "id": "2038",
+    "name": "Shrapnel",
+    "logo": "https://imgproxy-testnet.routescan.io/Q4nngby7mK8KK-lL-I8mgEvy-BvFyEmmVxHBncUg9_w/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvcm91dGVzY2FuLW5ldy41ZmY1OWI4M2MwZGEuc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/shrapnel"
+  },
+  {
+    "id": "3278",
+    "name": "Soshi",
+    "logo": "https://imgproxy-testnet.routescan.io/wkS3ndG-SifCmf01eNfP4LMUdeDGUrTdK12Wf3bX6Tk/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvMzI3OF9sb2dvLjBiNDg0NGNhNzM2Mi5zdmc",
+    "explorer_url": "https://testnet.avascan.info/blockchain/soshi"
+  },
+  {
+    "id": "210815",
+    "name": "Stavax",
+    "logo": "https://imgproxy-testnet.routescan.io/Q4nngby7mK8KK-lL-I8mgEvy-BvFyEmmVxHBncUg9_w/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvcm91dGVzY2FuLW5ldy41ZmY1OWI4M2MwZGEuc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/stavax"
+  },
+  {
+    "id": "24010",
+    "name": "Stealthnet",
+    "logo": "https://imgproxy-testnet.routescan.io/Q4nngby7mK8KK-lL-I8mgEvy-BvFyEmmVxHBncUg9_w/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvcm91dGVzY2FuLW5ldy41ZmY1OWI4M2MwZGEuc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/stealthnet"
+  },
+  {
+    "id": "56400",
+    "name": "Zeroone",
+    "logo": "https://imgproxy-testnet.routescan.io/Q4nngby7mK8KK-lL-I8mgEvy-BvFyEmmVxHBncUg9_w/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvcm91dGVzY2FuLW5ldy41ZmY1OWI4M2MwZGEuc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/zeroone"
+  },
+  {
+    "id": "723107",
+    "name": "Tixchain",
+    "logo": "https://imgproxy-testnet.routescan.io/Q4nngby7mK8KK-lL-I8mgEvy-BvFyEmmVxHBncUg9_w/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvcm91dGVzY2FuLW5ldy41ZmY1OWI4M2MwZGEuc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/tixchain"
+  },
+  {
+    "id": "3084",
+    "name": "XL Network",
+    "logo": "https://imgproxy-testnet.routescan.io/3CVmrQ-OScYiNUo5o_6PwOyybUMBUhcd7Ibdipak5ek/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIveGxuZXR3b3JrX3N1Ym5ldC5iZDAzNGQ2YmU4ZjQucG5n",
+    "explorer_url": "https://testnet.avascan.info/blockchain/xlnetworkt"
+  },
+  {
+    "id": "97433",
+    "name": "Growth",
+    "logo": "https://imgproxy-testnet.routescan.io/Q4nngby7mK8KK-lL-I8mgEvy-BvFyEmmVxHBncUg9_w/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvcm91dGVzY2FuLW5ldy41ZmY1OWI4M2MwZGEuc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/growth"
+  },
+  {
+    "id": "79554",
+    "name": "Lucid",
+    "logo": "https://imgproxy-testnet.routescan.io/Q4nngby7mK8KK-lL-I8mgEvy-BvFyEmmVxHBncUg9_w/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvcm91dGVzY2FuLW5ldy41ZmY1OWI4M2MwZGEuc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/lucid"
+  },
+  {
+    "id": "9746_5",
+    "name": "Plasma",
+    "logo": "https://imgproxy-testnet.routescan.io/3ifloTd2YwJ85YQncNA68XAh_yuYRFq2dhmpySUYUaY/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvcGxhc21hX2xvZ28uMWVkNGEyYWU1NmZhLnN2Zw",
+    "explorer_url": "https://testnet.avascan.info/blockchain/plasma"
+  },
+  {
+    "id": "14174",
+    "name": "Pecorino",
+    "logo": "https://imgproxy-testnet.routescan.io/36aF8LL2SGEDRfXE86TIbPvPzfGvXCb7WZno7Vm4x0g/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvQ2hhaW4tcGVjb3Jpbm9fdGVzdG5ldC43NWE5YmQ0YjA1YTQuc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/pecorino"
+  },
+  {
+    "id": "5278000",
+    "name": "JSC Kaigan",
+    "logo": "https://imgproxy-testnet.routescan.io/SJ7XP5JPeIbIMV4zPL2BqlHv8-4Slc_f9EpEs3hhoFs/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvSlNDSWNvbi4zZjE5NzlmMzMyZjQuc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/jsckaigan"
+  },
+  {
+    "id": "420420417",
+    "name": "PaseoHub",
+    "logo": "https://imgproxy-testnet.routescan.io/xEhmQJ5YgGnhsJdw60GbVzhLCkDoxsdZrNa4QXXTt54/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvd2VzdGVuZF9jaGFpbi4zMzg3ZTBhYTY4ZTkuc3Zn",
+    "explorer_url": "https://testnet.avascan.info/blockchain/paseohub"
+  },
+  {
+    "id": "531050204",
+    "name": "Sophon OS Testnet",
+    "logo": "https://imgproxy-testnet.routescan.io/4n-RKrN516aX6YR8GGouFug1XUplXAH4CfUn9q5nm4M/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvc29waG9uNTAxMDQuNjM1OGY2NWZhYzdmLnN2Zw",
+    "explorer_url": "https://testnet.avascan.info/blockchain/sophon-os"
+  },
+  {
+    "id": "531050104",
+    "name": "Sophon",
+    "logo": "https://imgproxy-testnet.routescan.io/4n-RKrN516aX6YR8GGouFug1XUplXAH4CfUn9q5nm4M/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvc29waG9uNTAxMDQuNjM1OGY2NWZhYzdmLnN2Zw",
+    "explorer_url": "https://testnet.avascan.info/blockchain/sophon"
+  },
+  {
+    "id": "3945",
+    "name": "Nexus III",
+    "logo": "https://imgproxy-testnet.routescan.io/R1YzIx7ULT4icAtskD4MFEBeDWd4ThpyzpWDVXVCdnY/pr:thumb_64/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvMzkzX2xvZ28uMTliMmU0OTUxYjMyLnN2Zw",
+    "explorer_url": "https://testnet.avascan.info/blockchain/nexus3"
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "title": "Warpx",
+    "description": "High-performance DEX built on MegaETH",
+    "title_color": ["#FFB8D4", "#FFB8D4"],
+    "description_color": ["#CBD0D7", "#CBD0D7"],
+    "background": ["#4A0D25", "#4A0D25"],
+    "redirect_url": "https://www.warpx.exchange/?utm_source=blockscout&utm_medium=highlight-banner",
+    "side_img_url": ["https://blockscout-marketing-banners.s3.us-east-1.amazonaws.com/highlights-banners/%5Bhighlights-banner%5D__warpx.svg"]
+  },
+  {
+    "title": "Blackhaven",
+    "description": "Treasury powered liquidity",
+    "title_color": ["#D9FE41", "#D9FE41"],
+    "description_color": ["#CBD0D7", "#CBD0D7"],
+    "background": ["#06331B", "#06331B"],
+    "redirect_url": "https://blackhaven.xyz?utm_source=blockscout&utm_medium=highlight-banner",
+    "side_img_url": [
+      "https://blockscout-marketing-banners.s3.us-east-1.amazonaws.com/highlights-banners/%5Bhighlights-banner%5D__blackhaven.svg"
+    ]
+  },
+  {
+    "title": "Stomp",
+    "description": "Super techy onchain monster pvp",
+    "title_color": ["#D8EFFF", "#D8EFFF"],
+    "description_color": ["#CBD0D7", "#CBD0D7"],
+    "background": ["#2D318E", "#2D318E"],
+    "redirect_url": "https://stomp.gg?utm_source=blockscout&utm_medium=highlight-banner",
+    "side_img_url": ["https://blockscout-marketing-banners.s3.us-east-1.amazonaws.com/highlights-banners/%5Bhighlights-banner%5D__stomp.svg"]
+  },
+  {
+    "title": "Kumbaya",
+    "description": "Cult formation venue. Adoption papers",
+    "title_color": ["#FFB8B9", "#FFB8B9"],
+    "description_color": ["#CBD0D7", "#CBD0D7"],
+    "background": ["#811512", "#811512"],
+    "redirect_url": "https://www.kumbaya.xyz/?utm_source=blockscout&utm_medium=highlight-banner",
+    "side_img_url": ["https://blockscout-marketing-banners.s3.us-east-1.amazonaws.com/highlights-banners/%5Bhighlights-banner%5D__kumbaya.svg"]
+  },
+  {
+    "title": "Showdown",
+    "description": "An on-chain and physical trading card game",
+    "title_color": ["#FFB8B9", "#FFB8B9"],
+    "description_color": ["#CBD0D7", "#CBD0D7"],
+    "background": ["#B00E0A", "#B00E0A"],
+    "redirect_url": "https://www.showdown.game/?utm_source=blockscout&utm_medium=highlight-banner",
+    "side_img_url": ["https://blockscout-marketing-banners.s3.us-east-1.amazonaws.com/highlights-banners/%5Bhighlights-banner%5D__showdown.svg"]
+  },
+  {
+    "title": "Nectar AI",
+    "description": "Experience onchain real-time fantasies",
+    "title_color": ["#FF5959", "#FF5959"],
+    "description_color": ["#CBD0D7", "#CBD0D7"],
+    "background": ["#111111", "#111111"],
+    "redirect_url": "https://nectar.ai/?utm_source=blockscout&utm_medium=highlight-banner",
+    "side_img_url": ["https://blockscout-marketing-banners.s3.us-east-1.amazonaws.com/highlights-banners/%5Bhighlights-banner%5D__nectar-ai.svg"]
+  },
+  {
+    "title": "Euphoria",
+    "description": "A mobile-first derivatives trading platform",
+    "title_color": ["#FFB8D4", "#FFB8D4"],
+    "description_color": ["#CBD0D7", "#CBD0D7"],
+    "background": ["#2B2EBD", "#2B2EBD"],
+    "redirect_url": "https://euphoria.finance/?utm_source=blockscout&utm_medium=highlight-banner",
+    "side_img_url": ["https://blockscout-marketing-banners.s3.us-east-1.amazonaws.com/highlights-banners/%5Bhighlights-banner%5D__euphoria.svg"]
+  },
+  {
+    "title": "Cap",
+    "description": "Stablecoin protocol with cUSD and yield stcUSD",
+    "title_color": ["#D9FE41", "#D9FE41"],
+    "description_color": ["#CBD0D7", "#CBD0D7"],
+    "background": ["#5B6521", "#5B6521"],
+    "redirect_url": "https://cap.app/?utm_source=blockscout&utm_medium=highlight-banner",
+    "side_img_url": ["https://blockscout-marketing-banners.s3.us-east-1.amazonaws.com/highlights-banners/%5Bhighlights-banner%5D__cap.svg"]
+  },
+  {
+    "title": "Benchmark",
+    "description": "Onchain credit and risk layer for institutions",
+    "title_color": ["#09D8A0", "#09D8A0"],
+    "description_color": ["#CBD0D7", "#CBD0D7"],
+    "background": ["#006958", "#006958"],
+    "redirect_url": "https://www.benchmark.finance/?utm_source=blockscout&utm_medium=highlight-banner",
+    "side_img_url": ["https://blockscout-marketing-banners.s3.us-east-1.amazonaws.com/highlights-banners/%5Bhighlights-banner%5D__benchmark.svg"]
+  },
+  {
+    "title": "Avon",
+    "description": "The first real-time credit layer",
+    "title_color": ["#FFFFFF", "#FFFFFF"],
+    "description_color": ["#CBD0D7", "#CBD0D7"],
+    "background": ["#292929", "#292929"],
+    "redirect_url": "https://www.avon.xyz/?utm_source=blockscout&utm_medium=highlight-banner",
+    "side_img_url": ["https://blockscout-marketing-banners.s3.us-east-1.amazonaws.com/highlights-banners/%5Bhighlights-banner%5D__avon.svg"]
+  },
+  {
+    "title": "World Capital Markets",
+    "description": "The culmination of 5000 years of Financial History",
+    "title_color": ["#FFFFFF", "#FFFFFF"],
+    "description_color": ["#CBD0D7", "#CBD0D7"],
+    "background": ["#292929", "#292929"],
+    "redirect_url": "https://www.wcm.inc/?utm_source=blockscout&utm_medium=highlight-banner",
+    "side_img_url": ["https://blockscout-marketing-banners.s3.us-east-1.amazonaws.com/highlights-banners/%5Bhighlights-banner%5D__world-capital-markets.svg"]
+  },
+  {
+    "title": "BRIX",
+    "description": "Emerging markets yield onchain",
+    "title_color": ["#FFFFFF", "#FFFFFF"],
+    "description_color": ["#CBD0D7", "#CBD0D7"],
+    "background": ["#292929", "#292929"],
+    "redirect_url": "https://www.brix.money/?utm_source=blockscout&utm_medium=highlight-banner",
+    "side_img_url": ["https://blockscout-marketing-banners.s3.us-east-1.amazonaws.com/highlights-banners/%5Bhighlights-banner%5D__brix.svg"]
+  },
+  {
+    "title": "Ave Forge",
+    "description": "The crypto arena where mechs clash and players",
+    "title_color": ["#FFA4D4", "#FFA4D4"],
+    "description_color": ["#CBD0D7", "#CBD0D7"],
+    "background": ["#3C2D8E", "#3C2D8E"],
+    "redirect_url": "https://www.aveforge.gg/?utm_source=blockscout&utm_medium=highlight-banner",
+    "side_img_url": ["https://blockscout-marketing-banners.s3.us-east-1.amazonaws.com/highlights-banners/%5Bhighlights-banner%5D__ave-forge.svg"]
+  }
+]

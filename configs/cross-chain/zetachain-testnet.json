@@ -1,0 +1,213 @@
+[
+	{
+		"chain_id": 97,
+		"chain_name": "BSC Testnet",
+		"chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/c05daee91048cb63b1dddc4beb0b58c8e8e539ee/configs/network-icons/bsc-logo.svg",
+		"native_currency": {
+			"symbol": "BNB",
+			"decimals": 18
+		},
+		"network": "bsc",
+		"network_type": "testnet",
+		"vm": "evm",
+		"consensus": "ethereum",
+		"is_external": true,
+		"cctx_gateway": "observers",
+		"name": "bsc_testnet",
+		"tx_url_template": "https://testnet.bscscan.com/tx/{hash}",
+		"address_url_template":"https://testnet.bscscan.com/address/{hash}" 
+	},
+	{
+		"chain_id": 7001,
+		"chain_name": "ZetaChain Testnet",
+		"network": "zeta",
+		"chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/network-icons/zetachain.svg",
+		"native_currency": {
+			"symbol": "tZETA",
+			"decimals": 18
+		},
+		"network_type": "testnet",
+		"vm": "evm",
+		"consensus": "tendermint",
+		"is_external": false,
+		"cctx_gateway": "zevm",
+		"name": "zeta_testnet"
+	},
+	{
+		"chain_id": 11155111,
+		"chain_name": "Sepolia Testnet",
+		"chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/sepolia.png",
+		"instance_url": "https://eth-sepolia.blockscout.com",
+		"native_currency": {
+			"symbol": "ETH",
+			"decimals": 18
+		},
+		"network": "eth",
+		"network_type": "testnet",
+		"vm": "evm",
+		"consensus": "ethereum",
+		"is_external": true,
+		"cctx_gateway": "observers",
+		"name": "sepolia_testnet"
+	},
+	{
+		"chain_id": 80002,
+		"chain_name": "Polygon Amoy",
+		"chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/network-icons/polygon-amoy.svg",
+		"network": "polygon",
+		"native_currency": {
+			"symbol": "MATIC",
+			"decimals": 18
+		},
+		"network_type": "testnet",
+		"vm": "evm",
+		"consensus": "ethereum",
+		"is_external": true,
+		"cctx_gateway": "observers",
+		"name": "amoy_testnet",
+		"tx_url_template": "https://amoy.polygonscan.com/tx/{hash}",
+		"address_url_template":"https://amoy.polygonscan.com/address/{hash}" 
+	},
+	{
+		"chain_id": 84532,
+		"chain_name": "Base Sepolia",
+		"chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/base.svg",
+		"instance_url": "https://base-sepolia.blockscout.com",
+		"native_currency": {
+			"symbol": "ETH",
+			"decimals": 18
+		},
+		"network": "base",
+		"network_type": "testnet",
+		"vm": "evm",
+		"consensus": "ethereum",
+		"is_external": true,
+		"cctx_gateway": "observers",
+		"name": "base_sepolia"
+	},
+	{
+		"chain_id": 901,
+		"chain_name": "Solana devnet",
+		"network": "solana",
+		"chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/network-icons/solana.svg",
+		"native_currency": {
+			"symbol": "SOL",
+			"decimals": 9
+		},
+		"network_type": "testnet",
+		"vm": "svm",
+		"consensus": "solana_consensus",
+		"is_external": true,
+		"cctx_gateway": "observers",
+		"name": "solana_devnet",
+		"tx_url_template": "https://solscan.io/tx/{hash}?cluster=devnet",
+		"address_url_template":"https://solscan.io/account/{hash}?cluster=devnet" 
+	},
+	{
+		"chain_id": 18333,
+		"chain_name": "Bitcoin testnet",
+		"network": "btc",
+		"chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/network-icons/btc.svg",
+		"native_currency": {
+			"symbol": "tBTC",
+			"decimals": 8
+		},
+		"network_type": "testnet",
+		"vm": "no_vm",
+		"consensus": "bitcoin",
+		"is_external": true,
+		"cctx_gateway": "observers",
+		"name": "btc_signet_testnet",
+		"tx_url_template": "https://mempool.space/signet/tx/{hash}",
+		"address_url_template":"https://mempool.space/signet/address/{hash}" 
+	},
+	{
+		"chain_id": 18334,
+		"chain_name": "Bitcoin",
+		"network": "btc",
+		"chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/network-icons/btc.svg",
+		"native_currency": {
+			"symbol": "tBTC",
+			"decimals": 8
+		},
+		"network_type": "testnet",
+		"vm": "no_vm",
+		"consensus": "bitcoin",
+		"is_external": true,
+		"cctx_gateway": "observers",
+		"name": "btc_testnet4",
+		"tx_url_template": "https://mempool.space/testnet/tx/{hash}",
+		"address_url_template":"https://mempool.space/testnet/address/{hash}"
+	},
+	{
+		"chain_id": 421614,
+		"chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/arbitrum-sepolia.svg",
+		"chain_name": "Arbitrum Sepolia",
+		"instance_url": "https://arbitrum-sepolia.blockscout.com/",
+		"native_currency": {
+			"symbol": "ETH",
+			"decimals": 18
+		},
+		"network": "arbitrum",
+		"network_type": "testnet",
+		"vm": "evm",
+		"consensus": "ethereum",
+		"is_external": true,
+		"cctx_gateway": "observers",
+		"name": "arbitrum_sepolia"
+	},
+	{
+		"chain_id": 43113,
+		"chain_name": "Avalanche Fuji",
+		"network": "avalanche",
+		"chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/avalanche.svg",
+		"native_currency": {
+			"symbol": "AVAX",
+			"decimals": 18
+		},
+		"network_type": "testnet",
+		"vm": "evm",
+		"consensus": "ethereum",
+		"is_external": true,
+		"cctx_gateway": "observers",
+		"name": "avalanche_testnet",
+		"tx_url_template": "https://testnet.snowtrace.io/tx/{hash}?chainid=43113",
+		"address_url_template":"https://testnet.snowtrace.io/address/{hash}" 
+	},
+	{
+		"chain_id": 2015141,
+		"chain_name": "TON Testnet",
+		"network": "ton",
+		"chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ton.svg",
+		"native_currency": {
+			"symbol": "TON",
+			"decimals": 18
+		},
+		"network_type": "testnet",
+		"vm": "tvm",
+		"consensus": "catchain_consensus",
+		"is_external": true,
+		"cctx_gateway": "observers",
+		"name": "ton_testnet",
+		"tx_url_template": "https://testnet.tonscan.org/tx/{hash}",
+		"address_url_template":"https://testnet.tonscan.org/address/{hash}" 
+	},
+	{
+		"chain_id": 103,
+		"chain_name": "Sui",
+		"chain_logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/sui.svg",
+		"network": "sui",
+		"native_currency": {
+			"symbol": "TSUI",
+			"decimals": 18
+		},
+		"network_type": "testnet",
+		"vm": "mvm_sui",
+		"consensus": "sui_consensus",
+		"is_external": true,
+		"cctx_gateway": "observers",
+		"name": "sui_testnet",
+		"tx_url_template": "https://suiscan.xyz/testnet/tx/{hash}",
+		"address_url_template":"https://suiscan.xyz/testnet/account/{hash}" 
+	}
+]

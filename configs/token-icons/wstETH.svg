@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 96 96">
+  <g clip-path="url(#wstETH_svg__a)">
+    <path fill="#00A3FF" d="M96 48C96 21.49 74.51 0 48 0S0 21.49 0 48s21.49 48 48 48 48-21.49 48-48"/>
+    <path fill="#fff" d="m67.689 44.59.537.824c6.061 9.298 4.708 21.475-3.254 29.276-4.684 4.59-10.823 6.885-16.962 6.885z" opacity=".6"/>
+    <path fill="#fff" d="m48.008 55.83 19.68-11.24-19.68 36.985z" opacity=".2"/>
+    <path fill="#fff" d="m28.31 44.59-.537.824c-6.061 9.298-4.707 21.475 3.255 29.276 4.684 4.59 10.822 6.885 16.962 6.885z"/>
+    <path fill="#fff" d="m47.984 55.83-19.68-11.24 19.68 36.985z" opacity=".6"/>
+    <path fill="#fff" d="M48.016 30.719v19.387l16.951-9.687z" opacity=".2"/>
+    <path fill="#fff" d="m48.01 30.719-16.963 9.7 16.964 9.687z" opacity=".6"/>
+    <path fill="#fff" d="m48.01 14.414-16.963 26.01 16.964-9.726z"/>
+    <path fill="#fff" d="m48.016 30.695 16.964 9.727L48.016 14.4z" opacity=".6"/>
+  </g>
+  <defs>
+    <clipPath id="wstETH_svg__a">
+      <rect width="96" height="96" fill="#fff" rx="48"/>
+    </clipPath>
+  </defs>
+</svg>

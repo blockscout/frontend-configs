@@ -1,0 +1,17 @@
+[
+   {
+      "title":"Creditcoin Devnet",
+      "url":"https://creditcoin-devnet.blockscout.com/",
+      "group":"Testnets",
+      "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/creditcoin-icon-light.svg",
+      "invertIconInDarkMode": true
+   },
+   {
+      "title":"Creditcoin Testnet",
+      "url":"https://creditcoin-testnet.blockscout.com/",
+      "group":"Testnets",
+      "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/creditcoin-icon-light.svg",
+      "invertIconInDarkMode": true,
+      "isActive": true
+   }
+]

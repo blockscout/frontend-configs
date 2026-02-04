@@ -1,0 +1,153 @@
+[{
+		"author": "AvaCloud",
+		"id": "avacloud",
+		"title": "AvaCloud",
+		"logo": "https://raw.githubusercontent.com/DOSLabs/DOScan-Frontend-Configs/main/configs/marketplace-logos/ava_cloud.jpg",
+		"logoDarkMode": "https://raw.githubusercontent.com/DOSLabs/DOScan-Frontend-Configs/main/configs/marketplace-logos/ava_cloud.jpg",
+		"categories": [
+			"Infra & Dev tooling"
+		],
+		"shortDescription": "Avacloud is an open-source, decentralized exchange infrastructure that enables the exchange of tokenized assets on multiple blockchains.",
+		"site": "https://avacloud.io/",
+		"description": "Avacloud is an open-source, decentralized exchange infrastructure that enables the exchange of tokenized assets on multiple blockchains.",
+		"url": "https://Avacloud.io/",
+		"external": true
+	},
+	{
+		"author": "DOSafe",
+		"id": "dosafe",
+		"title": "DOSafe",
+		"logo": "https://raw.githubusercontent.com/DOSLabs/DOScan-Frontend-Configs/main/configs/marketplace-logos/dosafe.svg",
+		"categories": ["Wallet"],
+		"shortDescription": "DOSafe Wallet is a custodial cryptocurrency wallet that allows users to store, send, and receive various cryptocurrencies.",
+		"site": "https://dosafe.io/",
+		"description": "DOSafe Wallet is a custodial cryptocurrency wallet that allows users to store, send, and receive various cryptocurrencies.",
+		"external": true,
+		"url": "https://DOSafe.io/"
+	},
+	{
+		"author": "DOS Faucet",
+		"id": "dos-faucet",
+		"title": "DOS Faucet",
+		"logo": "https://raw.githubusercontent.com/DOSLabs/DOScan-Frontend-Configs/main/configs/marketplace-logos/dos.svg",
+		"categories": ["Faucet"],
+		"shortDescription": "DOS Faucet | Base  is the easiest way to get some ETH for Base.",
+		"site": "https://faucet.doschain.com/",
+		"description": "DOS Faucet | Base  is the easiest way to get some ETH for Base.",
+		"external": true,
+		"url": "https://faucet.doschain.com/"
+	},
+	{
+		"author": "DOS Bridge",
+		"id": "dos-bridge",
+		"title": "DOS Bridge",
+		"logo": "https://raw.githubusercontent.com/DOSLabs/DOScan-Frontend-Configs/main/configs/marketplace-logos/dos.svg",
+		"categories": ["Bridge"],
+		"shortDescription": "Bridge your assets securely with DOS. This project is in testing. You can bridge whitelisted ERC-20 tokens from Avalanche and BNB Chain to DOS. Ethereum mainnet tokens are not yet supported.",
+		"site": "https://bridge.doschain.com/",
+		"description": "Bridge your assets securely with DOS. This project is in testing. You can bridge whitelisted ERC-20 tokens from Avalanche and BNB Chain to DOS. Ethereum mainnet tokens are not yet supported.",
+		"external": true,
+		"url": "https://bridge.doschain.com/"
+	},
+	{
+		"author": "OverMint",
+		"id": "overmint",
+		"title": "OverMint",
+		"logo": "https://raw.githubusercontent.com/DOSLabs/DOScan-Frontend-Configs/main/configs/marketplace-logos/overmint.png",
+		"logoDarkMode": "https://raw.githubusercontent.com/DOSLabs/DOScan-Frontend-Configs/main/configs/marketplace-logos/overmint.png",
+		"categories": ["NFT", "Games", "DAO"],
+		"shortDescription": "OverMint is building the global hub for NFT activity.",
+		"site": "https://overmint.com",
+		"external": true,
+		"description": "OverMint is building the global hub for NFT activity.",
+		"url": "https://overmint.com/",
+		"twitter":"https://x.com/OverMint",
+		"telegram":"https://t.me/OverMintOfficial",
+		"github":"https://github.com/OverMint"
+	},
+	{
+		"author": "DOS.Me",
+		"id": "dosme",
+		"title": "DOS.Me",
+		"logo": "https://raw.githubusercontent.com/DOSLabs/DOScan-Frontend-Configs/main/configs/marketplace-logos/dos.svg",
+		"logoDarkMode": "https://raw.githubusercontent.com/DOSLabs/DOScan-Frontend-Configs/main/configs/marketplace-logos/dos.svg",
+		"categories": ["Social", "NFT", "DeFi"],
+		"shortDescription": "Building your Web3 Indentity with security",
+		"site": "https://dos.me/",
+		"external": true,
+		"description": "Building your own Web3 Indentity with decentralization and top security",
+		"url": "https://dos.me"
+	},
+	{
+		"author": "DOS Name Service",
+		"id": "dos-name-service",
+		"title": "DOS Name Service",
+		"logo": "https://raw.githubusercontent.com/DOSLabs/DOScan-Frontend-Configs/main/configs/marketplace-logos/dos.svg",
+		"logoDarkMode": "https://raw.githubusercontent.com/DOSLabs/DOScan-Frontend-Configs/main/configs/marketplace-logos/dos.svg",
+		"categories": ["NFT", "Infra & Dev tooling"],
+		"shortDescription": "Web3 naming (.dos) for the next billion+ users on DOS. Native Name Service",
+		"site": "https://dos.me/",
+		"external": true,
+		"description": "Web3 naming (.dos) for the next billion+ users on DOS. Native Name Service",
+		"url": "https://dos.me/"
+	},
+	{
+		"author": "DOSwap",
+		"id": "doswap",
+		"title": "DOSwap",
+		"logo": "https://raw.githubusercontent.com/DOSLabs/DOScan-Frontend-Configs/main/configs/marketplace-logos/doswap.svg",
+		"categories": [
+			"DeFi"
+		],
+		"shortDescription": "Swap, earn, stack yields, lend, borrow & leverage, all on one decentralized, community driven platform. Welcome home to DeFi.",
+		"site": "https://doswap.io",
+		"description": "Swap, earn, stack yields, lend, borrow & leverage, all on one decentralized, community driven platform. Welcome home to DeFi.",
+		"url": "https://doswap.io",
+		"external": true
+	},
+	{
+		"author": "MetaDOS",
+		"id": "metados",
+		"title": "MetaDOS",
+		"logo": "https://raw.githubusercontent.com/DOSLabs/DOScan-Frontend-Configs/main/configs/marketplace-logos/metados.png",
+		"categories": [
+			"Gaming"
+		],
+		"shortDescription": "Next-gen battle royale game using TIME-as-currency concept supporting up to 100 players.",
+		"description": "Next-gen battle royale game using TIME-as-currency concept supporting up to 100 players.",
+		"author": "DOS Labs",
+		"url": "https://metados.com",
+		"site": "https://metados.com",
+		"twitter": "https://x.com/MetaDOS",
+		"telegram": "https://t.me/PlayMetaDOS",
+		"github": "https://github.com/MetaDOS",
+		"priority": 7,
+		"external": true
+	},
+	{
+		"author": "Heroes & Empires",
+		"id": "he",
+		"title": "Heroes & Empires",
+		"logo": "https://raw.githubusercontent.com/DOSLabs/DOScan-Frontend-Configs/main/configs/marketplace-logos/he.png",
+		"categories": [
+			"Gaming"
+		],
+		"shortDescription": "Idle RPG combined with battle royale gameplay.",
+		"site": "https://heroesempires.com",
+		"description": "Heroes & Empires is an idle RPG combined with battle royale gameplay with the support of NFTs.",
+		"url": "https://heroesempires.com",
+		"external": true
+	},
+	{
+		"author": "DOScan",
+		"id": "doscan",
+		"title": "DOScan",
+		"logo": "https://raw.githubusercontent.com/DOSLabs/DOScan-Frontend-Configs/main/configs/marketplace-logos/doscan.svg",
+		"categories": ["Bridge"],
+		"shortDescription": "DOScan is a blockchain explorer for DOS.",
+		"site": "https://doscan.io/",
+		"description": "DOScan is a blockchain explorer for DOS.",
+		"url": "https://doscan.io",
+		"external": true
+	}
+]

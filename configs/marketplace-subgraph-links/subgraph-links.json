@@ -1,0 +1,170 @@
+{
+  "spark": [
+    {
+      "title": "Spark Gnosis",
+      "url": "https://thegraph.com/explorer/subgraphs/Bw4RH37UbbGEhHo4FaWwT1dn9QJzm1XSZCyK1cbr6ZKM?view=Query&chain=arbitrum-one"
+    }
+  ],
+  "aave": [
+    {
+      "title": "protocol-v3-gnosis",
+      "url": "https://thegraph.com/explorer/subgraphs/HtcDaL8L8iZ2KQNNS44EBVmLruzxuNAz1RkBYdui1QUT?view=Query&chain=arbitrum-one"
+    },
+    {
+      "title": "Aave V3 Gnosis",
+      "url": "https://thegraph.com/explorer/subgraphs/GiNMLDxT1Bdn2dQZxjQLmW24uwpc3geKUBW8RP6oEdg?view=Query&chain=arbitrum-one"
+    }
+  ],
+  "celer-cbridge": [
+    {
+      "title": "cBridge Gnosis",
+      "url": "https://thegraph.com/explorer/subgraphs/FdoU8yttG4HUfoYSsP2Qit1UvvVCaZeUDPnMB4nzguNU?view=Query&chain=arbitrum-one"
+    }
+  ],
+  "curve": [
+    {
+      "title": "Curve Finance Gnosis",
+      "url": "https://thegraph.com/explorer/subgraphs/J8k2z8MhdhABfVZU5HtyRvzCT85bLLF886V4iDpt53Jr?view=Query&chain=arbitrum-one"
+    }
+  ],
+  "sushiswap": [
+    {
+      "title": "V3 Gnosis",
+      "url": "https://thegraph.com/explorer/subgraphs/hS35uHcFDVSxJQV1XWht7yMdGTRNVa9poYTpcEZ9uAQ?view=Query&chain=arbitrum-one"
+    },
+    {
+      "title": "xDai exchange",
+      "url": "https://thegraph.com/explorer/subgraphs/4a8hcsttqsmycmmeFcpffGMZhBDU4NhHfyHH6YNcnu7b?view=Query&chain=arbitrum-one"
+    }
+  ],
+  "hop-protocol": [
+    {
+      "title": "Hop protocol gnosis",
+      "url": "https://thegraph.com/explorer/subgraphs/DA1WTRx4pbGQdTm1YqRz3MCLiap4cdgK62Q6Bjy99m1y?view=Query&chain=arbitrum-one"
+    },
+    {
+      "title": "Hop xDai",
+      "url": "https://thegraph.com/explorer/subgraphs/2Q2JLhbwES5GirxczFLWaZyWZXk4hmaKZojXAPSQKMyN?view=Query&chain=arbitrum-one"
+    }
+  ],
+  "celeste": [
+    {
+      "title": "Celeste Gnosis",
+      "url": "https://thegraph.com/explorer/subgraphs/KvR9XcnqQzVv2j3h7FnQjxroUptEu56dtj7mtQ5TTun?view=Query&chain=arbitrum-one"
+    }
+  ],
+  "gardens": [
+    {
+      "title": "Gardens Gnosis",
+      "url": "https://thegraph.com/explorer/subgraphs/G4EbcSW588SUy8CdprPPxCN69VN8mxvnwt4oyR6YpGza?view=Query&chain=arbitrum-one"
+    }
+  ],
+  "sablier": [
+    {
+      "title": "Sablier V2 Gnosis",
+      "url": "https://thegraph.com/explorer/subgraphs/EXhNLbhCbsewJPx4jx5tutNXpxwdgng2kmX1J7w1bFyu?view=Query&chain=arbitrum-one"
+    },
+    {
+      "title": "Sablier V2 MS Gnosis",
+      "url": "https://thegraph.com/explorer/subgraphs/FViBHgu2TtaZZXspDBzACjuPYKtqVDysmH35pk3W3zJJ?view=Query&chain=arbitrum-one"
+    }
+  ],
+  "honeyswap": [
+    {
+      "title": "Honeyswap Gnosis",
+      "url": "https://thegraph.com/explorer/subgraphs/HTxWvPGcZ5oqWLYEVtWnVJDfnai2Ud1WaABiAR72JaSJ?view=Query&chain=arbitrum-one"
+    },
+    {
+      "title": "Honeyswap Gnosis",
+      "url": "https://thegraph.com/explorer/subgraphs/HTxWvPGcZ5oqWLYEVtWnVJDfnai2Ud1WaABiAR72JaSJ?view=Query&chain=arbitrum-one"
+    }
+  ],
+  "request-finance": [
+    {
+      "title": "Request Payments xDai",
+      "url": "https://thegraph.com/explorer/subgraphs/2UAW7B94eeeqaL5qUM5FDzTWJcmgA6ta1RcWMo3XuLmU?view=Query&chain=arbitrum-one"
+    }
+  ],
+  "connext": [
+    {
+      "title": "Connext",
+      "url": "https://thegraph.com/explorer/subgraphs/6oJrPk9YJEU9rWU4DAizjZdALSccxe5ZahBsTtFaGksU?view=Query&chain=arbitrum-one"
+    }
+  ],
+  "balancer": [
+    {
+      "title": "Balancer CoW AMM Gnosis",
+      "url": "https://thegraph.com/explorer/subgraphs/EJezH1Cp31QkKPaBDerhVPRWsKVZLrDfzjrLqpmv6cGg?view=Query&chain=arbitrum-one"
+    },
+    {
+      "title": "Balancer CoW AMM Gnosis",
+      "url": "https://thegraph.com/explorer/subgraphs/4U58PZMVdUF6Kk7gW5wh78kHyr9pZ2pdxAEQeEh1EY9f?view=Query&chain=arbitrum-one"
+    },
+    {
+      "title": "Balancer Gauges Gnosis Chain",
+      "url": "https://thegraph.com/explorer/subgraphs/HW5XpZBi2iYDLBqqEEMiRJFx8ZJAQak9uu5TzyH9BBxy?view=Query&chain=arbitrum-one"
+    },
+    {
+      "title": "Balancer Gnosis Chain V2 Beta",
+      "url": "https://thegraph.com/explorer/subgraphs/DbLA3sjx4QfjuzuiMukZeB7zS6XGZ73ETastJUqygx7a?view=Query&chain=arbitrum-one"
+    },
+    {
+      "title": "Balancer Gauges Gnosis Chain",
+      "url": "https://thegraph.com/explorer/subgraphs/4nTERBBaGRc1PgLcGvtvvqupSFu7y8Ee2xKZFNM5aw56?view=Query&chain=arbitrum-one"
+    }
+  ],
+  "daohaus": [
+    {
+      "title": "DAOhaus v3 gnosis",
+      "url": "https://thegraph.com/explorer/subgraphs/6x9FK3iuhVFaH9sZ39m8bKB5eckax8sjxooBPNKWWK8r?view=Query&chain=arbitrum-one"
+    },
+    {
+      "title": "Daohaus Xdai",
+      "url": "https://thegraph.com/explorer/subgraphs/2GJY9uxsLQUCvgqSfy6QCLAJgM9P9kdxBUpwNcGs7nPR?view=Query&chain=arbitrum-one"
+    }
+  ],
+  "kleros-court": [
+    {
+      "title": "legacy-curate-xdai",
+      "url": "https://thegraph.com/explorer/subgraphs/2hP3hyWreJSK8uvYwC4WMKi2qFXbPcnp7pCx7EzW24sp?view=Query&chain=arbitrum-one"
+    }
+  ],
+  "conquest.eth": [
+    {
+      "title": "Conquest Defcon",
+      "url": "https://thegraph.com/explorer/subgraphs/7PKwqrpoWXUCXmNzkDKLTeodwX7au8BSKSci47jegFTY?view=Query&chain=arbitrum-one"
+    }
+  ],
+  "niftyink": [
+    {
+      "title": "NiftyInk",
+      "url": "https://thegraph.com/explorer/subgraphs/9USsKAvq88poRUwosetz34oeLz1N2HnqcLps2tHB4ujo?view=Query&chain=arbitrum-one"
+    }
+  ],
+  "giveth": [
+    {
+      "title": "Giveth  Giveconomy Gnosis chain",
+      "url": "https://thegraph.com/explorer/subgraphs/Bbz1imi78Set7VYKxqwNGZ4dwqJpEUBNYqGsbPPZPh4q?view=Query&chain=arbitrum-one"
+    },
+    {
+      "title": "giveconomy-staging-gnosis",
+      "url": "https://thegraph.com/explorer/subgraphs/BGkr8hzRGb8UK3GoDni6QTBmiPVeCioqawJ96BRxjsvs?view=Query&chain=arbitrum-one"
+    },
+    {
+      "title": "Giveconomy Second xDai",
+      "url": "https://thegraph.com/explorer/subgraphs/7UFA1vv3cXNKzzaSVWt6Fe4EhU8B71G97XwWWkN4kxAW?view=Query&chain=arbitrum-one"
+    }
+  ],
+  "contango": [
+    {
+      "title": "Contango V2 Gnosis",
+      "url": "https://thegraph.com/explorer/subgraphs/9h1rHUKJK9CGqztdaBptbj4Q9e2zL9jABuu9LpRQ1XkC?view=Query&chain=arbitrum-one"
+    }
+  ],
+  "stakewise": [
+    {
+      "title": "Stakewise Gnosis",
+      "url": "https://thegraph.com/explorer/subgraphs/7L4CAkFkJsPRsM65iB88aW9JchKEibhBM4rkcyAhh1Ff?view=Query&chain=arbitrum-one"
+    }
+  ]
+}

@@ -1,8 +1,9 @@
-[{
+[
+	{
 		"title": "Optimism",
 		"url": "https://optimism.blockscout.com/",
 		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism-mainnet-light.svg",
 		"isActive": true
 	},
 	{
@@ -18,15 +19,15 @@
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg"
 	},
 	{
-		"title": "Optimism Bedrock Beta",
-		"url": "https://blockscout.com/optimism/bedrock-beta",
+		"title": "Interop Devnet 0",
+		"url": "https://optimism-interop-alpha-0.blockscout.com/",
 		"group": "Testnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg"
 	},
 	{
-		"title": "Optimism Opcraft",
-		"url": "https://blockscout.com/optimism/opcraft",
-		"group": "Other",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism_opcraft.svg"
+		"title": "Interop Devnet 1",
+		"url": "https://optimism-interop-alpha-1.blockscout.com/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg"
 	}
 ]

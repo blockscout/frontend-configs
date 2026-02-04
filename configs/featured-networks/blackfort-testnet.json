@@ -1,0 +1,24 @@
+[
+	{
+		"title": "Blackfort",
+		"url": "https://blackfortscan.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/blackfort.svg",
+		"invertIconInDarkMode": true
+	},
+	{
+		"title": "Old Blackfort",
+		"url": "https://blackfort-mainnet-old.blockscout.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/blackfort.svg",
+		"invertIconInDarkMode": true
+	},
+	{
+		"title": "Blackfort Testnet",
+		"url": "https://testnet.blackfortscan.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/blackfort.svg",
+		"isActive": true,
+		"invertIconInDarkMode": true
+	}
+]

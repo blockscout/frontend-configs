@@ -1,0 +1,16 @@
+[
+  {
+    "title": "MEGA Mainnet",
+    "url": "https://megaeth.blockscout.com/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/mega-eth-light.svg",
+    "invertIconInDarkMode": true
+  },
+  {
+    "title": "MEGA Testnet v2",
+    "url": "https://megaeth-testnet-v2.blockscout.com/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/mega-eth-light.svg",
+    "invertIconInDarkMode": true
+  }
+]

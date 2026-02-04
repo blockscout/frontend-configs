@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 120 24">
+  <g clip-path="url(#xmas_capy_light_svg__a)">
+    <circle cx="12.5" cy="15.5" r="11.5" fill="url(#xmas_capy_light_svg__b)"/>
+    <g filter="url(#xmas_capy_light_svg__c)" style="mix-blend-mode:soft-light">
+      <circle cx="15" cy="16" r="7" fill="#fff"/>
+    </g>
+    <path fill="url(#xmas_capy_light_svg__d)" stroke="#431413" stroke-linecap="round" stroke-linejoin="round" stroke-width=".587" d="M8.647 17.97c-1.174-.668-2.676-1.146-2.676-1.146s-1.431 1.837-.942 2.815c.242.484-.123.581-.49.979-1.113 1.209-2.446 3.425-2.446 3.425L6.986 26l15.168-1.957s-.63-1.054-.979-1.468c-.443-.528-.98-.98-1.467-1.468-.487-.487-.82-.747-1.468-.978-.9-.322-1.377-.396-2.328-.49-.97-.095-1.715-.745-2.677-.904-2.082-.344-2.754.28-4.588-.764Z"/>
+    <path stroke="#7F220E" stroke-linecap="round" stroke-linejoin="round" stroke-width=".587" d="M5 20s2.294 3.059 13.765.765"/>
+    <path fill="url(#xmas_capy_light_svg__e)" stroke="#431413" stroke-linecap="round" stroke-linejoin="round" stroke-width=".587" d="M14.815 2.025c1.02.927 2.446 2.936 2.446 2.936l-10.275.978h-.489L3.561 8.386l-.489-.979s.478-1.547.979-2.446c.726-1.304 1.33-1.945 2.446-2.936C7.527 1.11 8.077.312 9.433.068c1.144-.206 1.846.083 2.935.49 1.044.388 1.622.718 2.447 1.467Z"/>
+    <path fill="#431413" d="M5.03 4.96c-.219-.159-.258-.35-.49-.488-.427-.257-1.468 2.446-1.468 2.446l1.468.979 1.957-1.958 8.807-.978s-1.667-1.287-2.936-1.468c-1.794-.256-2.851 3.188-3.425 1.468-.512-1.538 3.558-2.678 1.957-2.936-1.015-.164-2.329 2.001-2.446.979-.078-.685 1.402-.924.979-1.468-.352-.453-.991.171-1.468.49C5.029 3.981 6.45 6 5.029 4.96Z"/>
+    <path fill="#D9D9D9" d="M1.604 7.407c.427-.427.864-.489 1.468-.489s1.026.077 1.468.49c.575.537.975 1.826.49 2.446-.264.336-.788-.382-.98 0-.489.978-1.586.695-1.957 0 .303-.302-.758-.123-.978-.49-.311-.518.062-1.53.49-1.957Z"/>
+    <path stroke="#431413" stroke-linecap="round" stroke-linejoin="round" stroke-width=".587" d="M2.093 9.854c.303-.302-.758-.123-.978-.49-.311-.518.062-1.53.49-1.957.426-.427.863-.489 1.467-.489.604 0 1.026.077 1.468.49.575.537.975 1.826.49 2.446-.264.336-.788-.382-.98 0-.489.978-1.586.695-1.957 0Zm0 0c-.489.489-.18-.338 0 0Z"/>
+    <path fill="url(#xmas_capy_light_svg__f)" stroke="#431413" stroke-linecap="round" stroke-linejoin="round" stroke-width=".587" d="M18.24 6.429c.105.563 0 1.957 0 1.957L6.497 9.854s-.327-.273-.49-.49c-.362-.483-.489-.863-.489-1.467 0-.605.165-.959.49-1.468.598-.94 1.402-1.078 2.446-1.468.913-.34 1.496-.273 2.446-.49.769-.174 1.17-.489 1.958-.489.787 0 1.176.384 1.957.49.947.128 1.651-.53 2.446 0 .711.474.821 1.117.979 1.957Z"/>
+    <path fill="url(#xmas_capy_light_svg__g)" stroke="url(#xmas_capy_light_svg__h)" stroke-linejoin="round" stroke-width=".587" d="M11.88 7.407c-.593.119-1.469.49-1.469.49S9.753 6.38 8.943 6.429c-.426.025-.676.187-.978.489-.302.302-.377.566-.49.979-.15.553 0 1.467 0 1.467l-.489.49s-2.054 1.203-1.468 1.957c.263.337.188.187.49.49.906.905-2.248 2.754-.979 2.935.19.027.302-.038.49 0 .936.187-.041 1.162.489 1.957.474.71.675 1.148 1.468 1.468 1.981.798 3.246.92 5.382.978.382.01.596-.012.978 0 1.35.043 2.076.565 3.425.49.973-.054 1.543-.126 2.447-.49.396-.16.792-1.286.792-1.286s.328.101.765 0c1.644-.381 1.378-3.117 1.378-4.096 0-.689-.596-1.384-.978-1.957-.382-.573-1.957-1.468-1.957-1.468l-.49-1.468s-1.366-1.193-2.446-1.467c-.926-.236-1.491-.49-2.446-.49-.956 0-1.51-.187-2.447 0Z"/>
+    <path fill="#471C13" d="M20.665 14.453a.295.295 0 0 1 .315.272v.01l.002.024a10.596 10.596 0 0 1 .017.412c.007.268.008.632-.016 1.015-.024.38-.074.79-.17 1.143-.093.338-.247.696-.532.886-.453.302-1.138.426-1.804.424-.673-.003-1.39-.136-1.93-.407a.293.293 0 1 1 .26-.524c.439.219 1.06.341 1.672.344.618.002 1.165-.119 1.476-.326.097-.066.206-.238.291-.552.082-.299.127-.663.15-1.026a11.37 11.37 0 0 0 0-1.353l-.001-.022-.001-.004v-.001a.294.294 0 0 1 .271-.315Zm-2.03-.346a.625.625 0 0 1 1.085.619c-.17.299-.244-.139-.543-.309-.3-.17-.713-.01-.542-.31Zm3.204-.248a.625.625 0 0 1 .83.303c.144.312-.254.118-.566.264-.313.145-.42.575-.566.264a.625.625 0 0 1 .302-.83Z"/>
+    <path fill="#171515" stroke="#171515" stroke-linecap="round" stroke-linejoin="round" stroke-width=".587" d="M21.665 8.875H10.9l-5.383 1.468v.49l5.382-.49s.503 1.89 1.468 2.446c.993.573 1.943.573 2.936 0 .965-.556 1.468-2.446 1.468-2.446h.979l3.424 1.468s.395-.871.49-1.468c.09-.566 0-1.468 0-1.468Z"/>
+    <path fill="#fff" d="M12.401 9.854h-.392a.13.13 0 0 0-.13.13v.392c0 .072.059.13.13.13h.392a.13.13 0 0 0 .13-.13v-.392a.13.13 0 0 0-.13-.13ZM13.053 10.506h-.391a.13.13 0 0 0-.13.13v.392c0 .072.058.13.13.13h.391a.13.13 0 0 0 .13-.13v-.391a.13.13 0 0 0-.13-.13ZM14.358 10.506h-.391a.13.13 0 0 0-.13.13v.392c0 .072.058.13.13.13h.391a.13.13 0 0 0 .13-.13v-.391a.13.13 0 0 0-.13-.13ZM13.706 9.854h-.392a.13.13 0 0 0-.13.13v.392c0 .072.058.13.13.13h.392a.13.13 0 0 0 .13-.13v-.392a.13.13 0 0 0-.13-.13ZM19.12 9.854h-.293a.098.098 0 0 0-.098.097v.294c0 .054.044.098.098.098h.293a.098.098 0 0 0 .098-.098v-.294a.098.098 0 0 0-.098-.097ZM19.61 10.343h-.294a.098.098 0 0 0-.098.098v.293c0 .054.044.098.098.098h.294a.098.098 0 0 0 .098-.098v-.293a.098.098 0 0 0-.098-.098ZM20.099 9.854h-.294a.098.098 0 0 0-.097.097v.294c0 .054.043.098.098.098h.293a.098.098 0 0 0 .098-.098v-.294a.098.098 0 0 0-.098-.097Z"/>
+    <path fill="url(#xmas_capy_light_svg__i)" d="M33 7.352h4.947c2.096 0 3.23 1.103 3.23 2.69a2.467 2.467 0 0 1-1.495 2.344v.051a2.81 2.81 0 0 1 1.464 1.05c.36.501.546 1.107.53 1.724 0 1.775-1.228 3.17-3.454 3.17H33V7.353Zm4.982 4.482c.79 0 1.357-.585 1.357-1.476 0-.892-.567-1.477-1.357-1.477h-3.139v2.953h3.139Zm.223 5.032c.945 0 1.632-.724 1.632-1.775s-.687-1.758-1.632-1.758h-3.362v3.533h3.362Z"/>
+    <path fill="url(#xmas_capy_light_svg__j)" d="M43.977 8.664h-1.035V7h2.851v11.375h-1.82l.004-9.711Z"/>
+    <path fill="url(#xmas_capy_light_svg__k)" d="M47.48 14.298c0-2.498 1.84-4.342 4.382-4.342 2.543 0 4.398 1.827 4.398 4.342 0 2.516-1.838 4.325-4.398 4.325-2.56 0-4.383-1.826-4.383-4.325Zm3.901 2.688h.982c1.117 0 2.096-1.189 2.096-2.688s-.982-2.707-2.096-2.707h-.982c-1.116 0-2.096 1.23-2.096 2.707 0 1.477.98 2.688 2.096 2.688Z"/>
+    <path fill="url(#xmas_capy_light_svg__l)" d="M57.443 14.281c0-2.55 1.755-4.325 4.28-4.325 2.027 0 3.624 1.051 3.882 3.2h-1.77c-.171-1.085-.944-1.568-1.734-1.568h-.86c-1.099 0-1.992 1.206-1.992 2.708 0 1.501.893 2.722 1.993 2.722h.859a1.75 1.75 0 0 0 1.752-1.602h1.77c-.246 2.12-1.856 3.222-3.927 3.222-2.518-.015-4.253-1.807-4.253-4.357Z"/>
+    <path fill="url(#xmas_capy_light_svg__m)" d="M67.252 7h1.804v6.274h1.308l2.44-3.084h2.06l-3.006 3.808 3.144 4.377h-2.165l-2.628-3.619h-1.153v3.619h-1.804V7Z"/>
+    <path fill="url(#xmas_capy_light_svg__n)" d="M75.827 15.918h1.735c.085.724.532 1.189 1.472 1.189h1.136c.808 0 1.186-.414 1.186-.965 0-.551-.31-.879-1.048-.985l-1.91-.246c-1.614-.19-2.336-1.154-2.336-2.412 0-1.654 1.227-2.55 3.419-2.55 2.098 0 3.37.844 3.436 2.722H81.18c-.085-.706-.377-1.206-1.27-1.206h-1.034c-.773 0-1.134.414-1.134.948s.344.896 1.083 1l1.926.245c1.563.19 2.285 1.034 2.285 2.344 0 1.688-1.117 2.619-3.59 2.619-2.393.002-3.554-.911-3.62-2.703Z"/>
+    <path fill="url(#xmas_capy_light_svg__o)" d="M84.17 14.281c0-2.55 1.753-4.325 4.28-4.325 2.028 0 3.625 1.051 3.883 3.2h-1.77c-.171-1.085-.944-1.568-1.735-1.568h-.859c-1.101 0-1.995 1.206-1.995 2.708 0 1.501.894 2.722 1.995 2.722h.86a1.75 1.75 0 0 0 1.752-1.602h1.769c-.245 2.12-1.855 3.222-3.926 3.222-2.516-.015-4.254-1.807-4.254-4.357Z"/>
+    <path fill="url(#xmas_capy_light_svg__p)" d="M93.496 14.298c0-2.498 1.838-4.342 4.38-4.342 2.543 0 4.401 1.827 4.401 4.342 0 2.516-1.838 4.325-4.4 4.325-2.562 0-4.38-1.826-4.38-4.325Zm3.9 2.688h.981c1.117 0 2.099-1.189 2.099-2.688s-.982-2.707-2.099-2.707h-.981c-1.117 0-2.096 1.23-2.096 2.707 0 1.477.984 2.688 2.1 2.688h-.004Z"/>
+    <path fill="url(#xmas_capy_light_svg__q)" d="M103.774 15.35V10.2h1.804v4.842c0 1.189.601 1.895 1.391 1.895h.982c.842 0 1.597-.775 1.597-1.895V10.2h1.807v8.184H109.6v-1.12c-.491.845-1.357 1.362-2.68 1.362-1.978-.003-3.146-1.157-3.146-3.277Z"/>
+    <path fill="url(#xmas_capy_light_svg__r)" d="M114.356 16.47v-4.677h-1.58V10.2h1.58V7.906h1.821V10.2h2.13v1.585h-2.13v4.17c0 .534.172.792.756.792h1.443v1.637h-1.963c-1.321-.002-2.057-.691-2.057-1.915Z"/>
+  </g>
+  <defs>
+    <linearGradient id="xmas_capy_light_svg__b" x1="12.5" x2="12.5" y1="4" y2="27" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C1C1FF"/>
+      <stop offset="1" stop-color="#5353D3"/>
+    </linearGradient>
+    <linearGradient id="xmas_capy_light_svg__d" x1="8.647" x2="12.124" y1="22.941" y2="16.823" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A9371E"/>
+      <stop offset="1" stop-color="#E31D20"/>
+    </linearGradient>
+    <linearGradient id="xmas_capy_light_svg__e" x1="10.167" x2="10.167" y1="8.386" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A9371E"/>
+      <stop offset="1" stop-color="#E31D20"/>
+    </linearGradient>
+    <linearGradient id="xmas_capy_light_svg__f" x1="7.965" x2="18.24" y1="8.386" y2="4.961" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9D9D9"/>
+      <stop offset="1" stop-color="#FEE5B0"/>
+    </linearGradient>
+    <linearGradient id="xmas_capy_light_svg__g" x1="16.283" x2="9.433" y1="11.841" y2="17.712" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ED974F"/>
+      <stop offset=".5" stop-color="#D8813D"/>
+      <stop offset="1" stop-color="#814619"/>
+    </linearGradient>
+    <linearGradient id="xmas_capy_light_svg__h" x1="13.684" x2="10.9" y1="6.428" y2="21.596" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4D2A0F"/>
+      <stop offset="1" stop-color="#431413"/>
+    </linearGradient>
+    <linearGradient id="xmas_capy_light_svg__i" x1="8.298" x2="118.376" y1="23.319" y2="12.819" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E31D20"/>
+      <stop offset=".5" stop-color="#9B387A"/>
+      <stop offset="1" stop-color="#5353D3"/>
+    </linearGradient>
+    <linearGradient id="xmas_capy_light_svg__j" x1="8.298" x2="118.376" y1="23.319" y2="12.819" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E31D20"/>
+      <stop offset=".5" stop-color="#9B387A"/>
+      <stop offset="1" stop-color="#5353D3"/>
+    </linearGradient>
+    <linearGradient id="xmas_capy_light_svg__k" x1="8.298" x2="118.376" y1="23.319" y2="12.819" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E31D20"/>
+      <stop offset=".5" stop-color="#9B387A"/>
+      <stop offset="1" stop-color="#5353D3"/>
+    </linearGradient>
+    <linearGradient id="xmas_capy_light_svg__l" x1="8.298" x2="118.376" y1="23.319" y2="12.819" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E31D20"/>
+      <stop offset=".5" stop-color="#9B387A"/>
+      <stop offset="1" stop-color="#5353D3"/>
+    </linearGradient>
+    <linearGradient id="xmas_capy_light_svg__m" x1="8.298" x2="118.376" y1="23.319" y2="12.819" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E31D20"/>
+      <stop offset=".5" stop-color="#9B387A"/>
+      <stop offset="1" stop-color="#5353D3"/>
+    </linearGradient>
+    <linearGradient id="xmas_capy_light_svg__n" x1="8.298" x2="118.376" y1="23.319" y2="12.819" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E31D20"/>
+      <stop offset=".5" stop-color="#9B387A"/>
+      <stop offset="1" stop-color="#5353D3"/>
+    </linearGradient>
+    <linearGradient id="xmas_capy_light_svg__o" x1="8.298" x2="118.376" y1="23.319" y2="12.819" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E31D20"/>
+      <stop offset=".5" stop-color="#9B387A"/>
+      <stop offset="1" stop-color="#5353D3"/>
+    </linearGradient>
+    <linearGradient id="xmas_capy_light_svg__p" x1="8.298" x2="118.376" y1="23.319" y2="12.819" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E31D20"/>
+      <stop offset=".5" stop-color="#9B387A"/>
+      <stop offset="1" stop-color="#5353D3"/>
+    </linearGradient>
+    <linearGradient id="xmas_capy_light_svg__q" x1="8.298" x2="118.376" y1="23.319" y2="12.819" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E31D20"/>
+      <stop offset=".5" stop-color="#9B387A"/>
+      <stop offset="1" stop-color="#5353D3"/>
+    </linearGradient>
+    <linearGradient id="xmas_capy_light_svg__r" x1="8.298" x2="118.376" y1="23.319" y2="12.819" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E31D20"/>
+      <stop offset=".5" stop-color="#9B387A"/>
+      <stop offset="1" stop-color="#5353D3"/>
+    </linearGradient>
+    <clipPath id="xmas_capy_light_svg__a">
+      <path fill="#fff" d="M0 0h120v24H0z"/>
+    </clipPath>
+    <filter id="xmas_capy_light_svg__c" width="22" height="22" x="4" y="5" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur result="effect1_foregroundBlur_12215_20747" stdDeviation="2"/>
+    </filter>
+  </defs>
+</svg>

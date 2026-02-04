@@ -1,0 +1,83 @@
+import partners from './common/partners.js'
+export default [
+  {
+    title: 'Creditcoin',
+    links: [
+      {
+        text: 'Home',
+        url: 'https://creditcoin.org/',
+      },
+      {
+        text: 'Build',
+        url: 'https://creditcoin.org/Build/',
+      },
+      {
+        text: 'CEIP',
+        url: 'https://creditcoin.org/CEIP/',
+      },
+      {
+        text: 'Wallet',
+        url: 'https://creditcoin.org/Wallet/',
+      },
+      {
+        text: 'Apps',
+        url: 'https://creditcoin.org/Apps/',
+      },
+      {
+        text: 'Get CTC',
+        url: 'https://docs.creditcoin.org/what-is-creditcoin/acquiring-creditcoin-assets',
+      },
+    ],
+  },
+  {
+    title: 'Resources',
+    links: [
+      {
+        text: 'Whitepaper',
+        url: 'https://docsend.com/view/2zwzxde',
+      },
+      {
+        text: 'Documentation',
+        url: 'https://docs.creditcoin.org/',
+      },
+      {
+        text: 'Press kit',
+        url: 'https://gluwa.notion.site/Creditcoin-Press-Kit-66cdf3afe532406684897e157397a425',
+      },
+      {
+        text: 'Career',
+        url: 'https://www.linkedin.com/company/gluwa/jobs/',
+      },
+    ],
+  },
+  {
+    title: 'Community',
+    links: [
+      {
+        text: 'X',
+        url: 'https://x.com/Creditcoin',
+      },
+      {
+        text: 'Youtube',
+        url: 'https://www.youtube.com/@CreditcoinNetwork',
+      },
+      {
+        text: 'Blog',
+        url: 'https://creditcoin.org/blog/',
+      },
+      {
+        text: 'Telegram',
+        url: 'https://t.me/CreditcoinOfficial',
+      },
+      {
+        text: 'Discord',
+        url: 'https://discord.com/invite/creditcoin',
+      },
+      {
+        text: 'Forum',
+        url: 'https://community.creditcoin.org/',
+      },
+    ],
+  },
+  partners,
+]

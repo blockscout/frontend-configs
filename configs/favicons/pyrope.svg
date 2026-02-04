@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 180 180">
+  <g clip-path="url(#pyrope_svg__a)">
+    <circle cx="90" cy="90" r="90" fill="#CA3142"/>
+    <mask id="pyrope_svg__b" width="128" height="128" x="26" y="26" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+      <path fill="#fff" d="M154 26H26v128h128V26Z"/>
+    </mask>
+    <g fill="#fff" mask="url(#pyrope_svg__b)">
+      <path fill-rule="evenodd" d="M58.16 58.16v63.681h63.681V58.16H58.16ZM90 74.08H74.08v31.841h31.841V74.08h-15.92Z" clip-rule="evenodd"/>
+      <path fill-opacity=".25" d="M42.239 42.239V26h31.522v16.239H42.24Zm64 0V26h31.522v16.239h-31.522ZM42.239 154v-16.239h31.522V154H42.24Zm64 0v-16.239h31.522V154h-31.522Z"/>
+      <path fill-opacity=".25" d="M26 42.239h16.239V73.76H26V42.239Zm0 64h16.239v31.522H26v-31.522Zm128-64h-16.239V73.76H154V42.239Zm0 64h-16.239v31.522H154v-31.522Z"/>
+      <path fill-opacity=".5" fill-rule="evenodd" d="M74.08 42.239H42.239v95.521h95.522V42.239H74.08Zm0 15.92H58.16v63.681h63.681V58.16H74.08Z" clip-rule="evenodd"/>
+    </g>
+  </g>
+  <defs>
+    <clipPath id="pyrope_svg__a">
+      <rect width="180" height="180" fill="#fff" rx="90"/>
+    </clipPath>
+  </defs>
+</svg>

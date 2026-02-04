@@ -10,7 +10,7 @@
    {
       "title":"Pegasus Testnet",
       "url":"https://pegasus.lightlink.io/",
-      "group":"Testnets",
+      "group":"Mainnets",
       "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/lightlink-short.svg",
       "invertIconInDarkMode": true
    }

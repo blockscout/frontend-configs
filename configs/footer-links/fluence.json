@@ -1,0 +1,57 @@
+[
+    {
+      "title": "Fluence",
+      "links": [
+        {
+          "text": "Platform",
+          "url": "https://fluence.network/"
+        },
+        {
+          "text": "Governance",
+          "url": "https://fluence.network/governance"
+        }
+      ]
+    },
+    {
+        "title": "Developers",
+        "links": [
+          {
+            "text": "Documentation",
+            "url": "https://fluence.dev/"
+          },
+          {
+            "text": "Github",
+            "url": "https://github.com/fluencelabs/"
+          },
+          {
+            "text": "Network explorer",
+            "url": "https://explorer.fluence.dev/"
+          },
+          {
+            "text": "Claim FLT",
+            "url": "https://claim.fluence.network/"
+          }
+        ]
+      },
+      {
+        "title": "Community",
+        "links": [
+          {
+            "text": "Twitter",
+            "url": "https://x.com/fluence_project"
+          },
+          {
+            "text": "Discord",
+            "url": "https://fluence.chat"
+          },
+          {
+            "text": "Telegram",
+            "url": "https://t.me/fluence_project"
+          },
+          {
+            "text": "Blog",
+            "url": "https://blog.fluence.network/"
+          }
+        ]
+      }
+  ]

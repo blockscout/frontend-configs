@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 30 30">
+  <g fill="#CA3142" clip-path="url(#pyrope_svg__a)">
+    <path fill-rule="evenodd" d="M7.537 7.537v14.925h14.925V7.538H7.537ZM15 11.27h-3.731v7.463h7.462V11.27H15Z" clip-rule="evenodd"/>
+    <path fill-opacity=".25" d="M3.806 3.806V0h7.388v3.806H3.806Zm15 0V0h7.388v3.806h-7.388ZM3.806 30v-3.806h7.388V30H3.806Zm15 0v-3.806h7.388V30h-7.388ZM0 3.806h3.806v7.388H0V3.806Zm0 15h3.806v7.388H0v-7.388Zm30-15h-3.806v7.388H30V3.806Z"/>
+    <path fill-opacity=".25" d="M30 18.806h-3.806v7.388H30v-7.388Z"/>
+    <path fill-opacity=".5" fill-rule="evenodd" d="M11.269 3.806H3.806v22.388h22.388V3.806H11.269Zm0 3.731H7.537v14.925h14.925V7.537H11.27Z" clip-rule="evenodd"/>
+  </g>
+  <defs>
+    <clipPath id="pyrope_svg__a">
+      <path fill="#fff" d="M0 0h30v30H0z"/>
+    </clipPath>
+  </defs>
+</svg>

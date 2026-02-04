@@ -1,0 +1,20 @@
+[
+	{
+		"title": "Redstone",
+		"url": "https://explorer.redstone.xyz/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/redstone-light.svg"
+	},
+	{
+		"title": "Garnet Testnet",
+		"url": "https://explorer.garnetchain.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/garnet.svg"
+	},
+	{
+		"title": "Pyrope Testnet",
+		"url": "https://explorer.pyropechain.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/pyrope.svg"
+	}
+]

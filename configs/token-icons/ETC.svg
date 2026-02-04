@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 97 96">
+  <g clip-path="url(#ETC_svg__a)">
+    <rect width="96" height="96" x=".199" fill="#328332" rx="48"/>
+    <path fill="#fff" fill-rule="evenodd" d="m47.762 36.724-18.866 7.953L47.733 16l18.315 28.88zm.029 27.69L28.954 53.5 47.965 80l19.04-26.5zM28.199 48.885l19.65-8.272 19.099 8.505-19.099 10.68z" clip-rule="evenodd"/>
+    <path fill="#ADCDAD" fill-rule="evenodd" d="m66.048 44.88-18.286-8.156L47.733 16zm.958 8.62L47.79 64.414 47.965 80zm-38.807-4.615 19.65-8.272 19.099 8.505-19.099 10.68z" clip-rule="evenodd"/>
+    <path fill="#ADCDAD" d="M47.85 40.613 28.2 48.885 47.85 59.8l19.098-10.681z"/>
+    <path fill="#fff" d="M47.85 40.613 28.2 48.885 47.85 59.8V40.613"/>
+    <path fill="#ADCDAD" d="M47.85 50 28.2 48.885 47.85 59.8l19.098-10.681z"/>
+    <path fill="#5B9C5B" d="M47.85 50v9.799l19.098-10.682z"/>
+  </g>
+  <defs>
+    <clipPath id="ETC_svg__a">
+      <rect width="96" height="96" x=".199" fill="#fff" rx="48"/>
+    </clipPath>
+  </defs>
+</svg>

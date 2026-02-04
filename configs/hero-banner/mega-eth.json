@@ -1,0 +1,14 @@
+{
+	"background": [
+		"repeat center/auto 100% url(https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-skins/mega-eth.png)"
+	],
+	"text_color": ["rgba(255,255,255,0.8)"],
+	"search": {
+		"border_width": ["0px", "2px"]
+	},
+	"button": {
+		"_default": {
+			"background": ["rgb(105,103,103)"]
+		}
+	}
+}

@@ -1,6 +1,6 @@
-const yup = require('yup')
-const url = require('../utils/validators/url.js')
-const categories = require('../../configs/marketplace-categories/default.json')
+import yup from 'yup'
+import url from '../utils/validators/url.js'
+import categories from '../../configs/marketplace-categories/default.json' with { type: 'json' }
 
 const marketplaceAppSchema = yup
     .object({
@@ -34,4 +34,4 @@ const schema = yup
     .json()
     .of(marketplaceAppSchema)
 
-module.exports = schema;
+export default schema;
