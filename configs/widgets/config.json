@@ -127,7 +127,7 @@
     "name": "Bubblemaps",
     "url": "https://app.bubblemaps.io/{chainId}/token/{address}?utm_source=blockscout",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/bubblemaps.svg",
-    "title": "Decentralization Score",
+    "title": "Decentralization score",
     "valuePath": "decentralization_score",
     "pages": ["token"],
     "chainIds": {
@@ -140,7 +140,7 @@
     "name": "GoPlus",
     "url": "https://gopluslabs.io/token-security/{chainId}/{address}?utm_source=blockscout",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/goplus.svg",
-    "title": "Total Risks Level",
+    "title": "Total risks level",
     "valuePath": "risk_level",
     "pages": ["token"],
     "chainIds": {
