@@ -1,0 +1,16 @@
+[
+	{
+		"title": "Eden Mainnet",
+		"url": "https://eden.blockscout.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/network-icons/celestia-eden-light.svg",
+		"invertIconInDarkMode": true
+	},
+	{
+		"title": "Eden Testnet",
+		"url": "https://eden-testnet.blockscout.com/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/network-icons/celestia-eden-light.svg",
+		"invertIconInDarkMode": true
+	}
+]
