@@ -1,9 +1,9 @@
 {
   "enscribe": {
     "name": "Enscribe",
-    "url": "https://app.enscribe.xyz/nameContract?contract={address}&{chainId}&utm_source=blockscout",
+    "url": "https://app.enscribe.xyz/nameContract?contract={address}&chainId={chainId}&utm_source=blockscout",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/enscribe.svg",
-    "title": "Enscribe",
+    "title": "Contract name",
     "hint": "Click to manage ENS names and metadata for smart contracts to improve discoverability and trust.",
     "valuePath": "label",
     "pages": ["contract"],
