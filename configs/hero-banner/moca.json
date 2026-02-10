@@ -1,6 +1,6 @@
 {
   "background": [
-    "linear-gradient(270deg, #C1D3FF 0.08%, #E3D0F5 29.73%, #FFCFED 72.69%, #FFF6D3 99.98%)"
+    "linear-gradient(270deg, rgba(193, 211, 255) 0.08%, rgba(227, 208, 245) 29.73%, rgba(255, 207, 237) 72.69%, rgba(255, 246, 211) 99.98%)"
   ],
   "text_color": ["rgba(31, 43, 52, 1);"],
   "button": {
