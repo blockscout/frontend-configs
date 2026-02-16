@@ -1,0 +1,14 @@
+[{
+		"title": "Blast",
+		"url": "https://blast.blockscout.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/blast-color.svg"
+	},
+	{
+		"title": "Blast Testnet",
+		"url": "https://blast-testnet.blockscout.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/blast-color.svg",
+		"isActive": true
+	}
+]

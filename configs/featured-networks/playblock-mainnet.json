@@ -1,0 +1,14 @@
+[{
+		"title": "Playblock",
+		"url": "https://explorer.playblock.io/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/playblock-icon.svg",
+		"isActive": true
+	},
+	{
+		"title": "Playnance",
+		"url": "https://playnance.blockscout.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/playblock-icon.svg"
+	}
+]

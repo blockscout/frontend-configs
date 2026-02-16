@@ -1,0 +1,85 @@
+[{
+		"title": "DOS",
+		"links": [{
+				"text": "Home",
+				"url": "https://doschain.com/"
+			},
+			{
+				"text": "Blog",
+				"url": "https://blog.doschain.com"
+			},
+			{
+				"text": "Developers",
+				"url": "https://docs.doschain.com/"
+			},
+			{
+				"text": "Bridge",
+				"url": "https://bridge.doschain.com"
+			},
+			{
+				"text": "Help center",
+				"url": "https://help.doschain.com/"
+			},
+			{
+				"text": "Roadmap",
+				"url": "https://roadmap.doschain.com"
+			}
+		]
+	},
+	{
+		"title": "Ecosystem",
+		"links": [{
+				"text": "Documentation",
+				"url": "https://docs.doschain.com"
+			},
+			{
+				"text": "DOS Explorer",
+				"url": "https://doscan.io"
+			},
+			{
+				"text": "NFT Marketplace",
+				"url": "https://overmint.com"
+			},
+			{
+				"text": "DOSafe Wallet",
+				"url": "https://dosafe.io"
+			},
+			{
+				"text": "Digital Identity",
+				"url": "https://dos.me"
+			},
+			{
+				"text": "DOSwap",
+				"url": "https://doswap.io"
+			}
+		]
+	},
+	{
+		"title": "Community",
+		"links": [{
+				"text": "Discord",
+				"url": "https://discord.gg/DOS"
+			},
+			{
+				"text": "Twitter",
+				"url": "https://twitter.com/DOS_Chain"
+			},
+			{
+				"text": "Telegram",
+				"url": "https://t.me/DOSChain"
+			},
+			{
+				"text": "Reddit",
+				"url": "https://reddit.com/r/DOSChain"
+			},
+			{
+				"text": "LinkedIn",
+				"url": "https://linkedin.com/company/DOSLabs"
+			},
+			{
+				"text": "YouTube",
+				"url": "https://youtube.com/@DOS"
+			}
+		]
+	}
+]

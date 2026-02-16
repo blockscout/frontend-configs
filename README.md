@@ -5,7 +5,7 @@
 3. Create your branch - `git checkout -b <your-branch-name>`
 4. Make necessary changes in config files and schemas
 5. Commit your changes - `git commit -m '<your-commit-message>'`
-6. Push changes to the repo -  `git push --set-upstream origin <your-branch-name>`
+6. Push changes to the repo - `git push --set-upstream origin <your-branch-name>`
 7. Create Pull Request in the Github UI from `<your-branch-name>` to `dev` branch
 8. Wait until all checks are passed; make fixes if needed
 9. Merge Pull Request to `dev` branch
@@ -22,7 +22,11 @@ Preview state for these assets is not available. So, follow next steps:
 3. Create your branch - `git checkout -b <your-branch-name>`
 4. Make necessary changes in SVG-files
 5. Commit your changes - `git commit -m '<your-commit-message>'`
-6. Push changes to the repo -  `git push --set-upstream origin <your-branch-name>`
+6. Push changes to the repo - `git push --set-upstream origin <your-branch-name>`
 7. Create Pull Request in the Github UI from `<your-branch-name>` to `main` branch
 8. Wait until all checks are passed; make fixes if needed
 9. Merge Pull Request to `main` branch
+
+# How to convert JSON to a single string value for ENV variable value
+
+Run command in the terminal `node ./tools/json-converter/index.js <path-to-file>` and copy the output.

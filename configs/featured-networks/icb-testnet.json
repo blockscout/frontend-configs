@@ -1,0 +1,14 @@
+[{
+		"title": "ICB",
+		"url": "https://icbscan.io/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/icb.png"
+	},
+	{
+		"title": "ICB Testnet",
+		"url": "https://testnet.icbscan.io/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/icb.png",
+		"isActive": true
+	}
+]

@@ -1,0 +1,20 @@
+[{
+		"title": "Arbitrum Blueberry",
+		"url": "https://arb-blueberry.gelatoscout.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/arbitrum-icon.svg",
+		"isActive": true
+	},
+	{
+		"title": "OP Celestia Raspberry",
+		"url": "https://opcelestia-raspberry.gelatoscout.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg"
+	},
+	{
+		"title": "Polygon Blackberry",
+		"url": "https://polygon-blackberry.gelatoscout.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/polygonzkevm-short.svg"
+	}
+]

@@ -1,0 +1,178 @@
+{
+  "enscribe": {
+    "name": "Enscribe",
+    "url": "https://app.enscribe.xyz/nameContract?contract={address}&chainId={chainId}&utm_source=blockscout",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/enscribe.svg",
+    "title": "Contract name",
+    "hint": "Click to manage ENS names and metadata for smart contracts to improve discoverability and trust.",
+    "valuePath": "label",
+    "pages": ["contract"],
+    "chainIds": {
+      "1": "eth",
+      "11155111": "sep",
+      "10": "opt",
+      "11155420": "opt-testnet",
+      "8453": "base",
+      "845320": "base-testnet",
+      "42161": "arb",
+      "421614": "arb-testnet",
+      "534352": "scroll",
+      "534351": "scroll-testnet"
+    }
+  },
+  "talentprotocol": {
+    "name": "Talent Protocol",
+    "url": "https://www.creatorscore.app/{address}/stats?utm_source=blockscout",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/talent_protocol.svg",
+    "title": "Creator score",
+    "hint": "Creator score is a reputation system that recognizes and rewards the most impactful onchain creators",
+    "valuePath": "score.points",
+    "pages": ["eoa"]
+  },
+  "drops": {
+    "name": "Drops",
+    "url": "https://www.drops.bot/address/{address}?utm_source=blockscout",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/drops.svg",
+    "title": "Total airdrops found",
+    "hint": "Shows the amount in Dollars of airdrops found for the address. *Dollar amount not found",
+    "valuePath": "value",
+    "pages": ["eoa"]
+  },
+  "kwik": {
+    "name": "KwikClaim",
+    "url": "https://app.kwikclaim.com/opportunities/{address}?utm_source=blockscout",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/kwikclaim.svg",
+    "title": "Total airdrop opportunities",
+    "valuePath": "length",
+    "pages": ["eoa"]
+  },
+  "blockscoutbadges": {
+    "name": "Blockscout",
+    "url": "https://merits.blockscout.com/?tab=badges&utm_source=blockscout",
+    "icon": "https://cdn.prod.website-files.com/65f94dfd53db8b337c808067/686e6b14cd50a1ceede7c019_blockscout-widgets-logo.png",
+    "title": "Badges",
+    "hint": "All minted Blockscout badges for different activities",
+    "valuePath": "data",
+    "pages": ["eoa"]
+  },
+  "gitpoap": {
+    "name": "GitPOAP",
+    "url": "https://www.gitpoap.io/p/{address}?utm_source=blockscout",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/gitpoap.svg",
+    "title": "Total GitPOAPs",
+    "valuePath": "length",
+    "pages": ["eoa"]
+  },
+  "efp": {
+    "name": "EFP",
+    "url": "https://efp.app/{addressLowercase}?utm_source=blockscout",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/ethfollow.svg",
+    "title": "Followers",
+    "hint": "EFP is an onchain social graph protocol for Ethereum accounts that complements ENS",
+    "valuePath": "followers_count",
+    "pages": ["eoa"]
+  },
+  "etherscore": {
+    "name": "Etherscore",
+    "url": "https://beta.etherscore.network/{address}?utm_source=blockscout",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/etherscore.svg",
+    "title": "Total badges",
+    "valuePath": "data.user_metrics.user_profile.user_badge_count",
+    "pages": ["eoa"]
+  },
+  "webacy": {
+    "name": "DD.xyz by Webacy",
+    "url": "https://dapp.webacy.com/dyor/address/{address}?chain={chainId}&utm_source=blockscout",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/webacy.svg",
+    "title": "Risk score",
+    "hint": "Real-time crypto risk analysis using 400+ signals across code, compliance, behavior, economics, and more",
+    "valuePath": "overallRisk",
+    "pages": ["eoa", "contract", "token"],
+    "chainIds": {
+      "1": "eth",
+      "10": "opt",
+      "137": "pol",
+      "1329": "sei",
+      "8453": "base",
+      "42161": "arb"
+    }
+  },
+  "humanpassport": {
+    "name": "Human Passport",
+    "url": "https://app.passport.xyz?utm_source=blockscout",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/passport.svg",
+    "title": "Humanity score",
+    "hint": "Humanity score from Human Passport, a Sybil-resistant identity protocol. A score of 20+ signifies that you are a unique human",
+    "valuePath": "score",
+    "pages": ["eoa"]
+  },
+  "trustblock": {
+    "name": "Trustblock",
+    "url": "https://app.trustblock.run/?utm_source=blockscout&searchTerm={address}",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/trustblock.svg",
+    "title": "Audits",
+    "hint": "Shows smart contract audits verified and recorded on-chain via Trustblock, a Web3 protocol for audit transparency",
+    "valuePath": "auditsNumber",
+    "pages": ["contract", "token"]
+  },
+  "smartmuv": {
+    "name": "SmartMuv",
+    "url": "https://explorer.smartmuv.app/result/{address}?utm_source=blockscout",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/smartmuv.png",
+    "title": "Complexity score",
+    "valuePath": "data.complexity_score",
+    "pages": ["contract", "token"]
+  },
+  "bubblemaps": {
+    "name": "Bubblemaps",
+    "url": "https://app.bubblemaps.io/{chainId}/token/{address}?utm_source=blockscout",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/bubblemaps.svg",
+    "title": "Decentralization score",
+    "valuePath": "decentralization_score",
+    "pages": ["token"],
+    "chainIds": {
+      "1": "eth",
+      "137": "pol",
+      "8453": "base"
+    }
+  },
+  "goplus": {
+    "name": "GoPlus",
+    "url": "https://gopluslabs.io/token-security/{chainId}/{address}?utm_source=blockscout",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/goplus.svg",
+    "title": "Total risks level",
+    "valuePath": "risk_level",
+    "pages": ["token"],
+    "chainIds": {
+      "1": "eth",
+      "10": "opt",
+      "100": "gno",
+      "137": "pol",
+      "130": "uni",
+      "480": "world",
+      "1514": "story",
+      "1868": "sony",
+      "8453": "base",
+      "42161": "arb",
+      "534352": "scroll"
+    }
+  },
+  "humanode": {
+    "name": "Humanode",
+    "url": "https://mainnet.biomapper.hmnd.app/dashboard?utm_source=blockscout",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/humanode.svg",
+    "title": "Verified human status",
+    "hint": "Shows if a user has verified their humanity on Humanode",
+    "valuePath": "vresult",
+    "pages": ["eoa"]
+  },
+  "deepdao": {
+    "name": "DeepDAO",
+    "url": "https://deepdao.io/?utm_source=blockscout",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/deepdao.svg",
+    "title": "G-score rank",
+    "hint": "G-score measures and ranks the governance activities of DAO People",
+    "valuePath": "data.gScoreRanking",
+    "pages": ["eoa"]
+  }
+}

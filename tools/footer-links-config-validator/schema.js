@@ -1,16 +1,16 @@
-const yup = require('yup')
-const url = require('../utils/validators/url.js')
+import yup from 'yup'
+import url from '../utils/validators/url.js'
 
 const footerLinkSchema = yup.object({
-	text: yup.string().required(),
-	url: yup.string().test(url).required(),
+  text: yup.string().required(),
+  url: yup.string().test(url).required(),
 })
 
 const footerLinkGroupSchema = yup.object({
-	title: yup.string().required(),
-	links: yup.array().of(footerLinkSchema).required(),
+  title: yup.string().required(),
+  links: yup.array().of(footerLinkSchema).required(),
 })
 
 const schema = yup.array().json().of(footerLinkGroupSchema)
 
-module.exports = schema
+export default schema

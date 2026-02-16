@@ -1,0 +1,14 @@
+{
+  "background": [
+    "no-repeat center 100% url(https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-skins/mode.png)"
+  ],
+  "text_color": ["rgba(223, 254, 0)"],
+  "button": {
+    "_default": {
+      "background": ["rgba(62, 62, 62)"]
+    },
+    "_hover": {
+      "background": ["rgba(97, 97, 97)"]
+    }
+  }
+}

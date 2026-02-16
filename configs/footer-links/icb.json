@@ -1,0 +1,39 @@
+[
+	{
+		"title": "ICB Community",
+		"links": [
+			{
+				"text": "Telegram",
+				"url": "https://t.me/icbnet",
+				"iconUrl": [
+					"https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/footer-icons/telegram.svg",
+					"https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/footer-icons/telegram-dark.svg"
+				]
+			},
+			{
+				"text": "X",
+				"url": "https://x.com/icbx_network?mx=2",
+				"iconUrl": [
+					"https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/footer-icons/twitter.svg",
+					"https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/footer-icons/twitter-dark.svg"
+				]
+			},
+			{
+				"text": "Medium",
+				"url": "https://icblabs.medium.com/",
+				"iconUrl": [
+					"https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/footer-icons/medium.svg",
+					"https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/footer-icons/medium-dark.svg"
+				]
+			},
+			{
+				"text": "Discord",
+				"url": "https://discord.com/invite/baGw2Kkz",
+				"iconUrl": [
+					"https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/footer-icons/discord.svg",
+					"https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/footer-icons/discord-dark.svg"
+				]
+			}
+		]
+	}
+]

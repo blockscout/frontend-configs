@@ -1,5 +1,5 @@
-const yup = require('yup')
-const url = require('../utils/validators/url.js')
+import yup from 'yup'
+import url from '../utils/validators/url.js'
 
 const featuredNetworkSchema = yup
     .object()
@@ -17,4 +17,4 @@ const schema = yup
     .json()
     .of(featuredNetworkSchema)
 
-module.exports = schema;
+export default schema;

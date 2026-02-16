@@ -1,0 +1,14 @@
+[{
+		"title": "Stability",
+		"url": "https://stability.blockscout.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/stability-short.svg",
+		"isActive": true
+	},
+	{
+		"title": "Stability Testnet",
+		"url": "https://stability-testnet.blockscout.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/stability-short.svg"
+	}
+]

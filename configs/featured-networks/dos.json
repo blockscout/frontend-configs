@@ -1,0 +1,15 @@
+[{
+		"title": "DOS Chain",
+		"url": "https://doscan.io/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/DOSLabs/DOScan-Frontend-Configs/main/configs/network-icons/dos.svg",
+		"isActive": true
+	},
+	{
+		"title": "DOS Chain Testnet",
+		"url": "https://test.doscan.io/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/DOSLabs/DOScan-Frontend-Configs/main/configs/network-icons/dos.svg",
+		"isActive": false
+	}
+]
