@@ -26,7 +26,7 @@
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/talent_protocol.svg",
     "title": "Builder Rank",
     "hint": "Builder Rank verifies your position among all builders on talent.app, ranked by real impact and earnings",
-    "valuePath": "score.points",
+    "valuePath": "score.rank_position",
     "pages": ["eoa"]
   },
   "drops": {
