@@ -6,19 +6,7 @@
     "title": "Identity score",
     "hint": "Measures how clearly this contract is identified onchain. Higher scores indicate a primary ENS name with completed metadata.",
     "valuePath": "score",
-    "pages": ["contract"],
-    "chainIds": {
-      "1": "eth",
-      "11155111": "sep",
-      "10": "opt",
-      "11155420": "opt-testnet",
-      "8453": "base",
-      "845320": "base-testnet",
-      "42161": "arb",
-      "421614": "arb-testnet",
-      "534352": "scroll",
-      "534351": "scroll-testnet"
-    }
+    "pages": ["contract"]    
   },
   "talentprotocol": {
     "name": "Talent Protocol",
