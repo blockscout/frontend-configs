@@ -1,32 +1,20 @@
 {
   "enscribe": {
     "name": "Enscribe",
-    "url": "https://app.enscribe.xyz/nameContract?contract={address}&chainId={chainId}&utm_source=blockscout",
+    "url": "https://app.enscribe.xyz/nameContract?contract={address}&chainId={chainId}&utm=blockscout",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/enscribe.svg",
-    "title": "Contract name",
-    "hint": "Click to manage ENS names and metadata for smart contracts to improve discoverability and trust.",
-    "valuePath": "label",
-    "pages": ["contract"],
-    "chainIds": {
-      "1": "eth",
-      "11155111": "sep",
-      "10": "opt",
-      "11155420": "opt-testnet",
-      "8453": "base",
-      "845320": "base-testnet",
-      "42161": "arb",
-      "421614": "arb-testnet",
-      "534352": "scroll",
-      "534351": "scroll-testnet"
-    }
+    "title": "Identity score",
+    "hint": "Measures how clearly this contract is identified onchain. Higher scores indicate a primary ENS name with completed metadata.",
+    "valuePath": "score",
+    "pages": ["contract"]    
   },
   "talentprotocol": {
     "name": "Talent Protocol",
-    "url": "https://www.creatorscore.app/{address}/stats?utm_source=blockscout",
+    "url": "https://talent.app/{address}?utm_source=blockscout",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/talent_protocol.svg",
-    "title": "Creator score",
-    "hint": "Creator score is a reputation system that recognizes and rewards the most impactful onchain creators",
-    "valuePath": "score.points",
+    "title": "Builder Rank",
+    "hint": "Builder Rank verifies your position among all builders on talent.app, ranked by real impact and earnings",
+    "valuePath": "score.rank_position",
     "pages": ["eoa"]
   },
   "drops": {
