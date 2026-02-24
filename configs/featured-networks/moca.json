@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Moca Chain Mainnet",
+    "url": "https://mocachain.blockscout.com",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/moca.svg"
+  },
+  {
+    "title": "Moca Chain Testnet",
+    "url": "https://mocachain-testnet.blockscout.com",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/moca.svg"
+  }
+]

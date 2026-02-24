@@ -1,0 +1,16 @@
+[
+  {
+    "title": "TAC",
+    "url": "https://explorer.tac.build",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/tac-light.svg",
+    "invertIconInDarkMode": true
+  },
+  {
+    "title": "TAC SPB",
+    "url": "https://spb.explorer.tac.build",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/tac-light.svg",
+    "invertIconInDarkMode": true
+  }
+]
