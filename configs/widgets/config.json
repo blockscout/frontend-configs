@@ -1,7 +1,7 @@
 {
   "enscribe": {
     "name": "Enscribe",
-    "url": "https://app.enscribe.xyz/explore/{chainId}/{address}?utm=blockscout",
+    "url": "https://app.enscribe.xyz/explore/{chainId}/{address}?utm_source=blockscout&utm_medium=explorer&utm_campaign=identity_score",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/enscribe.svg",
     "title": "Identity score",
     "hint": "Measures how clearly this contract is identified onchain. Higher scores indicate a primary ENS name with completed metadata.",
