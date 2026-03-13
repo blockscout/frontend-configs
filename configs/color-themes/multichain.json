@@ -57,10 +57,10 @@
     "option": {
       "bg": {
         "_light": {
-          "value": "rgba(16, 17, 18, 1)"
+          "value": "rgba(83, 83, 211, 1)"
         },
         "_dark": {
-          "value": "rgba(247, 250, 252, 1)"
+          "value": "rgba(114, 114, 233, 1)"
         }
       }
     }
