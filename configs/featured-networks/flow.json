@@ -1,0 +1,12 @@
+[
+	{
+		"title": "Flow EVM Mainnet",
+		"url": "https://flow.blockscout.com/",
+		"group": "Mainnets"
+	},
+	{
+		"title": "Flow EVM Testnet",
+		"url": "https://flow-testnet.blockscout.com/",
+		"group": "Testnets"
+	}
+]
