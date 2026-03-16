@@ -8,5 +8,15 @@
 		"title": "Flow EVM Testnet",
 		"url": "https://flow-testnet.blockscout.com/",
 		"group": "Testnets"
+	},
+	{
+		"title": "Flow Cadence Mainnet",
+		"url": "https://explorer.flow.com/",
+		"group": "Mainnets"
+	},
+	{
+		"title": "Flow Cadence Testnet",
+		"url": "https://testnet.explorer.flow.com/",
+		"group": "Testnets"
 	}
 ]
