@@ -114,27 +114,27 @@
   "graph": {
     "line": {
       "_light": {
-        "value": "rgba(94, 87, 112, 1)"
+        "value": "rgba(109, 109, 215, 1)"
       },
       "_dark": {
-        "value": "rgba(194, 190, 208, 1)"
+        "value": "rgba(124, 124, 239, 1)"
       }
     },
     "gradient": {
       "start": {
         "_light": {
-          "value": "rgba(94, 87, 112, 0.3)"
+          "value": "rgba(109, 109, 215, 0.3)"
         },
         "_dark": {
-          "value": "rgba(194, 190, 208, 0.3)"
+          "value": "rgba(124, 124, 239, 0.3)"
         }
       },
       "stop": {
         "_light": {
-          "value": "rgba(94, 87, 112, 0)"
+          "value": "rgba(109, 109, 215, 0)"
         },
         "_dark": {
-          "value": "rgba(194, 190, 208, 0)"
+          "value": "rgba(124, 124, 239, 0)"
         }
       }
     }
@@ -185,10 +185,10 @@
     "text": {
       "primary": {
         "_light": {
-          "value": "rgba(113, 128, 150, 1)"
+          "value": "rgba(16, 17, 18, 0.8)"
         },
         "_dark": {
-          "value": "rgba(160, 174, 192, 1)"
+          "value": "rgba(255, 255, 255, 0.8)"
         }
       }
     }
