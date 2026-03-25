@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 30 30">
+  <g clip-path="url(#flow_svg__a)">
+    <mask id="flow_svg__b" width="30" height="30" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+      <path fill="#fff" d="M30 0H0v30h30V0Z"/>
+    </mask>
+    <g mask="url(#flow_svg__b)">
+      <path fill="#00EF8B" d="M14.925 29.825c8.23 0 14.9-6.67 14.9-14.9 0-8.229-6.67-14.9-14.9-14.9-8.229 0-14.9 6.671-14.9 14.9 0 8.23 6.671 14.9 14.9 14.9Z"/>
+      <path fill="#fff" d="M21.424 12.565H17.22v4.202h4.204v-4.202Z"/>
+      <path fill="#fff" d="M13.023 18.342a1.577 1.577 0 1 1-1.578-1.578h1.578v-4.2h-1.578a5.78 5.78 0 0 0-5.668 6.905 5.776 5.776 0 0 0 7.88 4.21 5.779 5.779 0 0 0 3.567-5.337v-1.578h-4.2v1.578Z"/>
+      <path fill="#fff" d="M18.797 10.465h4.728V6.263h-4.728a5.786 5.786 0 0 0-5.78 5.777v.526h4.202v-.527a1.577 1.577 0 0 1 1.578-1.574Z"/>
+      <path fill="#00EF8B" d="M13.018 16.765h4.201v-4.2h-4.201v4.2Z"/>
+    </g>
+  </g>
+  <defs>
+    <clipPath id="flow_svg__a">
+      <path fill="#fff" d="M0 0h30v30H0z"/>
+    </clipPath>
+  </defs>
+</svg>
