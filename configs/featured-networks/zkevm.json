@@ -4,11 +4,5 @@
 		"group": "Mainnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/polygonzkevm-short.svg",
 		"isActive": true
-	},
-	{
-		"title": "CDK Stavanger",
-		"url": "https://polygon-cdk-stavanger.blockscout.com/",
-		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/polygonzkevm-short.svg"
 	}
 ]
