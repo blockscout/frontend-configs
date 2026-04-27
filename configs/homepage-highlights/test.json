@@ -71,5 +71,21 @@
     ],
     "is_pinned": true,
     "page_path": "/pools"
+  },  
+  {
+    "title": "Blockscout PRO API",
+    "description": "One key to 100+ chains",
+    "title_color": ["#101112", "#F8FCFF"],
+    "description_color": ["#616F83", "#CBD0D7"],
+    "background": [
+      "linear-gradient(73deg, #E3E7FF 0.64%, #F9F9F9 49.79%, #E8E7FF 98.93%);",
+      "linear-gradient(73deg, #2E2E37 0.64%, #3B3D58 49.79%, #413C41 98.93%);"
+    ],
+    "redirect_url": "https://dev.blockscout.com/?utm_source=blockscout&utm_medium=highlight-banner",
+    "side_img_url": [
+      "https://blockscout-marketing-banners.s3.us-east-1.amazonaws.com/discover_pro_api_light.svg",
+      "https://blockscout-marketing-banners.s3.us-east-1.amazonaws.com/discover_pro_api_dark.svg"
+    ],
+    "is_pinned": true
   }
 ]
