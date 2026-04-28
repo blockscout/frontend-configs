@@ -15,23 +15,8 @@
     ]
   },
   {
-    "title": "Ready, Set, Launch",
-    "description": "Launch your explorer in under 10 minutes",
-    "title_color": ["#101112", "#F8FCFF"],
-    "description_color": ["#616F83", "#CBD0D7"],
-    "background": [
-      "linear-gradient(239deg, #E1F1FF 31.07%, #FBFBFF 66.76%, #F7E3FE 102.44%)",
-      "linear-gradient(239deg, #2F4F69 31.07%, #403C73 66.76%, #412A49 102.44%)"
-    ],
-    "redirect_url": "https://deploy.blockscout.com?utm_source=blockscout&utm_medium=highlight-banner",
-    "side_img_url": [
-      "https://blockscout-marketing-banners.s3.us-east-1.amazonaws.com/highlights-banners/%5Bhighlights-banner%5D__autoscout__light.svg",
-      "https://blockscout-marketing-banners.s3.us-east-1.amazonaws.com/highlights-banners/%5Bhighlights-banner%5D__autoscout__dark.svg"
-    ]
-  },
-  {
     "title": "Blockscout PRO API",
-    "description": "One key to 100+ chains",
+    "description": "One key to 100+ chains, easy to use, easy to migrate",
     "title_color": ["#101112", "#F8FCFF"],
     "description_color": ["#616F83", "#CBD0D7"],
     "background": [
@@ -42,6 +27,22 @@
     "side_img_url": [
       "https://blockscout-marketing-banners.s3.us-east-1.amazonaws.com/discover_pro_api_light.svg",
       "https://blockscout-marketing-banners.s3.us-east-1.amazonaws.com/discover_pro_api_dark.svg"
-    ]
+    ],
+    "is_pinned": true
+  },
+  {
+    "title": "Need blockschain explorer?",
+    "description": "Launch your Blockscout explorer in under 10 minutes",
+    "title_color": ["#101112", "#F8FCFF"],
+    "description_color": ["#616F83", "#CBD0D7"],
+    "background": [
+      "linear-gradient(239deg, #E1F1FF 31.07%, #FBFBFF 66.76%, #F7E3FE 102.44%)",
+      "linear-gradient(239deg, #2F4F69 31.07%, #403C73 66.76%, #412A49 102.44%)"
+    ],
+    "redirect_url": "https://deploy.blockscout.com?utm_source=blockscout&utm_medium=highlight-banner",
+    "side_img_url": [
+      "https://blockscout-marketing-banners.s3.us-east-1.amazonaws.com/highlights-banners/%5Bhighlights-banner%5D__autoscout__light.svg",
+      "https://blockscout-marketing-banners.s3.us-east-1.amazonaws.com/highlights-banners/%5Bhighlights-banner%5D__autoscout__dark.svg"
+    ]    
   }
 ]
