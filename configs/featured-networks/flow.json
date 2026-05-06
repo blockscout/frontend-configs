@@ -1,22 +1,26 @@
 [
 	{
 		"title": "Flow EVM Mainnet",
-		"url": "https://flow.blockscout.com/",
-		"group": "Mainnets"
+		"url": "https://evm.flow.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/network-icons/flow.svg"
 	},
 	{
 		"title": "Flow EVM Testnet",
-		"url": "https://flow-testnet.blockscout.com/",
-		"group": "Testnets"
+		"url": "https://testnet.evm.flow.com/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/network-icons/flow.svg"
 	},
 	{
 		"title": "Flow Cadence Mainnet",
 		"url": "https://explorer.flow.com/",
-		"group": "Mainnets"
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/network-icons/flow.svg"
 	},
 	{
 		"title": "Flow Cadence Testnet",
 		"url": "https://testnet.explorer.flow.com/",
-		"group": "Testnets"
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/network-icons/flow.svg"
 	}
 ]
