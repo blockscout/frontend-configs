@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 102 24">
+  <g clip-path="url(#nexus-dark_svg__a)">
+    <g clip-path="url(#nexus-dark_svg__b)">
+      <path fill="url(#nexus-dark_svg__c)" d="m10.434 12 10.436 6V6l-10.436 6Z"/>
+      <path fill="url(#nexus-dark_svg__d)" d="M10.434 12V0L0 6l10.434 6Z"/>
+      <path fill="url(#nexus-dark_svg__e)" d="M0 6.001v11.998l10.434-5.998L0 6Z"/>
+      <path fill="url(#nexus-dark_svg__f)" d="M10.434 12v12l10.436-6-10.436-6Z"/>
+      <path fill="url(#nexus-dark_svg__g)" d="M10.434 12 20.87 6 10.434 0v12Z"/>
+      <path fill="url(#nexus-dark_svg__h)" d="M10.434 24V12L0 18l10.434 6Z"/>
+      <path fill="#fff" d="M31.24 6.018h.868l7.872 10.526V6.018h.867v11.913h-.867L32.108 7.406V17.93h-.867V6.018ZM49.379 6.868v4.577h6.59v.833h-6.59v4.803h7.18v.85h-8.064V6.017h8.063v.85h-7.18ZM67.1 11.983l4.544 5.948h-1.075l-4.005-5.254-4.024 5.254h-1.074l4.56-5.948-4.56-5.965h1.074l4.024 5.255 4.022-5.255h1.075l-4.56 5.965ZM79.621 17.403a4.454 4.454 0 0 1-1.682-1.752c-.405-.746-.607-1.592-.607-2.54V5.915h.867v7.196c0 .787.165 1.491.494 2.115.33.625.789 1.11 1.379 1.457s1.254.52 1.994.52 1.419-.173 2.004-.52a3.629 3.629 0 0 0 1.37-1.457c.33-.624.493-1.33.493-2.115V5.915h.867v7.196c0 .948-.202 1.795-.607 2.54a4.464 4.464 0 0 1-1.681 1.752c-.717.423-1.532.633-2.446.633-.913 0-1.728-.21-2.445-.633ZM94.925 17.637a6.303 6.303 0 0 1-2.124-1.396l.538-.676a5.934 5.934 0 0 0 1.899 1.274c.723.307 1.482.46 2.28.46.635 0 1.193-.105 1.673-.313.48-.208.852-.498 1.118-.867.266-.37.399-.78.399-1.231 0-.648-.272-1.167-.815-1.561-.543-.393-1.433-.734-2.67-1.024-1.365-.312-2.356-.701-2.975-1.17-.618-.468-.927-1.113-.927-1.933 0-.648.167-1.23.502-1.743a3.401 3.401 0 0 1 1.388-1.205c.59-.29 1.254-.433 1.994-.433s1.495.147 2.194.442c.7.294 1.345.714 1.933 1.257l-.538.676a5.782 5.782 0 0 0-1.707-1.137 4.832 4.832 0 0 0-1.933-.407 3.51 3.51 0 0 0-1.526.321c-.45.214-.8.509-1.049.884-.249.376-.373.8-.373 1.274 0 .58.269 1.04.806 1.388.539.347 1.419.671 2.645.972 1.353.323 2.344.74 2.974 1.248.63.508.945 1.203.945 2.08a2.98 2.98 0 0 1-.502 1.691c-.335.502-.809.899-1.422 1.188-.613.29-1.33.434-2.151.434a6.82 6.82 0 0 1-2.575-.494v.001Z"/>
+    </g>
+  </g>
+  <defs>
+    <radialGradient id="nexus-dark_svg__c" cx="0" cy="0" r="1" gradientTransform="translate(10.427 11.99) scale(10.5786)" gradientUnits="userSpaceOnUse">
+      <stop offset=".1" stop-color="#666766"/>
+      <stop offset=".63" stop-color="#454545"/>
+      <stop offset="1" stop-color="#333"/>
+    </radialGradient>
+    <radialGradient id="nexus-dark_svg__d" cx="0" cy="0" r="1" gradientTransform="translate(10.308 11.75) scale(8.93367)" gradientUnits="userSpaceOnUse">
+      <stop offset=".1" stop-color="#E7E7E6"/>
+      <stop offset=".28" stop-color="#D3D3D2"/>
+      <stop offset=".76" stop-color="#A3A3A3"/>
+      <stop offset="1" stop-color="#919191"/>
+    </radialGradient>
+    <radialGradient id="nexus-dark_svg__f" cx="0" cy="0" r="1" gradientTransform="translate(10.307 11.99) scale(10.5761)" gradientUnits="userSpaceOnUse">
+      <stop offset=".1" stop-color="#4D4D4D"/>
+      <stop offset=".53" stop-color="#383838"/>
+      <stop offset="1" stop-color="#262626"/>
+    </radialGradient>
+    <radialGradient id="nexus-dark_svg__g" cx="0" cy="0" r="1" gradientTransform="translate(10.187 12.11) scale(10.5601)" gradientUnits="userSpaceOnUse">
+      <stop offset=".1" stop-color="#E6E6E5"/>
+      <stop offset=".49" stop-color="#A8A8A7"/>
+      <stop offset=".83" stop-color="#787978"/>
+      <stop offset="1" stop-color="#666766"/>
+    </radialGradient>
+    <radialGradient id="nexus-dark_svg__h" cx="0" cy="0" r="1" gradientTransform="translate(10.308 12.11) scale(10.5404)" gradientUnits="userSpaceOnUse">
+      <stop offset=".1" stop-color="#fff"/>
+      <stop offset=".14" stop-color="#FBFBFB"/>
+      <stop offset=".72" stop-color="#CBCBCB"/>
+      <stop offset="1" stop-color="#B9B9B9"/>
+    </radialGradient>
+    <clipPath id="nexus-dark_svg__a">
+      <path fill="#fff" d="M0 0h102v24H0z"/>
+    </clipPath>
+    <clipPath id="nexus-dark_svg__b">
+      <path fill="#fff" d="M0 0h101.575v24H0z"/>
+    </clipPath>
+    <linearGradient id="nexus-dark_svg__e" x1="0" x2="10.434" y1="12.001" y2="12.001" gradientUnits="userSpaceOnUse">
+      <stop offset=".1" stop-color="#DBDADA"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+</svg>

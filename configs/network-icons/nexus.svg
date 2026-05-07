@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 30 30">
+  <g clip-path="url(#nexus_svg__a)">
+    <path fill="url(#nexus_svg__b)" d="m15.043 15 13.044 7.5v-15L15.044 15Z"/>
+    <path fill="url(#nexus_svg__c)" d="M15.043 15V0L2 7.5 15.043 15Z"/>
+    <path fill="url(#nexus_svg__d)" d="M2.001 7.5v15L15.044 15 2 7.5Z"/>
+    <path fill="url(#nexus_svg__e)" d="M15.043 15v15l13.044-7.5L15.044 15Z"/>
+    <path fill="url(#nexus_svg__f)" d="m15.043 15 13.044-7.5L15.044 0v15Z"/>
+    <path fill="url(#nexus_svg__g)" d="M15.043 30V15L2.002 22.5H2L15.043 30Z"/>
+  </g>
+  <defs>
+    <radialGradient id="nexus_svg__b" cx="0" cy="0" r="1" gradientTransform="translate(15.037 15.001) scale(13.2234)" gradientUnits="userSpaceOnUse">
+      <stop offset=".1" stop-color="#666766"/>
+      <stop offset=".63" stop-color="#454545"/>
+      <stop offset="1" stop-color="#333"/>
+    </radialGradient>
+    <radialGradient id="nexus_svg__c" cx="0" cy="0" r="1" gradientTransform="translate(14.886 14.701) scale(11.1667)" gradientUnits="userSpaceOnUse">
+      <stop offset=".1" stop-color="#E7E7E6"/>
+      <stop offset=".28" stop-color="#D3D3D2"/>
+      <stop offset=".76" stop-color="#A3A3A3"/>
+      <stop offset="1" stop-color="#919191"/>
+    </radialGradient>
+    <radialGradient id="nexus_svg__e" cx="0" cy="0" r="1" gradientTransform="translate(14.886 15.001) scale(13.2198)" gradientUnits="userSpaceOnUse">
+      <stop offset=".1" stop-color="#4D4D4D"/>
+      <stop offset=".53" stop-color="#383838"/>
+      <stop offset="1" stop-color="#262626"/>
+    </radialGradient>
+    <radialGradient id="nexus_svg__f" cx="0" cy="0" r="1" gradientTransform="translate(14.737 15.151) scale(13.1993)" gradientUnits="userSpaceOnUse">
+      <stop offset=".1" stop-color="#E6E6E5"/>
+      <stop offset=".49" stop-color="#A8A8A7"/>
+      <stop offset=".83" stop-color="#787978"/>
+      <stop offset="1" stop-color="#666766"/>
+    </radialGradient>
+    <radialGradient id="nexus_svg__g" cx="0" cy="0" r="1" gradientTransform="translate(14.886 15.152) scale(13.1745)" gradientUnits="userSpaceOnUse">
+      <stop offset=".1" stop-color="#fff"/>
+      <stop offset=".14" stop-color="#FBFBFB"/>
+      <stop offset=".72" stop-color="#CBCBCB"/>
+      <stop offset="1" stop-color="#B9B9B9"/>
+    </radialGradient>
+    <linearGradient id="nexus_svg__d" x1="2.001" x2="15.043" y1="15" y2="15" gradientUnits="userSpaceOnUse">
+      <stop offset=".1" stop-color="#DBDADA"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <clipPath id="nexus_svg__a">
+      <path fill="#fff" d="M2 0h26.087v30H2z"/>
+    </clipPath>
+  </defs>
+</svg>
