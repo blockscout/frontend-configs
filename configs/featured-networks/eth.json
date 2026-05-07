@@ -1,268 +1,249 @@
 [
-	{
-		"title": "Ethereum",
-		"url": "https://eth.blockscout.com/",
-		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg"
-	},
-	{
-		"title": "Optimism",
-		"url": "https://optimism.blockscout.com/",
-		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism-mainnet-light.svg"
-	},
-	{
-		"title": "Base Chain",
-		"url": "https://base.blockscout.com/",
-		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/base.svg"
-	},
-	{
-		"title": "Arbitrum One",
-		"url": "https://arbitrum.blockscout.com/",
-		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/arbitrum-one-icon-light.svg"
-	},
-	{
-		"title": "Arbitrum Nova",
-		"url": "https://arbitrum-nova.blockscout.com/",
-		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/arbitrum-nova.svg"
-	},
-	{
-		"title": "Polygon",
-		"url": "https://polygon.blockscout.com/",
-		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/polygon-short.svg"
-	},
-	{
-		"title": "Rootstock",
-		"url": "https://rootstock.blockscout.com/",
-		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/rootstock-short.svg"
-	},
-	{
-		"title": "Soneium",
-		"url": "https://soneium.blockscout.com/",
-		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/soneium.svg"
-	},
-	{
-		"title": "Scroll",
-		"url": "https://scroll.blockscout.com/",
-		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/scroll.svg"
-	},
-	{
-		"title": "LightLink Phoenix",
-		"url": "https://phoenix.lightlink.io/",
-		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/lightlink-short.svg"
-	},
-	{
-		"title": "Neon",
-		"url": "https://neon.blockscout.com/",
-		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/neon-short.svg"
-	},
-	{
-		"title": "Ethereum Classic",
-		"url": "https://etc.blockscout.com/",
-		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum-classic.svg"
-	},
-	{
-		"title": "Gnosis Chain",
-		"url": "https://gnosis.blockscout.com/",
-		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/gnosis.svg"
-	},
-	{
-		"title": "Zora",
-		"url": "https://explorer.zora.energy/",
-		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zora.svg"
-	},
-	{
-		"title": "Astar (EVM)",
-		"url": "https://astar.blockscout.com/",
-		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/astar.svg"
-	},
-	{
-		"title": "Redstone",
-		"url": "https://explorer.redstone.xyz/",
-		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/redstone-light.svg"
-	},
-	{
-		"title": "ZetaChain",
-		"url": "https://zetachain.blockscout.com/",
-		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zetachain.svg",
-		"invertIconInDarkMode": true
-	},
-	{
-		"title": "Cronos",
-		"url": "https://cronos.org/explorer/",
-		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/cronos.png",
-		"invertIconInDarkMode": true
-	},
-	{
-		"title": "HyperEVM",
-		"url": "https://www.hyperscan.com/",
-		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/hyperliquid.svg",
-		"invertIconInDarkMode": true
-	},
-	{
-		"title": "BOB",
-		"url": "https://explorer.gobob.xyz/",
-		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/bob.svg"
-	},
-	{
-		"title": "Mantle",
-		"url": "https://explorer.mantle.xyz/",
-		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/mantle.png",
-		"invertIconInDarkMode": true
-	},
-	{
-		"title": "Hemi",
-		"url": "https://explorer.hemi.xyz/",
-		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/hemi.png"
-	},
-	{
-		"title": "Sepolia",
-		"url": "https://eth-sepolia.blockscout.com/",
-		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/sepolia.png"
-	},
-	{
-		"title": "Holesky",
-		"url": "https://eth-holesky.blockscout.com/",
-		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg"
-	},
-	{
-		"title": "Hoodi",
-		"url": "https://eth-hoodi.blockscout.com/",
-		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg"
-	},
-	{
-		"title": "Goerli",
-		"url": "https://eth-goerli.blockscout.com/",
-		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/goerli.svg",
-		"invertIconInDarkMode": true
-	},
-	{
-		"title": "Optimism Sepolia",
-		"url": "https://optimism-sepolia.blockscout.com/",
-		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg"
-	},
-	{
-		"title": "Optimism Goerli",
-		"url": "https://optimism-goerli.blockscout.com/",
-		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg"
-	},
-	{
-		"title": "Base Sepolia",
-		"url": "https://base-sepolia.blockscout.com/",
-		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/base.svg"
-	},
-	{
-		"title": "Base Göerli",
-		"url": "https://base-goerli.blockscout.com/",
-		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/base.svg"
-	},
-	{
-		"title": "Arbitrum Sepolia",
-		"url": "https://arbitrum-sepolia.blockscout.com/",
-		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/arbitrum-sepolia.svg"
-	},
-	{
-		"title": "Rootstock Testnet",
-		"url": "https://rootstock-testnet.blockscout.com/",
-		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/rootstock-short.svg"
-	},
-	{
-		"title": "Soneium Minato",
-		"url": "https://soneium-minato.blockscout.com/",
-		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/soneium.svg"
-	},
-	{
-		"title": "Scroll Sepolia",
-		"url": "https://scroll-sepolia.blockscout.com/",
-		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/scroll.svg"
-	},
-	{
-		"title": "LightLink Pegasus",
-		"url": "https://pegasus.lightlink.io/",
-		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/lightlink-short.svg"
-	},
-	{
-		"title": "Neon Devnet",
-		"url": "https://neon-devnet.blockscout.com/",
-		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/neon-short.svg"
-	},
-	{
-		"title": "ETC Mordor",
-		"url": "https://etc-mordor.blockscout.com/",
-		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum-classic.svg"
-	},
-	{
-		"title": "Gnosis Chiado",
-		"url": "https://gnosis-chiado.blockscout.com/",
-		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/gnosis_chiado.svg"
-	},
-	{
-		"title": "Zora Sepolia",
-		"url": "https://sepolia.explorer.zora.energy/",
-		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zora.svg"
-	},
-	{
-		"title": "Shibuya (EVM)",
-		"url": "https://shibuya.blockscout.com/",
-		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/shibuya.svg",
-		"invertIconInDarkMode": true
-	},
-	{
-		"title": "Garnet Testnet",
-		"url": "https://explorer.garnetchain.com/",
-		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/garnet.svg"
-	},
-	{
-		"title": "ZetaChain Testnet",
-		"url": "https://zetachain-testnet.blockscout.com/",
-		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zetachain.svg",
-		"invertIconInDarkMode": true
-	},
-	{
-		"title": "Mantle Sepolia",
-		"url": "https://explorer.sepolia.mantle.xyz/",
-		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/mantle.png",
-		"invertIconInDarkMode": true
-	}
+  {
+    "title": "Ethereum",
+    "url": "https://eth.blockscout.com/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg"
+  },
+  {
+    "title": "Optimism",
+    "url": "https://optimism.blockscout.com/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism-mainnet-light.svg"
+  },
+  {
+    "title": "Base Chain",
+    "url": "https://base.blockscout.com/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/base.svg"
+  },
+  {
+    "title": "Arbitrum One",
+    "url": "https://arbitrum.blockscout.com/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/arbitrum-one-icon-light.svg"
+  },
+  {
+    "title": "Arbitrum Nova",
+    "url": "https://arbitrum-nova.blockscout.com/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/arbitrum-nova.svg"
+  },
+  {
+    "title": "Polygon",
+    "url": "https://polygon.blockscout.com/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/polygon-short.svg"
+  },
+  {
+    "title": "Rootstock",
+    "url": "https://rootstock.blockscout.com/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/rootstock-short.svg"
+  },
+  {
+    "title": "Soneium",
+    "url": "https://soneium.blockscout.com/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/soneium.svg"
+  },
+  {
+    "title": "Scroll",
+    "url": "https://scroll.blockscout.com/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/scroll.svg"
+  },
+  {
+    "title": "LightLink Phoenix",
+    "url": "https://phoenix.lightlink.io/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/lightlink-short.svg"
+  },
+  {
+    "title": "Neon",
+    "url": "https://neon.blockscout.com/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/neon-short.svg"
+  },
+  {
+    "title": "Ethereum Classic",
+    "url": "https://etc.blockscout.com/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum-classic.svg"
+  },
+  {
+    "title": "Gnosis Chain",
+    "url": "https://gnosis.blockscout.com/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/gnosis.svg"
+  },
+  {
+    "title": "Zora",
+    "url": "https://explorer.zora.energy/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zora.svg"
+  },
+  {
+    "title": "Astar (EVM)",
+    "url": "https://astar.blockscout.com/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/astar.svg"
+  },
+  {
+    "title": "Redstone",
+    "url": "https://explorer.redstone.xyz/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/redstone-light.svg"
+  },
+  {
+    "title": "ZetaChain",
+    "url": "https://zetachain.blockscout.com/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zetachain.svg",
+    "invertIconInDarkMode": true
+  },
+  {
+    "title": "Cronos",
+    "url": "https://cronos.org/explorer/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/cronos.png",
+    "invertIconInDarkMode": true
+  },
+  {
+    "title": "HyperEVM",
+    "url": "https://www.hyperscan.com/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/hyperliquid.svg",
+    "invertIconInDarkMode": true
+  },
+  {
+    "title": "BOB",
+    "url": "https://explorer.gobob.xyz/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/bob.svg"
+  },
+  {
+    "title": "Mantle",
+    "url": "https://explorer.mantle.xyz/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/mantle.png",
+    "invertIconInDarkMode": true
+  },
+  {
+    "title": "Hemi",
+    "url": "https://explorer.hemi.xyz/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/hemi.png"
+  },
+  {
+    "title": "Sepolia",
+    "url": "https://eth-sepolia.blockscout.com/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/sepolia.png"
+  },
+  {
+    "title": "Holesky",
+    "url": "https://eth-holesky.blockscout.com/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg"
+  },
+  {
+    "title": "Hoodi",
+    "url": "https://eth-hoodi.blockscout.com/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg"
+  },
+  {
+    "title": "Optimism Sepolia",
+    "url": "https://optimism-sepolia.blockscout.com/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg"
+  },
+  {
+    "title": "Base Sepolia",
+    "url": "https://base-sepolia.blockscout.com/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/base.svg"
+  },
+  {
+    "title": "Arbitrum Sepolia",
+    "url": "https://arbitrum-sepolia.blockscout.com/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/arbitrum-sepolia.svg"
+  },
+  {
+    "title": "Rootstock Testnet",
+    "url": "https://rootstock-testnet.blockscout.com/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/rootstock-short.svg"
+  },
+  {
+    "title": "Soneium Minato",
+    "url": "https://soneium-minato.blockscout.com/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/soneium.svg"
+  },
+  {
+    "title": "Scroll Sepolia",
+    "url": "https://scroll-sepolia.blockscout.com/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/scroll.svg"
+  },
+  {
+    "title": "LightLink Pegasus",
+    "url": "https://pegasus.lightlink.io/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/lightlink-short.svg"
+  },
+  {
+    "title": "Neon Devnet",
+    "url": "https://neon-devnet.blockscout.com/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/neon-short.svg"
+  },
+  {
+    "title": "ETC Mordor",
+    "url": "https://etc-mordor.blockscout.com/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum-classic.svg"
+  },
+  {
+    "title": "Gnosis Chiado",
+    "url": "https://gnosis-chiado.blockscout.com/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/gnosis_chiado.svg"
+  },
+  {
+    "title": "Zora Sepolia",
+    "url": "https://sepolia.explorer.zora.energy/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zora.svg"
+  },
+  {
+    "title": "Shibuya (EVM)",
+    "url": "https://shibuya.blockscout.com/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/shibuya.svg",
+    "invertIconInDarkMode": true
+  },
+  {
+    "title": "Garnet Testnet",
+    "url": "https://explorer.garnetchain.com/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/garnet.svg"
+  },
+  {
+    "title": "ZetaChain Testnet",
+    "url": "https://zetachain-testnet.blockscout.com/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zetachain.svg",
+    "invertIconInDarkMode": true
+  },
+  {
+    "title": "Mantle Sepolia",
+    "url": "https://explorer.sepolia.mantle.xyz/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/mantle.png",
+    "invertIconInDarkMode": true
+  }
 ]
