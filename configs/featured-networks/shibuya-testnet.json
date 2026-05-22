@@ -51,11 +51,6 @@
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/sepolia.png"
   },
   {
-    "title": "Holesky",
-    "url": "https://eth-holesky.blockscout.com/",
-    "group": "Testnets"
-  },
-  {
     "title": "Kusama",
     "url": "https://kusama.subscan.io/",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/kusama.svg",
