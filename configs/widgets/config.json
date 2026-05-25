@@ -6,7 +6,7 @@
     "title": "Identity score",
     "hint": "Measures how clearly this contract is identified onchain. Higher scores indicate a primary ENS name with completed metadata.",
     "valuePath": "score",
-    "pages": ["contract"]    
+    "pages": ["contract"]
   },
   "talentprotocol": {
     "name": "Talent Protocol",
@@ -116,7 +116,7 @@
     "url": "https://app.bubblemaps.io/{chainId}/token/{address}?utm_source=blockscout",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/bubblemaps.svg",
     "title": "Decentralization score",
-    "valuePath": "decentralization_score",
+    "valuePath": "metrics.scores.bubblemaps_score",
     "pages": ["token"],
     "chainIds": {
       "1": "eth",
