@@ -38,13 +38,13 @@
     "side_img_url": ["https://blockscout-marketing-banners.s3.us-east-1.amazonaws.com/highlights-banners/%5Bhighlights-banner%5D__showdown.svg"]
   },
   {
-    "title": "Nectar AI",
-    "description": "Experience onchain real-time fantasies",
-    "title_color": ["#FF5959", "#FF5959"],
-    "description_color": ["#CBD0D7", "#CBD0D7"],
-    "background": ["#111111", "#111111"],
-    "redirect_url": "https://nectar.ai/?utm_source=blockscout&utm_medium=highlight-banner",
-    "side_img_url": ["https://blockscout-marketing-banners.s3.us-east-1.amazonaws.com/highlights-banners/%5Bhighlights-banner%5D__nectar-ai.svg"]
+    "title": "FastBridge",
+    "description": "Bridge to MegaETH - Instant Cross-Chain Transfers",
+    "title_color": ["#D8EFFF", "#D8EFFF"],
+    "description_color": ["#ACDBFB", "#ACDBFB"],
+    "background": ["#005CD1", "#005CD1"],
+    "redirect_url": "https://fastbridge.availproject.org/megaeth?utm_source=blockscout&utm_medium=highlight-banner",
+    "side_img_url": ["https://blockscout-content.s3.us-east-1.amazonaws.com/fastbridge.svg"]
   },
   {
     "title": "Euphoria",
