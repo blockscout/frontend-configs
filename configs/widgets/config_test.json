@@ -117,7 +117,7 @@
     "url": "https://app.bubblemaps.io/{chainId}/token/{address}?utm_source=blockscout",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/bubblemaps.svg",
     "title": "Decentralization score",
-    "valuePath": "decentralization_score",
+    "valuePath": "scores.bubblemaps_score",
     "pages": ["token"],
     "chainIds": {
       "1": "eth",
