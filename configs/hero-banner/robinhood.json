@@ -1,13 +1,28 @@
 {
-  "background": ["rgba(0, 0, 0)"],
+  "background": ["transparent"],
+  "text_color": ["rgba(16, 17, 18, 1)", "rgba(248, 248, 248, 1)"],
+  "border": [
+    "1px solid rgba(16, 17, 18, 0.04)",
+    "1px solid rgba(255, 255, 255, 0.06)"
+  ],
   "button": {
     "_default": {
-      "background": ["rgba(204, 255, 0, 1)"],
-      "text_color": ["rgba(28, 24, 13, 1)"]
+      "background": ["rgba(28, 24, 13, 1)", "rgba(204, 255, 0, 1)"],
+      "text_color": ["rgba(255, 255, 255, 1)", "rgba(28, 24, 13, 1)"]
     },
     "_hover": {
-      "background": ["rgba(173, 217, 7, 1)"],
-      "text_color": ["rgba(28, 24, 13, 1)"]
+      "background": ["rgba(83, 83, 83, 1)", "rgba(173, 217, 7, 1)"],
+      "text_color": ["rgba(255, 255, 255, 1)", "rgba(28, 24, 13, 1)"]
+    }
+  },
+  "search": {
+    "background": ["rgba(16, 17, 18, 0.04)", "rgba(255, 255, 255, 0.06)"],
+    "border_width": ["2px"],
+    "border_color": {
+      "_empty": ["transparent"],
+      "_hover": ["transparent"],
+      "_focus": ["rgba(49, 130, 206, 1)", "rgba(126, 158, 7, 1)"],
+      "_filled": ["transparent"]
     }
   }
 }
