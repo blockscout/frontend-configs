@@ -1,0 +1,15 @@
+[
+    {
+        "title": "Derive",
+        "url": "https://derive.blockscout.com/",
+        "group": "Mainnets",
+        "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/derive.svg",
+        "isActive": true
+    },
+    {
+        "title": "Derive Testnet",
+        "url": "https://derive-testnet.blockscout.com/",
+        "group": "Testnets",
+        "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/derive.svg"
+    }
+]
