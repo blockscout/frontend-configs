@@ -1,7 +1,7 @@
 [
   {
     "title": "Robinhood Chain",
-    "url": "http://robinhoodchain.blockscout.com/",
+    "url": "https://robinhoodchain.blockscout.com/",
     "group": "Mainnets",
     "invertIconInDarkMode": true,
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/robinhood-light.svg"
