@@ -1,0 +1,17 @@
+[
+    {
+        "title": "HPP",
+        "url": "https://hpp.blockscout.com/",
+        "group": "Mainnets",
+        "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/hpp-light.svg",
+        "invertIconInDarkMode": true,
+        "isActive": true
+    },
+    {
+        "title": "HPP Testnet",
+        "url": "https://hpp-testnet.blockscout.com/",
+        "group": "Testnets",
+        "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/hpp-light.svg",
+        "invertIconInDarkMode": true
+    }
+]
