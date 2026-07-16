@@ -3,8 +3,12 @@
     "title": "Doma",
     "links": [
       {
-        "text": "Website",
-        "url": "https://doma.xyz"
+        "text": "App",
+        "url": "https://app.doma.xyz"
+      },
+      {
+        "text": "Docs",
+        "url": "https://docs.doma.xyz"
       }
     ]
   }
