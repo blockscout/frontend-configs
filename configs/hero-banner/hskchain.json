@@ -1,0 +1,16 @@
+{
+  "background": [
+    "linear-gradient(91deg, rgba(219, 201, 245, 1) 0.69%, rgba(234, 226, 247, 1) 103.7%)"
+  ],
+  "text_color": ["rgba(35, 43, 55, 1)"],
+  "button": {
+    "_default": {
+      "background": ["rgba(159, 111, 253, 1)"],
+      "text_color": ["rgba(255, 255, 255, 1)"]
+    },
+    "_hover": {
+      "background": ["rgba(130, 72, 243, 1)"],
+      "text_color": ["rgba(255, 255, 255, 1)"]
+    }
+  }
+}
