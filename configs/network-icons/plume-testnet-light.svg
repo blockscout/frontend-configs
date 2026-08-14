@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 30 30">
+  <g clip-path="url(#plume-testnet-light_svg__a)">
+    <mask id="plume-testnet-light_svg__b" width="30" height="30" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+      <path fill="#fff" d="M30 0H0v30h30V0Z"/>
+    </mask>
+    <g mask="url(#plume-testnet-light_svg__b)">
+      <path fill="#0A0A0A" d="M14.794 29.836H1.396l5.918-5.918h13.4l-5.919 5.918Zm-8.876-7.313L0 28.441v-13.4l5.918-5.918v13.4Zm16.767-.578h-13.4l5.918-5.917h13.4l-5.918 5.917Zm-8.876-7.312L7.89 20.55V7.15l5.919-5.918v13.4Zm15.78-.578H17.176L29.589 1.642v12.413ZM15.781 12.66V.247h12.413L15.781 12.66Z"/>
+    </g>
+  </g>
+  <defs>
+    <clipPath id="plume-testnet-light_svg__a">
+      <path fill="#fff" d="M0 0h30v30H0z"/>
+    </clipPath>
+  </defs>
+</svg>
