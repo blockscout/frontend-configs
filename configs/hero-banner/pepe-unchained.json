@@ -1,0 +1,16 @@
+{
+  "background": [
+    "no-repeat center / cover url(https://raw.githubusercontent.com/blockscout/frontend-configs/skin/pepe-unchained/configs/network-skins/pepe-unchained.png)"
+  ],
+  "text_color": ["rgba(255, 255, 255, 1)"],
+  "button": {
+    "_default": {
+      "background": ["rgba(209, 255, 3, 1)"],
+      "text_color": ["rgba(36, 63, 38, 1)"]
+    },
+    "_hover": {
+      "background": ["rgba(235, 255, 144, 1)"],
+      "text_color": ["rgba(36, 63, 38, 1)"]
+    }
+  }
+}
