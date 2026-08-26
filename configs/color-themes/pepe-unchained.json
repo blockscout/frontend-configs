@@ -28,7 +28,7 @@
   "button": {
     "primary": {
       "_light": { "value": "rgba(36, 63, 38, 1)" },
-      "_dark": { "value": "rgba(36, 63, 38, 1)" },
+      "_dark": { "value": "rgba(78, 137, 73, 1)" },
       "text": {
         "_light": { "value": "rgba(255, 255, 255, 0.92)" },
         "_dark": { "value": "rgba(255, 255, 255, 0.92)" }
