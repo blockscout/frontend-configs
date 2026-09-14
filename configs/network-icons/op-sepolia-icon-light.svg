@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 30 30">
+  <g clip-path="url(#op-sepolia-icon-light_svg__a)">
+    <g clip-path="url(#op-sepolia-icon-light_svg__b)">
+      <path fill="#FF0421" d="M0 0h30v30H0V0Z"/>
+      <path fill="#FAFAF9" d="M10.34 10.358c3.587 0 5.087 1.54 4.648 4.758-.43 3.149-2.166 4.619-5.753 4.619-3.586 0-5.094-1.54-4.656-4.759.43-3.149 2.262-4.618 5.76-4.618Zm11.699.21c2.622 0 3.727 1.128 3.42 3.463-.298 2.265-1.614 3.324-4.253 3.324h-2.923l-.305 2.169H15.41l1.263-8.956h5.367Zm-11.848 1.976c-1.85 0-2.762.788-2.999 2.572-.228 1.732.43 2.431 2.184 2.431 1.868 0 2.762-.795 2.999-2.57.228-1.724-.334-2.433-2.184-2.433Zm8.752.122-.364 2.59h2.513c1.105 0 1.657-.42 1.762-1.383.097-.865-.28-1.207-1.28-1.207h-2.63Z"/>
+    </g>
+  </g>
+  <defs>
+    <clipPath id="op-sepolia-icon-light_svg__a">
+      <path fill="#fff" d="M0 0h30v30H0z"/>
+    </clipPath>
+    <clipPath id="op-sepolia-icon-light_svg__b">
+      <path fill="#fff" d="M0 0h30v30H0z"/>
+    </clipPath>
+  </defs>
+</svg>

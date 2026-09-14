@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 30 30">
+  <g clip-path="url(#op-mainnet-icon-light_svg__a)">
+    <g clip-path="url(#op-mainnet-icon-light_svg__b)">
+      <path fill="#FF0421" d="M0 0h30v30H0V0Z"/>
+      <path fill="#FAFAF9" d="M15.01 1.758c5.765 0 10.44 4.675 10.44 10.44 0 5.764-4.675 10.439-10.44 10.439v5.604c-5.765 0-10.44-4.674-10.44-10.44 0-5.764 4.675-10.439 10.44-10.439V1.758Zm-.049 8.077c-1.134 2.277-2.84 3.982-5.116 5.116v.097c2.277 1.134 3.982 2.84 5.116 5.116h.097c1.134-2.277 2.84-3.982 5.117-5.116v-.097c-2.277-1.134-3.983-2.84-5.117-5.116h-.097Z"/>
+    </g>
+  </g>
+  <defs>
+    <clipPath id="op-mainnet-icon-light_svg__a">
+      <path fill="#fff" d="M0 0h30v30H0z"/>
+    </clipPath>
+    <clipPath id="op-mainnet-icon-light_svg__b">
+      <path fill="#fff" d="M0 0h30v30H0z"/>
+    </clipPath>
+  </defs>
+</svg>
