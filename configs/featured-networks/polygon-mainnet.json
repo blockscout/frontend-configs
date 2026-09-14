@@ -16,7 +16,7 @@
     "title": "Optimism",
     "url": "https://optimism.blockscout.com/",
     "group": "Mainnets",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism-mainnet-light.svg"
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/op-mainnet-icon-light.svg"
   },
   {
     "title": "Base Chain",
