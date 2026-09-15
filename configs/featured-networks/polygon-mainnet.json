@@ -67,12 +67,6 @@
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/shiden.svg"
   },
   {
-    "title": "Optimism Bedrock Beta",
-    "url": "https://blockscout.com/optimism/bedrock-beta",
-    "group": "Testnets",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism.svg"
-  },
-  {
     "title": "ZetaChain testnet",
     "url": "https://zetachain-athens-3.blockscout.com/",
     "group": "Testnets",

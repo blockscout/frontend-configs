@@ -10,6 +10,6 @@
     "title": "Optimism Sepolia",
     "url": "https://optimism-sepolia.blockscout.com/",
     "group": "Testnets",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/op-sepolia-icon-light.svg"
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/op-mainnet-icon-light.svg"
   }
 ]
