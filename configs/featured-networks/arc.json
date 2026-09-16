@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Arc Mainnet",
+    "url": "https://explorer.arc.io/",
+    "group": "Mainnets",
+    "icon": "https://blockscout-icons.s3.us-east-1.amazonaws.com/Arc.svg"
+  },
+  {
+    "title": "Arc Testnet",
+    "url": "https://explorer.testnet.arc.io/",
+    "group": "Testnets",
+    "icon": "https://blockscout-icons.s3.us-east-1.amazonaws.com/Arc.svg"
+  }
+]
