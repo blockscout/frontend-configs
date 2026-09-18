@@ -1,14 +1,14 @@
-[{
-		"title": "Stability",
-		"url": "https://stability.blockscout.com/",
-		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/stability-short.svg",
-		"isActive": true
-	},
-	{
-		"title": "Stability Testnet",
-		"url": "https://stability-testnet.blockscout.com/",
-		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/stability-short.svg"
-	}
+[
+  {
+    "title": "Stability",
+    "url": "https://explorer.stabilityprotocol.com/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/stability-short.svg"
+  },
+  {
+    "title": "Stability Testnet",
+    "url": "https://explorer.testnet.stabilityprotocol.com/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/stability-short.svg"
+  }
 ]

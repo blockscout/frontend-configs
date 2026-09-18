@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Shape Mainnet",
+    "url": "https://shapescan.xyz/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/shape.svg"
+  },
+  {
+    "title": "Shape Sepolia",
+    "url": "https://sepolia.shapescan.xyz/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/shape.svg"
+  }
+]

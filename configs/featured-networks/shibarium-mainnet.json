@@ -1,14 +1,15 @@
-[{
-		"title": "Shibarium",
-		"url": "http://shibariumscan.io/",
-		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/shibarium-short.png",
-		"isActive": true
-	},
-	{
-		"title": "Puppynet Testnet",
-		"url": "https://puppyscan.shib.io/",
-		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/shibarium-short.png"
-	}
+[
+  {
+    "title": "Shibarium",
+    "url": "https://shibariumscan.io/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/shibarium-short.png",
+    "isActive": true
+  },
+  {
+    "title": "Puppynet Testnet",
+    "url": "https://puppyscan.shib.io/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/shibarium-short.png"
+  }
 ]

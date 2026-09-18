@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Fuse",
+    "url": "https://explorer.fuse.io/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/fuse-short.svg",
+    "invertIconInDarkMode": true
+  },
+  {
+    "title": "Spark",
+    "url": "https://explorer.fusespark.io/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/fuse-short.svg",
+    "invertIconInDarkMode": true
+  }
+]

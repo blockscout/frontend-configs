@@ -1,0 +1,14 @@
+[
+  {
+    "title": "KiteAI Mainnet",
+    "url": "https://www.kitescan.ai/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/kite.svg"
+  },
+  {
+    "title": "KiteAI Testnet",
+    "url": "https://testnet.kitescan.ai/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/kite.svg"
+  }
+]

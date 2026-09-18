@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Cross Mainnet",
+    "url": "https://www.crossscan.io/",
+    "group": "Mainnets",
+    "icon": "https://contents.crosstoken.io/blockscout/CROSS_Symbol_Black.svg"
+  },
+  {
+    "title": "Cross Testnet",
+    "url": "https://testnet.crossscan.io/",
+    "group": "Testnets",
+    "icon": "https://contents.crosstoken.io/blockscout/CROSS_Symbol_Black.svg"
+  }
+]

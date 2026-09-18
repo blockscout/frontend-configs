@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Optimism",
+    "url": "https://explorer.optimism.io/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/op-mainnet-icon-light.svg"
+  },
+  {
+    "title": "Optimism Sepolia",
+    "url": "https://testnet-explorer.optimism.io/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/op-mainnet-icon-light.svg"
+  }
+]

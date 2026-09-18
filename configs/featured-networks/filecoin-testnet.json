@@ -8,7 +8,7 @@
 	{
 		"title": "Filecoin Testnet",
 		"url": "https://filecoin-testnet.blockscout.com/",
-		"group": "Mainnets",
+		"group": "Testnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/filecoin-icon-light.svg",
 		"isActive": true
 	}

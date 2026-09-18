@@ -16,7 +16,7 @@
 	{
 		"title": "Blackfort Testnet",
 		"url": "https://testnet.blackfortscan.com/",
-		"group": "Mainnets",
+		"group": "Testnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/blackfort.svg",
 		"isActive": true,
 		"invertIconInDarkMode": true
