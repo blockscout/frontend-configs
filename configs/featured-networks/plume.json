@@ -3,12 +3,14 @@
     "title": "Plume Mainnet",
     "url": "https://explorer.plume.org/",
     "group": "Mainnets",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/plume-testnet-light.svg"
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/plume-testnet-light.svg",
+    "invertIconInDarkMode": true
   },
   {
     "title": "Plume Testnet",
     "url": "https://testnet-explorer.plume.org/",
     "group": "Testnets",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/plume-testnet-light.svg"
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/plume-testnet-light.svg",
+    "invertIconInDarkMode": true
   }
 ]
