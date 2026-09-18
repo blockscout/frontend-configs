@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Robinhood Chain",
+    "url": "http://robinhoodchain.blockscout.com/",
+    "group": "Mainnets",
+    "invertIconInDarkMode": true,
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/robinhood-light.svg"
+  },
+  {
+    "title": "Robinhood Chain Testnet",
+    "url": "https://explorer.testnet.chain.robinhood.com/",
+    "group": "Testnets",
+    "invertIconInDarkMode": true,
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/robinhood-light.svg"
+  }
+]
