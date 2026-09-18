@@ -9,7 +9,7 @@
 	{
 		"title": "Reya Cronos",
 		"url": "https://reya-cronos.blockscout.com/",
-		"group": "Mainnets",
+		"group": "Testnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/reya-cronos-icon-light.svg",
 		"invertIconInDarkMode": true
 	}

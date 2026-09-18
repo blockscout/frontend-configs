@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Nexus Mainnet",
+    "url": "https://explorer.nexus.xyz/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/nexus.svg"
+  },
+  {
+    "title": "Nexus Testnet",
+    "url": "https://testnet.explorer.nexus.xyz/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/nexus.svg"
+  }
+]

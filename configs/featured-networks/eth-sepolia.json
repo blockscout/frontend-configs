@@ -7,7 +7,7 @@
   },
   {
     "title": "Optimism",
-    "url": "https://optimism.blockscout.com/",
+    "url": "https://explorer.optimism.io/",
     "group": "Mainnets",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/op-mainnet-icon-light.svg"
   },
@@ -19,15 +19,9 @@
   },
   {
     "title": "RSK",
-    "url": "https://blockscout.com/rsk/mainnet",
+    "url": "https://rootstock.blockscout.com/",
     "group": "Mainnets",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/rsk.svg"
-  },
-  {
-    "title": "LightLink Phoenix",
-    "url": "https://phoenix.lightlink.blockscout.com/",
-    "group": "Mainnets",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/lightlink-short.svg"
   },
   {
     "title": "Neon",
@@ -37,13 +31,13 @@
   },
   {
     "title": "Ethereum Classic",
-    "url": "https://blockscout.com/etc/mainnet",
+    "url": "https://etc.blockscout.com/",
     "group": "Mainnets",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum-classic.svg"
   },
   {
     "title": "Gnosis Chain",
-    "url": "https://gnosis.blockscout.com/",
+    "url": "https://gnosisscan.io/",
     "group": "Mainnets",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/gnosis.svg"
   },
@@ -55,21 +49,9 @@
   },
   {
     "title": "Astar (EVM)",
-    "url": "https://blockscout.com/astar",
+    "url": "https://astar.blockscout.com/",
     "group": "Mainnets",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/astar.svg"
-  },
-  {
-    "title": "Shiden (EVM)",
-    "url": "https://blockscout.com/shiden",
-    "group": "Mainnets",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/shiden.svg"
-  },
-  {
-    "title": "Redstone",
-    "url": "https://explorer.redstone.xyz/",
-    "group": "Mainnets",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/redstone-light.svg"
   },
   {
     "title": "Sepolia",
@@ -87,20 +69,20 @@
   },
   {
     "title": "Optimism Sepolia",
-    "url": "https://optimism-sepolia.blockscout.com/",
+    "url": "https://testnet-explorer.optimism.io/",
     "group": "Testnets",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/op-mainnet-icon-light.svg"
   },
   {
     "title": "ZetaChain testnet",
-    "url": "https://zetachain-athens-3.blockscout.com/",
+    "url": "https://testnet.zetascan.com/",
     "group": "Testnets",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zetachain.svg",
     "invertIconInDarkMode": true
   },
   {
     "title": "LightLink Pegasus",
-    "url": "https://pegasus.lightlink.blockscout.com/",
+    "url": "https://pegasus.lightlink.io/",
     "group": "Testnets",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/lightlink-short.svg",
     "invertIconInDarkMode": true
@@ -125,38 +107,14 @@
   },
   {
     "title": "Shibuya (EVM)",
-    "url": "https://blockscout.com/shibuya",
+    "url": "https://shibuya.blockscout.com/",
     "group": "Testnets",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/shibuya.svg",
     "invertIconInDarkMode": true
   },
   {
-    "title": "Garnet Testnet",
-    "url": "https://explorer.garnetchain.com/",
-    "group": "Testnets",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/garnet.svg"
-  },
-  {
-    "title": "Optimism Opcraft",
-    "url": "https://blockscout.com/optimism/opcraft",
-    "group": "Other",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/optimism_opcraft.svg"
-  },
-  {
-    "title": "ARTIS-Σ1",
-    "url": "https://blockscout.com/artis/sigma1",
-    "group": "Other",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/artis.svg"
-  },
-  {
-    "title": "LUKSO L14",
-    "url": "https://blockscout.com/lukso/l14",
-    "group": "Other",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/lukso.svg"
-  },
-  {
     "title": "ZetaChain Mainnet",
-    "url": "https://zetachain.blockscout.com/",
+    "url": "https://zetascan.com/",
     "group": "Mainnets",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/zetachain.svg",
     "invertIconInDarkMode": true

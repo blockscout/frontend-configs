@@ -1,0 +1,16 @@
+[
+  {
+    "title": "HPP",
+    "url": "https://explorer.hpp.io/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/hpp-light.svg",
+    "invertIconInDarkMode": true
+  },
+  {
+    "title": "HPP Testnet",
+    "url": "https://sepolia-explorer.hpp.io/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/hpp-light.svg",
+    "invertIconInDarkMode": true
+  }
+]

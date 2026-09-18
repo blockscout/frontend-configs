@@ -10,7 +10,7 @@
 	{
 		"title": "World Chain Sepolia",
 		"url": "https://worldchain-sepolia.explorer.alchemy.com/",
-		"group": "Mainnets",
+		"group": "Testnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/worldchain.svg",
 		"invertIconInDarkMode": true
 	}

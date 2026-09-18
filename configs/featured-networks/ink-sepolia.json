@@ -2,7 +2,7 @@
 	{
 		"title": "Ink Sepolia",
 		"url": "https://explorer-sepolia.inkonchain.com/",
-		"group": "Mainnets",
+		"group": "Testnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ink.svg",
 		"isActive": true
 	},

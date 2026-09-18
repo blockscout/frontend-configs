@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Doma",
+    "url": "https://explorer.doma.xyz/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/doma-light.svg"
+  },
+  {
+    "title": "Doma Testnet",
+    "url": "https://explorer-testnet.doma.xyz/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/doma-light.svg"
+  }
+]
