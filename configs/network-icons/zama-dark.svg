@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 30 30">
+  <path fill="#ffd209" d="M0 0h30v30H0z"/>
+  <mask id="zama-dark_svg__a" width="17" height="3" x="7" y="7" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+    <path fill="#fff" d="M7.064 7h16.244v2.833H7.064z"/>
+  </mask>
+  <g mask="url(#zama-dark_svg__a)">
+    <path fill="#000" d="M7.376 7h15.656v2.665H7.376z"/>
+  </g>
+  <mask id="zama-dark_svg__b" width="17" height="3" x="7" y="20" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+    <path fill="#fff" d="M7 20.276h16.308V23H7z"/>
+  </mask>
+  <g mask="url(#zama-dark_svg__b)">
+    <path fill="#000" d="M7.018 20.512h16.286V23H7.018z"/>
+  </g>
+  <mask id="zama-dark_svg__c" width="17" height="14" x="7" y="8" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+    <path fill="#fff" d="M7 8.673h16.308v12.763H7z"/>
+  </mask>
+  <g mask="url(#zama-dark_svg__c)">
+    <path fill="#000" d="M7.018 20.512 23.032 9.665v3.218l-11.128 7.629z"/>
+  </g>
+</svg>
