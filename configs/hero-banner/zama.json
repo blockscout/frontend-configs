@@ -1,0 +1,17 @@
+{
+  "background": [
+    "url(https://raw.githubusercontent.com/blockscout/frontend-configs/zama-skin/configs/network-skins/zama-light.png) lightgray 0px -332.473px / 100% 303.016% no-repeat",
+    "url(https://raw.githubusercontent.com/blockscout/frontend-configs/zama-skin/configs/network-skins/zama-dark.png) lightgray 0px -332.473px / 100% 303.016% no-repeat"
+  ],
+  "text_color": ["rgba(0, 0, 0, 1)", "rgba(255, 255, 255, 1)"],
+  "button": {
+    "_default": {
+      "background": ["rgba(0, 0, 0, 1)", "rgba(0, 0, 0, 1)"],
+      "text_color": ["rgba(255, 255, 255, 1)", "rgba(255, 255, 255, 1)"]
+    },
+    "_hover": {
+      "background": ["rgba(70, 66, 64, 1)", "rgba(70, 66, 64, 1)"],
+      "text_color": ["rgba(255, 255, 255, 1)", "rgba(255, 255, 255, 1)"]
+    }
+  }
+}

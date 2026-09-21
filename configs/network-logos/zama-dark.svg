@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 124 24">
+  <g clip-path="url(#zama-dark_svg__a)">
+    <mask id="zama-dark_svg__b" width="17" height="24" x="27" y="0" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+      <path fill="#fff" d="M27.943 0h15.665v24H27.943z"/>
+    </mask>
+    <g mask="url(#zama-dark_svg__b)">
+      <path fill="#fff" d="M28.086 24 37.34 0h4.63l-8.763 24z"/>
+    </g>
+    <mask id="zama-dark_svg__c" width="17" height="24" x="41" y="0" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+      <path fill="#fff" d="M41.867 0h15.665v24H41.867z"/>
+    </mask>
+    <g mask="url(#zama-dark_svg__c)">
+      <path fill="#fff" d="M41.97 0h4.922l9.056 24h-5.12z"/>
+    </g>
+    <path fill="#fff" d="M37.115 13.292h9.763l1.373 3.725H35.755z"/>
+    <mask id="zama-dark_svg__d" width="8" height="24" x="59" y="0" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+      <path fill="#fff" d="M59.272 0h6.962v24h-6.962z"/>
+    </mask>
+    <g mask="url(#zama-dark_svg__d)">
+      <path fill="#fff" d="M60.87 0h5.12v24h-5.12z"/>
+    </g>
+    <mask id="zama-dark_svg__e" width="17" height="24" x="64" y="0" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+      <path fill="#fff" d="M64.494 0h15.664v24H64.494z"/>
+    </mask>
+    <g mask="url(#zama-dark_svg__e)">
+      <path fill="#fff" d="m65.99 0 7.288 24h5.71l-2.76-4.487L70.123 0z"/>
+    </g>
+    <mask id="zama-dark_svg__f" width="14" height="24" x="74" y="0" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+      <path fill="#fff" d="M74.937 0H87.12v24H74.937z"/>
+    </mask>
+    <g mask="url(#zama-dark_svg__f)">
+      <path fill="#fff" d="m82.035 0-5.806 19.513L78.989 24l7.478-24z"/>
+    </g>
+    <mask id="zama-dark_svg__g" width="17" height="24" x="95" y="0" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+      <path fill="#fff" d="M95.823 0h15.664v24H95.823z"/>
+    </mask>
+    <g mask="url(#zama-dark_svg__g)">
+      <path fill="#fff" d="m95.904 24 9.253-24h4.63l-8.763 24z"/>
+    </g>
+    <mask id="zama-dark_svg__h" width="15" height="24" x="109" y="0" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+      <path fill="#fff" d="M109.747 0H123.8v24h-14.053z"/>
+    </mask>
+    <g mask="url(#zama-dark_svg__h)">
+      <path fill="#fff" d="M109.787 0h4.923l9.056 24h-5.12z"/>
+    </g>
+    <path fill="#fff" d="M104.933 13.292h9.763l1.373 3.725h-12.496z"/>
+    <mask id="zama-dark_svg__i" width="25" height="5" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+      <path fill="#fff" d="M.095 0h24.367v4.25H.095z"/>
+    </mask>
+    <g mask="url(#zama-dark_svg__i)">
+      <path fill="#fff" d="M.565 0h23.483v3.998H.565z"/>
+    </g>
+    <mask id="zama-dark_svg__j" width="8" height="24" x="85" y="0" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+      <path fill="#fff" d="M85.38 0h6.962v24h-6.963z"/>
+    </mask>
+    <g mask="url(#zama-dark_svg__j)">
+      <path fill="#fff" d="M86.468 0h5.119v24h-5.12z"/>
+    </g>
+    <mask id="zama-dark_svg__k" width="25" height="5" x="0" y="19" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+      <path fill="#fff" d="M0 19.914h24.462V24H0z"/>
+    </mask>
+    <g mask="url(#zama-dark_svg__k)">
+      <path fill="#fff" d="M.027 20.267h24.428V24H.027z"/>
+    </g>
+    <mask id="zama-dark_svg__l" width="25" height="20" x="0" y="2" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+      <path fill="#fff" d="M0 2.509h24.462v19.145H0z"/>
+    </mask>
+    <g mask="url(#zama-dark_svg__l)">
+      <path fill="#fff" d="m.027 20.267 24.02-16.27v4.828L7.357 20.267z"/>
+    </g>
+  </g>
+  <defs>
+    <clipPath id="zama-dark_svg__a">
+      <path fill="#fff" d="M0 0h123.8v24H0z"/>
+    </clipPath>
+  </defs>
+</svg>
