@@ -1,0 +1,118 @@
+{
+  "hover": {
+    "_light": {
+      "value": "rgba(63, 0, 134, 1)"
+    },
+    "_dark": {
+      "value": "rgba(233, 222, 255, 1)"
+    }
+  },
+  "selected": {
+    "control": {
+      "text": {
+        "_light": {
+          "value": "rgba(16, 17, 18, 0.8)"
+        }
+      },
+      "bg": {
+        "_light": {
+          "value": "rgba(16, 17, 18, 0.04)"
+        }
+      }
+    },
+    "option": {
+      "bg": {
+        "_light": {
+          "value": "rgba(63, 0, 134, 1)"
+        },
+        "_dark": {
+          "value": "rgba(63, 0, 134, 1)"
+        }
+      }
+    }
+  },
+  "button": {
+    "primary": {
+      "_light": {
+        "value": "rgba(103, 0, 206, 1)"
+      },
+      "_dark": {
+        "value": "rgba(156, 117, 255, 1)"
+      },
+      "text": {
+        "_light": {
+          "value": "rgba(255, 255, 255, 0.92)"
+        },
+        "_dark": {
+          "value": "rgba(0, 0, 0, 0.92)"
+        }
+      }
+    }
+  },
+  "link": {
+    "primary": {
+      "_light": {
+        "value": "rgba(103, 0, 206, 1)"
+      },
+      "_dark": {
+        "value": "rgba(156, 117, 255, 1)"
+      }
+    }
+  },
+  "graph": {
+    "line": {
+      "_light": {
+        "value": "rgba(63, 0, 134, 1)"
+      },
+      "_dark": {
+        "value": "rgba(233, 222, 255, 1)"
+      }
+    },
+    "gradient": {
+      "start": {
+        "_light": {
+          "value": "rgba(63, 0, 134, 0.3)"
+        },
+        "_dark": {
+          "value": "rgba(233, 222, 255, 0.3)"
+        }
+      },
+      "stop": {
+        "_light": {
+          "value": "rgba(63, 0, 134, 0)"
+        },
+        "_dark": {
+          "value": "rgba(233, 222, 255, 0)"
+        }
+      }
+    }
+  },
+  "navigation": {
+    "text": {
+      "selected": {
+        "_light": {
+          "value": "rgba(16, 17, 18, 0.8)"
+        }
+      }
+    },
+    "bg": {
+      "selected": {
+        "_light": {
+          "value": "rgba(16, 17, 18, 0.04)"
+        }
+      }
+    }
+  },
+  "tabs": {
+    "text": {
+      "primary": {
+        "_light": {
+          "value": "rgba(16, 17, 18, 0.8)"
+        },
+        "_dark": {
+          "value": "rgba(247, 250, 252, 1)"
+        }
+      }
+    }
+  }
+}

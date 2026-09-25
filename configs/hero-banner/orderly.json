@@ -1,0 +1,14 @@
+{
+  "background": ["rgba(103, 0, 206, 1)"],
+  "text_color": ["rgba(255, 255, 255, 1)"],
+  "button": {
+    "_default": {
+      "background": ["rgba(25, 25, 25, 1)", "rgba(25, 25, 25, 1)"],
+      "text_color": ["rgba(255, 255, 255, 1)", "rgba(255, 255, 255, 1)"]
+    },
+    "_hover": {
+      "background": ["rgba(63, 0, 134, 1)", "rgba(63, 0, 134, 1)"],
+      "text_color": ["rgba(255, 255, 255, 1)", "rgba(255, 255, 255, 1)"]
+    }
+  }
+}
