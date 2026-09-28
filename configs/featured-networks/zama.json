@@ -1,13 +1,13 @@
 [
   {
     "title": "Zama Gateway Mainnet",
-    "url": "https://zama.blockscout.com/",
+    "url": "https://explorer.mainnet.zama.org/",
     "group": "Mainnets",
     "icon": "https://blockscout-icons.s3.us-east-1.amazonaws.com/zama.svg"
   },
   {
     "title": "Zama Gateway Testnet",
-    "url": "https://zama-testnet.blockscout.com/",
+    "url": "https://explorer.testnet.zama.org/",
     "group": "Testnets",
     "icon": "https://blockscout-icons.s3.us-east-1.amazonaws.com/zama.svg"
   }
