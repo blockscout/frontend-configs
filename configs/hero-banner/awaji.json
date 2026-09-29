@@ -1,6 +1,6 @@
 {
   "background": [
-    "no-repeat center bottom / cover url(https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-skins/awaji.png)"
+    "no-repeat center / cover url(https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-skins/awaji.png)"
   ],
   "text_color": ["rgba(255, 255, 255, 1)"],
   "button": {

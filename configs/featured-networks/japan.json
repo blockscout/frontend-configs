@@ -3,14 +3,12 @@
     "title": "MIZUHIKI Chain",
     "url": "https://mizuhiki.blockscout.com/",
     "group": "Mainnets",
-    "invertIconInDarkMode": true,
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/japan-light.svg"
+    "icon": "https://blockscout-icons.s3.us-east-1.amazonaws.com/mizuhiki.svg"
   },
   {
     "title": "Awaji Chain",
     "url": "https://awaji.blockscout.com/",
     "group": "Testnets",
-    "invertIconInDarkMode": true,
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/japan-light.svg"
+    "icon": "https://blockscout-icons.s3.us-east-1.amazonaws.com/mizuhiki.svg"
   }
 ]
