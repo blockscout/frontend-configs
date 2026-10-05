@@ -1,0 +1,85 @@
+{
+  "hover": {
+    "_light": {
+      "value": "rgba(0, 178, 155, 1)"
+    },
+    "_dark": {
+      "value": "rgba(185, 255, 62, 1)"
+    }
+  },
+  "selected": {
+    "control": {
+      "bg": {
+        "_light": {
+          "value": "rgba(16, 17, 18, 0.04)"
+        }
+      }
+    },
+    "option": {
+      "bg": {
+        "_light": {
+          "value": "rgba(0, 178, 155, 1)"
+        },
+        "_dark": {
+          "value": "rgba(0, 178, 155, 1)"
+        }
+      }
+    }
+  },
+  "button": {
+    "primary": {
+      "_light": {
+        "value": "rgba(27, 27, 27, 1)"
+      },
+      "_dark": {
+        "value": "rgba(208, 255, 127, 1)"
+      },
+      "text": {
+        "_light": {
+          "value": "rgba(255, 255, 255, 0.92)"
+        },
+        "_dark": {
+          "value": "rgba(27, 27, 27, 1)"
+        }
+      }
+    }
+  },
+  "link": {
+    "primary": {
+      "_light": {
+        "value": "rgba(140, 138, 147, 1)"
+      },
+      "_dark": {
+        "value": "rgba(140, 138, 147, 1)"
+      }
+    }
+  },
+  "graph": {
+    "line": {
+      "_light": {
+        "value": "rgba(0, 178, 155, 1)"
+      },
+      "_dark": {
+        "value": "rgba(0, 255, 222, 1)"
+      }
+    },
+    "gradient": {
+      "start": {
+        "_light": {
+          "value": "rgba(0, 178, 155, 0.3)"
+        },
+        "_dark": {
+          "value": "rgba(0, 255, 222, 0.3)"
+        }
+      },
+      "stop": {
+        "_light": {
+          "value": "rgba(0, 178, 155, 0)"
+        },
+        "_dark": {
+          "value": "rgba(0, 255, 222, 0)"
+        }
+      }
+    }
+  }
+}

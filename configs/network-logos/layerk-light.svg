@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 84 24">
+  <g clip-path="url(#layerk-light_svg__a)">
+    <g clip-path="url(#layerk-light_svg__b)">
+      <path fill="url(#layerk-light_svg__c)" d="M6.004 1.688C.364 4.944-1.567 12.154 1.688 17.793c3.256 5.638 10.466 7.57 16.105 4.315 5.638-3.256 7.57-10.466 4.315-16.105C18.852.365 11.642-1.567 6.004 1.688Z"/>
+      <path fill="url(#layerk-light_svg__d)" d="M11.951 22.569c5.864 0 10.618-4.795 10.618-10.71 0-5.915-4.754-10.71-10.618-10.71-5.864 0-10.617 4.795-10.617 10.71 0 5.915 4.753 10.71 10.617 10.71Z"/>
+      <path fill="url(#layerk-light_svg__e)" d="M16.585 20.005A9.312 9.312 0 1 0 7.273 3.877a9.312 9.312 0 0 0 9.312 16.128Z"/>
+      <foreignObject width="27.595" height="27.779" x="-1.938" y="-1.938">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(.99px);clip-path:url(#layerk-light_svg__f);height:100%;width:100%"/>
+      </foreignObject>
+      <path fill="#303030" fill-opacity=".5" d="M11.859 23.861c6.527 0 11.818-5.332 11.818-11.91S18.386.041 11.859.041C5.332.04.041 5.373.041 11.95s5.291 11.91 11.818 11.91Z" data-figma-bg-blur-radius="1.979"/>
+      <g filter="url(#layerk-light_svg__g)">
+        <mask id="layerk-light_svg__h" width="12" height="10" x="6" y="7" maskUnits="userSpaceOnUse" style="mask-type:alpha">
+          <path fill="#fff" d="m13.57 12.792 2.442 3.526a.87.87 0 0 0 .715.374h.107a.87.87 0 0 0 .714-1.368l-2.07-2.97a.872.872 0 0 1 .012-1.013l1.893-2.576a.87.87 0 1 0-1.407-1.024l-2.395 3.325a.865.865 0 0 0-.164.508v.721c0 .178.054.35.154.496l-.001.001ZM11.787 7.38h-.002a.923.923 0 0 0-.923.923v3.692c0 .51.413.923.923.923h.002c.51 0 .922-.413.922-.923V8.303a.923.923 0 0 0-.922-.923Z"/>
+          <path fill="#fff" d="M7.937 13.923V8.304a.923.923 0 0 0-1.846 0v5.728a2.662 2.662 0 0 0 2.662 2.662h3.952a.924.924 0 0 0 0-1.846H8.862a.923.923 0 0 1-.924-.923l-.001-.002Z"/>
+        </mask>
+        <g mask="url(#layerk-light_svg__h)">
+          <path fill="url(#layerk-light_svg__i)" d="M19.643 6.736H5.113v10.38h14.53V6.735Z"/>
+        </g>
+      </g>
+    </g>
+    <g fill="#8C8A93" clip-path="url(#layerk-light_svg__j)">
+      <path d="M32.806 16.327h-1.189V4.134h1.19v12.193Zm-.57-1.02h6.452v1.02h-6.452v-1.02Zm10.61 1.222c-.92 0-1.624-.222-2.116-.668-.492-.445-.738-1.084-.738-1.917v-.248c0-.82.252-1.439.756-1.856.504-.417 1.32-.707 2.45-.873l3.103-.457.056.877-3.015.429c-.786.115-1.35.31-1.693.586-.343.277-.514.686-.514 1.226v.171c0 .573.175 1.008.524 1.306.349.299.858.448 1.532.448.576 0 1.07-.105 1.48-.315.408-.21.739-.491.989-.844s.417-.75.5-1.187l.228.82h-.238a3.15 3.15 0 0 1-.5 1.232 2.76 2.76 0 0 1-1.075.92c-.46.233-1.036.35-1.727.35h-.002Zm3.253-.202.057-2.318-.049-.181V10.2c0-.802-.201-1.4-.604-1.797-.404-.398-1.036-.597-1.9-.597-.672 0-1.283.1-1.835.304a7.822 7.822 0 0 0-1.456.698l.115-1.02c.228-.147.504-.294.829-.444a5.879 5.879 0 0 1 1.118-.373 6.12 6.12 0 0 1 1.395-.147c.621 0 1.153.077 1.595.23.441.153.8.375 1.08.667.278.293.484.645.613 1.058.129.414.195.877.195 1.393v6.154H46.1Zm7.146-1.193-.6.268 2.97-8.377h1.19l-4.52 12.583h-1.179l1.465-4.101.486.439h-1.342l-3.169-8.921h1.21l2.787 8.109h.703-.002Zm8.763 1.394c-1.338 0-2.354-.336-3.045-1.011-.691-.674-1.038-1.635-1.038-2.88v-1.813c0-1.298.322-2.294.965-2.985.643-.693 1.58-1.04 2.812-1.04.824 0 1.516.155 2.074.468.558.312.978.76 1.26 1.344.282.585.423 1.288.423 2.108v.335c0 .185-.006.369-.018.554-.012.186-.028.37-.048.555h-1.067c.013-.28.019-.547.019-.797v-.69c0-.624-.101-1.154-.3-1.59a2.182 2.182 0 0 0-.886-.997c-.389-.23-.876-.343-1.461-.343-.869 0-1.526.256-1.97.768-.443.512-.664 1.252-.664 2.218v.907l.01.153v.963c0 .425.062.81.185 1.155.123.343.315.637.57.883.259.246.581.431.972.558.391.127.845.192 1.365.192a5.43 5.43 0 0 0 1.679-.252c.516-.17 1-.403 1.45-.702l-.114 1.04a4.98 4.98 0 0 1-1.399.66 6.061 6.061 0 0 1-1.78.247l.006-.008Zm-3.483-4.37v-.886h6.614v.887h-6.613Zm9.145 4.169V7.025h1.123l-.067 2.796.095.094v6.412h-1.15Zm1.085-5.753-.295-.886.287-.039c.203-.852.57-1.526 1.104-2.017.532-.492 1.222-.74 2.064-.74.222 0 .421.018.599.052.177.035.33.079.457.13l.077 1.124a3.606 3.606 0 0 0-1.207-.2 2.96 2.96 0 0 0-1.903.653c-.546.436-.94 1.077-1.18 1.923h-.003Zm6.127 5.753V4.134h1.18v12.193h-1.18Zm7.155 0-4.549-5.753h-1.532v-.953h1.532l4.483-5.487h1.37l-4.966 6.067-.01-.334 5.092 6.458H82.04l-.003.002Z"/>
+    </g>
+  </g>
+  <defs>
+    <linearGradient id="layerk-light_svg__c" x1="23.99" x2=".45" y1="12.609" y2="11.224" gradientUnits="userSpaceOnUse">
+      <stop offset=".13" stop-color="#7D7D7D"/>
+      <stop offset=".89" stop-color="#040404"/>
+    </linearGradient>
+    <linearGradient id="layerk-light_svg__d" x1="2.84" x2="20.67" y1="5.807" y2="17.447" gradientUnits="userSpaceOnUse">
+      <stop offset=".13" stop-color="#303030"/>
+      <stop offset=".89" stop-color="#040404"/>
+    </linearGradient>
+    <linearGradient id="layerk-light_svg__e" x1="2.378" x2="20.971" y1="11.379" y2="12.473" gradientUnits="userSpaceOnUse">
+      <stop offset=".13" stop-color="#7D7D7D"/>
+      <stop offset=".89" stop-color="#040404"/>
+    </linearGradient>
+    <linearGradient id="layerk-light_svg__i" x1="6.737" x2="17.834" y1="7.081" y2="16.612" gradientUnits="userSpaceOnUse">
+      <stop offset=".13" stop-color="#D0FF7F"/>
+      <stop offset=".89" stop-color="#00FFDE"/>
+    </linearGradient>
+    <clipPath id="layerk-light_svg__f" transform="translate(1.938 1.938)">
+      <path d="M11.859 23.861c6.527 0 11.818-5.332 11.818-11.91S18.386.041 11.859.041C5.332.04.041 5.373.041 11.95s5.291 11.91 11.818 11.91Z"/>
+    </clipPath>
+    <clipPath id="layerk-light_svg__a">
+      <path fill="#fff" d="M0 0h83.454v24H0z"/>
+    </clipPath>
+    <clipPath id="layerk-light_svg__b">
+      <path fill="#fff" d="M0 0h23.753v24H0z"/>
+    </clipPath>
+    <clipPath id="layerk-light_svg__j">
+      <path fill="#fff" d="M31.617 4.134h51.837v15.48H31.617z"/>
+    </clipPath>
+    <filter id="layerk-light_svg__g" width="15.574" height="13.273" x="4.111" y="5.4" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+      <feOffset/>
+      <feGaussianBlur stdDeviation=".99"/>
+      <feComposite in2="hardAlpha" operator="out"/>
+      <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.9 0"/>
+      <feBlend in2="BackgroundImageFix" result="effect1_dropShadow_12808_6328"/>
+      <feBlend in="SourceGraphic" in2="effect1_dropShadow_12808_6328" result="shape"/>
+    </filter>
+  </defs>
+</svg>

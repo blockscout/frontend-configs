@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 30 30">
+  <g clip-path="url(#layerk-light_svg__a)">
+    <mask id="layerk-light_svg__b" width="30" height="30" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:alpha">
+      <circle cx="15" cy="15" r="15" fill="#D9D9D9"/>
+    </mask>
+    <g mask="url(#layerk-light_svg__b)">
+      <g clip-path="url(#layerk-light_svg__c)">
+        <path fill="url(#layerk-light_svg__d)" d="M7.66 2.11C.61 6.18-1.805 15.192 2.264 22.24c4.07 7.049 13.082 9.464 20.13 5.395 7.049-4.07 9.464-13.082 5.394-20.13C23.72.454 14.707-1.96 7.66 2.11Z"/>
+        <path fill="url(#layerk-light_svg__e)" d="M15.094 28.211c7.33 0 13.272-5.994 13.272-13.387 0-7.394-5.942-13.388-13.272-13.388S1.822 7.43 1.822 14.824c0 7.393 5.942 13.387 13.272 13.387Z"/>
+        <path fill="url(#layerk-light_svg__f)" d="M20.886 25.007c5.567-3.215 7.474-10.333 4.26-15.9-3.214-5.568-10.333-7.475-15.9-4.261-5.568 3.214-7.475 10.333-4.261 15.9 3.214 5.568 10.333 7.475 15.9 4.26Z"/>
+        <foreignObject width="34.493" height="34.724" x="-2.268" y="-2.423">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(1.24px);clip-path:url(#layerk-light_svg__g);height:100%;width:100%"/>
+        </foreignObject>
+        <path fill="#303030" fill-opacity=".5" d="M14.978 29.827c8.159 0 14.773-6.666 14.773-14.888S23.137.051 14.978.051C6.82.051.206 6.717.206 14.94S6.82 29.827 14.978 29.827Z" data-figma-bg-blur-radius="2.474"/>
+      </g>
+      <g filter="url(#layerk-light_svg__h)">
+        <mask id="layerk-light_svg__i" width="16" height="12" x="7" y="9" maskUnits="userSpaceOnUse" style="mask-type:alpha">
+          <path fill="#fff" d="m17.117 15.99 3.052 4.408c.203.292.537.467.895.467h.134c.878 0 1.395-.988.892-1.71l-2.589-3.713a1.09 1.09 0 0 1 .016-1.266l2.367-3.22a1.088 1.088 0 1 0-1.76-1.28l-2.993 4.156a1.082 1.082 0 0 0-.205.635v.902c0 .222.067.437.193.62l-.002.001Zm-2.229-6.765h-.002c-.637 0-1.154.516-1.154 1.154v4.615c0 .637.517 1.154 1.154 1.154h.002c.637 0 1.154-.517 1.154-1.154v-4.615c0-.638-.517-1.154-1.154-1.154Z"/>
+          <path fill="#fff" d="M10.076 17.404V10.38a1.154 1.154 0 0 0-2.308 0v7.16a3.328 3.328 0 0 0 3.328 3.327h4.94a1.154 1.154 0 0 0 0-2.307h-4.804a1.154 1.154 0 0 1-1.154-1.154l-.002-.002Z"/>
+        </mask>
+        <g mask="url(#layerk-light_svg__i)">
+          <path fill="url(#layerk-light_svg__j)" d="M24.708 8.42H6.545v12.974h18.163V8.421Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <defs>
+    <linearGradient id="layerk-light_svg__d" x1="30.142" x2=".717" y1="15.761" y2="14.03" gradientUnits="userSpaceOnUse">
+      <stop offset=".13" stop-color="#7D7D7D"/>
+      <stop offset=".89" stop-color="#040404"/>
+    </linearGradient>
+    <linearGradient id="layerk-light_svg__e" x1="3.705" x2="25.992" y1="7.259" y2="21.809" gradientUnits="userSpaceOnUse">
+      <stop offset=".13" stop-color="#303030"/>
+      <stop offset=".89" stop-color="#040404"/>
+    </linearGradient>
+    <linearGradient id="layerk-light_svg__f" x1="3.127" x2="26.369" y1="14.224" y2="15.591" gradientUnits="userSpaceOnUse">
+      <stop offset=".13" stop-color="#7D7D7D"/>
+      <stop offset=".89" stop-color="#040404"/>
+    </linearGradient>
+    <linearGradient id="layerk-light_svg__j" x1="8.576" x2="22.448" y1="8.851" y2="20.765" gradientUnits="userSpaceOnUse">
+      <stop offset=".13" stop-color="#D0FF7F"/>
+      <stop offset=".89" stop-color="#00FFDE"/>
+    </linearGradient>
+    <clipPath id="layerk-light_svg__g" transform="translate(2.268 2.423)">
+      <path d="M14.978 29.827c8.159 0 14.773-6.666 14.773-14.888S23.137.051 14.978.051C6.82.051.206 6.717.206 14.94S6.82 29.827 14.978 29.827Z"/>
+    </clipPath>
+    <clipPath id="layerk-light_svg__a">
+      <path fill="#fff" d="M0 0h30v30H0z"/>
+    </clipPath>
+    <clipPath id="layerk-light_svg__c">
+      <path fill="#fff" d="M.155 0h29.69v30H.156z"/>
+    </clipPath>
+    <filter id="layerk-light_svg__h" width="19.468" height="16.591" x="5.294" y="6.75" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+      <feOffset/>
+      <feGaussianBlur stdDeviation="1.237"/>
+      <feComposite in2="hardAlpha" operator="out"/>
+      <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.9 0"/>
+      <feBlend in2="BackgroundImageFix" result="effect1_dropShadow_12808_6303"/>
+      <feBlend in="SourceGraphic" in2="effect1_dropShadow_12808_6303" result="shape"/>
+    </filter>
+  </defs>
+</svg>
