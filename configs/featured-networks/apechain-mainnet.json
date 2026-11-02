@@ -1,0 +1,15 @@
+[
+    {
+        "title": "Apechain",
+        "url": "https://apechain.blockscout.com/",
+        "group": "Mainnets",
+        "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/apechain.svg",
+        "isActive": true
+    },
+    {
+        "title": "Apechain Curtis",
+        "url": "https://apechain-curtis.blockscout.com/",
+        "group": "Testnets",
+        "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/apechain.svg"
+    }
+]
