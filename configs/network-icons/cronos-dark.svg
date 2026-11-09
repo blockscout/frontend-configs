@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 30 30">
+  <g clip-path="url(#cronos-dark_svg__a)">
+    <path fill="url(#cronos-dark_svg__b)" d="M1.806 14.648v-5.27c0-1.194.878-2.853 1.93-3.46L13.194.455c1.058-.61 2.598-.608 3.66.006l9.457 5.46c2.24 1.294 2.848 5.508-.078 5.556-.48.007-1.064-.1-1.484-.341l-7.967-4.6c-1.683-.973-3.226-.201-4.715.659L4.63 11.489c-.064.037-.14.122-.211.168-.864.562-1.718 1.201-2.232 2.118-.15.27-.274.639-.381.873Z"/>
+    <path fill="url(#cronos-dark_svg__c)" d="M13.187 29.576 4.05 24.3c-1.28-.739-2.264-2.051-2.264-3.593v-1.302c0-.32.049-.645.09-.963.324-2.458 1.759-4.895 4.074-5.959.328-.15.828-.426 1.2-.322.263.075.354.399.354.64v6.353c0 .854.575 1.642 1.29 2.055l3.772 2.179c1.325.764 2.282 1.598 3.88.675l5.436-3.139c.521-.3 1.304-1.082 1.735-1.255.592-.239 1.33-.152 1.953-.153.562 0 1.192-.069 1.728.13.53.198.869.647.908 1.21.1 1.45-.994 2.703-2.177 3.386l-9.033 5.216c-1.093.63-2.692.763-3.81.118Z"/>
+    <path fill="url(#cronos-dark_svg__d)" d="M7.533 19.492c.127.72.641 1.36 1.261 1.717l3.772 2.178c1.325.765 2.282 1.599 3.88.676l5.436-3.139c.521-.3 1.304-1.082 1.735-1.255.593-.239 1.33-.152 1.953-.153.562 0 1.192-.069 1.728.13.53.198.869.647.908 1.21.1 1.45-.994 2.703-2.177 3.386l-9.033 5.216c-1.093.63-2.692.763-3.81.118l-.284-.164c-3.192-2.706-4.983-5.744-5.369-9.92Z"/>
+  </g>
+  <defs>
+    <linearGradient id="cronos-dark_svg__b" x1="2.563" x2="25.236" y1="13.016" y2="2.922" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2BC2F3"/>
+      <stop offset=".4" stop-color="#4CDBFF"/>
+      <stop offset="1" stop-color="#96EDFF"/>
+    </linearGradient>
+    <linearGradient id="cronos-dark_svg__c" x1="10.531" x2="17.635" y1="11.062" y2="28.645" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#08548A"/>
+      <stop offset=".17" stop-color="#0B7BBE"/>
+      <stop offset=".33" stop-color="#129EE2"/>
+      <stop offset=".5" stop-color="#119ADF"/>
+      <stop offset="1" stop-color="#15A2E4"/>
+    </linearGradient>
+    <linearGradient id="cronos-dark_svg__d" x1="7.829" x2="27.679" y1="21.477" y2="23.563" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#022339" stop-opacity=".7"/>
+      <stop offset=".2" stop-color="#022339" stop-opacity=".234"/>
+      <stop offset=".42" stop-color="#022339" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="cronos-dark_svg__a">
+      <path fill="#fff" d="M1.786 0h26.429v30H1.785z"/>
+    </clipPath>
+  </defs>
+</svg>
