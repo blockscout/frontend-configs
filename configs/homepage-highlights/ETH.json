@@ -45,7 +45,7 @@
     ]
   },
   {
-    "title": "Blockscout PRO API",
+    "title": "Blockscout API",
     "description": "One key to 100+ chains, easy to use, easy to migrate",
     "title_color": ["#101112", "#F8FCFF"],
     "description_color": ["#616F83", "#CBD0D7"],
@@ -73,6 +73,6 @@
     "side_img_url": [
       "https://blockscout-marketing-banners.s3.us-east-1.amazonaws.com/highlights-banners/%5Bhighlights-banner%5D__autoscout__light.svg",
       "https://blockscout-marketing-banners.s3.us-east-1.amazonaws.com/highlights-banners/%5Bhighlights-banner%5D__autoscout__dark.svg"
-    ]    
+    ]
   }
 ]
