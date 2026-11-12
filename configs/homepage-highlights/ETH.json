@@ -46,7 +46,7 @@
   },
   {
     "title": "Blockscout API",
-    "description": "One key to 100+ chains, easy to use, easy to migrate",
+    "description": "One key for 100+ chains. Built for devs and AI agents. Free to start.",
     "title_color": ["#101112", "#F8FCFF"],
     "description_color": ["#616F83", "#CBD0D7"],
     "background": [
@@ -61,8 +61,8 @@
     "is_pinned": true
   },
   {
-    "title": "Need blockchain explorer?",
-    "description": "Launch your Blockscout explorer in under 10 minutes",
+    "title": "Need a custom explorer?",
+    "description": "Launch a Blockscout explorer for any chain in under 10 minutes",
     "title_color": ["#101112", "#F8FCFF"],
     "description_color": ["#616F83", "#CBD0D7"],
     "background": [
