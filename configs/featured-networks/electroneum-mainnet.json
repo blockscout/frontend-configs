@@ -1,14 +1,14 @@
 [
     {
         "title": "Electroneum",
-        "url": "https://electroneum.blockscout.com/",
+        "url": "https://blockexplorer.electroneum.com/",
         "group": "Mainnets",
         "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/electroneum-light.svg",
         "isActive": true
     },
     {
         "title": "Electroneum Testnet",
-        "url": "https://electroneum-testnet.blockscout.com/",
+        "url": "https://testnet-blockexplorer.electroneum.com/",
         "group": "Testnets",
         "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/electroneum-light.svg"
     }
