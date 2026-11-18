@@ -130,7 +130,7 @@
     "url": "https://gopluslabs.io/token-security/{chainId}/{address}?utm_source=blockscout",
     "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/widgets/logos/goplus.svg",
     "title": "Total risks level",
-    "valuePath": "risk_level",
+    "valuePath": "result.risk_level",
     "pages": ["token"],
     "chainIds": {
       "1": "eth",
