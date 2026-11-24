@@ -47,10 +47,10 @@
   "link": {
     "primary": {
       "_light": {
-        "value": "rgba(201, 68, 0, 1)"
+        "value": "rgba(150, 66, 22, 1)"
       },
       "_dark": {
-        "value": "rgba(255, 122, 51, 1)"
+        "value": "rgba(217, 157, 125, 1)"
       }
     }
   },
