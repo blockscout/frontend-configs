@@ -1,0 +1,16 @@
+{
+  "background": [
+    "radial-gradient(125% 65% at 50% 115%, rgba(255, 86, 0, 1) 0%, rgba(176, 63, 4, 1) 30%, rgba(58, 26, 10, 1) 68%, rgba(19, 17, 14, 1) 100%)"
+  ],
+  "text_color": ["rgba(255, 255, 255, 0.92)"],
+  "button": {
+    "_default": {
+      "background": ["rgba(208, 72, 3, 1)"],
+      "text_color": ["rgba(255, 255, 255, 0.92)"]
+    },
+    "_hover": {
+      "background": ["rgba(255, 86, 0, 1)"],
+      "text_color": ["rgba(255, 255, 255, 0.92)"]
+    }
+  }
+}
