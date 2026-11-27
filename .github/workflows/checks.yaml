@@ -4,8 +4,48 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
+    inputs:
+      frontend_ref:
+        description: Branch, tag or commit of blockscout/frontend whose schema the configs are validated against
+        default: main
 
 jobs:
+  schema_check:
+    name: Validate configs against the frontend schema
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Checkout blockscout/frontend
+        uses: actions/checkout@v4
+        with:
+          repository: blockscout/frontend
+          ref: ${{ inputs.frontend_ref || 'main' }}
+          path: .frontend
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v6
+        with:
+          package_json_file: .frontend/package.json
+
+      - name: Setup node
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: .frontend/.nvmrc
+          cache: 'pnpm'
+          cache-dependency-path: .frontend/pnpm-lock.yaml
+
+      - name: Build the frontend config validator
+        working-directory: .frontend
+        run: |
+          pnpm install --frozen-lockfile --ignore-scripts
+          pnpm --dir deploy/tools/envs-validator run build:json-configs
+
+      - name: Validate configs
+        run: node ./tools/config-validator/index.js ./.frontend/deploy/tools/envs-validator/dist/json-configs-cli.js
+
   configs_check:
     name: Validate configs
     runs-on: ubuntu-latest
