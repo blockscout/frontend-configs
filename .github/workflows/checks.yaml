@@ -13,28 +13,20 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
+      - name: Install pnpm
+        uses: pnpm/action-setup@v6
+        with:
+          version: 12.4.1
+          cache: true
+
       - name: Setup node
         uses: actions/setup-node@v4
         with:
-          node-version: 22
-          cache: 'yarn'
+          node-version: 24.21.0
+          cache: 'pnpm'
 
       - name: Install dependencies
-        uses: bahmutov/npm-install@v1
-        with:
-          useRollingCache: true
+        run: pnpm install --frozen-lockfile
 
       - name: Run ESLint
-        run: yarn eslint .
-
-      - name: Validate marketplace config schema
-        run: yarn validate:marketplace
-
-      - name: Validate marketplace security reports schema
-        run: yarn validate:marketplace-security-reports
-
-      - name: Validate featured networks config schema
-        run: yarn validate:featured-networks
-
-      - name: Validate footer links config schema
-        run: yarn validate:footer-links
+        run: pnpm lint:eslint

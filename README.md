@@ -1,32 +1,22 @@
-# How to update existing configs (e.g for marketplace, for network menu)?
+# Blockscout frontend configs
 
-1. Checkout to `dev` branch - `git checkout dev`
-2. Pull the latest changes in the repo - `git pull`
-3. Create your branch - `git checkout -b <your-branch-name>`
-4. Make necessary changes in config files and schemas
-5. Commit your changes - `git commit -m '<your-commit-message>'`
-6. Push changes to the repo - `git push --set-upstream origin <your-branch-name>`
-7. Create Pull Request in the Github UI from `<your-branch-name>` to `dev` branch
-8. Wait until all checks are passed; make fixes if needed
-9. Merge Pull Request to `dev` branch
-10. Go to corresponding development stand and validate that your updates are applied correctly
-11. Create Pull Request in the Github UI from `dev` to `main` branch
-12. Merge Pull Request and check updates on production stand
+Config files and assets (network logos and icons, featured networks, marketplace, footer links and more) served
+to [Blockscout frontend](https://github.com/blockscout/frontend) instances. Everything lives in `configs/`.
 
-# How to update existing configs for network assets (logos, icons)?
+## Setup
 
-Preview state for these assets is not available. So, follow next steps:
+Requires Node.js 24.21.0 or newer (see `.nvmrc`) and pnpm (the version is pinned in `package.json`).
 
-1. Checkout to `main` branch - `git checkout main`
-2. Pull the latest changes in the repo - `git pull`
-3. Create your branch - `git checkout -b <your-branch-name>`
-4. Make necessary changes in SVG-files
-5. Commit your changes - `git commit -m '<your-commit-message>'`
-6. Push changes to the repo - `git push --set-upstream origin <your-branch-name>`
-7. Create Pull Request in the Github UI from `<your-branch-name>` to `main` branch
-8. Wait until all checks are passed; make fixes if needed
-9. Merge Pull Request to `main` branch
+```sh
+pnpm install
+```
 
-# How to convert JSON to a single string value for ENV variable value
+## Commands
 
-Run command in the terminal `node ./tools/json-converter/index.js <path-to-file>` and copy the output.
+- `pnpm lint:eslint` — lint the JSON configs and the scripts.
+- `pnpm format-svg` — optimize every SVG in `configs/`.
+- `pnpm generate:footer-links` — generate the footer links configs.
+- `node ./tools/json-converter/index.js <path-to-file>` — print a JSON file as a single string, for use as an
+  environment variable value.
+
+The pre-commit hook lints and formats the staged files, and optimizes the staged SVGs.

@@ -4,8 +4,7 @@
 # artifacts
 *.tsbuildinfo
 .eslintcache
-yarn-error.log*
+pnpm-debug.log*
 
 # misc
 .DS_Store
-yarn-debug.log*
